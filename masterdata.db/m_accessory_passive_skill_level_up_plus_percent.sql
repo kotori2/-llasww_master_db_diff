@@ -1,0 +1,66 @@
+CREATE TABLE m_accessory_passive_skill_level_up_plus_percent(
+  rarity INTEGER NOT NULL,
+  skill_level INTEGER NOT NULL,
+  plus_percent INTEGER NOT NULL,
+  PRIMARY KEY (rarity, skill_level)
+);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/1, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/2, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/3, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/4, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/5, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/6, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/7, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/8, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/9, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/10, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/11, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/12, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/13, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/14, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/15, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/16, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/17, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/18, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/19, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/10, /*skill_level*/20, /*plus_percent*/5000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/1, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/2, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/3, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/4, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/5, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/6, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/7, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/8, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/9, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/10, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/11, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/12, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/13, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/14, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/15, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/16, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/17, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/18, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/19, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/20, /*skill_level*/20, /*plus_percent*/20000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/1, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/2, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/3, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/4, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/5, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/6, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/7, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/8, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/9, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/10, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/11, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/12, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/13, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/14, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/15, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/16, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/17, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/18, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/19, /*plus_percent*/80000);
+INSERT INTO `m_accessory_passive_skill_level_up_plus_percent` VALUES (/*rarity*/30, /*skill_level*/20, /*plus_percent*/80000);

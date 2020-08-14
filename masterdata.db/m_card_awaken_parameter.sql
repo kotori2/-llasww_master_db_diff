@@ -146,12 +146,14 @@ INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301053001, /*par
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301062001, /*parameter1*/130, /*parameter2*/97, /*parameter3*/97);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301063001, /*parameter1*/212, /*parameter2*/159, /*parameter3*/159);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301072001, /*parameter1*/130, /*parameter2*/97, /*parameter3*/97);
+INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301082001, /*parameter1*/126, /*parameter2*/99, /*parameter3*/106);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301093001, /*parameter1*/189, /*parameter2*/178, /*parameter3*/172);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302012001, /*parameter1*/99, /*parameter2*/99, /*parameter3*/132);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302022001, /*parameter1*/92, /*parameter2*/139, /*parameter3*/99);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302023001, /*parameter1*/111, /*parameter2*/169, /*parameter3*/249);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302032001, /*parameter1*/97, /*parameter2*/130, /*parameter3*/97);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302042001, /*parameter1*/114, /*parameter2*/97, /*parameter3*/114);
+INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302043001, /*parameter1*/162, /*parameter2*/205, /*parameter3*/172);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302072001, /*parameter1*/65, /*parameter2*/146, /*parameter3*/114);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302082001, /*parameter1*/99, /*parameter2*/99, /*parameter3*/132);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302083001, /*parameter1*/205, /*parameter2*/172, /*parameter3*/162);

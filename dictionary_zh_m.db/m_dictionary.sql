@@ -1934,6 +1934,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062001_1", /*message*/"白
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_1", /*message*/"夜羽的人界活動紀錄");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_2", /*message*/"墮天使的威嚴");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"拓展世界的一頁");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082001_1", /*message*/"想像的下一步");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"約會的邀約？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"羞死人了");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"秘密朋友");
@@ -1942,6 +1943,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"尋
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"染上小霞霞的色彩♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"熱愛演戲！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"既和平又刺激");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"眼睛比嘴巴更會說話");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"讓你的視線離不開我");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"攜手合作");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082001_1", /*message*/"麵包天國");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_1", /*message*/"大家都要幸福");

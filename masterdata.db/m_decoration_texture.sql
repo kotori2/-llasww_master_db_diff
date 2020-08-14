@@ -333,6 +333,10 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Camp
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00023/tex_banner_notice_s_00023", /*path*/"[DG");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00033/tex_banner_notice_l_00033", /*path*/"\"by");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00033/tex_banner_notice_s_00033", /*path*/"++k");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00024/tex_banner_notice_l_00024", /*path*/"g\"J");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00024/tex_banner_notice_s_00024", /*path*/"FzP");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20114/tex_banner_notice_l_20114", /*path*/"o7l");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20114/tex_banner_notice_s_20114", /*path*/"*ij");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20110/tex_banner_notice_l_20110", /*path*/"Xsu");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20110/tex_banner_notice_s_20110", /*path*/"mJ!");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20110/tex_banner_gacha_top_20110_list", /*path*/"O8W");

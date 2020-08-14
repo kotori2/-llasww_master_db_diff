@@ -1934,6 +1934,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062001_1", /*message*/"Beh
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_1", /*message*/"Yohane&apos;s Human World Record");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_2", /*message*/"Fallen Angel&apos;s Majesty");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"A New World&apos;s First Page");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082001_1", /*message*/"Finding a Vision");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"A Date?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"Too Embarrassed to Live");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"Secret Friend");
@@ -1942,6 +1943,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"In 
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"Dyed a Shade of Kasumin");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"I Love Theater!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"Peaceful and Exciting");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"Eyes Are the Window to the Soul");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"Your Eyes Are Glued to Me");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"Hand in Hand");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082001_1", /*message*/"Bread Heaven");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_1", /*message*/"A Happy Ending for Everyone");

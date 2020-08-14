@@ -1934,6 +1934,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062001_1", /*message*/"하
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_1", /*message*/"요하네의 인간계 활동기록");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_2", /*message*/"타락천사의 위엄");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"세계를 넓히는 한 페이지");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082001_1", /*message*/"이미지보다 먼저");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"데이트 신청?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"부끄러워 죽겠어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"비밀 친구");
@@ -1942,6 +1943,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"최
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"카스밍색으로 물들여요♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"연극을 사랑해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"평화롭고도 자극적인");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"눈은 마음의 거울");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"시선을 사로잡겠어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"손과 손을 마주 잡고");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082001_1", /*message*/"빵 천국");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_1", /*message*/"모두 행복하게");

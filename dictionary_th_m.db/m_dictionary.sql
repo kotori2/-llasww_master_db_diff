@@ -1935,6 +1935,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062001_1", /*message*/"ต
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_1", /*message*/"บันทึกชีวิตบนโลกมนุษย์ของโยฮาเนะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_2", /*message*/"นางฟ้าตกสวรรค์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"หนึ่งหน้าที่เปิดโลก");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082001_1", /*message*/"ปลายทางของภาพในความคิด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"ชวนเดตเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"อายจนจะตายอยู่แล้ว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"เพื่อนลับๆ");
@@ -1943,6 +1944,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"ต
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"ย้อมให้เป็นสีของคาสึมิน♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"ฉันรักการแสดง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"ความสงบสุขและสิ่งจูงใจ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"ดวงตาคือหน้าต่างของหัวใจ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"จะดึงดูดเธอไว้ไม่ให้ละสายตาไปไหนเลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"จับมือไว้แล้วไปด้วยกัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082001_1", /*message*/"สรวงสวรรค์ขนมปัง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_1", /*message*/"มีความสุขด้วยกันทุกคน");

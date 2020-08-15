@@ -76,6 +76,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_18", /*message*/"ユニ
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_19", /*message*/"ユニットピンズ（A・ZU・NA）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_2", /*message*/"星星項鍊");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_20", /*message*/"ユニットピンズ（QU4RTZ）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_21", /*message*/"ヒツジのニット帽");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_23", /*message*/"ユニットピンズ（CYaRon！）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_24", /*message*/"ユニットピンズ（AZALEA）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_25", /*message*/"ユニットピンズ（Guilty Kiss）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_3", /*message*/"音符胸針");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_4", /*message*/"音符鑰匙圈");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_5", /*message*/"花朵手鍊");
@@ -1343,6 +1347,116 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000034_9", /*message*/"持續5個節奏圖示，特技發動機率1.8%UP
 發動情境：表現時間開始時 機率：20%
 適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_1", /*message*/"持續3個節奏圖示，CRITICAL率1.5%UP
+發動情境：表現時間開始時 機率：10%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_10", /*message*/"持續3個節奏圖示，CRITICAL率2.7%UP
+發動情境：表現時間開始時 機率：10%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_2", /*message*/"持續3個節奏圖示，CRITICAL率1.6%UP
+發動情境：表現時間開始時 機率：10%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_3", /*message*/"持續3個節奏圖示，CRITICAL率1.7%UP
+發動情境：表現時間開始時 機率：10%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_4", /*message*/"持續3個節奏圖示，CRITICAL率1.9%UP
+發動情境：表現時間開始時 機率：10%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_5", /*message*/"持續3個節奏圖示，CRITICAL率2%UP
+發動情境：表現時間開始時 機率：10%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_6", /*message*/"持續3個節奏圖示，CRITICAL率2.1%UP
+發動情境：表現時間開始時 機率：10%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_7", /*message*/"持續3個節奏圖示，CRITICAL率2.3%UP
+發動情境：表現時間開始時 機率：10%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_8", /*message*/"持續3個節奏圖示，CRITICAL率2.4%UP
+發動情境：表現時間開始時 機率：10%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_9", /*message*/"持續3個節奏圖示，CRITICAL率2.6%UP
+發動情境：表現時間開始時 機率：10%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_1", /*message*/"持續3個節奏圖示，表現力＋50
+發動情境：切換群組時 機率：25%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_10", /*message*/"持續3個節奏圖示，表現力＋100
+發動情境：切換群組時 機率：25%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_2", /*message*/"持續3個節奏圖示，表現力＋55
+發動情境：切換群組時 機率：25%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_3", /*message*/"持續3個節奏圖示，表現力＋61
+發動情境：切換群組時 機率：25%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_4", /*message*/"持續3個節奏圖示，表現力＋66
+發動情境：切換群組時 機率：25%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_5", /*message*/"持續3個節奏圖示，表現力＋72
+發動情境：切換群組時 機率：25%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_6", /*message*/"持續3個節奏圖示，表現力＋77
+發動情境：切換群組時 機率：25%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_7", /*message*/"持續3個節奏圖示，表現力＋83
+發動情境：切換群組時 機率：25%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_8", /*message*/"持續3個節奏圖示，表現力＋88
+發動情境：切換群組時 機率：25%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_9", /*message*/"持續3個節奏圖示，表現力＋94
+發動情境：切換群組時 機率：25%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_1", /*message*/"持續3個節奏圖示，組合技量表增加量＋0.5%
+發動情境：表現時間開始時 機率：75%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_10", /*message*/"持續3個節奏圖示，組合技量表增加量＋1%
+發動情境：表現時間開始時 機率：75%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_2", /*message*/"持續3個節奏圖示，組合技量表增加量＋0.5%
+發動情境：表現時間開始時 機率：75%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_3", /*message*/"持續3個節奏圖示，組合技量表增加量＋0.6%
+發動情境：表現時間開始時 機率：75%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_4", /*message*/"持續3個節奏圖示，組合技量表增加量＋0.6%
+發動情境：表現時間開始時 機率：75%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_5", /*message*/"持續3個節奏圖示，組合技量表增加量＋0.7%
+發動情境：表現時間開始時 機率：75%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_6", /*message*/"持續3個節奏圖示，組合技量表增加量＋0.7%
+發動情境：表現時間開始時 機率：75%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_7", /*message*/"持續3個節奏圖示，組合技量表增加量＋0.8%
+發動情境：表現時間開始時 機率：75%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_8", /*message*/"持續3個節奏圖示，組合技量表增加量＋0.8%
+發動情境：表現時間開始時 機率：75%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_9", /*message*/"持續3個節奏圖示，組合技量表增加量＋0.9%
+發動情境：表現時間開始時 機率：75%
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_1", /*message*/"下次發動組合技所累積的張力值＋50
+發動情境：體力受到消耗時 機率：5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_10", /*message*/"下次發動組合技所累積的張力值＋100
+發動情境：體力受到消耗時 機率：5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_2", /*message*/"下次發動組合技所累積的張力值＋55
+發動情境：體力受到消耗時 機率：5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_3", /*message*/"下次發動組合技所累積的張力值＋61
+發動情境：體力受到消耗時 機率：5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_4", /*message*/"下次發動組合技所累積的張力值＋66
+發動情境：體力受到消耗時 機率：5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_5", /*message*/"下次發動組合技所累積的張力值＋72
+發動情境：體力受到消耗時 機率：5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_6", /*message*/"下次發動組合技所累積的張力值＋77
+發動情境：體力受到消耗時 機率：5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_7", /*message*/"下次發動組合技所累積的張力值＋83
+發動情境：體力受到消耗時 機率：5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_8", /*message*/"下次發動組合技所累積的張力值＋88
+發動情境：體力受到消耗時 機率：5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_9", /*message*/"下次發動組合技所累積的張力值＋94
+發動情境：體力受到消耗時 機率：5%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000001", /*message*/"組合技量表增加量＋(活力)：LIVE進行中");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000002", /*message*/"組合技量表增加量＋(活力)：LIVE進行中");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000003", /*message*/"組合技量表增加量＋(活力)：LIVE進行中");
@@ -1377,6 +1491,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000031"
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000032", /*message*/"體力回復：切換群組時");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000033", /*message*/"體力消耗DOWN：表現時間時");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000034", /*message*/"特技發動機率UP：表現時間時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000035", /*message*/"CRITICAL↑ :表現時間開始時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000037", /*message*/"表現力UP :切換群組時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000038", /*message*/"組合技量表增加量UP :表現時間開始時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000039", /*message*/"組合技UP :體力消耗時");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_101", /*message*/"學園偶像祭ID任務");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_401", /*message*/"已完成所有任務。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_402", /*message*/"沒有已完成的任務。");
@@ -17876,6 +17994,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_8", /*messa
 和穗乃果一起討論LIVE的表演內容。
 個人LIVE的夢想逐漸膨脹……
 喂，膨脹過頭了吧！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_9", /*message*/"雖然穗乃果對個人LIVE充滿熱情，
+但想做的事卻多到數不清……！？
+為了幫她找到真正想做的事，
+於是你便開始思考起來。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_1", /*message*/"正當你邊抵抗睡意邊吃著早餐時，
 兒時玩伴的步夢來到了你家。
 隨後你就跟步夢一起前往學校。");
@@ -18432,6 +18554,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_8", /*messa
 卻聯絡不上理事長而無法申請許可。
 究竟該不該繼續進行下去，
 你對此感到不安……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_9", /*message*/"個人LIVE雖然還沒得到理事長的許可，
+但還是必須要先做準備。
+於是你開始協助繪里進行準備工作。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_1", /*message*/"確定要在社團活動協助μ&apos;s的你，
 這次聽說了穗乃果、海未和琴梨在
 當上學園偶像前就已經很要好的事。");
@@ -18460,6 +18585,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_8", /*messa
 她似乎更期待看到大家的LIVE。
 琴梨來找你商量究竟該舉辦
 怎樣的LIVE比較好……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_9", /*message*/"琴梨說因為她喜歡和大家一起活動，
+所以不知道該在只有她自己的
+個人LIVE上做些什麼才好。
+於是你開始摸索琴梨想做的事。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_1", /*message*/"前來協助μ&apos;s的你，從海未那邊聽說
 了她對學園偶像所抱持的情感。
 在海未心目中，究竟是怎麼定義
@@ -18482,6 +18611,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_7", /*messa
 你在收到這封熱情的信之後……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_8", /*message*/"你和海未一起準備個人LIVE，
 卻得知了她令人意想不到的弱點……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_9", /*message*/"海未不安地說她還沒有自信
+獨自站上舞台。
+你心想要是能有個契機的話……
+於是便約了海未一起出門。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_1", /*message*/"活力充沛的凜跟真姬還有花陽一起
 向你打招呼♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_2", /*message*/"當你問感情一直都很好的凜跟花陽
@@ -18498,6 +18631,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_7", /*messa
 她的反應卻和想像中不太一樣……！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_8", /*message*/"你提議舉辦個人LIVE，
 對此，凜的反應則是……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_9", /*message*/"凜決定要為個人LIVE而努力。
+但是要打造成一場什麼樣的
+個人LIVE才好呢……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_1", /*message*/"確定要在社團活動協助μ&apos;s的你，
 來找負責為μ&apos;s作曲的真姬聊聊。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_2", /*message*/"雖然說了不覺得有必要接受你的協助
@@ -18522,6 +18658,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_8", /*messa
 就失去舉辦個人LIVE的意義了。
 你們決定去問問以個人名義進行活動的
 虹咲的意見，但真姬卻有更在意的事……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_9", /*message*/"真姬煩惱著只有一個人的LIVE
+到底存在著什麼意義。
+即使如此，
+她似乎也逐漸在心中找到了答案……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_1", /*message*/"希很開心地說來了一個有趣的孩子，
 不過所謂的有趣是指……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_2", /*message*/"這次你有機會窺探到同時身兼學生
@@ -18541,6 +18681,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_8", /*messa
 她認為這會是場前所未有的LIVE。
 你當然也打算協助希舉辦個人LIVE，
 但希的反應卻是……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_9", /*message*/"希說如果她遇到困難會再找你，
+但至今都還沒有尋求過你的協助。
+你希望她能夠專注於
+自己的個人LIVE上，
+而不是優先跑去幫忙大家……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_1", /*message*/"說起花陽在這世上最喜歡的東西，
 那當然是……！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_2", /*message*/"每當花陽畏縮不前的時候，凜總會
@@ -18563,6 +18708,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_8", /*messa
 她似乎還是難掩緊張的情緒。
 為了化解花陽的不安，
 你採取的行動是……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_9", /*message*/"想要努力辦好個人LIVE，
+以及對於是否能成功而感到不安，
+這兩種心情讓花陽的內心搖擺不定。
+這時候你想出了只有花陽
+才能夠打造的個人LIVE內容！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_1", /*message*/"當你確定要在社團活動協助μ&apos;s後，
 其實有一個人對這件事很不滿……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_2", /*message*/"你很想讓日香了解自己有多認真。
@@ -18584,6 +18734,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_8", /*messa
 你計畫要打造一場能夠
 突顯日香可愛的個人LIVE，
 沒想到日香本人似乎卻反對……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_9", /*message*/"你和日香兩人討論著要打造一場能夠
+發揮日香風格的可愛個人LIVE！
+不過，日香似乎還有點懷疑你……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_1", /*message*/"第1話 搶救橘子！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_2", /*message*/"第2話 到小千家拜訪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_3", /*message*/"第3話 創作祕辛");
@@ -18664,6 +18817,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_5", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_6", /*message*/"第6話 引頸期盼著你");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_7", /*message*/"第7話 目標是μ&apos;s聯合個人LIVE！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_8", /*message*/"第8話 想在個人LIVE上盡情揮灑！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_9", /*message*/"第9話 唯一想做的事");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_1", /*message*/"第1話 一如既往的早晨");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_10", /*message*/"第10話 好像做夢一樣");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_11", /*message*/"第11話 小步夢的圈圈！");
@@ -18807,6 +18961,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_5", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_6", /*message*/"第6話 喜歡姊姊的人");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_7", /*message*/"第7話 目標是μ&apos;s聯合個人LIVE！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_8", /*message*/"第8話 展現你的笑容");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_9", /*message*/"第9話 重新認識自己");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_1", /*message*/"第1話 越吵感情越好？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_2", /*message*/"第2話 琴梨的個人堅持");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_3", /*message*/"第3話 遇見超愛美奈奈");
@@ -18815,6 +18970,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_5", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_6", /*message*/"第6話 與你共度的時光");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_7", /*message*/"第7話 目標是μ&apos;s聯合個人LIVE！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_8", /*message*/"第8話 一個人的LIVE？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_9", /*message*/"第9話 夢想中的時裝秀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_1", /*message*/"第1話 對學園偶像所抱持的情感");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_2", /*message*/"第2話 μ&apos;s的作詞者");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_3", /*message*/"第3話 對歌詞感同身受");
@@ -18823,6 +18979,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_5", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_6", /*message*/"第6話 將心意寫在信中");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_7", /*message*/"第7話 目標是μ&apos;s聯合個人LIVE！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_8", /*message*/"第8話 海未的弱點");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_9", /*message*/"第9話 遊樂園約會！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_1", /*message*/"第1話 超喜歡貓咪的小凜");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_2", /*message*/"第2話 無時無刻都跟花花在一起！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_3", /*message*/"第3話 臨時代打！");
@@ -18831,6 +18988,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_5", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_6", /*message*/"第6話 變得要好的兩人♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_7", /*message*/"第7話 目標是μ&apos;s聯合個人LIVE！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_8", /*message*/"第8話 說我可愛也太抬舉我了！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_9", /*message*/"第9話 帶給大家歡樂時光");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_1", /*message*/"第1話 非得說點什麼不可？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_2", /*message*/"第2話 往前邁進了一大步？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_3", /*message*/"第3話 一起彈鋼琴");
@@ -18839,6 +18997,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_5", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_6", /*message*/"第6話 真姬的自我介紹");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_7", /*message*/"第7話 目標是μ&apos;s聯合個人LIVE！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_8", /*message*/"第8話 同款式的筆");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_9", /*message*/"第9話 個人LIVE是為了什麼？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_1", /*message*/"第1話 用靈魂力量迎接♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_2", /*message*/"第2話 學生會的事務");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_3", /*message*/"第3話 我的占卜顯示……");
@@ -18847,6 +19006,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_5", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_6", /*message*/"第6話 你的椅子");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_7", /*message*/"第7話 目標是μ&apos;s聯合個人LIVE！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_8", /*message*/"第8話 一個人也沒問題！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_9", /*message*/"第9話 可靠的你");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_1", /*message*/"第1話 最喜歡學園偶像了！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_2", /*message*/"第2話 兩個人互相扶持");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_3", /*message*/"第3話 花陽陷入危機！");
@@ -18855,6 +19015,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_5", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_6", /*message*/"第6話 為了練習而練習");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_7", /*message*/"第7話 目標是μ&apos;s聯合個人LIVE！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_8", /*message*/"第8話 全都不行……！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_9", /*message*/"第9話 只屬於花陽的個人LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_1", /*message*/"第1話 才不需要你的幫忙！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_2", /*message*/"第2話 證明自己有多認真");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_3", /*message*/"第3話 請拭目以待，小香");
@@ -18863,6 +19024,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_5", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_6", /*message*/"第6話 兩人的默契");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_7", /*message*/"第7話 目標是μ&apos;s聯合個人LIVE！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_8", /*message*/"第8話 驚動全場的個人LIVE！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_9", /*message*/"第9話 100種魅力！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"menu_l_p201", /*message*/"學園偶像祭ID任務");
 INSERT INTO `m_dictionary` VALUES (/*id*/"menu_l_p202", /*message*/"學園偶像祭ID任務功能預計於日後開放");
 INSERT INTO `m_dictionary` VALUES (/*id*/"menu_l_p203", /*message*/"關閉");

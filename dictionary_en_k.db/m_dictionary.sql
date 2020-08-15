@@ -75,6 +75,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_18", /*message*/"ユニ
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_19", /*message*/"ユニットピンズ（A・ZU・NA）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_2", /*message*/"Star Necklace");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_20", /*message*/"ユニットピンズ（QU4RTZ）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_21", /*message*/"ヒツジのニット帽");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_23", /*message*/"ユニットピンズ（CYaRon！）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_24", /*message*/"ユニットピンズ（AZALEA）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_25", /*message*/"ユニットピンズ（Guilty Kiss）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_3", /*message*/"Musical Note Brooch");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_4", /*message*/"Musical Note Keychain");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_5", /*message*/"Flower Bracelet");
@@ -1317,6 +1321,116 @@ Affects: Self");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000034_9", /*message*/"Increase Skill Activation Rate by 1.8% for 5 Notes.
 Condition: On Appeal Chance (AC) Start Chance: 20%
 Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_1", /*message*/"Increase Critical % by 1.5% for 3 Notes.
+Condition: On Appeal Chance start, 10% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_10", /*message*/"Increase Critical % by 2.7% for 3 Notes.
+Condition: On Appeal Chance start, 10% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_2", /*message*/"Increase Critical % by 1.6% for 3 Notes.
+Condition: On Appeal Chance start, 10% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_3", /*message*/"Increase Critical % by 1.7% for 3 Notes.
+Condition: On Appeal Chance start, 10% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_4", /*message*/"Increase Critical % by 1.9% for 3 Notes.
+Condition: On Appeal Chance start, 10% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_5", /*message*/"Increase Critical % by 2% for 3 Notes.
+Condition: On Appeal Chance start, 10% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_6", /*message*/"Increase Critical % by 2.1% for 3 Notes.
+Condition: On Appeal Chance start, 10% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_7", /*message*/"Increase Critical % by 2.3% for 3 Notes.
+Condition: On Appeal Chance start, 10% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_8", /*message*/"Increase Critical % by 2.4% for 3 Notes.
+Condition: On Appeal Chance start, 10% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_9", /*message*/"Increase Critical % by 2.6% for 3 Notes.
+Condition: On Appeal Chance start, 10% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_1", /*message*/"Increase Appeal by 50 for 3 Notes.
+Condition: On Strategy Switch, 25% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_10", /*message*/"Increase Appeal by 100 for 3 Notes.
+Condition: On Strategy Switch, 25% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_2", /*message*/"Increase Appeal by 55 for 3 Notes.
+Condition: On Strategy Switch, 25% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_3", /*message*/"Increase Appeal by 61 for 3 Notes.
+Condition: On Strategy Switch, 25% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_4", /*message*/"Increase Appeal by 66 for 3 Notes.
+Condition: On Strategy Switch, 25% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_5", /*message*/"Increase Appeal by 72 for 3 Notes.
+Condition: On Strategy Switch, 25% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_6", /*message*/"Increase Appeal by 77 for 3 Notes.
+Condition: On Strategy Switch, 25% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_7", /*message*/"Increase Appeal by 83 for 3 Notes.
+Condition: On Strategy Switch, 25% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_8", /*message*/"Increase Appeal by 88 for 3 Notes.
+Condition: On Strategy Switch, 25% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_9", /*message*/"Increase Appeal by 94 for 3 Notes.
+Condition: On Strategy Switch, 25% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_1", /*message*/"Increase SP Gauge gain by 0.5% for 3 Notes.
+Condition: On Appeal Chance start, 75% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_10", /*message*/"Increase SP Gauge gain by 1% for 3 Notes.
+Condition: On Appeal Chance start, 75% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_2", /*message*/"Increase SP Gauge gain by 0.5% for 3 Notes.
+Condition: On Appeal Chance start, 75% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_3", /*message*/"Increase SP Gauge gain by 0.6% for 3 Notes.
+Condition: On Appeal Chance start, 75% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_4", /*message*/"Increase SP Gauge gain by 0.6% for 3 Notes.
+Condition: On Appeal Chance start, 75% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_5", /*message*/"Increase SP Gauge gain by 0.7% for 3 Notes.
+Condition: On Appeal Chance start, 75% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_6", /*message*/"Increase SP Gauge gain by 0.7% for 3 Notes.
+Condition: On Appeal Chance start, 75% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_7", /*message*/"Increase SP Gauge gain by 0.8% for 3 Notes.
+Condition: On Appeal Chance start, 75% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_8", /*message*/"Increase SP Gauge gain by 0.8% for 3 Notes.
+Condition: On Appeal Chance start, 75% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_9", /*message*/"Increase SP Gauge gain by 0.9% for 3 Notes.
+Condition: On Appeal Chance start, 75% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_1", /*message*/"Increase Voltage gained by next SP Skill by 50.
+Condition: Upon Damage, 5% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_10", /*message*/"Increase Voltage gained by next SP Skill by 100.
+Condition: Upon Damage, 5% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_2", /*message*/"Increase Voltage gained by next SP Skill by 55.
+Condition: Upon Damage, 5% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_3", /*message*/"Increase Voltage gained by next SP Skill by 61.
+Condition: Upon Damage, 5% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_4", /*message*/"Increase Voltage gained by next SP Skill by 66.
+Condition: Upon Damage, 5% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_5", /*message*/"Increase Voltage gained by next SP Skill by 72.
+Condition: Upon Damage, 5% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_6", /*message*/"Increase Voltage gained by next SP Skill by 77.
+Condition: Upon Damage, 5% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_7", /*message*/"Increase Voltage gained by next SP Skill by 83.
+Condition: Upon Damage, 5% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_8", /*message*/"Increase Voltage gained by next SP Skill by 88.
+Condition: Upon Damage, 5% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_9", /*message*/"Increase Voltage gained by next SP Skill by 94.
+Condition: Upon Damage, 5% chance");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000001", /*message*/"SP Gauge Gain+ (Energetic): During Song");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000002", /*message*/"SP Gauge Gain+ (Energetic): During Song");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000003", /*message*/"SP Gauge Gain+ (Energetic): During Song");
@@ -1351,6 +1465,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000031"
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000032", /*message*/"Stamina Restoration: On Strategy Switch");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000033", /*message*/"Damage Reduction: AC Duration");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000034", /*message*/"Skill Activation Rate Up: AC Duration");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000035", /*message*/"Critical Up :AC Start");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000037", /*message*/"Appeal Up :On Strategy Switch");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000038", /*message*/"SP Gauge Gain Up :AC Start");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000039", /*message*/"SP Skill Up :When Damaged");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_101", /*message*/"SIF ID Records");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_401", /*message*/"Earned all achievements.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_402", /*message*/"There are no achievements earned.");
@@ -17025,6 +17143,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_6", /*message*/"The two of you move forward together, hand-in-hand, joyful that you help each other. Honoka, however, just can&apos;t wait for you to arrive and takes matters into her own hands.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_7", /*message*/"Honoka seems restless after what Yukiho casually mentioned. Still, the Nijigasaki solo live show appears to have inspired her.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_8", /*message*/"You and Honoka discuss what kind of live show to put on after you suggest the μ&apos;s members each perform solo. Her hopes for the show start to grow and grow... But maybe a little too far?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_9", /*message*/"Honoka is fired up about her solo live show, but she wants to do too many different things! You decide to help her figure out the one thing she wants to do most.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_1", /*message*/"Your long-time friend Ayumu stops by as you sleepily eat breakfast at home, and you head to school together.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_10", /*message*/"Ayumu is passing out flyers for the club&apos;s next live show. Someone comes to help her pass out flyers and informs her of a certain something.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_11", /*message*/"Ayumu wants to repay her fan club members for passing out flyers with her. She asks you for advice on how to show her gratitude.");
@@ -17168,6 +17287,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_6", /*message*/"With you to support her, Eli&apos;s been having some pleasant days. It seems like her younger sister Alisa is curious about you, as well.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_7", /*message*/"Eli is thinking about you more after Alisa&apos;s passing comment. She wants to rely on your support, even when she&apos;s getting ready for her solo performance.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_8", /*message*/"Though Eli has agreed to each member of μ&apos;s having a solo performance, she can&apos;t seem to get in contact with the chairwoman for her approval. You worry about whether or not the show can go on at all.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_9", /*message*/"The chairwoman has still not approved the solo live shows, but the preparations must begin regardless. You decide to help out Eli.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_1", /*message*/"Now that you&apos;re helping out μ&apos;s with their club activities, you sit down to talk with Honoka, Umi, and Kotori, who were friends before they became school idols.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_2", /*message*/"Kotori is usually so kind, supporting Honoka and Umi. However, she has an issue she just can&apos;t compromise about for any reason!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_3", /*message*/"μ&apos;s&apos; costume designer is Kotori. Now that you know her quirk, you suddenly run into her on the street. Wait, is that really Kotori?!");
@@ -17176,6 +17296,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_6", /*message*/"Kotori seems very glad that you helped her, and that she got to go out with you. The subject of conversation naturally shifts to you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_7", /*message*/"Kotori cares about spending time with you, just like how she cares about Honoka and Umi. Kotori wants to check something with you before doing μ&apos;s&apos; solo live show.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_8", /*message*/"Kotori seems to be more excited about watching everyone else&apos;s solo live shows than performing her own. She discusses what kind of performance it should be with you. However...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_9", /*message*/"Kotori loves being on stage with the other members, so she is not sure what to do for her own solo live show. You help her discover what she wants to do.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_1", /*message*/"Now that you&apos;re helping μ&apos;s, you decide to ask Umi how she feels about school idols. What&apos;s a school idol to Umi?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_2", /*message*/"Honoka&apos;s and even Umi&apos;s dream is to be a school idol. You find out that Umi handles most of μ&apos;s&apos; lyric writing.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_3", /*message*/"You get Umi to show you how she writes lyrics at her house. While she passionately writes, you...");
@@ -17184,6 +17305,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_6", /*message*/"You&apos;ve been providing μ&apos;s with solid support and getting closer to Umi. It seems, then, that she wants to express her feelings for you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_7", /*message*/"Umi wrote you a letter full of gratitude. You receive this passionate letter, and...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_8", /*message*/"You and Umi decide to work together to prepare for her solo live show when you discover an unexpected weakness of hers.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_9", /*message*/"Umi is worried and does not feel like she has the confidence to stand on stage alone. You invite her out in the hope of inspiring her.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_1", /*message*/"Rin is full of energy. You go to greet her as well as Maki and Hanayo.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_2", /*message*/"Hanayo and Rin always get along. You ask if your assistance is required for anything.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_3", /*message*/"You&apos;re filling in for Hanayo by cheering on Rin.");
@@ -17192,6 +17314,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_6", /*message*/"Rin places great stock in your support. Will you be able to go out together if she works hard at her club activities? Well, she&apos;s planning to make sure you do!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_7", /*message*/"Rin is looking forward to club time and outings with you, but her reaction is a bit different when her solo is mentioned.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_8", /*message*/"Rin is not so enthusiastic when you suggest starting to prepare for her solo live show. What could be the problem?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_9", /*message*/"Rin decides to give her all for her upcoming solo live show. However, what kind of solo live show should she put on?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_1", /*message*/"Now that you&apos;re helping μ&apos;s, you decide to talk to their song writer, Maki.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_2", /*message*/"Maki tells you she doesn&apos;t feel like she needs your help. Even still, she doesn&apos;t seem to want to reject you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_3", /*message*/"Although awkward, Maki tells you kindly that she&apos;d like to get along better with you. You meet coincidentally in the music room, and...");
@@ -17200,6 +17323,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_6", /*message*/"Maki welcomed you with open arms, saying she could make a new μ&apos;s with you. This change of heart appears during the filming of her self-introduction movie, as well.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_7", /*message*/"Maki can&apos;t stop thinking about you and seems hesitant. It&apos;s like she can&apos;t give you a straight answer, even about solo live show ideas.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_8", /*message*/"Maki says that there&apos;s no point in performing a solo show if it&apos;s no different from a regular live show. The two of you go to ask the Nijigasaki girls for their insight as soloists, but Maki seems more fixated on something else.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_9", /*message*/"Maki ponders the purpose of a live show all for herself. The answer gradually becomes clear to her.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_1", /*message*/"Nozomi is glad an interesting girl has arrived, but what does that mean?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_2", /*message*/"Nozomi is working as the vice president of the student council. You get to see how she goes about her school life.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_3", /*message*/"Nozomi&apos;s fortune telling has a shocking outcome!");
@@ -17208,6 +17332,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_6", /*message*/"You&apos;ve managed to naturally get along with everyone, thanks to Nozomi. It looks like she&apos;s waiting for you in the clubroom today, too.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_7", /*message*/"Nozomi is happy when you come to the clubroom, but she acts strange when you try to talk about her performing solo.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_8", /*message*/"Nozomi is thrilled to put on a solo live show since it will be unlike any μ&apos;s has done before. You pledge your support for her and for her performance, but she doesn&apos;t react quite how you&apos;d expect.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_9", /*message*/"Nozomi promises to reach out if she has any trouble, but she has yet to ask for your help. You wish she would stop helping others and start focusing on her own solo live show.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_1", /*message*/"What does Hanayo love more than anything else? The answer is, of course...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_2", /*message*/"Hanayo was reticent at first, but Rin took her hand and led the way.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_3", /*message*/"You see Hanayo as you walk through Akihabara in the morning, but she doesn&apos;t seem like her usual self!");
@@ -17216,6 +17341,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_6", /*message*/"The bond between you and Hanayo is gradually growing stronger. Though she wants to work at morning practice with you, there&apos;s something she&apos;s worried about.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_7", /*message*/"With Nico&apos;s help, Hanayo has started practicing for morning practices. Will her efforts pay off in her solo performance?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_8", /*message*/"Hanayo seemed excited and ready to give it her all for her solo live show, but she clearly appears to be worried about taking the stage on her own. You step in to help put her mind at ease.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_9", /*message*/"Hanayo wants to work hard to prepare for her solo live show, but worries that she may be unable to. However, you come up with a solo live show that only she can pull off!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_1", /*message*/"You&apos;re going to help μ&apos;s with club activities, but one of the group doesn&apos;t seem very happy about it.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_2", /*message*/"You want to show Nico how serious you are, but she just can&apos;t hide her doubt about you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_3", /*message*/"You work hard to meet expectations, and Nico starts to notice the passion that drives you.");
@@ -17224,6 +17350,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_6", /*message*/"Nico has acknowledged you as a comrade in creating μ&apos;s&apos; performances. Eli and Nozomi are pleased with this, but what does Nico herself think?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_7", /*message*/"It won&apos;t be easy to create a stage that&apos;s better than ever before. Nico is prepared for the task. You&apos;re happy that Nico approves of you, but there&apos;s work to be done!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_8", /*message*/"You and Nico are totally ready to send her solo live show off into the galaxy. You expect Nico to utilize her cuteness in her solo performance, but she seems to have something completely different in mind.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_9", /*message*/"You and Nico discuss putting on a solo live show that shows off all her cuteness. However, Nico still seems to doubt you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_1", /*message*/"Episode 1 Save the Mikan!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_2", /*message*/"Episode 2 A Home Visit");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_3", /*message*/"Episode 3 Behind the Music");
@@ -17304,6 +17431,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_5", /*message*/"E
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_6", /*message*/"Episode 6 Awaiting Your Arrival");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_7", /*message*/"Episode 7 μ&apos;s Perform Solo, Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_8", /*message*/"Episode 8 So Much to Do at the Solo Live Show!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_9", /*message*/"Episode 9 The One Thing I Want to Do");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_1", /*message*/"Episode 1 A Typical Morning");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_10", /*message*/"Episode 10 Like a Dream");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_11", /*message*/"Episode 11 Connected to Ayumu");
@@ -17447,6 +17575,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_5", /*message*/"E
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_6", /*message*/"Episode 6 Someone Who Likes My Sister");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_7", /*message*/"Episode 7 μ&apos;s Perform Solo, Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_8", /*message*/"Episode 8 Show Me Your Smile");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_9", /*message*/"Episode 9 Reassessing Myself");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_1", /*message*/"Episode 1 Friends Fight");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_2", /*message*/"Episode 2 Kotori&apos;s Preference");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_3", /*message*/"Episode 3 Meeting Minalinsky");
@@ -17455,6 +17584,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_5", /*message*/"E
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_6", /*message*/"Episode 6 My Time with You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_7", /*message*/"Episode 7 μ&apos;s Perform Solo, Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_8", /*message*/"Episode 8 A Live Show All on My Own?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_9", /*message*/"Episode 9 Fashion Show of My Dreams");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_1", /*message*/"Episode 1 Passion for School Idols");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_2", /*message*/"Episode 2 μ&apos;s&apos; Lyricist");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_3", /*message*/"Episode 3 With Heart");
@@ -17463,6 +17593,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_5", /*message*/"E
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_6", /*message*/"Episode 6 Feelings in a Letter");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_7", /*message*/"Episode 7 μ&apos;s Perform Solo, Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_8", /*message*/"Episode 8 Umi&apos;s Weakness");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_9", /*message*/"Episode 9 Amusement Park Date?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_1", /*message*/"Episode 1 Rin, Cat Lover");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_2", /*message*/"Episode 2 Always with Hanayo!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_3", /*message*/"Episode 3 Pinch Hitter!");
@@ -17471,6 +17602,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_5", /*message*/"E
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_6", /*message*/"Episode 6 A Close Pair");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_7", /*message*/"Episode 7 μ&apos;s Perform Solo, Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_8", /*message*/"Episode 8 Cuteness is Wasted on Me!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_9", /*message*/"Episode 9 A Fun Time for Everyone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_1", /*message*/"Episode 1 Have to Answer?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_2", /*message*/"Episode 2 One Step Forward?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_3", /*message*/"Episode 3 A Piano for Two");
@@ -17479,6 +17611,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_5", /*message*/"E
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_6", /*message*/"Episode 6 Maki&apos;s Self-Introduction");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_7", /*message*/"Episode 7 μ&apos;s Perform Solo, Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_8", /*message*/"Episode 8 Matching Pens");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_9", /*message*/"Episode 9 The Purpose of Solo Live Shows");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_1", /*message*/"Episode 1 Welcome You with My Power");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_2", /*message*/"Episode 2 Work for the Student Council");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_3", /*message*/"Episode 3 Accurate Readings");
@@ -17487,6 +17620,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_5", /*message*/"E
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_6", /*message*/"Episode 6 Your Chair");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_7", /*message*/"Episode 7 μ&apos;s Perform Solo, Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_8", /*message*/"Episode 8 I&apos;m Fine on My Own!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_9", /*message*/"Episode 9 A Reliable Helper");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_1", /*message*/"Episode 1 Love School Idols!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_2", /*message*/"Episode 2 Hand in Hand");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_3", /*message*/"Episode 3 Hanayo&apos;s in a Pinch!");
@@ -17495,6 +17629,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_5", /*message*/"E
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_6", /*message*/"Episode 6 Practicing for Practice");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_7", /*message*/"Episode 7 μ&apos;s Perform Solo, Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_8", /*message*/"Episode 8 Nothing&apos;s Going Right?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_9", /*message*/"Episode 9 A Solo Live Show Just for Hanayo");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_1", /*message*/"Episode 1 I Don&apos;t Need Help!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_2", /*message*/"Episode 2 Show Them What You Got");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_3", /*message*/"Episode 3 Just You Wait, Nico");
@@ -17503,6 +17638,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_5", /*message*/"E
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_6", /*message*/"Episode 6 Bond as a Pair");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_7", /*message*/"Episode 7 μ&apos;s Perform Solo, Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_8", /*message*/"Episode 8 A Solo Live Show to Shock and Amaze!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_9", /*message*/"Episode 9 One Hundred Charms?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"menu_l_p201", /*message*/"SIF ID Records");
 INSERT INTO `m_dictionary` VALUES (/*id*/"menu_l_p202", /*message*/"The SIF ID Records feature will be unlocked at a later date.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"menu_l_p203", /*message*/"Close");

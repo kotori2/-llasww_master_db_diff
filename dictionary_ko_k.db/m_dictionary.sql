@@ -76,6 +76,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_18", /*message*/"ユニ
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_19", /*message*/"ユニットピンズ（A・ZU・NA）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_2", /*message*/"별 목걸이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_20", /*message*/"ユニットピンズ（QU4RTZ）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_21", /*message*/"ヒツジのニット帽");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_23", /*message*/"ユニットピンズ（CYaRon！）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_24", /*message*/"ユニットピンズ（AZALEA）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_25", /*message*/"ユニットピンズ（Guilty Kiss）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_3", /*message*/"음표 브로치");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_4", /*message*/"음표 열쇠고리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_5", /*message*/"꽃 팔찌");
@@ -1343,6 +1347,116 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000034_9", /*message*/"5노트 동안 특기 발동률 1.8％ 증가
 조건: 어필 찬스(AC) 시작 시 확률: 20%
 대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_1", /*message*/"3노트 동안 크리티컬 확률1.5% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 10%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_10", /*message*/"3노트 동안 크리티컬 확률2.7% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 10%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_2", /*message*/"3노트 동안 크리티컬 확률1.6% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 10%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_3", /*message*/"3노트 동안 크리티컬 확률1.7% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 10%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_4", /*message*/"3노트 동안 크리티컬 확률1.9% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 10%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_5", /*message*/"3노트 동안 크리티컬 확률2% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 10%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_6", /*message*/"3노트 동안 크리티컬 확률2.1% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 10%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_7", /*message*/"3노트 동안 크리티컬 확률2.3% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 10%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_8", /*message*/"3노트 동안 크리티컬 확률2.4% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 10%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_9", /*message*/"3노트 동안 크리티컬 확률2.6% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 10%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_1", /*message*/"3노트 동안 어필 50 증가
+조건: 작전 변경 시, 확률: 25%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_10", /*message*/"3노트 동안 어필 100 증가
+조건: 작전 변경 시, 확률: 25%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_2", /*message*/"3노트 동안 어필 55 증가
+조건: 작전 변경 시, 확률: 25%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_3", /*message*/"3노트 동안 어필 61 증가
+조건: 작전 변경 시, 확률: 25%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_4", /*message*/"3노트 동안 어필 66 증가
+조건: 작전 변경 시, 확률: 25%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_5", /*message*/"3노트 동안 어필 72 증가
+조건: 작전 변경 시, 확률: 25%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_6", /*message*/"3노트 동안 어필 77 증가
+조건: 작전 변경 시, 확률: 25%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_7", /*message*/"3노트 동안 어필 83 증가
+조건: 작전 변경 시, 확률: 25%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_8", /*message*/"3노트 동안 어필 88 증가
+조건: 작전 변경 시, 확률: 25%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_9", /*message*/"3노트 동안 어필 94 증가
+조건: 작전 변경 시, 확률: 25%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_1", /*message*/"3노트 동안 SP 게이지 획득량 0.5% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 75%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_10", /*message*/"3노트 동안 SP 게이지 획득량 1% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 75%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_2", /*message*/"3노트 동안 SP 게이지 획득량 0.5% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 75%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_3", /*message*/"3노트 동안 SP 게이지 획득량 0.6% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 75%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_4", /*message*/"3노트 동안 SP 게이지 획득량 0.6% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 75%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_5", /*message*/"3노트 동안 SP 게이지 획득량 0.7% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 75%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_6", /*message*/"3노트 동안 SP 게이지 획득량 0.7% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 75%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_7", /*message*/"3노트 동안 SP 게이지 획득량 0.8% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 75%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_8", /*message*/"3노트 동안 SP 게이지 획득량 0.8% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 75%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000038_9", /*message*/"3노트 동안 SP 게이지 획득량 0.9% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 75%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_1", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 50 증가
+조건: 대미지를 받았을 때, 확률: 5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_10", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 100 증가
+조건: 대미지를 받았을 때, 확률: 5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_2", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 55 증가
+조건: 대미지를 받았을 때, 확률: 5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_3", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 61 증가
+조건: 대미지를 받았을 때, 확률: 5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_4", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 66 증가
+조건: 대미지를 받았을 때, 확률: 5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_5", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 72 증가
+조건: 대미지를 받았을 때, 확률: 5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_6", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 77 증가
+조건: 대미지를 받았을 때, 확률: 5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_7", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 83 증가
+조건: 대미지를 받았을 때, 확률: 5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_8", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 88 증가
+조건: 대미지를 받았을 때, 확률: 5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_9", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 94 증가
+조건: 대미지를 받았을 때, 확률: 5%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000001", /*message*/"SP 게이지 획득+(활력): 라이브 중");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000002", /*message*/"SP 게이지 획득+(활력): 라이브 중");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000003", /*message*/"SP 게이지 획득+(활력): 라이브 중");
@@ -1377,6 +1491,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000031"
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000032", /*message*/"체력 회복: 작전 변경 시");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000033", /*message*/"대미지 경감 :AC 시작 시");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000034", /*message*/"특기 발동률 증가 : AC 시");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000035", /*message*/"크리티컬 UP :AC 시작 시");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000037", /*message*/"어필 UP :작전 변경 시");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000038", /*message*/"SP 게이지 획득 UP :AC 시작 시");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000039", /*message*/"SP 특기 UP :대미지를 받았을 때");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_101", /*message*/"SIF ID 업적");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_401", /*message*/"모든 업적을 달성했습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_402", /*message*/"달성한 업적이 없습니다.");
@@ -17661,6 +17779,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_6", /*message*/"　함께 손을 맞잡고 나아가는 두 사람. 무엇보다 서로 도움을 주고받을 수 있다는 게 기쁘다. 그리고 당신이 오기만을 손꼽아 기다리는 호노카는….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_7", /*message*/"　유키호가 별생각 없이 던진 말을 의식한 호노카는 묘하게 안절부절못하는 모습이다. 그러면서도 니지가사키의 솔로 라이브를 보고 자극을 받은 것 같은데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_8", /*message*/"　μ&apos;s의 솔로 라이브를 제안한 당신은 호노카와 둘이서 어떤 라이브를 할지 상의했다. 솔로 라이브를 향한 꿈은 점점 커지고… 잠깐, 너무 커졌나?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_9", /*message*/"　호노카는 솔로 라이브를 앞두고 열정을 불태우지만, 하고 싶은 게 산더미처럼 많다…! 정말 하고 싶은 것을 찾기 위해 당신은 곰곰이 생각하게 된다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_1", /*message*/"　졸음을 참으며 아침을 먹는 당신의 집에 소꿉친구 아유무가 찾아왔다. 당신은 아유무와 함께 학교로 향한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_10", /*message*/"　동호회 멤버의 다음 라이브 소식을 알리려고 전단을 돌리는 아유무. 함께 전단을 돌려준 팬클럽 멤버가 아유무에게 이야기한 진실은….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_11", /*message*/"　전단 돌리는 것을 도와준 팬클럽 사람들에게 뭔가 보답을 하고 싶어 하는 아유무. 감사의 마음을 어떻게 전하면 좋을지 당신에게 의견을 묻는다.");
@@ -17806,6 +17925,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_6", /*message*/"　당신의 도움을 받아 알찬 나날을 보내는 에리. 동생인 아리사도 당신의 존재가 궁금한 듯한데…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_7", /*message*/"　아리사가 무심코 던진 한마디 때문에 당신을 의식하게 된 에리. 솔로 라이브를 향해 움직이기 시작할 때도 당신의 도움을 든든하게 느끼고….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_8", /*message*/"　에리는 μ&apos;s 솔로 라이브를 하기로 결정했지만, 승인을 받아야 할 이사장님과 연락이 되지 않는다. 이대로 진행해도 될지 불안한 당신은….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_9", /*message*/"　아직 이사장님이 솔로 라이브를 승인해 주시지 않았지만, 그래도 준비를 시작해야만 한다. 당신은 에리를 위해 힘을 보태 주기로 한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_1", /*message*/"　μ&apos;s의 활동을 돕게 된 당신은 스쿨 아이돌이 되기 전부터 친하게 지냈던 호노카와 우미, 코토리 세 사람의 이야기를 듣게 된다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_2", /*message*/"　평소에는 호노카와 우미를 다정하게 도와주는 코토리. 하지만 코토리에게도 절대 타협할 수 없는 무언가가 있는 것 같은데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_3", /*message*/"　μ&apos;s의 의상 제작을 담당하고 있는 코토리. 코토리의 완벽주의를 알게 된 당신은 거리에서 코토리와 우연히 마주치는데… 잠깐, 코토리가 아니라고?!");
@@ -17814,6 +17934,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_6", /*message*/"　코토리는 당신에게 도움을 받았던 일, 당신과 놀러 갔던 일을 매우 기뻤던 모양이다. 화제도 자연스럽게 당신의 이야기로 옮겨가는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_7", /*message*/"　호노카와 우미가 소중한 것처럼, 당신과 이야기하는 시간도 소중하다고 생각하는 코토리. μ&apos;s의 솔로 라이브를 하기 전에 코토리는 확인하고 싶은 게 있었다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_8", /*message*/"　코토리는 솔로 라이브가 기대된다고 하지만, 자기 라이브보다 다른 멤버들의 라이브가 더 기대되는 모양이다. 어떤 라이브가 좋을지 코토리가 당신에게 의견을 물어보는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_9", /*message*/"　멤버들과 활동하는 것이 좋아서 솔로 라이브에서는 무엇을 해야 할지 모르겠다는 코토리. 당신은 코토리가 하고 싶은 것을 찾기로 한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_1", /*message*/"　μ&apos;s를 돕게 된 당신은 우미가 스쿨 아이돌에 대해 어떻게 생각하는지 듣게 된다. 우미에게 스쿨 아이돌이란?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_2", /*message*/"　스쿨 아이돌. 그것은 호노카의 꿈이자 우미의 꿈이기도 했다. μ&apos;s의 곡은 대부분 우미가 작사하고 있다는 이야기를 들은 당신은….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_3", /*message*/"　우미의 집에서 작사하는 모습을 견학하게 된 당신. 우미가 마음을 담아 작사하고 있을 때, 당신은….");
@@ -17822,6 +17943,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_6", /*message*/"　μ&apos;s 활동을 착실하게 도우면서 우미와의 교류도 나날이 깊어지는 당신. 우미는 당신에게 고마운 마음을 표현하고 싶어 하는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_7", /*message*/"　우미는 당신에게 감사의 마음을 담은 편지를 보낸다. 열정 넘치는 편지를 받은 당신은….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_8", /*message*/"　우미와 함께 솔로 라이브 준비를 하게 된 당신은 생각지도 못했던 우미의 약점을 알게 되는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_9", /*message*/"　아직 홀로 무대에 설 자신이 없다며 불안한 듯 말하는 우미. 이번 일을 계기로 불안을 극복하기를 바라며 당신은 우미를 불러내는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_1", /*message*/"　언제나 기운 넘치는 린. 마키와 하나요와 함께 인사하자♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_2", /*message*/"　하나요와 늘 사이좋은 린. 당신은 뭔가 도움이 필요하진 않은지 물어보는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_3", /*message*/"　하나요를 대신해 린을 응원하게 된 당신은….");
@@ -17830,6 +17952,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_6", /*message*/"　당신의 서포트를 기대하게 된 린. 부활동을 엄청 열심히 하면 같이 놀러 갈 수 있을지 생각하며 이것저것 계획 중!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_7", /*message*/"　당신과 함께하는 부활동과 나들이를 기대하는 린. 하지만 자신의 솔로 라이브라는 말을 듣자, 조금 다른 반응을 보이는 듯한데…?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_8", /*message*/"　솔로 라이브 준비를 시작하자고 제안하는 당신에게 린이 한 말은…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_9", /*message*/"　솔로 라이브를 앞두고 열심히 하기로 마음먹은 린. 하지만 어떤 솔로 라이브를 해야 좋을지 고민하는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_1", /*message*/"　μ&apos;s의 활동을 돕게 된 당신은 μ&apos;s에서 작곡을 담당하고 있는 마키와 대화하게 된다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_2", /*message*/"　당신에게 도움을 받을 필요를 못 느끼겠다는 마키. 다만 당신을 거부하는 건 아닌 것 같은데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_3", /*message*/"　마키가 앞으로 친해지고 싶다고 말해 주었다. 인간관계는 서툴어도 다정한 사람이다. 그런 그녀와 당신이 음악실에서 만나….");
@@ -17838,6 +17961,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_6", /*message*/"　너와 함께라면 새로운 μ&apos;s를 만들 수 있을 거야... 라며 당신을 맞이해준 마키. 자기 소개 영상을 촬영할 때도 심경의 변화가 나타나는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_7", /*message*/"　자꾸 당신 생각을 하게 된다며 못마땅한 티를 내는 마키. 솔로 라이브 제안에도 솔직하게 대답하지 못하는 것 같은데…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_8", /*message*/"　마키는 평소에 하던 라이브와 내용이 같으면 솔로 라이브를 할 이유가 없다고 한다. 당신과 마키는 솔로로 활동하는 니지가사키 멤버들을 찾아가 이야기를 들어 봤지만, 마키는 라이브보다 더 신경 쓰이는 게 있는 듯했다….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_9", /*message*/"　혼자만의 라이브. 마키는 솔로 라이브에 무슨 의미가 있는지 고민한다. 이제 조금씩 답이 보이기 시작한 것 같은데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_1", /*message*/"　재미있는 사람이 왔다며 기뻐하는 노조미. 하지만 그 뜻은…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_2", /*message*/"　학생회에서 부회장으로 활동하는 노조미. 노조미가 학교생활에 대해 어떤 생각을 품고 있는지 알게 된다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_3", /*message*/"　노조미의 특기인 점술에서… 뜻밖의 점괘가!");
@@ -17846,6 +17970,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_6", /*message*/"　노조미 덕분에 자연스럽게 모두와 친해진 당신. 오늘도 노조미는 부실에서 당신을 기다리는 것 같아요♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_7", /*message*/"　노조미는 당신이 자주 부실에 와 주는 게 기쁜 모양이다. 하지만 자신의 솔로 라이브 얘기가 나오자, 조금 반응이 달라지는 듯한데…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_8", /*message*/"　μ&apos;s 솔로 라이브 개최가 결정되자, 지금까지와는 다른 라이브가 될 것 같다며 기뻐하는 노조미. 당신은 당연히 노조미의 라이브 준비를 도울 생각이었지만, 노조미가 보인 반응은…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_9", /*message*/"　노조미는 곤란한 일이 생기면 얘기하겠다고 했지만, 좀처럼 당신에게 도움을 청하지 않는다. 당신은 노조미가 다른 멤버를 도와주기보다 본인의 솔로 라이브를 생각해 주길 바라는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_1", /*message*/"　하나요가 무엇보다도 좋아하는 것, 그것은 물론…!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_2", /*message*/"　매사에 소극적이던 하나요의 손을 잡고 끌어준 것은 린이었다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_3", /*message*/"　아침에 아키하바라를 거닐던 당신은 하나요를 발견한다. 그런데 하나요의 모습이 평소와 다른데?!");
@@ -17854,6 +17979,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_6", /*message*/"　조금씩 깊어지는 당신과 하나요의 인연. 함께 아침 연습을 하기로 마음을 새롭게 다잡는 하나요에게도 걱정이 하나 있는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_7", /*message*/"　니코의 도움을 받아 아침 연습을 위한 연습을 시작한 하나요. 그 연습이 솔로 라이브에서도 도움이 될지도…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_8", /*message*/"　하나요는 당신과 함께라면 솔로 라이브도 문제없다며 의욕을 보였지만, 혼자 무대에 서는 게 아무래도 불안한 모양이다. 그 불안을 해소해 주기 위해 당신은….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_9", /*message*/"　솔로 라이브를 열심히 하려는 마음, 하지만 잘할 수 있을지 불안한 생각에 하나요의 마음은 흔들린다. 바로 그때 당신은 하나요만이 할 수 있는 솔로 라이브를 생각해 냈다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_1", /*message*/"　μ&apos;s의 부활동을 돕게 된 당신. 그것이 불만인 멤버가 딱 한 명 있는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_2", /*message*/"　니코에게 스쿨 아이돌을 향한 자신의 마음이 진심이라는 걸 보여주고 싶은 당신. 니코는 의심을 거두지 못하는 눈치인데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_3", /*message*/"　기대에 부응하려 노력하는 당신. 그 열의가 점차 니코에게도 전해지고….");
@@ -17862,6 +17988,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_6", /*message*/"　당신을 함께 무대를 만들어갈 동료로 인정해 준 니코. 에리와 노조미도 기뻐하는 듯한데 니코 본인의 생각은….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_7", /*message*/"　지금보다 더 좋은 무대를 만들기는 쉬운 일이 아니라며 마음을 다잡는 니코. 니코에게 인정받아 기쁜 당신도 마냥 좋아할 수만은 없을 것 같은데?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_8", /*message*/"　니코의 솔로 라이브를 우주 끝까지 전하자며 의욕이 넘치는 니코와 당신. 니코의 귀여운 퍼포먼스를 내세운 솔로 라이브를 할 줄 알았는데… 아무래도 니코는 생각이 다른 것 같다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_9", /*message*/"　니코와 당신은 니코의 개성을 살린 귀여운 솔로 라이브를 만들자고 얘기를 나눈다. 그러나 니코는 아직 당신을 조금 못 미더워하는 것 같은데…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_1", /*message*/"1화 귤을 구하라!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_2", /*message*/"2화 가정 방문");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_3", /*message*/"3화 곡의 숨겨진 뒷면");
@@ -17942,6 +18069,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_5", /*message*/"5
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_6", /*message*/"6화 당신을 손꼽아 기다리며");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_7", /*message*/"7화 μ&apos;s 합동 솔로 라이브를 향해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_8", /*message*/"8화 하고 싶은 게 넘치는 솔로 라이브!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_9", /*message*/"9화 정말 하고 싶은 단 한 가지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_1", /*message*/"1화 평소와 같은 아침");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_10", /*message*/"10화 꿈만 같아");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_11", /*message*/"11화 아유무의 마음!");
@@ -18085,6 +18213,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_5", /*message*/"5
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_6", /*message*/"6화 언니를 좋아하는 사람");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_7", /*message*/"7화 μ&apos;s 합동 솔로 라이브를 향해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_8", /*message*/"8화 네 미소를 보여 줘");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_9", /*message*/"9화 나를 되돌아보며");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_1", /*message*/"1화 티격태격할수록 사이가 좋다?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_2", /*message*/"2화 코토리의 완벽주의");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_3", /*message*/"3화 미나린스키와의 만남");
@@ -18093,6 +18222,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_5", /*message*/"5
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_6", /*message*/"6화 당신과 함께하는 시간");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_7", /*message*/"7화 μ&apos;s 합동 솔로 라이브를 향해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_8", /*message*/"8화 혼자만의 라이브?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_9", /*message*/"9화 꿈꿔 왔던 패션쇼");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_1", /*message*/"1화 스쿨 아이돌에 대한 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_2", /*message*/"2화 μ&apos;s의 작사 담당");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_3", /*message*/"3화 마음을 담아서");
@@ -18101,6 +18231,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_5", /*message*/"5
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_6", /*message*/"6화 마음을 편지에 담아");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_7", /*message*/"7화 μ&apos;s 합동 솔로 라이브를 향해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_8", /*message*/"8화 우미의 약점");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_9", /*message*/"9화 놀이공원 데이트?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_1", /*message*/"1화 고양이를 좋아하는 린");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_2", /*message*/"2화 언제나 카요랑 함께!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_3", /*message*/"3화 구원 타자!");
@@ -18109,6 +18240,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_5", /*message*/"5
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_6", /*message*/"6화 사이 좋은 두 친구♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_7", /*message*/"7화 μ&apos;s 합동 솔로 라이브를 향해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_8", /*message*/"8화 귀엽다는 말은 아까워!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_9", /*message*/"9화 관객들에게 즐거운 시간을");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_1", /*message*/"1화 꼭 대답해야 해?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_2", /*message*/"2화 한 걸음 전진?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_3", /*message*/"3화 두 사람의 피아노");
@@ -18117,6 +18249,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_5", /*message*/"5
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_6", /*message*/"6화 마키의 자기 소개");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_7", /*message*/"7화 μ&apos;s 합동 솔로 라이브를 향해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_8", /*message*/"8화 똑같은 펜");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_9", /*message*/"9화 솔로 라이브를 하는 이유");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_1", /*message*/"1화 파워로 마중하기♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_2", /*message*/"2화 학생회의 업무");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_3", /*message*/"3화 내 점괘가 알려줬어");
@@ -18125,6 +18258,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_5", /*message*/"5
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_6", /*message*/"6화 당신의 자리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_7", /*message*/"7화 μ&apos;s 합동 솔로 라이브를 향해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_8", /*message*/"8화 혼자서도 괜찮아!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_9", /*message*/"9화 믿음직스러운 너");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_1", /*message*/"1화 스쿨 아이돌이 정말 좋아!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_2", /*message*/"2화 둘이서 손을 잡고");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_3", /*message*/"3화 하나요, 위기에 빠지다!");
@@ -18133,6 +18267,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_5", /*message*/"5
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_6", /*message*/"6화 연습을 위한 연습");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_7", /*message*/"7화 μ&apos;s 합동 솔로 라이브를 향해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_8", /*message*/"8화 꿈도 희망도 없어…?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_9", /*message*/"9화 하나요만의 솔로 라이브");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_1", /*message*/"1화 도우미 따위 필요 없어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_2", /*message*/"2화 진심을 보여줘");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_3", /*message*/"3화 기다려, 니코");
@@ -18141,6 +18276,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_5", /*message*/"5
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_6", /*message*/"6화 두 사람의 인연");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_7", /*message*/"7화 μ&apos;s 합동 솔로 라이브를 향해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_8", /*message*/"8화 깜짝 놀랄 만한 솔로 라이브?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_9", /*message*/"9화 매력이 100가지?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"menu_l_p201", /*message*/"SIF ID 업적");
 INSERT INTO `m_dictionary` VALUES (/*id*/"menu_l_p202", /*message*/"SIF ID 업적 기능은 추후 오픈 예정입니다");
 INSERT INTO `m_dictionary` VALUES (/*id*/"menu_l_p203", /*message*/"닫기");

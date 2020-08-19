@@ -2404,6 +2404,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300072001_2",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300072001_3", /*message*/"최대 SP의 6%만큼 SP 게이지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300072001_4", /*message*/"최대 SP의 6.5%만큼 SP 게이지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300072001_5", /*message*/"최대 SP의 7%만큼 SP 게이지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300073001_1", /*message*/"5노트 동안 어필 7% 증가
+대상: 같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300073001_2", /*message*/"5노트 동안 어필 7.5% 증가
+대상: 같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300073001_3", /*message*/"5노트 동안 어필 8% 증가
+대상: 같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300073001_4", /*message*/"5노트 동안 어필 8.5% 증가
+대상: 같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300073001_5", /*message*/"5노트 동안 어필 9% 증가
+대상: 같은 작전");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300082001_1", /*message*/"10노트 동안 크리티컬 확률 5％ 증가
 대상: 같은 작전");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300082001_2", /*message*/"10노트 동안 크리티컬 확률 5.5％ 증가
@@ -2449,6 +2459,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301013001_4",
 대상: 전원");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301013001_5", /*message*/"10노트 동안 SP 게이지 획득량 5.2％ 증가
 대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022001_1", /*message*/"5노트 동안 특기 발동률 3.2％ 증가
+대상: 같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022001_2", /*message*/"5노트 동안 특기 발동률 3.4％ 증가
+대상: 같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022001_3", /*message*/"5노트 동안 특기 발동률 3.6％ 증가
+대상: 같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022001_4", /*message*/"5노트 동안 특기 발동률 3.8％ 증가
+대상: 같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022001_5", /*message*/"5노트 동안 특기 발동률 4％ 증가
+대상: 같은 속성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301023001_1", /*message*/"자기 체력의 20%만큼 실드 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301023001_2", /*message*/"자기 체력의 23%만큼 실드 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301023001_3", /*message*/"자기 체력의 26%만큼 실드 획득");
@@ -2629,6 +2649,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400023001_4",
 대상: 같은 작전");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400023001_5", /*message*/"5노트 동안 획득 볼티지 5% 증가
 대상: 같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400032001_1", /*message*/"최대 SP의 4%만큼 SP 게이지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400032001_2", /*message*/"최대 SP의 4.5%만큼 SP 게이지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400032001_3", /*message*/"최대 SP의 5%만큼 SP 게이지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400032001_4", /*message*/"최대 SP의 5.5%만큼 SP 게이지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400032001_5", /*message*/"최대 SP의 6%만큼 SP 게이지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400042001_1", /*message*/"5노트 동안 SP 게이지 획득량 3％ 증가
 대상: 전원");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400042001_2", /*message*/"5노트 동안 SP 게이지 획득량 3.3％ 증가
@@ -2739,6 +2764,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401033001_2",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401033001_3", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 가 자기 테크닉의 29%만큼 증가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401033001_4", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 가 자기 테크닉의 29.5%만큼 증가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401033001_5", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 가 자기 테크닉의 30%만큼 증가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401043001_1", /*message*/"3노트 동안 체력 대미지 33％ 경감");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401043001_2", /*message*/"3노트 동안 체력 대미지 36％ 경감");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401043001_3", /*message*/"3노트 동안 체력 대미지 39％ 경감");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401043001_4", /*message*/"3노트 동안 체력 대미지 42％ 경감");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401043001_5", /*message*/"3노트 동안 체력 대미지 45％ 경감");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052001_1", /*message*/"10노트 동안 체력 대미지 6％ 경감");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052001_2", /*message*/"10노트 동안 체력 대미지 7％ 경감");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052001_3", /*message*/"10노트 동안 체력 대미지 8％ 경감");
@@ -2809,6 +2839,21 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402022001_4",
 대상: 전원");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402022001_5", /*message*/"5노트 동안 어필 4.2% 증가
 대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402023001_1", /*message*/"5노트 동안 획득 볼티지 4.7％ 증가
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402023001_2", /*message*/"5노트 동안 획득 볼티지 5％ 증가
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402023001_3", /*message*/"5노트 동안 획득 볼티지 5.3％ 증가
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402023001_4", /*message*/"5노트 동안 획득 볼티지 5.6％ 증가
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402023001_5", /*message*/"5노트 동안 획득 볼티지 5.9％ 증가
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402032001_1", /*message*/"자기 체력의 17%만큼 체력 회복");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402032001_2", /*message*/"자기 체력의 20%만큼 체력 회복");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402032001_3", /*message*/"자기 체력의 23%만큼 체력 회복");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402032001_4", /*message*/"자기 체력의 26%만큼 체력 회복");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402032001_5", /*message*/"자기 체력의 29%만큼 체력 회복");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402033001_1", /*message*/"10노트 동안 크리티컬 확률 8％ 증가
 대상: 같은 작전");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402033001_2", /*message*/"10노트 동안 크리티컬 확률 8.5％ 증가
@@ -2989,11 +3034,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300052002", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300053001", /*message*/"너도 같이 가자냥!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300062001", /*message*/"너무 쳐다보지 마");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300072001", /*message*/"타로카드에 이끌려");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300073001", /*message*/"나한테 반하는 마법이야♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300082001", /*message*/"열심히 할게요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300083001", /*message*/"같이 춤추자♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300092001", /*message*/"러브니코♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300093001", /*message*/"열차 출발합니다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301013001", /*message*/"별똥별에 비는 소원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301022001", /*message*/"멜로디에 이끌려");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301023001", /*message*/"빛나는 그 순간을");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301032001", /*message*/"가능성의 바다로");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301033001", /*message*/"같이 잘까");
@@ -3021,6 +3068,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_302093001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400012001", /*message*/"시작하자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400013001", /*message*/"즐겁게 만끽하자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400023001", /*message*/"쌉싸름한 초대");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400032001", /*message*/"모두 다 함께!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400042001", /*message*/"시작할게요");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400043001", /*message*/"새로운 발견");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400053001", /*message*/"놓치지 않겠다냥♪");
@@ -3037,6 +3085,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401022001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401023001", /*message*/"나에게도 가시가 있을지 몰라");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401032001", /*message*/"여기로 와♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401033001", /*message*/"아직 보내지 않을 거야");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401043001", /*message*/"쏟아져라, 무수한 빛이여!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401052001", /*message*/"컨디션 최고지 말입니다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401062001", /*message*/"아직 끝이 아니야!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401072001", /*message*/"기운이 넘쳐유♪");
@@ -3048,6 +3097,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401093001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402012001", /*message*/"깡충깡충 하트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402013001", /*message*/"Creamy Berry");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402022001", /*message*/"홀려 드릴게요~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402023001", /*message*/"카스밍에게 반해라~♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402032001", /*message*/"가슴이 뛰어요♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402033001", /*message*/"가자! 드넓은 바다로");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402042001", /*message*/"최고의 퍼포먼스를 보여 줄게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402052001", /*message*/"표범이다~! 대범한데~!");
@@ -3435,6 +3486,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300062001", /*message*/"너�
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300062001_voice", /*message*/"【SR】[너무 빤히 쳐다보지 말아 줄래?]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300072001", /*message*/"네 운세도 봐 줄게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300072001_voice", /*message*/"【SR】[네 운세도 봐 줄게]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300073001", /*message*/"내 손은 약손~♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300073001_voice", /*message*/"【UR】[내 손은 약손~♪]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300082001", /*message*/"도시락 하면…");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300082001_voice", /*message*/"【SR】[도시락 하면…]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300083001", /*message*/"너무 귀여우니까 꼬옥~");
@@ -3445,6 +3498,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300093001", /*message*/"니�
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300093001_voice", /*message*/"【UR】[니코의 특제 도시락은 어떠세요?]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301013001", /*message*/"별똥별에 둘러싸여");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301013001_voice", /*message*/"【UR】[별똥별에 둘러싸여]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301022001", /*message*/"사랑과 용기의 마법 소녀 리코피");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301022001_voice", /*message*/"【SR】[사랑과 용기의 마법 소녀 리코피]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301023001", /*message*/"막힘없고 맑은 선율");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301023001_voice", /*message*/"【UR】[막힘없고 맑은 선율]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301032001", /*message*/"한바탕 수영하고 왔어~");
@@ -3499,6 +3554,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400013001", /*message*/"오�
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400013001_voice", /*message*/"【UR】[오늘은 마음껏 즐기자!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400023001", /*message*/"아니야, 난 정말 괜찮아!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400023001_voice", /*message*/"【UR】[아니야, 난 정말 괜찮아!]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400032001", /*message*/"마법으로 고쳐 줄게♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400032001_voice", /*message*/"【SR】[마법으로 고쳐 줄게♪]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400042001", /*message*/"계획을 세워 볼까요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400042001_voice", /*message*/"【SR】[계획을 세워 볼까요!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400043001", /*message*/"수상 놀이터에서 정하죠");
@@ -3531,6 +3588,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401032001", /*message*/"자,
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401032001_voice", /*message*/"【SR】[자, 빨리 가자]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401033001", /*message*/"좀 더 깊이 잠수해 볼까");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401033001_voice", /*message*/"【UR】[좀 더 깊이 잠수해 볼까]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401043001", /*message*/"포옹해 드릴게요");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401043001_voice", /*message*/"【UR】[포옹해 드릴게요]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401052001", /*message*/"수평선 너머까지 보여!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401052001_voice", /*message*/"【SR】[수평선 너머까지 보여!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401062001", /*message*/"후후후… 기다려, 리리!");
@@ -3553,6 +3612,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402013001", /*message*/"앗,
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402013001_voice", /*message*/"【UR】[앗, 다들 와 주셨군요?]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402022001", /*message*/"카스밍은 빈틈이 없다구요~!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402022001_voice", /*message*/"【SR】[카스밍은 빈틈이 없다구요~!]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402023001", /*message*/"당신에게 보여 드릴게요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402023001_voice", /*message*/"【UR】[당신에게 보여 드릴게요!]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402032001", /*message*/"물의 정령들이여!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402032001_voice", /*message*/"【SR】[물의 정령들이여!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402033001", /*message*/"여기서 넘어질 수는 없어요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402033001_voice", /*message*/"【UR】[여기서 넘어질 수는 없어요!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402042001", /*message*/"나만 따라와♪");
@@ -3837,6 +3900,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300062001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300062001_voice", /*message*/"【SR】[Snow Halation]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300072001", /*message*/"Snow Halation");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300072001_voice", /*message*/"【SR】[Snow Halation]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300073001", /*message*/"매지컬☆피버");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300073001_voice", /*message*/"【UR】[매지컬☆피버]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300082001", /*message*/"Snow Halation");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300082001_voice", /*message*/"【SR】[Snow Halation]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300083001", /*message*/"해피 퍼레이드");
@@ -3847,6 +3912,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300093001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300093001_voice", /*message*/"【UR】[샛별의 기적 소리]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301013001", /*message*/"레오 스타 브라이트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301013001_voice", /*message*/"【UR】[레오 스타 브라이트]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301022001", /*message*/"Aozora Jumping Heart");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301022001_voice", /*message*/"【SR】[Aozora Jumping Heart]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301023001", /*message*/"프렐류드 블로섬");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301023001_voice", /*message*/"【UR】[프렐류드 블로섬]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301032001", /*message*/"Kimino Kokorowa Kagayaiterukai?");
@@ -3901,6 +3968,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400013001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400013001_voice", /*message*/"【UR】[welcome to the party]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400023001", /*message*/"Sweets Deco");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400023001_voice", /*message*/"【UR】[Sweets Deco]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400032001", /*message*/"Bokura no LIVE Kimi to no LIFE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400032001_voice", /*message*/"【SR】[Bokura no LIVE Kimi to no LIFE]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400042001", /*message*/"Snow Halation");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400042001_voice", /*message*/"【SR】[Snow Halation]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400043001", /*message*/"Miracle voyage");
@@ -3933,6 +4002,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401032001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401032001_voice", /*message*/"【SR】[Aozora Jumping Heart]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401033001", /*message*/"용궁 공주님");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401033001_voice", /*message*/"【UR】[용궁 공주님]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401043001", /*message*/"매지컬☆피버");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401043001_voice", /*message*/"【UR】[매지컬☆피버]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401052001", /*message*/"Aozora Jumping Heart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401052001_voice", /*message*/"【SR】[Aozora Jumping Heart]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401062001", /*message*/"Aozora Jumping Heart");
@@ -3955,6 +4026,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402013001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402013001_voice", /*message*/"【UR】[Sweets Deco]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402022001", /*message*/"두근두근 애니멀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402022001_voice", /*message*/"【SR】[두근두근 애니멀]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402023001", /*message*/"매지컬☆피버");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402023001_voice", /*message*/"【UR】[매지컬☆피버]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402032001", /*message*/"레인보우 로즈");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402032001_voice", /*message*/"【SR】[레인보우 로즈]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402033001", /*message*/"Miracle voyage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402033001_voice", /*message*/"【UR】[Miracle voyage]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402042001", /*message*/"레인보우 로즈");
@@ -4096,11 +4171,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300052002", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300053001", /*message*/"こっちこっちはやくするにゃ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300062001", /*message*/"あまりじろじろみないでくれる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300072001", /*message*/"あなたのこともうらなってあげる");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300073001", /*message*/"いたいのいたいのとんでいけ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300082001", /*message*/"おべんとうといえば");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300083001", /*message*/"もうかわいすぎるからぎゅ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300092001", /*message*/"わんつーすりーふぉー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300093001", /*message*/"にこのとくせいおべんとういかがですかぁ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301013001", /*message*/"りゅうせいにかこまれて");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301022001", /*message*/"あいとゆうきのまほうしょうじょりこっぴー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301023001", /*message*/"まよいのないすんだせんりつ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301032001", /*message*/"ひとおよぎしてたんだよ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301033001", /*message*/"ちゃんとつながれたんだから");
@@ -4128,6 +4205,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_302093001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400012001", /*message*/"おにもつのせますね～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400013001", /*message*/"きょうはめいっぱいたのしもー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400023001", /*message*/"いやわたしはほんとうにいいから");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400032001", /*message*/"まほうでなおしてあげるよ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400042001", /*message*/"けいかくをたてましょう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400043001", /*message*/"すいじょうあすれちっくできめましょう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400053001", /*message*/"ぜんそくりょくでいくにゃー");
@@ -4144,6 +4222,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401022001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401023001", /*message*/"きょうだけしかできないふたりのおと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401032001", /*message*/"ほらはやくはやく");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401033001", /*message*/"もうすこしふかくもぐってみようかな");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401043001", /*message*/"はぐしてさしあげますわ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401052001", /*message*/"すいへいせんのさきまでみわたせるよ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401062001", /*message*/"ふっふっふまっててりりー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401072001", /*message*/"いただきまーす");
@@ -4155,6 +4234,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401093001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402012001", /*message*/"みんなよろこんでくれるかな");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402013001", /*message*/"あっみんなきてくれたの");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402022001", /*message*/"かすみんにしかくはないですよ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402023001", /*message*/"あなたにごらんにいれましょう");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402032001", /*message*/"みずのせいれいたちよ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402033001", /*message*/"ここでころぶわけにはいきません");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402042001", /*message*/"わたしについていらっしゃい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402052001", /*message*/"とくべつなおでかけ");
@@ -4288,11 +4369,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300052002", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300053001", /*message*/"あふたーすくーるきゃっと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300062001", /*message*/"すのーはれーしょん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300072001", /*message*/"すのーはれーしょん");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300073001", /*message*/"まじかるふぃーばー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300082001", /*message*/"すのーはれーしょん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300083001", /*message*/"はっぴーぱれーど");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300092001", /*message*/"ぼくらのらいぶきみとのらいふ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300093001", /*message*/"みょうじょうのきてき");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301013001", /*message*/"れおすたーぶらいと");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301022001", /*message*/"あおぞらじゃんぴんぐはーと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301023001", /*message*/"ぷれりゅーどぶろっさむ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301032001", /*message*/"きみのこころはかがやいてるかい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301033001", /*message*/"ぶるーれーゔ");
@@ -4320,6 +4403,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_302093001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400012001", /*message*/"すのーはれーしょん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400013001", /*message*/"うぇるかむとぅーざぱーてぃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400023001", /*message*/"すうぃーつでこ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400032001", /*message*/"ぼくらのらいぶきみとのらいふ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400042001", /*message*/"すのーはれーしょん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400043001", /*message*/"みらくるぼやーじゅ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400053001", /*message*/"もりのはんたーがーる");
@@ -4336,6 +4420,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401022001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401023001", /*message*/"ふらわーしんふぉにー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401032001", /*message*/"あおぞらじゃんぴんぐはーと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401033001", /*message*/"りゅうぐうじょうのひめぎみ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401043001", /*message*/"まじかるふぃーばー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401052001", /*message*/"あおぞらじゃんぴんぐはーと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401062001", /*message*/"あおぞらじゃんぴんぐはーと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401072001", /*message*/"あおぞらじゃんぴんぐはーと");
@@ -4347,6 +4432,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401093001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402012001", /*message*/"わくわくあにまる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402013001", /*message*/"すうぃーつでこ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402022001", /*message*/"わくわくあにまる");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402023001", /*message*/"まじかるふぃーばー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402032001", /*message*/"れいんぼーろーず");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402033001", /*message*/"みらくるぼやーじゅ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402042001", /*message*/"れいんぼーろーず");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402052001", /*message*/"わくわくあにまる");
@@ -6090,7 +6177,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_07", /*message*/"");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_shop_item_inline_image_31003", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_20003_s\" height=\"24px\" width=\"24px\" offsetY=\"-5px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_03", /*message*/"");
@@ -6163,8 +6249,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p701", /*message*/"이
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p704", /*message*/"닫기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p705", /*message*/"에피소드 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p901", /*message*/"보너스 스쿨 아이돌");
-INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p909", /*message*/"·보너스 대상 스쿨 아이돌은 한계 돌파를 할 때마다 1%씩 보너스 수치가 증가합니다.
-·스쿨 아이돌의 각성 여부는 보너스 효과와 무관합니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p909_1", /*message*/"·보너스 대상 스쿨 아이돌은 한계 돌파를 할 때마다 1%씩 보너스 수치가 증가합니다.
 ·스쿨 아이돌의 각성 여부는 보너스 효과와 무관합니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p910", /*message*/"닫기");
@@ -6528,6 +6612,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3000330016", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3000430016", /*message*/"호흡을 가다듬고, 과녁에 집중…");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3000530016", /*message*/"내가 좋아하는 너희랑 
 같이 가고 싶었다냥.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3000730016", /*message*/"내 손은 약손~♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3000830016", /*message*/"네가 부탁을 들어 준다면
 기쁠 것 같아.
 에헤헤. 고마워~");
@@ -6557,6 +6642,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3020930016", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4000530016", /*message*/"술래잡기는 질 수 없다냥♪
 금방 잡아 올 테니 기다려!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4000630016", /*message*/"나한테 반할 것 같다고? 후훗, 당연하지♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4010430016", /*message*/"이리 오세요. 포옹해 드릴게요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4020130016", /*message*/"곧 완성이야! 착하게 기다려 줘♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4020330016", /*message*/"꺄악! 여, 여기서 넘어질 수는 없어요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4020530016", /*message*/"할머니 특제 장아찌가
@@ -14934,7 +15020,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100041", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100051", /*message*/"Arashi no Naka no Koi dakara 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100061", /*message*/"Thrilling One-way 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100071", /*message*/"HEART to HEART! 100회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100081", /*message*/"KOKORO Magic “A to Z” 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100081", /*message*/"KOKORO Magic &quot;A to Z&quot; 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100091", /*message*/"TOKIMEKI Runners 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100101", /*message*/"Aozora Jumping Heart 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100111", /*message*/"START: DASH!! 100회 클리어");
@@ -14989,7 +15075,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101011", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101021", /*message*/"Koe Tsunagou yo 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101031", /*message*/"Tele Telepathy 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101181", /*message*/"SUPER NOVA 100회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101191", /*message*/"Dream Land！Dream World！ 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101191", /*message*/"Dream Land!Dream World! 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101201", /*message*/"Sing &amp; Smile!! 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10200161", /*message*/"μ&apos;s 한정으로 구성된 라이브 편성으로 라이브 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10200162", /*message*/"μ&apos;s 한정으로 구성된 라이브 편성으로 라이브 1,000회 클리어");
@@ -15620,7 +15706,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100041", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100051", /*message*/"Arashi no Naka no Koi dakara");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100061", /*message*/"Thrilling One-way");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100071", /*message*/"HEART to HEART!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100081", /*message*/"KOKORO Magic “A to Z”");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100081", /*message*/"KOKORO Magic &quot;A to Z&quot;");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100091", /*message*/"TOKIMEKI Runners");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100101", /*message*/"Aozora Jumping Heart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100111", /*message*/"START: DASH!!");
@@ -15675,7 +15761,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101011", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101021", /*message*/"Koe Tsunagou yo");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101031", /*message*/"Tele Telepathy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101181", /*message*/"SUPER NOVA");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101191", /*message*/"Dream Land！Dream World！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101191", /*message*/"Dream Land!Dream World!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101201", /*message*/"Sing &amp; Smile!!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10200161", /*message*/"μ&apos;s 팬★");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10200162", /*message*/"μ&apos;s 팬★★");
@@ -16698,6 +16784,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1003062", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1003063", /*message*/"의상 Snow Halation ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1003072", /*message*/"의상 허밍 엔젤 １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1003073", /*message*/"의상 허밍 엔젤 ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1003082", /*message*/"의상 Bokura no LIVE Kimi to no LIFE １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1003083", /*message*/"의상 Bokura no LIVE Kimi to no LIFE ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004032", /*message*/"의상 프레시 프루트 팔러 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004033", /*message*/"의상 프레시 프루트 팔러 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004042", /*message*/"의상 여름 축제 심포니 1");
@@ -16744,6 +16832,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1007062", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1007063", /*message*/"의상 제미니 스타 브라이트 ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1007072", /*message*/"의상 Bokura no LIVE Kimi to no LIFE １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1007073", /*message*/"의상 Bokura no LIVE Kimi to no LIFE ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1007082", /*message*/"의상 매지컬☆피버 １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1007083", /*message*/"의상 매지컬☆피버 ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1008032", /*message*/"의상 프레시 프루트 팔러 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1008033", /*message*/"의상 프레시 프루트 팔러 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1008042", /*message*/"의상 체리 플러터 1");
@@ -16801,6 +16891,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102062", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102063", /*message*/"의상 Kimino Kokorowa Kagayaiterukai? ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102072", /*message*/"의상 플라워 심포니 １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102073", /*message*/"의상 플라워 심포니 ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102082", /*message*/"의상 Aozora Jumping Heart １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102083", /*message*/"의상 Aozora Jumping Heart ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1103032", /*message*/"의상 해피니스 치어걸 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1103033", /*message*/"의상 해피니스 치어걸 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1103042", /*message*/"의상 해신의 무녀 1");
@@ -16823,6 +16915,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1104062", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1104063", /*message*/"의상 Kimino Kokorowa Kagayaiterukai? ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1104072", /*message*/"의상 Aozora Jumping Heart １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1104073", /*message*/"의상 Aozora Jumping Heart ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1104082", /*message*/"의상 매지컬☆피버 １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1104083", /*message*/"의상 매지컬☆피버 ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1105032", /*message*/"의상 해피니스 치어걸 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1105033", /*message*/"의상 해피니스 치어걸 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1105042", /*message*/"의상 래빗 인 원더랜드 1");
@@ -16908,12 +17002,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1202052", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1202053", /*message*/"의상 레인보우 로즈 ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1202062", /*message*/"의상 플라워 심포니 １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1202063", /*message*/"의상 플라워 심포니 ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1202072", /*message*/"의상 매지컬☆피버 １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1202073", /*message*/"의상 매지컬☆피버 ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1203032", /*message*/"의상 Anata no Risou no Heroine 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1203033", /*message*/"의상 Anata no Risou no Heroine 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1203042", /*message*/"의상 두근두근 애니멀 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1203043", /*message*/"의상 두근두근 애니멀 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1203052", /*message*/"의상 Miracle voyage １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1203053", /*message*/"의상 Miracle voyage ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1203062", /*message*/"의상 레인보우 로즈 １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1203063", /*message*/"의상 레인보우 로즈 ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1204032", /*message*/"의상 Starlight 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1204033", /*message*/"의상 Starlight 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1204042", /*message*/"의상 블루 탕타시옹 １");
@@ -21801,18 +21899,36 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051504", /
 대상: 같은 작전");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051505", /*message*/"기본 체력 5% 증가
 대상: 같은 작전");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051601", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051701", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051702", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051703", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051704", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051705", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051801", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051901", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051902", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051903", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051904", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051905", /*message*/"仮データ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051601", /*message*/"자기 어필의 7%만큼 볼티지 획득
+조건: SP 특기 발동 시, 확률: 100%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051701", /*message*/"기본 어필 4% 증가
+기본 체력 1.4% 증가
+대상: 같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051702", /*message*/"기본 어필 4.3% 증가
+기본 체력 1.7% 증가
+대상: 같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051703", /*message*/"기본 어필 4.6% 증가
+기본 체력 2% 증가
+대상: 같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051704", /*message*/"기본 어필 4.9% 증가
+기본 체력 2.3% 증가
+대상: 같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051705", /*message*/"기본 어필 5.2% 증가
+기본 체력 2.6% 증가
+대상: 같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051801", /*message*/"5노트 동안 어필 6.5% 증가
+조건: 라이브 시작 시, 확률: 100%
+대상: 모두");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051901", /*message*/"기본 어필 3% 증가
+대상: 같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051902", /*message*/"기본 어필 3.5% 증가
+대상: 같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051903", /*message*/"기본 어필 4% 증가
+대상: 같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051904", /*message*/"기본 어필 4.5% 증가
+대상: 같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20051905", /*message*/"기본 어필 5% 증가
+대상: 같은 작전");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20052001", /*message*/"仮データ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20052101", /*message*/"仮データ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20052102", /*message*/"仮データ");
@@ -24570,7 +24686,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20049702", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20049703", /*message*/"체력+ :같은 속성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20049704", /*message*/"체력+ :같은 속성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20049705", /*message*/"체력+ :같은 속성");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20049801", /*message*/"볼티지 UP :AC 성공 시/전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20049801", /*message*/"볼티지 UP :AC 성공 시/같은 학년");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20049901", /*message*/"어필+ :같은 학년");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20049902", /*message*/"어필+ :같은 학년");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20049903", /*message*/"어필+ :같은 학년");
@@ -24624,18 +24740,18 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051502", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051503", /*message*/"체력+ :같은 작전");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051504", /*message*/"체력+ :같은 작전");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051505", /*message*/"체력+ :같은 작전");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051601", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051701", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051702", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051703", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051704", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051705", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051801", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051901", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051902", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051903", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051904", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051905", /*message*/"仮データ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051601", /*message*/"볼티지 획득 :SP 특기 발동 시");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051701", /*message*/"アピール&amp;スタミナ＋ :같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051702", /*message*/"アピール&amp;スタミナ＋ :같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051703", /*message*/"アピール&amp;スタミナ＋ :같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051704", /*message*/"アピール&amp;スタミナ＋ :같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051705", /*message*/"アピール&amp;スタミナ＋ :같은 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051801", /*message*/"어필 UP :라이브 시작 시/전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051901", /*message*/"어필+ :같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051902", /*message*/"어필+ :같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051903", /*message*/"어필+ :같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051904", /*message*/"어필+ :같은 작전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051905", /*message*/"어필+ :같은 작전");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20052001", /*message*/"仮データ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20052101", /*message*/"仮データ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20052102", /*message*/"仮データ");
@@ -27744,7 +27860,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1007", /*message*/"Mirai n
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1008", /*message*/"HAPPY PARTY TRAIN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1011", /*message*/"SKY JOURNEY");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1012", /*message*/"Thrilling One-way");
-INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1014", /*message*/"KOKORO Magic “A to Z”");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1014", /*message*/"KOKORO Magic &quot;A to Z&quot;");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1015", /*message*/"Brightest Melody");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1059", /*message*/"One More Sunshine Story");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1062", /*message*/"Oyasuminasan!");
@@ -27776,7 +27892,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2017", /*message*/"MELODY"
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2018", /*message*/"Koe Tsunagou yo");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2019", /*message*/"Tele Telepathy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2031", /*message*/"SUPER NOVA");
-INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2032", /*message*/"Dream Land！Dream World！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2032", /*message*/"Dream Land!Dream World!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2033", /*message*/"Sing &amp; Smile!!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0001", /*message*/"それはぼくたちのきせき");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0002", /*message*/"すたーとだっしゅ");
@@ -29735,6 +29851,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000720014", /*message*/"운세 
 그런 말을 할 수 있을까♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000720015", /*message*/"부실 창문을 좀 닦으려고.
 깨끗하면 기분 좋잖아♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000730012", /*message*/"마법은 늘 우리 곁에 있어.
+난 그렇게 믿어.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000730013", /*message*/"내 손은 따뜻해.
+따뜻하게 해 줄까?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000730014", /*message*/"자기 페이스대로
+천천히 하는 거야.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000730015", /*message*/"내가 주문을
+걸어 줄까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000820012", /*message*/"놀러 갈 때는
 항상 주먹밥을 만들어 가♪
 가는 길에 먹으면
@@ -29809,6 +29933,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010130014", /*message*/"누마�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010130015", /*message*/"오늘 하루도
 Aqours 멤버들이랑
 열심히 연습해야지~!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010220012", /*message*/"날씨가 좋으면 왠지
+산책하고 싶어져.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010220013", /*message*/"우치우라의 탁 트인
+푸른 하늘, 푸른 바다…
+처음 봤을 때의 감동을
+잊을 수가 없어.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010220014", /*message*/"저번에 봤던 아이들,
+참 귀여웠지.
+자매가 있는 게 왠지 부러워.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010220015", /*message*/"나도 가끔은 따끔하게 한마디를!
+…할 수 있으면 좋을 텐데.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010230012", /*message*/"내가 정말 꽃처럼 보인다면
 어떤 꽃일지
 조금 궁금하네….");
@@ -30171,6 +30306,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000230014", /*message*/"우후�
 이런 시간을
 소중히 하고 싶어.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000230015", /*message*/"난 언제든 네 편이야.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000320012", /*message*/"의상이 예쁘다는
+말을 들으면
+기분이 좋아.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000320013", /*message*/"의상을 만들 때는
+다 함께 이 의상을 입고
+춤추는 모습을 상상해.
+왠지 설레지 않아?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000320014", /*message*/"어린 시절 친구랑 만나면
+어딘가 그리운 기분이 들어.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000320015", /*message*/"바느질은 자신 있어.
+무슨 일 있으면 수선해 줄게.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000420012", /*message*/"상의와 하의 두께가
 너무 차이 난다고요…?
 괘, 괜찮아요!
@@ -30404,6 +30550,20 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010330014", /*message*/"하루�
 중요하거든.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010330015", /*message*/"혼자서는 할 수 없는 일도
 멤버들과 함께라면 할 수 있어!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010430012", /*message*/"스쿨 아이돌은
+여러분의 마음에
+마법을 건답니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010430013", /*message*/"건강 관리도
+스쿨 아이돌이 할 일이에요.
+감기에 걸리지 않도록
+조심하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010430014", /*message*/"아이들이 울고 있으면
+내버려 둘 수가 없어요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010430015", /*message*/"말로는 전해지지
+않는 것도 있죠.
+그래도 전하고자 하는
+마음 그 자체가
+소중하다고 생각해요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010520012", /*message*/"파란색은 바다의 색!
 아니지,
 이번에는 하늘의 색이야♪");
@@ -30545,6 +30705,31 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020220014", /*message*/"훌쩍�
 눈물 연기 연습 중….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020220015", /*message*/"아잉~ 카스밍,
 구두에 발이 쓸렸어요….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020230012", /*message*/"카스밍의 마법을
+특별히 보여 드릴게요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020230013", /*message*/"카스밍의 마법 소녀 차림!
+세상에서 제일 귀엽다고요?
+당연하죠!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020230014", /*message*/"짜잔~!
+카스밍 특제
+마법 쿠페빵!
+하나 드실래요?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020230015", /*message*/"제법인데요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020320012", /*message*/"무지개처럼 알록달록하고
+감정이 풍부한 연기를 하려고
+늘 신경 쓰고 있어요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020320013", /*message*/"무대 의상을 입으면
+바짝 집중하게 돼요.
+관객을 위해
+열심히 해야겠다는
+생각이 들죠.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020320014", /*message*/"어린이들도
+집중해서 보게 되는
+연기를 하고 싶어요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020320015", /*message*/"연기하는 동안은
+잡념이 사라지죠.
+그 시간이
+정말 좋아요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020330012", /*message*/"만약 넓은 바다를 한걸음에
 건널 수 있다면, 동네를
 산책하듯이 다양한

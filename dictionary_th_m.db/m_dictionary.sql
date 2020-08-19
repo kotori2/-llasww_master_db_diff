@@ -531,7 +531,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000309", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000310", /*message*/"[わくわく！年越しキャンペーン] เคลียร์ &quot;START: DASH!!&quot; 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000311", /*message*/"[わくわく！年越しキャンペーン] เคลียร์ &quot;Snow Halation&quot; 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000312", /*message*/"[わくわく！年越しキャンペーン] เคลียร์ &quot;Bokura wa Ima no Naka de&quot; 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000313", /*message*/"[わくわく！年越しキャンペーン] เคลียร์ &quot;KOKORO Magic “A to Z”&quot; 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000313", /*message*/"[わくわく！年越しキャンペーン] เคลียร์ &quot;KOKORO Magic &quot;A to Z&quot;&quot; 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000314", /*message*/"[わくわく！年越しキャンペーン] เคลียร์ &quot;Kimino Kokorowa Kagayaiterukai?&quot; 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000315", /*message*/"[わくわく！年越しキャンペーン] เคลียร์ &quot;Aozora Jumping Heart&quot; 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000316", /*message*/"[わくわく！年越しキャンペーン] เคลียร์ &quot;Thrilling One-way&quot; 20 ครั้ง");
@@ -578,7 +578,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000805", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] เคลียร์ &quot;SUPER NOVA&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] ใช้ท่าพิเศษ SP ที่มีมิยาชิตะ ไอ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] ใช้ท่าพิเศษ SP ที่มีอาซากะ คาริน 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] เคลียร์ &quot;Dream Land！Dream World！&quot; 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] เคลียร์ &quot;Dream Land!Dream World!&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000905", /*message*/"[Dream Land！Dream World！ 発売記念！] ใช้ท่าพิเศษ SP ที่มีอุเอฮาระ อายูมุ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000906", /*message*/"[Dream Land！Dream World！ 発売記念！] ใช้ท่าพิเศษ SP ที่มีโอซากะ ชิสึคุ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000907", /*message*/"[Dream Land！Dream World！ 発売記念！] ใช้ท่าพิเศษ SP ที่มียูกิ เซ็ตสึนะ 20 ครั้ง");
@@ -587,7 +587,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000909", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000910", /*message*/"[Sing &amp; Smile!! 発売記念！] ใช้ท่าพิเศษ SP ที่มีโคโนเอะ คานาตะ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000911", /*message*/"[Sing &amp; Smile!! 発売記念！] ใช้ท่าพิเศษ SP ที่มีเอ็มม่า เวอร์เด้ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000912", /*message*/"[Sing &amp; Smile!! 発売記念！] ใช้ท่าพิเศษ SP ที่มีเท็นโนจิ รินะ 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001001", /*message*/"[スクフェスシリーズ感謝祭 2020] เคลียร์ &quot;KOKORO Magic “A to Z”&quot; 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001001", /*message*/"[スクフェスシリーズ感謝祭 2020] เคลียร์ &quot;KOKORO Magic &quot;A to Z&quot;&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001101", /*message*/"[ฉลองครบรอบครึ่งปี!]เคลียร์ &quot;NO EXIT ORION&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001102", /*message*/"[ฉลองครบรอบครึ่งปี!]เคลียร์ &quot;Genki Zenkai DAY! DAY! DAY!&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001103", /*message*/"[ฉลองครบรอบครึ่งปี!]เคลียร์ &quot;Yume e no Ippo&quot; 5 ครั้ง");
@@ -626,7 +626,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"บทที่ 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"บทที่ 7");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31003", /*message*/"TOP อีเวนต์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -817,9 +816,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400037", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400038", /*message*/"เคลียร์ &quot;Dokipipo☆Emotion&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400039", /*message*/"เคลียร์ &quot;Dokipipo☆Emotion&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400040", /*message*/"เคลียร์ &quot;Dokipipo☆Emotion&quot; 100 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400041", /*message*/"เคลียร์ &quot;KOKORO Magic “A to Z”&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400042", /*message*/"เคลียร์ &quot;KOKORO Magic “A to Z”&quot; 50 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400043", /*message*/"เคลียร์ &quot;KOKORO Magic “A to Z”&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400041", /*message*/"เคลียร์ &quot;KOKORO Magic &quot;A to Z&quot;&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400042", /*message*/"เคลียร์ &quot;KOKORO Magic &quot;A to Z&quot;&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400043", /*message*/"เคลียร์ &quot;KOKORO Magic &quot;A to Z&quot;&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400044", /*message*/"เคลียร์ &quot;TOKIMEKI Runners&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400045", /*message*/"เคลียร์ &quot;TOKIMEKI Runners&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400046", /*message*/"เคลียร์ &quot;TOKIMEKI Runners&quot; 100 ครั้ง");
@@ -964,9 +963,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400184", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"เคลียร์ &quot;SUPER NOVA&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"เคลียร์ &quot;SUPER NOVA&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"เคลียร์ &quot;SUPER NOVA&quot; 100 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"เคลียร์ &quot;Dream Land！Dream World！&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"เคลียร์ &quot;Dream Land！Dream World！&quot; 50 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"เคลียร์ &quot;Dream Land！Dream World！&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"เคลียร์ &quot;Dream Land!Dream World!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"เคลียร์ &quot;Dream Land!Dream World!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"เคลียร์ &quot;Dream Land!Dream World!&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400191", /*message*/"เคลียร์ &quot;Sing &amp; Smile!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400192", /*message*/"เคลียร์ &quot;Sing &amp; Smile!!&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400193", /*message*/"เคลียร์ &quot;Sing &amp; Smile!!&quot; 100 ครั้ง");
@@ -1911,6 +1910,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_1", /*message*/"ร
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_2", /*message*/"อยากน่ารักบ้าง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"นิโกะจังก็คือนิโกะจัง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"มองทุกอย่างทะลุปรุโปร่ง!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"ความเจ็บปวดเอ๋ยจงหายไป~♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"หลับตาสิ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"ข้าวปั้นเปี่ยมรัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"หวงเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"ความรู้สึกนุ่มละมุน");
@@ -1919,6 +1920,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"ข
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"ท่องเที่ยวด้วยรอยยิ้มสองต่อสอง♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"เธอชอบตรงไหนเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"สัตว์ประหลาดสิงโตจิกัจจิ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"มาเล่นโยนรองเท้ากันเถอะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"ความเร่าร้อนที่สงบเงียบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"สาวน้อยแห่งดอกไม้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"จิตใจที่สงบนิ่ง");
@@ -1958,6 +1960,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_1", /*message*/"ก
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_2", /*message*/"เธอก็ไปงานเต้นรำได้แล้วสิ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023001_1", /*message*/"รอยยิ้มของใครบางคนคือพลังของฉัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023001_2", /*message*/"ผลไม้ของเธอเท่านั้น");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400032001_1", /*message*/"เพื่อนของเหล่าตุ๊กตา");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400042001_1", /*message*/"ถึงชื่อจะแปลว่าทะเลแต่ก็ชอบภูเขา");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043001_1", /*message*/"ยังไงก็อยากกินค่ะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043001_2", /*message*/"เพราะชื่อ &quot;อุมิ&quot;");
@@ -1982,6 +1985,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401023001_2", /*message*/"ใ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401032001_1", /*message*/"ถ้ามีก็คงดีเนอะ♪ ชมรมดำน้ำ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033001_1", /*message*/"Diving Again");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033001_2", /*message*/"คำขอร้องของเจ้าหญิงวังมังกร");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043001_1", /*message*/"อ้อมกอดของไดยะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043001_2", /*message*/"ไม่กล้าพูดต่อหน้า");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052001_1", /*message*/"ปีกชั่วคราว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401062001_1", /*message*/"ปีกสีนิลและเรื่องหลังจากนั้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401072001_1", /*message*/"พลังลึกลับของความอร่อย");
@@ -1997,6 +2002,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402012001_1", /*message*/"ค
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402013001_1", /*message*/"ตัวเอกมักโผล่มาทีหลัง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402013001_2", /*message*/"ไปอย่างสดใสกันเถอะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402022001_1", /*message*/"มุ่งมั่นสู่อันดับที่สูงขึ้น!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023001_1", /*message*/"จงอร่อยขึ้น!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023001_2", /*message*/"เวทมนตร์ของคาสึมิน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402032001_1", /*message*/"แม่มดกับสาวน้อยเวทมนตร์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402033001_1", /*message*/"น้ำแข็งไสสูตรโอซากะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402033001_2", /*message*/"โรงเรียนแห่งสายรุ้งและท้องทะเล");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402042001_1", /*message*/"เป้าหมายคือสายเรียบหรู?");

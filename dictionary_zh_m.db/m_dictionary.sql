@@ -531,7 +531,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000309", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000310", /*message*/"[わくわく！年越しキャンペーン] 完成20次「START: DASH!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000311", /*message*/"[わくわく！年越しキャンペーン] 完成20次「Snow Halation」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000312", /*message*/"[わくわく！年越しキャンペーン] 完成20次「Bokura wa Ima no Naka de」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000313", /*message*/"[わくわく！年越しキャンペーン] 完成20次「KOKORO Magic “A to Z”」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000313", /*message*/"[わくわく！年越しキャンペーン] 完成20次「KOKORO Magic &quot;A to Z&quot;」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000314", /*message*/"[わくわく！年越しキャンペーン] 完成20次「Kimino Kokorowa Kagayaiterukai?」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000315", /*message*/"[わくわく！年越しキャンペーン] 完成20次「Aozora Jumping Heart」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000316", /*message*/"[わくわく！年越しキャンペーン] 完成20次「Thrilling One-way」");
@@ -578,7 +578,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000805", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] 完成5次「SUPER NOVA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] 使用20次發動成員包含宮下愛的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] 使用20次發動成員包含朝香果林的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] 完成5次「Dream Land！Dream World！」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] 完成5次「Dream Land!Dream World!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000905", /*message*/"[Dream Land！Dream World！ 発売記念！] 使用20次發動成員包含上原步夢的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000906", /*message*/"[Dream Land！Dream World！ 発売記念！] 使用20次發動成員包含櫻坂雫的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000907", /*message*/"[Dream Land！Dream World！ 発売記念！] 使用20次發動成員包含優木雪菜的組合技");
@@ -587,7 +587,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000909", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000910", /*message*/"[Sing &amp; Smile!! 発売記念！] 使用20次發動成員包含近江彼方的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000911", /*message*/"[Sing &amp; Smile!! 発売記念！] 使用20次發動成員包含艾瑪‧薇蒂的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000912", /*message*/"[Sing &amp; Smile!! 発売記念！] 使用20次發動成員包含天王寺璃奈的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001001", /*message*/"[スクフェスシリーズ感謝祭 2020] 完成5次「KOKORO Magic “A to Z”」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001001", /*message*/"[スクフェスシリーズ感謝祭 2020] 完成5次「KOKORO Magic &quot;A to Z&quot;」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001101", /*message*/"[半週年紀念！]完成5次「NO EXIT ORION」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001102", /*message*/"[半週年紀念！]完成5次「Genki Zenkai DAY! DAY! DAY!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001103", /*message*/"[半週年紀念！]完成5次「Yume e no Ippo」");
@@ -626,7 +626,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"第5話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"第6話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"第7話");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31003", /*message*/"活動首頁");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");
@@ -817,9 +816,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400037", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400038", /*message*/"完成10次「Dokipipo☆Emotion」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400039", /*message*/"完成50次「Dokipipo☆Emotion」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400040", /*message*/"完成100次「Dokipipo☆Emotion」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400041", /*message*/"完成10次「KOKORO Magic “A to Z”」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400042", /*message*/"完成50次「KOKORO Magic “A to Z”」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400043", /*message*/"完成100次「KOKORO Magic “A to Z”」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400041", /*message*/"完成10次「KOKORO Magic &quot;A to Z&quot;」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400042", /*message*/"完成50次「KOKORO Magic &quot;A to Z&quot;」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400043", /*message*/"完成100次「KOKORO Magic &quot;A to Z&quot;」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400044", /*message*/"完成10次「TOKIMEKI Runners」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400045", /*message*/"完成50次「TOKIMEKI Runners」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400046", /*message*/"完成100次「TOKIMEKI Runners」");
@@ -964,9 +963,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400184", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"完成10次「SUPER NOVA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"完成50次「SUPER NOVA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"完成100次「SUPER NOVA」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"完成10次「Dream Land！Dream World！」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"完成50次「Dream Land！Dream World！」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"完成100次「Dream Land！Dream World！」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"完成10次「Dream Land!Dream World!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"完成50次「Dream Land!Dream World!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"完成100次「Dream Land!Dream World!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400191", /*message*/"完成10次「Sing &amp; Smile!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400192", /*message*/"完成50次「Sing &amp; Smile!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400193", /*message*/"完成100次「Sing &amp; Smile!!」");
@@ -1910,6 +1909,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_1", /*message*/"你
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_2", /*message*/"想變得可愛");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"小香還是小香！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"一切都逃不過我的法眼！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"痛痛～飛走了～♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"閉上眼睛！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"充滿愛心的飯糰");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"吃醋啦？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"飄飄然的心情");
@@ -1918,6 +1919,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"愛
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"兩人的微笑旅程♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"你喜歡哪裡？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"獅子怪獸千歌歌！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"來比誰鞋子踢得遠吧");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"靜謐的熱情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"花之少女");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"心情風平浪靜");
@@ -1957,6 +1959,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_1", /*message*/"道
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_2", /*message*/"都能去參加舞會了！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023001_1", /*message*/"他人的笑容就是我的活力來源");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023001_2", /*message*/"專屬於你的果實");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400032001_1", /*message*/"布偶好朋友");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400042001_1", /*message*/"雖然名字裡有海，但我喜歡山");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043001_1", /*message*/"還是好想吃");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043001_2", /*message*/"「海未」這個名字");
@@ -1981,6 +1984,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401023001_2", /*message*/"互
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401032001_1", /*message*/"真希望有潛水社♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033001_1", /*message*/"再次潛水");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033001_2", /*message*/"乙姬公主的請求");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043001_1", /*message*/"黛雅的抱抱");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043001_2", /*message*/"無法當面說出口");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052001_1", /*message*/"片刻擁有的翅膀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401062001_1", /*message*/"漆黑之翼・後日談");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401072001_1", /*message*/"美味的魔力");
@@ -1996,6 +2001,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402012001_1", /*message*/"下
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402013001_1", /*message*/"主角要壓軸登場");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402013001_2", /*message*/"帶著新鮮的心情前進吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402022001_1", /*message*/"努力精進！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023001_1", /*message*/"變好吃吧！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023001_2", /*message*/"小霞霞的魔法");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402032001_1", /*message*/"魔女與魔法少女");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402033001_1", /*message*/"櫻坂牌刨冰");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402033001_2", /*message*/"彩虹與海的學園");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402042001_1", /*message*/"目標是走清純路線？");

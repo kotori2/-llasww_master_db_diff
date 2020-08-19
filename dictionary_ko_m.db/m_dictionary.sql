@@ -531,7 +531,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000309", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000310", /*message*/"[わくわく！年越しキャンペーン] START: DASH!! 20회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000311", /*message*/"[わくわく！年越しキャンペーン] Snow Halation 20회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000312", /*message*/"[わくわく！年越しキャンペーン] Bokura wa Ima no Naka de 20회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000313", /*message*/"[わくわく！年越しキャンペーン] KOKORO Magic “A to Z” 20회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000313", /*message*/"[わくわく！年越しキャンペーン] KOKORO Magic &quot;A to Z&quot; 20회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000314", /*message*/"[わくわく！年越しキャンペーン] Kimino Kokorowa Kagayaiterukai? 20회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000315", /*message*/"[わくわく！年越しキャンペーン] Aozora Jumping Heart 20회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000316", /*message*/"[わくわく！年越しキャンペーン] Thrilling One-way 20회 클리어");
@@ -578,7 +578,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000805", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] SUPER NOVA 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] 미야시타 아이이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] 아사카 카린이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] Dream Land！Dream World！ 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] Dream Land!Dream World! 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000905", /*message*/"[Dream Land！Dream World！ 発売記念！] 우에하라 아유무이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000906", /*message*/"[Dream Land！Dream World！ 発売記念！] 오사카 시즈쿠이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000907", /*message*/"[Dream Land！Dream World！ 発売記念！] 유키 세츠나이/가 포함된 SP 특기 20회 사용");
@@ -587,7 +587,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000909", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000910", /*message*/"[Sing &amp; Smile!! 発売記念！] 코노에 카나타이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000911", /*message*/"[Sing &amp; Smile!! 発売記念！] 엠마 베르데이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000912", /*message*/"[Sing &amp; Smile!! 発売記念！] 텐노지 리나이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001001", /*message*/"[スクフェスシリーズ感謝祭 2020] KOKORO Magic “A to Z” 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001001", /*message*/"[スクフェスシリーズ感謝祭 2020] KOKORO Magic &quot;A to Z&quot; 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001101", /*message*/"[하프 애니버서리 기념!] NO EXIT ORION 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001102", /*message*/"[하프 애니버서리 기념!] Genki Zenkai DAY! DAY! DAY! 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001103", /*message*/"[하프 애니버서리 기념!] Yume e no Ippo 5회 클리어");
@@ -626,7 +626,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"제5화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"제6화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"제7화");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31003", /*message*/"이벤트 메인");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");
@@ -817,9 +816,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400037", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400038", /*message*/"Dokipipo☆Emotion 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400039", /*message*/"Dokipipo☆Emotion 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400040", /*message*/"Dokipipo☆Emotion 100회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400041", /*message*/"KOKORO Magic “A to Z” 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400042", /*message*/"KOKORO Magic “A to Z” 50회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400043", /*message*/"KOKORO Magic “A to Z” 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400041", /*message*/"KOKORO Magic &quot;A to Z&quot; 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400042", /*message*/"KOKORO Magic &quot;A to Z&quot; 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400043", /*message*/"KOKORO Magic &quot;A to Z&quot; 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400044", /*message*/"TOKIMEKI Runners 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400045", /*message*/"TOKIMEKI Runners 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400046", /*message*/"TOKIMEKI Runners 100회 클리어");
@@ -964,9 +963,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400184", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"SUPER NOVA 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"SUPER NOVA 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"SUPER NOVA 100회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"Dream Land！Dream World！ 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"Dream Land！Dream World！ 50회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"Dream Land！Dream World！ 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"Dream Land!Dream World! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"Dream Land!Dream World! 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"Dream Land!Dream World! 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400191", /*message*/"Sing &amp; Smile!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400192", /*message*/"Sing &amp; Smile!! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400193", /*message*/"Sing &amp; Smile!! 100회 클리어");
@@ -1910,6 +1909,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_1", /*message*/"어
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_2", /*message*/"귀여워지고 싶어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"니코는 니코!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"무엇이든 다 알고 있지!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"내 손은 약손~♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"눈을 감아!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"애정 듬뿍 주먹밥");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"알파카에게 질투?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"둥실둥실 들뜨는 기분");
@@ -1918,6 +1919,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"러
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"둘이 방긋 전철 여행♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"넌 어떤 점이 좋아?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"사자 괴수 치카치!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"신발 던지기 놀이를 하자");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"조용한 열정");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"꽃의 소녀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"잔잔해지는 마음");
@@ -1957,6 +1959,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_1", /*message*/"칭
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_2", /*message*/"무도회에도 갈 수 있어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023001_1", /*message*/"사람들의 미소는 나의 힘");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023001_2", /*message*/"너만의 과일");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400032001_1", /*message*/"인형 친구");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400042001_1", /*message*/"바다보다 산이 좋아");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043001_1", /*message*/"역시 먹고 싶어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043001_2", /*message*/"&quot;우미&quot;라는 이름");
@@ -1981,6 +1984,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401023001_2", /*message*/"하
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401032001_1", /*message*/"다이빙부가 있었으면 좋겠어♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033001_1", /*message*/"다이빙 어게인");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033001_2", /*message*/"용궁 공주님의 부탁");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043001_1", /*message*/"다이아의 포옹");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043001_2", /*message*/"대놓고 말할 수는 없어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052001_1", /*message*/"한 순간의 날개");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401062001_1", /*message*/"칠흑의 날개 후일담");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401072001_1", /*message*/"맛에 숨겨진 마력");
@@ -1996,6 +2001,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402012001_1", /*message*/"다
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402013001_1", /*message*/"주인공은 늦게 등장하는 법");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402013001_2", /*message*/"상큼하게 가자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402022001_1", /*message*/"목표는 높게!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023001_1", /*message*/"맛있어져~라!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023001_2", /*message*/"카스밍의 마법");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402032001_1", /*message*/"마녀와 마법 소녀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402033001_1", /*message*/"오사카표 빙수");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402033001_2", /*message*/"무지개와 바다의 학교");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402042001_1", /*message*/"목표는 청초한 분위기?");

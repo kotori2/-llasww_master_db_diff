@@ -76,6 +76,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_19", /*message*/"ユニ
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_2", /*message*/"Star Necklace");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_20", /*message*/"ユニットピンズ（QU4RTZ）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_21", /*message*/"ヒツジのニット帽");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_22", /*message*/"はじまりのCD");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_23", /*message*/"ユニットピンズ（CYaRon！）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_24", /*message*/"ユニットピンズ（AZALEA）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_25", /*message*/"ユニットピンズ（Guilty Kiss）");
@@ -1351,6 +1352,36 @@ Affects: Self");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_9", /*message*/"Increase Critical % by 2.6% for 3 Notes.
 Condition: On Appeal Chance start, 10% chance
 Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_1", /*message*/"Increase Appeal by 1% for 3 Notes.
+Condition: On Appeal Chance start, 40% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_10", /*message*/"Increase Appeal by 2% for 3 Notes.
+Condition: On Appeal Chance start, 40% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_2", /*message*/"Increase Appeal by 1.1% for 3 Notes.
+Condition: On Appeal Chance start, 40% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_3", /*message*/"Increase Appeal by 1.2% for 3 Notes.
+Condition: On Appeal Chance start, 40% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_4", /*message*/"Increase Appeal by 1.3% for 3 Notes.
+Condition: On Appeal Chance start, 40% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_5", /*message*/"Increase Appeal by 1.4% for 3 Notes.
+Condition: On Appeal Chance start, 40% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_6", /*message*/"Increase Appeal by 1.5% for 3 Notes.
+Condition: On Appeal Chance start, 40% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_7", /*message*/"Increase Appeal by 1.6% for 3 Notes.
+Condition: On Appeal Chance start, 40% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_8", /*message*/"Increase Appeal by 1.7% for 3 Notes.
+Condition: On Appeal Chance start, 40% chance
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_9", /*message*/"Increase Appeal by 1.8% for 3 Notes.
+Condition: On Appeal Chance start, 40% chance
+Affects: Self");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_1", /*message*/"Increase Appeal by 50 for 3 Notes.
 Condition: On Strategy Switch, 25% chance
 Affects: Self");
@@ -1466,6 +1497,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000032"
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000033", /*message*/"Damage Reduction: AC Duration");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000034", /*message*/"Skill Activation Rate Up: AC Duration");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000035", /*message*/"Critical Up :AC Start");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000036", /*message*/"Appeal Up :AC Start");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000037", /*message*/"Appeal Up :On Strategy Switch");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000038", /*message*/"SP Gauge Gain Up :AC Start");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000039", /*message*/"SP Skill Up :When Damaged");
@@ -7545,6 +7577,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15006", /*message*/"An item 
 You can obtain them by completing Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15007", /*message*/"An item that increases the event points you obtain.
 You can obtain them by completing Goals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15008", /*message*/"An item that increases the event points you obtain.
+You can obtain them by completing Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15901", /*message*/"An item that increases the event points you obtain.
 You can obtain them by completing Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_16001", /*message*/"An item that allows you to skip Live Shows.
@@ -7612,6 +7646,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15004", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15005", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15006", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15007", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15008", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15901", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15001", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15001_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15002", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15002_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
@@ -7620,6 +7655,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15004", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15005", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15005_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15006", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15006_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15007", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15007_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15008", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15008_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15901", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15901_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_list_l_101", /*message*/"Item List");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_list_l_108", /*message*/"There are no consumables to display.");
@@ -7708,6 +7744,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15004", /*message*/"Planisph
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15005", /*message*/"School Idol Train Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15006", /*message*/"Strawberry Tart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15007", /*message*/"Cryptidex");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15008", /*message*/"Magic Wand");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15901", /*message*/"Cheer Light B");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_16001", /*message*/"Skip Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1700", /*message*/"School Idol Badge");
@@ -14917,6 +14954,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000831", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000832", /*message*/"A Title for placing in the Top 90,000 for &quot;Cryptid Catchin&apos; Crusade!&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000833", /*message*/"A Title for placing in the Top 100,000 for &quot;Cryptid Catchin&apos; Crusade!&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000898", /*message*/"&quot;Cryptid Catchin&apos; Crusade!&quot; Participation Prize.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000901", /*message*/"A Title for placing at 1 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000902", /*message*/"A Title for placing at 2 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000903", /*message*/"A Title for placing at 3 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000904", /*message*/"A Title for placing at 4 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000905", /*message*/"A Title for placing at 5 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000906", /*message*/"A Title for placing at 6 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000907", /*message*/"A Title for placing at 7 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000908", /*message*/"A Title for placing at 8 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000909", /*message*/"A Title for placing at 9 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000910", /*message*/"A Title for placing at 10 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000911", /*message*/"A Title for placing in the Top 50 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000912", /*message*/"A Title for placing in the Top 100 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000913", /*message*/"A Title for placing in the Top 300 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000914", /*message*/"A Title for placing in the Top 500 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000915", /*message*/"A Title for placing in the Top 1,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000916", /*message*/"A Title for placing in the Top 2,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000917", /*message*/"A Title for placing in the Top 3,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000918", /*message*/"A Title for placing in the Top 4,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000919", /*message*/"A Title for placing in the Top 5,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000920", /*message*/"A Title for placing in the Top 6,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000921", /*message*/"A Title for placing in the Top 7,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000922", /*message*/"A Title for placing in the Top 8,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000923", /*message*/"A Title for placing in the Top 9,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000924", /*message*/"A Title for placing in the Top 10,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000925", /*message*/"A Title for placing in the Top 20,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000926", /*message*/"A Title for placing in the Top 30,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000927", /*message*/"A Title for placing in the Top 40,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000928", /*message*/"A Title for placing in the Top 50,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000929", /*message*/"A Title for placing in the Top 60,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000930", /*message*/"A Title for placing in the Top 70,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000931", /*message*/"A Title for placing in the Top 80,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000932", /*message*/"A Title for placing in the Top 90,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000933", /*message*/"A Title for placing in the Top 100,000 for &quot;Magical Time!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000998", /*message*/"&quot;Magical Time!&quot; Participation Prize.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100101", /*message*/"A Title for placing at 1 for &quot;Great Battle on the High Seas&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100102", /*message*/"A Title for placing at 2 for &quot;Great Battle on the High Seas&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100103", /*message*/"A Title for placing at 3 for &quot;Great Battle on the High Seas&quot;.");
@@ -15603,6 +15674,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000831", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000832", /*message*/"&quot;Cryptid Catchin&apos; Crusade!&quot; Top 90,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000833", /*message*/"&quot;Cryptid Catchin&apos; Crusade!&quot; Top 100,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000898", /*message*/"Cryptid Catchin&apos; Crusade! Participation Prize");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000901", /*message*/"&quot;Magical Time!&quot; #1 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000902", /*message*/"&quot;Magical Time!&quot; #2 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000903", /*message*/"&quot;Magical Time!&quot; #3 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000904", /*message*/"&quot;Magical Time!&quot; #4 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000905", /*message*/"&quot;Magical Time!&quot; #5 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000906", /*message*/"&quot;Magical Time!&quot; #6 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000907", /*message*/"&quot;Magical Time!&quot; #7 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000908", /*message*/"&quot;Magical Time!&quot; #8 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000909", /*message*/"&quot;Magical Time!&quot; #9 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000910", /*message*/"&quot;Magical Time!&quot; #10 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000911", /*message*/"&quot;Magical Time!&quot; Top 50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000912", /*message*/"&quot;Magical Time!&quot; Top 100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000913", /*message*/"&quot;Magical Time!&quot; Top 300");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000914", /*message*/"&quot;Magical Time!&quot; Top 500");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000915", /*message*/"&quot;Magical Time!&quot; Top 1,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000916", /*message*/"&quot;Magical Time!&quot; Top 2,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000917", /*message*/"&quot;Magical Time!&quot; Top 3,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000918", /*message*/"&quot;Magical Time!&quot; Top 4,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000919", /*message*/"&quot;Magical Time!&quot; Top 5,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000920", /*message*/"&quot;Magical Time!&quot; Top 6,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000921", /*message*/"&quot;Magical Time!&quot; Top 7,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000922", /*message*/"&quot;Magical Time!&quot; Top 8,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000923", /*message*/"&quot;Magical Time!&quot; Top 9,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000924", /*message*/"&quot;Magical Time!&quot; Top 10,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000925", /*message*/"&quot;Magical Time!&quot; Top 20,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000926", /*message*/"&quot;Magical Time!&quot; Top 30,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000927", /*message*/"&quot;Magical Time!&quot; Top 40,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000928", /*message*/"&quot;Magical Time!&quot; Top 50,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000929", /*message*/"&quot;Magical Time!&quot; Top 60,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000930", /*message*/"&quot;Magical Time!&quot; Top 70,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000931", /*message*/"&quot;Magical Time!&quot; Top 80,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000932", /*message*/"&quot;Magical Time!&quot; Top 90,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000933", /*message*/"&quot;Magical Time!&quot; Top 100,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000998", /*message*/"Magical Time! Participation Prize");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100101", /*message*/"&quot;Great Battle on the High Seas&quot; #1 Ranking Reward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100102", /*message*/"&quot;Great Battle on the High Seas&quot; #2 Ranking Reward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100103", /*message*/"&quot;Great Battle on the High Seas&quot; #3 Ranking Reward");

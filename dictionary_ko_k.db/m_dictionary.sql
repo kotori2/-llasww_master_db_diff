@@ -77,6 +77,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_19", /*message*/"ユニ
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_2", /*message*/"별 목걸이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_20", /*message*/"ユニットピンズ（QU4RTZ）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_21", /*message*/"ヒツジのニット帽");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_22", /*message*/"はじまりのCD");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_23", /*message*/"ユニットピンズ（CYaRon！）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_24", /*message*/"ユニットピンズ（AZALEA）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_25", /*message*/"ユニットピンズ（Guilty Kiss）");
@@ -1377,6 +1378,36 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000035_9", /*message*/"3노트 동안 크리티컬 확률2.6% 증가
 조건: 어필 찬스(AC) 시작 시, 확률: 10%
 대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_1", /*message*/"3노트 동안 어필 1% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 40%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_10", /*message*/"3노트 동안 어필 2% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 40%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_2", /*message*/"3노트 동안 어필 1.1% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 40%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_3", /*message*/"3노트 동안 어필 1.2% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 40%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_4", /*message*/"3노트 동안 어필 1.3% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 40%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_5", /*message*/"3노트 동안 어필 1.4% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 40%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_6", /*message*/"3노트 동안 어필 1.5% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 40%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_7", /*message*/"3노트 동안 어필 1.6% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 40%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_8", /*message*/"3노트 동안 어필 1.7% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 40%
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000036_9", /*message*/"3노트 동안 어필 1.8% 증가
+조건: 어필 찬스(AC) 시작 시, 확률: 40%
+대상: 자신");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000037_1", /*message*/"3노트 동안 어필 50 증가
 조건: 작전 변경 시, 확률: 25%
 대상: 자신");
@@ -1492,6 +1523,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000032"
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000033", /*message*/"대미지 경감 :AC 시작 시");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000034", /*message*/"특기 발동률 증가 : AC 시");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000035", /*message*/"크리티컬 UP :AC 시작 시");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000036", /*message*/"어필 UP :AC 시작 시");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000037", /*message*/"어필 UP :작전 변경 시");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000038", /*message*/"SP 게이지 획득 UP :AC 시작 시");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000039", /*message*/"SP 특기 UP :대미지를 받았을 때");
@@ -7834,6 +7866,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15006", /*message*/"이벤�
 과제를 달성하면 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15007", /*message*/"이벤트 포인트를 획득량을 늘려 주는 아이템.
 과제를 달성하면 획득할 수 있습니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15008", /*message*/"이벤트 포인트를 획득량을 늘려 주는 아이템.
+과제를 달성하면 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15901", /*message*/"이벤트 포인트를 획득량을 늘려 주는 아이템.
 과제를 달성하면 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_16001", /*message*/"라이브를 즉시 완료할 수 있는 아이템.
@@ -7903,6 +7937,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15004", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15005", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15006", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15007", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15008", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15901", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15001", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15001_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15002", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15002_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
@@ -7911,6 +7946,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15004", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15005", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15005_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15006", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15006_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15007", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15007_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15008", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15008_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15901", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15901_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_list_l_101", /*message*/"아이템 목록");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_list_l_108", /*message*/"표시할 소모 아이템이 없습니다.");
@@ -7999,6 +8035,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15004", /*message*/"별자�
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15005", /*message*/"스쿨 아이돌 트레인 승차권");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15006", /*message*/"딸기 타르트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15007", /*message*/"UMA 도감");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15008", /*message*/"요술봉");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15901", /*message*/"응원 블레이드 B");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_16001", /*message*/"스킵 티켓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1700", /*message*/"스쿨 아이돌의 증표");
@@ -15482,6 +15519,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000831", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000832", /*message*/"레츠 고! UMA 탐색대 랭킹 상위 90,000위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000833", /*message*/"레츠 고! UMA 탐색대 랭킹 상위 100,000위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000898", /*message*/"레츠 고! UMA 탐색대 참가상");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000901", /*message*/"매지컬 타임! 랭킹 1위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000902", /*message*/"매지컬 타임! 랭킹 2위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000903", /*message*/"매지컬 타임! 랭킹 3위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000904", /*message*/"매지컬 타임! 랭킹 4위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000905", /*message*/"매지컬 타임! 랭킹 5위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000906", /*message*/"매지컬 타임! 랭킹 6위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000907", /*message*/"매지컬 타임! 랭킹 7위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000908", /*message*/"매지컬 타임! 랭킹 8위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000909", /*message*/"매지컬 타임! 랭킹 9위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000910", /*message*/"매지컬 타임! 랭킹 10위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000911", /*message*/"매지컬 타임! 랭킹 상위 50위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000912", /*message*/"매지컬 타임! 랭킹 상위 100위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000913", /*message*/"매지컬 타임! 랭킹 상위 300위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000914", /*message*/"매지컬 타임! 랭킹 상위 500위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000915", /*message*/"매지컬 타임! 랭킹 상위 1,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000916", /*message*/"매지컬 타임! 랭킹 상위 2,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000917", /*message*/"매지컬 타임! 랭킹 상위 3,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000918", /*message*/"매지컬 타임! 랭킹 상위 4,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000919", /*message*/"매지컬 타임! 랭킹 상위 5,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000920", /*message*/"매지컬 타임! 랭킹 상위 6,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000921", /*message*/"매지컬 타임! 랭킹 상위 7,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000922", /*message*/"매지컬 타임! 랭킹 상위 8,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000923", /*message*/"매지컬 타임! 랭킹 상위 9,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000924", /*message*/"매지컬 타임! 랭킹 상위 10,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000925", /*message*/"매지컬 타임! 랭킹 상위 20,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000926", /*message*/"매지컬 타임! 랭킹 상위 30,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000927", /*message*/"매지컬 타임! 랭킹 상위 40,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000928", /*message*/"매지컬 타임! 랭킹 상위 50,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000929", /*message*/"매지컬 타임! 랭킹 상위 60,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000930", /*message*/"매지컬 타임! 랭킹 상위 70,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000931", /*message*/"매지컬 타임! 랭킹 상위 80,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000932", /*message*/"매지컬 타임! 랭킹 상위 90,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000933", /*message*/"매지컬 타임! 랭킹 상위 100,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000998", /*message*/"매지컬 타임! 참가상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100101", /*message*/"바다 위 대열전 랭킹 1위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100102", /*message*/"바다 위 대열전 랭킹 2위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100103", /*message*/"바다 위 대열전 랭킹 3위 칭호");
@@ -16168,6 +16239,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000831", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000832", /*message*/"레츠 고! UMA 탐색대 상위 90,000위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000833", /*message*/"레츠 고! UMA 탐색대 상위 100,000위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000898", /*message*/"레츠 고! UMA 탐색대 참가상");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000901", /*message*/"매지컬 타임! 1위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000902", /*message*/"매지컬 타임! 2위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000903", /*message*/"매지컬 타임! 3위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000904", /*message*/"매지컬 타임! 4위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000905", /*message*/"매지컬 타임! 5위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000906", /*message*/"매지컬 타임! 6위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000907", /*message*/"매지컬 타임! 7위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000908", /*message*/"매지컬 타임! 8위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000909", /*message*/"매지컬 타임! 9위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000910", /*message*/"매지컬 타임! 10위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000911", /*message*/"매지컬 타임! 상위 50위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000912", /*message*/"매지컬 타임! 상위 100위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000913", /*message*/"매지컬 타임! 상위 300위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000914", /*message*/"매지컬 타임! 상위 500위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000915", /*message*/"매지컬 타임! 상위 1,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000916", /*message*/"매지컬 타임! 상위 2,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000917", /*message*/"매지컬 타임! 상위 3,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000918", /*message*/"매지컬 타임! 상위 4,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000919", /*message*/"매지컬 타임! 상위 5,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000920", /*message*/"매지컬 타임! 상위 6,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000921", /*message*/"매지컬 타임! 상위 7,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000922", /*message*/"매지컬 타임! 상위 8,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000923", /*message*/"매지컬 타임! 상위 9,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000924", /*message*/"매지컬 타임! 상위 10,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000925", /*message*/"매지컬 타임! 상위 20,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000926", /*message*/"매지컬 타임! 상위 30,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000927", /*message*/"매지컬 타임! 상위 40,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000928", /*message*/"매지컬 타임! 상위 50,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000929", /*message*/"매지컬 타임! 상위 60,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000930", /*message*/"매지컬 타임! 상위 70,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000931", /*message*/"매지컬 타임! 상위 80,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000932", /*message*/"매지컬 타임! 상위 90,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000933", /*message*/"매지컬 타임! 상위 100,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000998", /*message*/"매지컬 타임! 참가상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100101", /*message*/"바다 위 대열전 1위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100102", /*message*/"바다 위 대열전 2위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100103", /*message*/"바다 위 대열전 3위");

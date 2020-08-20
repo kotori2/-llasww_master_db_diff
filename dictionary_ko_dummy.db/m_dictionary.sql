@@ -6,6 +6,7 @@ CREATE TABLE m_dictionary(
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_035003_00", /*message*/"스튜디오");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011003_00", /*message*/"우라노호시 여고 옥상(밤: 천체관측)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033011_01", /*message*/"오다이바 해변(맑은 저녁)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035008_00", /*message*/"공원(소)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"플라네타리움(오로라)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035031_01", /*message*/"꽃 핀 잔디밭(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035032_00", /*message*/"시타마치 거리 A(맑은 낮)");
@@ -64,3 +65,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30008_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30008_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30008_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30008_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_07", /*message*/"");

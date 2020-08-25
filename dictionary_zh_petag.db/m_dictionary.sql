@@ -21,6 +21,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_c_plus_close", /*message*/"</col
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_c_plus_n_close", /*message*/"</color>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_c_plus_n_start", /*message*/"<color value=\"#54d252\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_c_plus_start", /*message*/"<color value=\"#05c501\">");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_c_positive_close", /*message*/"</color>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_c_positive_start", /*message*/"<color value=\"#ffa800\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_c_text_close", /*message*/"</color>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_c_text_n_close", /*message*/"</color>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_c_text_n_start", /*message*/"<color value=\"#ffffff\">");
@@ -271,6 +273,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_not_billing_supported_message_em
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_red_close", /*message*/"</color>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_red_start", /*message*/"<color value=\"#ff3494\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_sns_coin_icon_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1000_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" margin-left=\"30px\" margin-right=\"30px\" />");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_android", /*message*/"GooglePlay");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_ios", /*message*/"AppStore");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0000_empty", /*message*/"<span size=\"32\">？？？</span><br/><span size=\"28\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0001_empty", /*message*/"<span size=\"32\"><img src=\"Common/InlineImage/Member/tex_sd_ch0001_dr0003_01\" width=\"88px\" height=\"88px\" offsetY=\"-25px\" />穂乃果</span><br/><span size=\"28\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0002_empty", /*message*/"<span size=\"32\"><img src=\"Common/InlineImage/Member/tex_sd_ch0002_dr0003_01\" width=\"88px\" height=\"88px\" offsetY=\"-25px\" />絵里</span><br/><span size=\"28\">");

@@ -8254,9 +8254,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000218", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000219", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Smile attribute school idols will fall by 20%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000220", /*message*/"[Show Specialty] Increases the base Appeal of Guilty Kiss members during a show by 20%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000221", /*message*/"[Show Specialty] Increases the base Appeal of CYaRon! members during a show by 20%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000228", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Smile attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000229", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Smile attribute school idols will fall by 10%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000230", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Smile attribute school idols will fall by 20%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000231", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Elegant attribute school idols will fall by 5%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000232", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Elegant attribute school idols will fall by 10%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000233", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Elegant attribute school idols will fall by 20%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000234", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Pure attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000235", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Pure attribute school idols will fall by 10%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000236", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Pure attribute school idols will fall by 20%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000240", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Active attribute school idols will fall by 5%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000241", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Active attribute school idols will fall by 10%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000242", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Active attribute school idols will fall by 20%.");
@@ -8410,6 +8416,26 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000185", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000186", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Natural attribute school idols will fall by 5%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000187", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Active attribute school idols will fall by 5%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000188", /*message*/"[Show Specialty] During the Live Show, Base Appeal of non-Cool attribute school idols will fall by 20%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000189", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Smile attribute school idols will fall by 10%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000190", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Cool attribute school idols will fall by 10%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000191", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Elegant attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000192", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Cool attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000193", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Natural attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000194", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Active attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000195", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Smile attribute school idols will fall by 10%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000196", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Pure attribute school idols will fall by 10%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000197", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Natural attribute school idols will fall by 10%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000198", /*message*/"[Show Specialty] During the Live Show, Base Appeal of non-Active attribute school idols will fall by 10%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000199", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Cool attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000200", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Active attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000201", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Elegant attribute school idols will fall by 10%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000202", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Smile attribute school idols will fall by 10%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000203", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Cool attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000204", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Pure attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000205", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Natural attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000206", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Active attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000207", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Elegant attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000208", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Pure attribute school idols will fall by 20%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10001101", /*message*/"[Hint] Build up your gauge so that you can activate your SP Skill during the second Appeal Chance. If you can&apos;t make the Voltage target, set school idols with high stats as your SP Skill unit.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10001201", /*message*/"[Hint] Build up your gauge so that you can activate your SP Skill during each Appeal Chance. If you can&apos;t make the Voltage target, set school idols with high stats as your SP Skill unit.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10001301", /*message*/"[Hint] Build up your gauge so that you can activate your SP Skill during each Appeal Chance. If you can&apos;t make the Voltage target, set school idols with high stats as your SP Skill unit.");
@@ -8457,6 +8483,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10059301", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10061101", /*message*/"[Hint] Watch out for Notes with stamina damage effects during the first Appeal Chance. Your stamina will be restored when you clear the Appeal Chance.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10061201", /*message*/"[Hint] Watch out for Notes with stamina damage effects during the first and second Appeal Chances. Your stamina will be restored when you clear the Appeal Chance.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10061301", /*message*/"[Hint] Watch out for Notes with stamina damage effects during the first and second Appeal Chances. Your stamina will be restored when you clear the Appeal Chance.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10062101", /*message*/"[Hint] The Appeal of non-SP type members will be reduced during Appeal Chances, so try to base your formation around SP-types.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10062201", /*message*/"[Hint] The Appeal of non-SP type members will be reduced during Appeal Chances, so try to base your formation around SP-types.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10062301", /*message*/"[Hint] The Appeal of non-SP type members will be reduced during Appeal Chances, so try to base your formation around SP-types.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10064101", /*message*/"[Hint] Build up your gauge so that you can use an SP Skill during each Appeal Chance. If you tap notes with Pure-attribute members during the first Appeal Chance, your SP Gauge will build faster than normal.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10064201", /*message*/"[Hint] Build up your gauge so that you can use an SP Skill during each Appeal Chance. If you tap notes with Pure-attribute members during the first Appeal Chance, your SP Gauge will build faster than normal.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_10064301", /*message*/"[Hint] Build up your gauge so that you can use an SP Skill during each Appeal Chance. If you tap notes with a Pure-attribute members during the first and third Appeal Chances, your SP Gauge will build faster than normal.");
@@ -8514,6 +8543,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_11012301", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_11014101", /*message*/"[Hint] This song has high stamina damage, so make sure to tap the stamina restoration Trick Notes that appear after the Appeal Chance.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_11014201", /*message*/"[Hint] Stamina damage will occur after Appeal Chances, to heal your stamina after accomplishing the mission.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_11014301", /*message*/"[Hint] Stamina damage will occur after Appeal Chances, to heal your stamina after accomplishing the mission.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_11015101", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives Aqours school idols an advantage. Try to base your formation around Aqours members!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_11015201", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives Aqours school idols an advantage. Try to base your formation around Aqours members!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_11015301", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives Aqours school idols an advantage. Try to base your formation around Aqours members!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_11059101", /*message*/"[Hint] Look out, as stamina damage will get a little heavier during the Appeal Chances. One lasts particularly long, so try to clear it quickly to keep stamina damage low.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_11059201", /*message*/"[Hint] There is an Appeal Chance you will need to activate your SP Skill for, so keep your SP Gauge in mind.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_11059301", /*message*/"[Hint] There is an Appeal Chance that will last for a long time, so watch out for stamina damage. Try putting school idols with healing abilities or high stamina into your formation.");
@@ -8828,6 +8860,26 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000097", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000098", /*message*/"[Hint] The Trick Notes will lower your Stamina, so try putting Guard-types into your formation to keep damage low. If you have trouble, try taking another look at your stamina total.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000099", /*message*/"[Hint] Tapping Notes during an Appeal Chance with school idols of different attributes than the song will reduce your Appeal points and SP Gauge gain, so try to include school idols of matching attributes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000100", /*message*/"[Hint] Try switching to a strategy with SP type school idols right after the show begins. It would be best for each strategy to have school idols of the same type.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000101", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives Aqours school idols an advantage. Try to base your formation around Aqours members!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000102", /*message*/"[Hint] Trick Notes that decrease your SP Gauge will appear between the second and third Appeal Chances, so be aware of how you time your taps.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000103", /*message*/"[Hint] There are certain Trick Notes that increase the activation rate of skills that match the song&apos;s attribute. Try putting school idols with high skill levels into your formation.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000104", /*message*/"[Hint] There are many short Appeal Chances, so time your SP Skill usage accordingly.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000105", /*message*/"[Hint] The second Appeal Chance is rather long, so reduce stamina damage with Guard type school idols and use your SP Skill twice.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000106", /*message*/"[Hint] There will be Trick Notes that increase skill activation after the Appeal Chance, so use a strategy with Skill-type school idols to activate their skills effectively.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000107", /*message*/"[Hint] Build up your gauge so that you can activate your SP Skill during the second and third Appeal Chances. Try using a strategy with Voltage- and Skill-types to boost your Voltage on the Trick Notes that increase skill activation.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000108", /*message*/"[Hint] Try making a formation of school idols with types that work well with the show&apos;s Trick Notes and Appeal Chances special effects.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000109", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives μ&apos;s school idols an advantage. Try to base your formation around μ&apos;s members!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000110", /*message*/"[Hint] Try switching to a strategy with SP type school idols right after the show begins. It would be best for each strategy to have school idols of the same type.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000111", /*message*/"[Hint] During Appeal Chances, the Critical rate of Cool attribute school idols will increase. Try to base your formation around Cool attribute school idols.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000112", /*message*/"[Hint] There will be Trick Notes that increase SP Gauge gain and Appeal, so tap them with good timing.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000113", /*message*/"[Hint] There will be Trick Notes that boost your SP Gauge during the second Appeal Chance, so give them some well-timed taps and activate your SP Skill.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000114", /*message*/"[Hint] Try to save your SP Gauge so that you can use your SP Skill during each Appeal Chance. If it seems you cannot meet the Voltage goal, try arranging your formation so that the school idols with the highest stats are included in the SP Skill.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000115", /*message*/"[Hint] There will be Trick Notes that boost SP Gauge, so give them some well-timed taps and activate your SP Skill.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000116", /*message*/"[Hint] The first and second Appeal Chances are short and will require you to use your SP Skill. Make sure to build your gauge so that you can activate your SP Skill for each Appeal Chance.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000117", /*message*/"[Hint] Clearing Appeal Chances can restore your stamina or boost your SP Gauge.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000118", /*message*/"[Hint] The goal for the first Appeal Chance is high, so if it seems like you&apos;re about to fail, try switching to a Guard type strategy.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000119", /*message*/"[Hint] During Appeal Chances, having school idols of a different attribute from the song will reduce your Appeal points and SP Gauge gain, so try to get school idols with matching attributes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_33000120", /*message*/"[Hint] The Appeal of non-SP type members will be reduced during Appeal Chances, so try to base your formation around SP-types.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000002", /*message*/"Increase Skill Activation Rate by 10% for 10 Notes.
 Condition: On Success
 Affects: Smile Attribute");
@@ -8960,6 +9012,9 @@ Affects: Pure Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000053", /*message*/"Increase Critical Power by 10% for 10 Notes.
 Condition: On Success
 Affects: Active Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000054", /*message*/"Increase Critical Power by 10% for 10 Notes.
+Condition: On Success
+Affects: Natural Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000055", /*message*/"Increase Critical Power by 10% for 10 Notes.
 Condition: On Success
 Affects: Elegant Attribute");
@@ -8984,6 +9039,9 @@ Affects: Pure Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000067", /*message*/"Increase Critical Chance by 10% for 10 Notes.
 Condition: On Success
 Affects: Active Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000068", /*message*/"Increase Critical Chance by 10% for 10 Notes.
+Condition: On Success
+Affects: Natural Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000069", /*message*/"Increase Critical Chance by 10% for 10 Notes.
 Condition: On Success
 Affects: Elegant Attribute");
@@ -9053,6 +9111,9 @@ Condition: On Failure");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000107", /*message*/"Decrease Skill Activation Rate by 10% for 10 Notes.
 Condition: On Failure
 Affects: Non-Smile Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000108", /*message*/"Decrease Skill Activation Rate by 10% for 10 Notes.
+Condition: On Failure
+Affects: Non-Cool Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000109", /*message*/"Decrease Skill Activation Rate by 10% for 10 Notes.
 Condition: On Failure
 Affects: Non-Pure Attribute");
@@ -9300,6 +9361,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000050", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000051", /*message*/"<:icon_gimmick_1008/>Critical Power Up 10%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000052", /*message*/"<:icon_gimmick_1008/>Critical Power Up 10%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000053", /*message*/"<:icon_gimmick_1008/>Critical Power Up 10%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000054", /*message*/"<:icon_gimmick_1008/>Critical Power Up 10%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000055", /*message*/"<:icon_gimmick_1008/>Critical Power Up 10%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000059", /*message*/"<:icon_gimmick_1008/>Critical Power Up 20%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000060", /*message*/"<:icon_gimmick_1008/>Critical Power Up 20%");
@@ -9308,6 +9370,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000064", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000065", /*message*/"<:icon_gimmick_1009/>Critical Chance Up 10%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000066", /*message*/"<:icon_gimmick_1009/>Critical Chance Up 10%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000067", /*message*/"<:icon_gimmick_1009/>Critical Chance Up 10%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000068", /*message*/"<:icon_gimmick_1009/>Critical Chance Up 10%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000069", /*message*/"<:icon_gimmick_1009/>Critical Chance Up 10%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000071", /*message*/"<:icon_gimmick_1009/>Critical Chance Up 20%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000072", /*message*/"<:icon_gimmick_1009/>Critical Chance Up 20%");
@@ -9331,6 +9394,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000103", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000104", /*message*/"<:icon_gimmick_1014/>SP Gauge Gain Up 20%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000105", /*message*/"<:icon_gimmick_2001/>Remove All Buffs");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000107", /*message*/"<:icon_gimmick_2002/>Skill Activation Rate Down 10%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000108", /*message*/"<:icon_gimmick_2002/>Skill Activation Rate Down 10%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000109", /*message*/"<:icon_gimmick_2002/>Skill Activation Rate Down 10%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000112", /*message*/"<:icon_gimmick_2002/>Skill Activation Rate Down 10%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000120", /*message*/"<:icon_gimmick_2003/>Damage [S]");
@@ -9853,6 +9917,33 @@ Affects: Cool Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10061301_4", /*message*/"[Special Effect] Voltage Gain 20% Up
 Time: 10 Notes after Appeal Chance success
 Affects: Cool Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10062101_1", /*message*/"[Special Effect] Base Appeal 10% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10062101_2", /*message*/"[Special Effect] Base Appeal 10% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10062201_1", /*message*/"[Special Effect] Base Appeal 20% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10062201_2", /*message*/"[Special Effect] Base SP Gauge Gain 20% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10062201_3", /*message*/"[Special Effect] Base Appeal 20% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10062301_1", /*message*/"[Special Effect] Base Appeal 50% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10062301_2", /*message*/"[Special Effect] Base Appeal 50% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10062301_3", /*message*/"[Special Effect] Base SP Gauge Gain 20% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10062301_4", /*message*/"[Special Effect] Base Appeal 50% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10064101_1", /*message*/"[Special Effect] Base SP Gauge Gain 100% Up
 Time: During Appeal Chance
 Affects: Pure Attribute");
@@ -10342,6 +10433,39 @@ Time: On Appeal Chance end
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11014301_4", /*message*/"[Special Effect] 3,000 Stamina Damage
 Time: On Appeal Chance end
 ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11015101_1", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11015101_2", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11015101_3", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11015201_1", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11015201_2", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11015201_3", /*message*/"[Special Effect] Base Skill Activation Rate 10% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11015201_4", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11015301_1", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11015301_2", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11015301_3", /*message*/"[Special Effect] Base Skill Activation Rate 10% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11015301_4", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Aqours");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_11059201_2", /*message*/"[Special Effect] Base SP Gauge Gain 100% Up
 Time: During Appeal Chance
 Affects: Smile Attribute");
@@ -12541,6 +12665,144 @@ Affects: Non-Guard Types");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000100_5", /*message*/"[Special Effect] Base Appeal 50% Down
 Time: During Appeal Chance
 Affects: Non-Voltage Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000101_1", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000101_2", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000101_3", /*message*/"[Special Effect] Base Skill Activation Rate 10% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000101_4", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000102_1", /*message*/"[Special Effect] Base Skill Activation Rate 10% Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000102_2", /*message*/"[Special Effect] Base SP Gauge Gain 10% Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000102_3", /*message*/"[Special Effect] Restored 2,000 Stamina
+Time: When Appeal Chance Objective cleared
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000102_4", /*message*/"[Special Effect] Base SP Gauge Gain 15% Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000103_1", /*message*/"[Special Effect] Base Skill Activation Rate 20% Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000103_2", /*message*/"[Special Effect] Base Skill Activation Rate 20% Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000103_3", /*message*/"[Special Effect] Base Skill Activation Rate 20% Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000107_1", /*message*/"[Special Effect] Skill Activation Rate 30% Up
+Time: 10 Notes after Appeal Chance success
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000107_2", /*message*/"[Special Effect] Base Skill Activation Rate 10% Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000107_3", /*message*/"[Special Effect] Skill Activation Rate 30% Up
+Time: 10 Notes after Appeal Chance success
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000108_1", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000108_2", /*message*/"[Special Effect] Base Appeal 15% Down
+Time: During Appeal Chance
+Affects: Non-Guard Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000108_3", /*message*/"[Special Effect] Base Critical Power 20% Up
+Time: During Appeal Chance
+Affects: Skill Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000108_4", /*message*/"[Special Effect] Restored 10,000 Stamina
+Time: When Appeal Chance Objective cleared
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000109_1", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
+Time: During Appeal Chance
+Affects: μ&apos;s");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000109_2", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: μ&apos;s");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000109_3", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: μ&apos;s");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000109_4", /*message*/"[Special Effect] Base Skill Activation Rate 10% Up
+Time: During Appeal Chance
+Affects: μ&apos;s");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000110_1", /*message*/"[Special Effect] Base Appeal 15% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000110_2", /*message*/"[Special Effect] Base Appeal 15% Down
+Time: During Appeal Chance
+Affects: Non-Guard Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000110_3", /*message*/"[Special Effect] Base Appeal 15% Down
+Time: During Appeal Chance
+Affects: Non-Voltage Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000110_4", /*message*/"[Special Effect] Base Appeal 15% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000111_1", /*message*/"[Special Effect] Base Critical Chance 100% Up
+Time: During Appeal Chance
+Affects: Cool Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000111_2", /*message*/"[Special Effect] Base Critical Chance 100% Up
+Time: During Appeal Chance
+Affects: Cool Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000112_1", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Active Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000112_2", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Active Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000112_3", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Active Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000112_4", /*message*/"[Special Effect] Base Appeal 10% Up
+Time: During Appeal Chance
+Affects: Active Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000113_3", /*message*/"[Special Effect] Base Skill Activation Rate 50% Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000113_4", /*message*/"[Special Effect] Base Critical Chance 50% Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000117_1", /*message*/"[Special Effect] Gained 1,500 SP Gauge
+Time: When Appeal Chance Objective cleared
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000117_2", /*message*/"[Special Effect] Restored 2,000 Stamina
+Time: When Appeal Chance Objective cleared
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000117_3", /*message*/"[Special Effect] Gained 1,500 SP Gauge
+Time: When Appeal Chance Objective cleared
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000117_4", /*message*/"[Special Effect] Restored 2,000 Stamina
+Time: When Appeal Chance Objective cleared
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000119_1", /*message*/"[Special Effect] Base SP Gauge Gain 10% Down
+Time: During Appeal Chance
+Affects: Non-Elegant Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000119_2", /*message*/"[Special Effect] Base Appeal 10% Down
+Time: During Appeal Chance
+Affects: Non-Elegant Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000119_3", /*message*/"[Special Effect] Base Skill Activation Rate 10% Down
+Time: During Appeal Chance
+Affects: Non-Elegant Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000119_4", /*message*/"[Special Effect] Base Appeal 10% Down
+Time: During Appeal Chance
+Affects: Non-Elegant Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000120_1", /*message*/"[Special Effect] Base Appeal 50% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000120_2", /*message*/"[Special Effect] Base Appeal 50% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000120_3", /*message*/"[Special Effect] Base SP Gauge Gain 20% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_33000120_4", /*message*/"[Special Effect] Base Appeal 50% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10001101_1", /*message*/"Gain a total of 5,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10001101_2", /*message*/"Gain a total of 5,000 Voltage with SP Skills.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10001101_3", /*message*/"Gain a total of 5,000 Voltage.");
@@ -12711,6 +12973,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10061301_1", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10061301_2", /*message*/"Gain a total of 80,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10061301_3", /*message*/"Gain a total of 100,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10061301_4", /*message*/"Gain a total of 85,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10062101_1", /*message*/"Gain a total of 9,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10062101_2", /*message*/"Gain a total of 21,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10062201_1", /*message*/"Gain a total of 33,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10062201_2", /*message*/"Gain a total of 20,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10062201_3", /*message*/"Gain a total of 48,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10062301_1", /*message*/"Appeal with 7 school idols.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10062301_2", /*message*/"Gain a total of 87,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10062301_3", /*message*/"Gain a total of 37,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10062301_4", /*message*/"Gain a total of 115,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10064101_1", /*message*/"Gain a total of 18,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10064101_2", /*message*/"Gain a total of 19,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_10064201_1", /*message*/"Gain a total of 58,000 Voltage.");
@@ -12932,6 +13203,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11014301_1", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11014301_2", /*message*/"Gain a total of 137,900 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11014301_3", /*message*/"Gain a total of 121,600 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11014301_4", /*message*/"Gain a total of 260,100 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11015101_1", /*message*/"Gain a total of 15,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11015101_2", /*message*/"Gain a total of 23,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11015101_3", /*message*/"Gain a total of 18,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11015201_1", /*message*/"Gain a total of 33,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11015201_2", /*message*/"Gain a total of 44,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11015201_3", /*message*/"Gain a total of 33,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11015201_4", /*message*/"Gain a total of 92,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11015301_1", /*message*/"Gain a total of 97,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11015301_2", /*message*/"Gain a total of 100,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11015301_3", /*message*/"Gain a total of 151,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11015301_4", /*message*/"Gain a total of 184,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11059101_1", /*message*/"Gain a total of 8,500 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11059101_2", /*message*/"Gain a total of 22,300 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_11059201_1", /*message*/"Gain a total of 49,100 Voltage.");
@@ -14076,6 +14358,79 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000100_2", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000100_3", /*message*/"Gain a total of 24,000 Voltage with SP Skills.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000100_4", /*message*/"Gain a total of 75,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000100_5", /*message*/"Gain a total of 75,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000101_1", /*message*/"Gain a total of 25,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000101_2", /*message*/"Gain a total of 42,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000101_3", /*message*/"Gain a total of 28,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000101_4", /*message*/"Gain a total of 93,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000102_1", /*message*/"Gain a total of 25,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000102_2", /*message*/"Gain a total of 98,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000102_3", /*message*/"Gain a total of 72,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000102_4", /*message*/"Gain a total of 32,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000103_1", /*message*/"Gain a total of 60,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000103_2", /*message*/"Gain a total of 102,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000103_3", /*message*/"Gain a total of 81,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000104_1", /*message*/"Gain a total of 62,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000104_2", /*message*/"Gain a total of 16,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000104_3", /*message*/"Gain a total of 24,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000104_4", /*message*/"Gain a total of 50,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000104_5", /*message*/"Gain a total of 24,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000104_6", /*message*/"Gain a total of 29,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000104_7", /*message*/"Gain a total of 50,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000105_1", /*message*/"Gain a total of 43,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000105_2", /*message*/"Gain a total of 226,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000106_1", /*message*/"Gain a total of 60,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000106_2", /*message*/"Gain a total of 86,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000106_3", /*message*/"Gain a total of 107,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000107_1", /*message*/"Gain a total of 51,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000107_2", /*message*/"Gain a total of 109,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000107_3", /*message*/"Gain a total of 93,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000108_1", /*message*/"Gain a total of 22,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000108_2", /*message*/"Gain a total of 46,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000108_3", /*message*/"Gain a total of 98,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000108_4", /*message*/"Gain a total of 102,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000109_1", /*message*/"Gain a total of 22,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000109_2", /*message*/"Gain a total of 68,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000109_3", /*message*/"Gain a total of 171,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000109_4", /*message*/"Gain a total of 64,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000110_1", /*message*/"Gain a total of 90,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000110_2", /*message*/"Gain a total of 73,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000110_3", /*message*/"Gain a total of 64,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000110_4", /*message*/"Gain a total of 81,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000111_1", /*message*/"Gain a total of 109,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000111_2", /*message*/"Gain a total of 109,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000112_1", /*message*/"Gain a total of 55,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000112_2", /*message*/"Gain a total of 109,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000112_3", /*message*/"Gain a total of 42,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000112_4", /*message*/"Gain a total of 47,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000113_1", /*message*/"Gain a total of 95,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000113_2", /*message*/"Gain a total of 27,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000113_3", /*message*/"Gain a total of 57,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000113_4", /*message*/"Gain a total of 143,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000114_1", /*message*/"Gain a total of 22,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000114_2", /*message*/"Gain a total of 22,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000114_3", /*message*/"Gain a total of 38,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000115_1", /*message*/"Gain a total of 85,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000115_2", /*message*/"Gain a total of 95,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000115_3", /*message*/"Gain a total of 101,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000115_4", /*message*/"Gain a total of 74,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000116_1", /*message*/"Gain a total of 22,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000116_2", /*message*/"Gain a total of 22,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000116_3", /*message*/"Gain a total of 74,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000116_4", /*message*/"Gain a total of 74,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000117_1", /*message*/"Gain a total of 52,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000117_2", /*message*/"Gain a total of 90,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000117_3", /*message*/"Gain a total of 89,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000117_4", /*message*/"Gain a total of 95,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000118_1", /*message*/"Gain a total of 44,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000118_2", /*message*/"Get 12 or more Greats.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000119_1", /*message*/"Gain a total of 70,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000119_2", /*message*/"Gain a total of 76,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000119_3", /*message*/"Gain a total of 60,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000119_4", /*message*/"Gain a total of 113,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_1", /*message*/"Appeal with 7 school idols.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_2", /*message*/"Gain a total of 49,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_3", /*message*/"Gain a total of 22,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_4", /*message*/"Gain a total of 65,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40014101_1", /*message*/"Gain a total of 12,250 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40014101_2", /*message*/"Gain a total of 12,250 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40014101_3", /*message*/"Gain a total of 13,800 Voltage.");
@@ -16807,6 +17162,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0007_02_s1", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0007_10_s1", /*message*/"Auditorium Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0008_01_s1", /*message*/"Outdoor Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0008_10_s1", /*message*/"Outdoor Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0009_01_s1", /*message*/"Special Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0011_01_s1", /*message*/"Special Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0012_01_s1", /*message*/"Special Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0014_01_s1", /*message*/"Special Stage");
@@ -17424,6 +17780,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_101_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_101_6", /*message*/"You video chat with Chika to talk about how things have been lately. As you&apos;re talking, she begins to show interest in one particular topic.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_101_7", /*message*/"Chika&apos;s catch-up with you has piqued her interest in singing solo. She jumps right into planning for a solo live show and breaks the news to Riko and You. How will they react?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_101_8", /*message*/"Chika reveals her solo live show idea to the other members. Despite their surprise, they all support her decision. Though Chika&apos;s more enthusiastic about the live show than ever before, she&apos;s forgetting something very important...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_101_9", /*message*/"The day of Chika&apos;s solo live show has finally arrived. Her excitement is rising as the start of the show approaches. However, you sense a hidden concern within her excitement.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_102_1", /*message*/"A poster for a piano concert catches your eye, so you decide to buy a ticket. Inside the venue, you run into someone you never would have expected.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_102_2", /*message*/"The pianist in the concert is actually Riko&apos;s old teacher! Riko is reminiscing about the past, but there seems to be something else on her mind.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_102_3", /*message*/"You meet up with Riko again in Numazu. You ask what she talked with her old teacher about, which turned out to be her life in Uchiura and more.");
@@ -17432,6 +17789,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_102_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_102_6", /*message*/"Thanks to you, Riko&apos;s back to feeling optimistic about songwriting again! You&apos;re relieved to see that she&apos;s back to her normal self.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_102_7", /*message*/"Riko composes music for her group of nine members, whereas you compose music for nine solo members. While your experiences may be different, you bond over your connection as fellow songwriters.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_102_8", /*message*/"Riko visits Nijigasaki High School after receiving your invitation. All of the club members give her a warm reception and she decides to watch them practice.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_102_9", /*message*/"Riko suddenly calls you one night just as you were thinking about her.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_103_1", /*message*/"It&apos;s your first time on Awashima. Who and what will you encounter here? Your heart fills with expectations.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_103_2", /*message*/"You&apos;re impressed by Kanan&apos;s talk about diving. She even lends you a hand in a little scuba adventure!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_103_3", /*message*/"After seeing the beauty of the ocean while diving with Kanan, you want to share those sights with lots of people.");
@@ -17440,6 +17798,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_103_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_103_6", /*message*/"The diving shop is bustling after the popular promotional video you helped make. You and Kanan start out quite pleased with yourselves, but sometimes reality comes crashing down hard.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_103_7", /*message*/"Along with Kanan, Dia, and Mari, you have a meeting about the production of a second promotional video. While everyone has their say, nothing seems to come of it until you all receive a hint from an unexpected source.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_103_8", /*message*/"You have all decided to create a solo live show video for Kanan, but you can&apos;t have a performance without any songs.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_103_9", /*message*/"You celebrate the completion of the promotional video with Kanan, Mari, and Dia in Kanan&apos;s room. There, you hear stories from their past.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_104_1", /*message*/"You run into Dia when she&apos;s picking up garbage for the school cleanup. She encourages other students as student council president, which you find very refreshing compared to her usual school idol self.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_104_2", /*message*/"You are reading a magazine with Ruby in the Uranohoshi Girls&apos; High clubroom when you notice a mysterious melody. It seems to be coming from a Japanese-style room in the school.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_104_3", /*message*/"The Japanese-style room you find Dia in is actually the flower arrangement clubroom. Dia, who is also held in high regard by this club, invites you and Ruby in to try out flower arrangement.");
@@ -17448,6 +17807,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_104_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_104_6", /*message*/"You and Ai are hanging out in Harajuku on your day off. While the two of you try to decide where to go first, you spot an unexpected person.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_104_7", /*message*/"You set off with Dia and Ai to explore Harajuku. You all get pushed around by the crowd on your way to a certain place...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_104_8", /*message*/"Dia seems a little tired after walking around Harajuku. Seeing this, Ai suggests going somewhere else to hang out. Where might she be taking you?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_104_9", /*message*/"Dia receives a warm welcome after spontaneously joining a karaoke contest. It reminds her of Uchiura and warms her heart.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_105_1", /*message*/"You&apos;ve come out to Numazu to hang out. As you leave the station, you have a chance encounter with You who calls out to you, and you head out together to see Numazu.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_105_2", /*message*/"The first place you go is the station-side mall. Inside, you find an arcade and try your luck at a crane game.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_105_3", /*message*/"You and You discuss where to go next over some cake. The aquarium, or castle ruins? This fun-filled day has just begun!");
@@ -17456,6 +17816,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_105_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_105_6", /*message*/"After a fun trip to Numazu with You, you find yourself thinking you&apos;d like to show her around Odaiba next time. While pondering your plans, you suddenly receive a call from a certain somebody.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_105_7", /*message*/"It&apos;s finally the day to explore Odaiba. One other person appears at your meeting spot with You. What kind of day will it turn out to be?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_105_8", /*message*/"The three of you hop off the Ferris wheel and go to a shopping mall. Various events are apparently held at the mall&apos;s outdoor plaza. Will the day come when the club can perform here?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_105_9", /*message*/"You&apos;s singing attracted more people than the venue could hold. The three of you manage to escape, but where are you headed to now?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_106_1", /*message*/"You find something strange on the side of the road. Just when you go to turn it in to the police box, Yoshiko calls out to you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_106_2", /*message*/"To thank you for fixing her key chain, Yoshiko makes you the right-hand to the fallen angel Yohane. Another little demon has been spawned!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_106_3", /*message*/"Yoshiko asks you to help with her little demon recruitment video. She says there&apos;s something she wants to try with the recording, but what could it be?");
@@ -17464,6 +17825,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_106_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_106_6", /*message*/"You&apos;re headed to Yoshiko&apos;s house to help her shoot a video when you get a panicked call from her, saying there&apos;s an emergency! What could have happened?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_106_7", /*message*/"Yoshiko has decided to attend the meetup. However, she seems to be full of concerns, such as what to wear and what to talk about. You offer up ideas to help solve each of her problems.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_106_8", /*message*/"The day of the meet-up has arrived. Yoshiko can&apos;t hide her nerves as you take her to the meet-up venue. Will she be able to get through the event without tripping up?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_106_9", /*message*/"The fun meetup comes to a close. After saying goodbye to the little demon girls, Yoshiko once again realizes how many people are cheering her on.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_107_1", /*message*/"Taking a walk on your break, you decide to check out the library. As you walk around inside, you hear a familiar voice.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_107_2", /*message*/"As you wait for Hanamaru to check out her books, you and Ruby look at the notice board. Of the many postings, one in particular stands out.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_107_3", /*message*/"Although interested in the library anthology, Hanamaru won&apos;t make up her mind about joining in. Not wanting to waste her potential, you and Ruby encourage her to submit.");
@@ -17472,6 +17834,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_107_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_107_6", /*message*/"You&apos;re in your room, talking on the phone with Hanamaru. Hanamaru has been writing more since submitting her story to the library anthology. She&apos;s beginning to find real joy in crafting tales of her own.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_107_7", /*message*/"Shizuku appears to be troubled by something. Upon asking about her qualms, you find out exactly is going on.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_107_8", /*message*/"You and Shizuku head over to Numazu to see Hanamaru. She&apos;s supposed to pick you two up, but is nowhere to be found. Could something have happened?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_107_9", /*message*/"You, Shizuku, and Ruby watch over Hanamaru during her solo live show. After seeing her performance, Shizuku has a proposal for Hanamaru.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_108_1", /*message*/"While walking around in Tokyo, a foreign tourist asks you for directions and you don&apos;t know how to answer. Just then, an unexpected savior arrives!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_108_2", /*message*/"You tag along with Mari on her sightseeing trip around Tokyo. When you ask where she&apos;s going, she only answers with a giggle. You end up at...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_108_3", /*message*/"It takes everything you have just to keep up with Mari&apos;s pace. On top of that, the tourist site she wants to head to isn&apos;t exactly typical.");
@@ -17480,6 +17843,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_108_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_108_6", /*message*/"Mari appears while you&apos;re passing out flyers for the upcoming live show. At first, it seems she&apos;s back in Tokyo to check out schools under the pretense of sightseeing, but soon it&apos;s clear she may have another reason.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_108_7", /*message*/"You visit various schools with Mari to interview school idols. You find out about the role of school idols and their different circumstances, leading you to once again realize the weight of school idol activities.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_108_8", /*message*/"Mari&apos;s real intention was to gather information that would help Aqours grow. You head off with Mari to the final destination of her secret Tokyo sight-seeing trip.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_108_9", /*message*/"Mari visits Nijigasaki High School on open campus day to cheer on the School Idol Club members. Their live show is just about to begin!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_109_1", /*message*/"One day, you forget something in the Uranohoshi clubroom. When you go back to get it, you find Ruby working by herself, even as the sun sets outside.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_109_2", /*message*/"You help Ruby finish up the costume alterations, but just when you think it&apos;s done, Ruby still doesn&apos;t seem satisfied with them. What could the issue be?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_109_3", /*message*/"You and Ruby travel to a handicraft shop outside of Numazu to gather materials for brooches. Will you be able to find what you need?");
@@ -17488,6 +17852,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_109_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_109_6", /*message*/"You stop by the Aqours clubroom to find Ruby teaching Chika and Yoshiko how to make accessories. Ruby&apos;s gained a lot of credibility after making such gorgeous brooches for the last live show, and she&apos;s quite happy about it.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_109_7", /*message*/"You are hanging out in town with Ruby. As you leave a café and begin to walk, a woman introduces herself to Ruby. It appears as though she has been looking for her. Who could she be?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_109_8", /*message*/"Chika and the others are ecstatic after finding out that Ruby has been asked to model for a magazine, but Ruby doesn&apos;t seem too thrilled about the prospect herself.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_109_9", /*message*/"Ruby&apos;s solo live show is a huge success. Ruby has a little more confidence in herself now and makes a decision.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_1", /*message*/"You end up helping μ&apos;s with their everyday activities. While unsure if they&apos;ll accept you into their group, you go to their clubroom where Honoka awaits.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_2", /*message*/"Honoka accepts you as one of the group, being someone headed in the same direction as them. You head to Otonokizaka High, but you get lost on your way!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_3", /*message*/"After getting lost, you end up at Honoka&apos;s house. Honoka is someone who always encourages everyone to keep going forward, but it seems like there&apos;s an unknown aspect to her.");
@@ -17712,6 +18077,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_5", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_6", /*message*/"Episode 6 - What&apos;s Up?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_7", /*message*/"Episode 7 I&apos;m Performing Solo!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_8", /*message*/"Episode 8 There&apos;s No Venue?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_101_9", /*message*/"Episode 9 A Stage to Myself");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_102_1", /*message*/"Episode 1 At the Concert Hall");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_102_2", /*message*/"Episode 2 Melodies of Old");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_102_3", /*message*/"Episode 3 I&apos;m...in a Slump?!");
@@ -17720,6 +18086,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_102_5", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_102_6", /*message*/"Episode 6 - One Step Forward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_102_7", /*message*/"Episode 7 Composing Joy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_102_8", /*message*/"Episode 8 Dropping in on Practice!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_102_9", /*message*/"Episode 9 A Late-Night Chat");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_103_1", /*message*/"Episode 1 First Time on Awashima!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_103_2", /*message*/"Episode 2 A Blue Island");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_103_3", /*message*/"Episode 3 Uchiura&apos;s Strength");
@@ -17728,6 +18095,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_103_5", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_103_6", /*message*/"Episode 6 - Advertising Work Part 2!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_103_7", /*message*/"Episode 7 The Next Strategy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_103_8", /*message*/"Episode 8 Movie-Making Mayhem!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_103_9", /*message*/"Episode 9 The First Three");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_104_1", /*message*/"Episode 1 A Side Less Known");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_104_2", /*message*/"Episode 2 Koto Leads the Way");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_104_3", /*message*/"Episode 3 A New Door");
@@ -17736,6 +18104,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_104_5", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_104_6", /*message*/"Episode 6 - Chance Meeting in Harajuku");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_104_7", /*message*/"Episode 7 Living It up in Harajuku");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_104_8", /*message*/"Episode 8 A Break Downtown");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_104_9", /*message*/"Episode 9 A Familiar Warmth");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_105_1", /*message*/"Episode 1 Roundabout Numazu!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_105_2", /*message*/"Episode 2 Get the Prize!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_105_3", /*message*/"Episode 3 Where to Next?");
@@ -17744,6 +18113,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_105_5", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_105_6", /*message*/"Episode 6 - Another Date!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_105_7", /*message*/"Episode 7 Exploring Odaiba");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_105_8", /*message*/"Episode 8 Performing Under the Blue Sky");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_105_9", /*message*/"Episode 9 The Songstress Escapes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_106_1", /*message*/"Episode 1 A Rare Drop");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_106_2", /*message*/"Episode 2 Beside a Fallen Angel");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_106_3", /*message*/"Episode 3 A New Trial");
@@ -17752,6 +18122,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_106_5", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_106_6", /*message*/"Episode 6 - Yohane Summons Thee");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_106_7", /*message*/"Episode 7 Meetup Preparations");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_106_8", /*message*/"Episode 8 Yohane and Her Little Demon Gathering");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_106_9", /*message*/"Episode 9 The End of the Meetup");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_107_1", /*message*/"Episode 1 Searching for Something");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_107_2", /*message*/"Episode 2 Library Anthology");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_107_3", /*message*/"Episode 3 What You Want to Do");
@@ -17760,6 +18131,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_107_5", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_107_6", /*message*/"Episode 6 - Spinning a Happy Tale");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_107_7", /*message*/"Episode 7 Beseeching Author Kunikida");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_107_8", /*message*/"Episode 8 A Change of Plans?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_107_9", /*message*/"Episode 9 Stage Actress Hanamaru?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_108_1", /*message*/"Episode 1 A Day with Mari");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_108_2", /*message*/"Episode 2 Sightseeing in Tokyo?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_108_3", /*message*/"Episode 3 Thoughts of a Free Spirit");
@@ -17768,6 +18140,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_108_5", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_108_6", /*message*/"Episode 6 - Sightseeing in Tokyo Again");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_108_7", /*message*/"Episode 7 School Idols of Today");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_108_8", /*message*/"Episode 8 Real Intentions");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_108_9", /*message*/"Episode 9 Surprise Live Show");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_109_1", /*message*/"Episode 1 After-School Secret");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_109_2", /*message*/"Episode 2 Ruby&apos;s Preference");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_109_3", /*message*/"Episode 3 Shopping Adventure");
@@ -17776,6 +18149,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_109_5", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_109_6", /*message*/"Episode 6 - A Heartwarming Scene");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_109_7", /*message*/"Episode 7 A New Development");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_109_8", /*message*/"Episode 8 Ruby&apos;s Worth");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_109_9", /*message*/"Episode 9 Be Confident");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_1", /*message*/"Episode 1 Going Forward Together");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_2", /*message*/"Episode 2 Where We End Up");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_3", /*message*/"Episode 3 An Unknown Aspect");
@@ -27393,6 +27767,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0059", /*message*/"Ly
 Composition / Arrangement: Yuichi Yaegashi");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0061", /*message*/"Lyrics: Aki Hata
 Composition / Arrangement: Takashi Saeki");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0062", /*message*/"Lyrics: Aki Hata
+Composition / Arrangement: Takashi Saeki");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0064", /*message*/"Lyrics: Aki Hata
 Composition: Tatsuyuki Masuda
 Arrangement: Seiji Miura");
@@ -27516,6 +27892,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0017", /*message*/"HEART t
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0054", /*message*/"Kodoku na Heaven");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0059", /*message*/"Someday of My Life");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0061", /*message*/"Arifureta Kanashimi no Hate");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0062", /*message*/"Yume no Tobira");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0064", /*message*/"Blueberry ♡ Train");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0066", /*message*/"Daring!!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0067", /*message*/"Yuki no Reason");
@@ -27581,6 +27958,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0017", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0054", /*message*/"こどくなへぶん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0059", /*message*/"さむでいおぶまいらいふ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0061", /*message*/"ありふれたかなしみのはて");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0062", /*message*/"ゆめのとびら");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0064", /*message*/"ぶるーべりーとれいん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0066", /*message*/"だーりん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0067", /*message*/"ゆうきのりーずん");

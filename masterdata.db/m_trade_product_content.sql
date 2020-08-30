@@ -5,6 +5,20 @@ CREATE TABLE m_trade_product_content(
   PRIMARY KEY (id),
   FOREIGN KEY (trade_product_master_id) REFERENCES m_trade_product(id)
 );
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011700101, /*trade_product_master_id*/20117001, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011700201, /*trade_product_master_id*/20117002, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011700301, /*trade_product_master_id*/20117003, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011700401, /*trade_product_master_id*/20117004, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011800101, /*trade_product_master_id*/20118001, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011800201, /*trade_product_master_id*/20118002, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011800301, /*trade_product_master_id*/20118003, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011800401, /*trade_product_master_id*/20118004, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011800501, /*trade_product_master_id*/20118005, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011800601, /*trade_product_master_id*/20118006, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011800701, /*trade_product_master_id*/20118007, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011800801, /*trade_product_master_id*/20118008, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011800901, /*trade_product_master_id*/20118009, /*content_display_order*/0);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2011801001, /*trade_product_master_id*/20118010, /*content_display_order*/0);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/200110101, /*trade_product_master_id*/2001101, /*content_display_order*/0);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/200110201, /*trade_product_master_id*/2001102, /*content_display_order*/0);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/200110301, /*trade_product_master_id*/2001103, /*content_display_order*/0);

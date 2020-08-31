@@ -657,6 +657,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001502", /*message*/"[6-Month Anniversary Celebration!] Clear &quot;Music S.T.A.R.T!!&quot;: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001503", /*message*/"[6-Month Anniversary Celebration!] Clear &quot;Step! ZERO to ONE&quot;: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001504", /*message*/"[6-Month Anniversary Celebration!] Clear &quot;SKY JOURNEY&quot;: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001603", /*message*/"&quot;SBL Commemoration!&quot; Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001604", /*message*/"&quot;SBL Commemoration!&quot; Obtain 1 school idols.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001810", /*message*/"[Sparkling Vacation] Reach Player Rank 10.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001811", /*message*/"[Sparkling Vacation] Reach Player Rank 20.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001812", /*message*/"[Sparkling Vacation] Reach Player Rank 30.");

@@ -657,6 +657,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001502", /*message*/"[半週年紀念！]完成5次「Music S.T.A.R.T!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001503", /*message*/"[半週年紀念！]完成5次「Step! ZERO to ONE」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001504", /*message*/"[半週年紀念！]完成5次「SKY JOURNEY」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001603", /*message*/"[大型合作演唱會登場紀念！]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001604", /*message*/"[大型合作演唱會登場紀念！]獲得1名學園偶像");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001810", /*message*/"[光輝燦爛閃耀假期]把玩家RANK提升到10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001811", /*message*/"[光輝燦爛閃耀假期]把玩家RANK提升到20");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001812", /*message*/"[光輝燦爛閃耀假期]把玩家RANK提升到30");

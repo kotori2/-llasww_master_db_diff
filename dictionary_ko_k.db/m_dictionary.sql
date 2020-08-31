@@ -14959,6 +14959,24 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_1", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_2", /*message*/"49,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_3", /*message*/"SP 특기로 22,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_4", /*message*/"65,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001101_1", /*message*/"SP 특기로 4,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001101_2", /*message*/"24,500 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001101_3", /*message*/"SP 특기로 4,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001102_1", /*message*/"SP 특기로 4,500 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001102_2", /*message*/"30,100 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001102_3", /*message*/"SP 특기로 4,500 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001103_1", /*message*/"SP 특기로 5,500 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001103_2", /*message*/"35,850 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001103_3", /*message*/"SP 특기로 5,500 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001201_1", /*message*/"SP 특기로 12,800 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001201_2", /*message*/"85,920 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001201_3", /*message*/"SP 특기로 12,800 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001202_1", /*message*/"SP 특기로 16,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001202_2", /*message*/"112,800 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001202_3", /*message*/"SP 특기로 16,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001203_1", /*message*/"SP 특기로 19,200 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001203_2", /*message*/"140,960 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001203_3", /*message*/"SP 특기로 19,200 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40014101_1", /*message*/"12,250 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40014101_2", /*message*/"12,250 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40014101_3", /*message*/"13,800 볼티지 획득");
@@ -15019,6 +15037,54 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41004203_1", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41004203_2", /*message*/"77,840 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41004203_3", /*message*/"91,360 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41004203_4", /*message*/"100,400 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006101_1", /*message*/"5,350 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006101_2", /*message*/"10,700 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006101_3", /*message*/"19,150 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006101_4", /*message*/"19,150 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006101_5", /*message*/"11,450 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006102_1", /*message*/"6,600 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006102_2", /*message*/"13,150 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006102_3", /*message*/"23,500 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006102_4", /*message*/"23,500 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006102_5", /*message*/"14,100 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006103_1", /*message*/"7,850 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006103_2", /*message*/"15,600 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006103_3", /*message*/"27,950 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006103_4", /*message*/"27,950 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006103_5", /*message*/"16,850 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006201_1", /*message*/"18,960 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006201_2", /*message*/"37,040 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006201_3", /*message*/"66,880 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006201_4", /*message*/"66,880 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006201_5", /*message*/"40,720 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006202_1", /*message*/"25,040 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006202_2", /*message*/"48,160 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006202_3", /*message*/"87,680 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006202_4", /*message*/"87,680 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006202_5", /*message*/"53,760 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006203_1", /*message*/"31,520 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006203_2", /*message*/"59,840 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006203_3", /*message*/"109,440 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006203_4", /*message*/"109,440 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006203_5", /*message*/"67,600 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005101_1", /*message*/"17,600 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005101_2", /*message*/"11,500 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005101_3", /*message*/"19,150 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005102_1", /*message*/"21,600 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005102_2", /*message*/"14,050 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005102_3", /*message*/"23,500 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005103_1", /*message*/"25,700 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005103_2", /*message*/"16,700 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005103_3", /*message*/"27,950 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005201_1", /*message*/"61,440 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005201_2", /*message*/"39,760 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005201_3", /*message*/"66,880 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005202_1", /*message*/"80,480 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005202_2", /*message*/"51,760 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005202_3", /*message*/"87,680 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005203_1", /*message*/"100,400 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005203_2", /*message*/"64,320 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005203_3", /*message*/"109,440 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42007101_1", /*message*/"스쿨 아이돌 4명으로 어필");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42007101_2", /*message*/"스쿨 아이돌 4명으로 어필");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42007101_3", /*message*/"스쿨 아이돌 4명으로 어필");
@@ -16188,6 +16254,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200131", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200132", /*message*/"사전 이벤트 스쿠스타 빅 라이브 랭킹 상위 90,000위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200133", /*message*/"사전 이벤트 스쿠스타 빅 라이브 랭킹 상위 100,000위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200198", /*message*/"사전 이벤트 스쿠스타 빅 라이브 참가상");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200201", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 1위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200202", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 2위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200203", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 3위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200204", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 4위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200205", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 5위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200206", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 6위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200207", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 7위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200208", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 8위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200209", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 9위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200210", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 10위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200211", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 50위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200212", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 100위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200213", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 300위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200214", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 500위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200215", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 1,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200216", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 2,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200217", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 3,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200218", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 4,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200219", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 5,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200220", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 6,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200221", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 7,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200222", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 8,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200223", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 9,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200224", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 10,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200225", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 20,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200226", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 30,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200227", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 40,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200228", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 50,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200229", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 60,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200230", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 70,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200231", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 80,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200232", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 90,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200233", /*message*/"제1회 스쿠스타 빅 라이브 랭킹 상위 100,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200298", /*message*/"제1회 스쿠스타 빅 라이브 참가상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100101", /*message*/"바다 위 대열전 볼티지 랭킹 1위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100102", /*message*/"바다 위 대열전 볼티지 랭킹 2위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100103", /*message*/"바다 위 대열전 볼티지 랭킹 3위 칭호");
@@ -16910,6 +17010,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200131", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200132", /*message*/"사전 이벤트 스쿠스타 빅 라이브 상위 90,000위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200133", /*message*/"사전 이벤트 스쿠스타 빅 라이브 상위 100,000위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200198", /*message*/"사전 이벤트 스쿠스타 빅 라이브 참가상");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200201", /*message*/"제1회 스쿠스타 빅 라이브 1위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200202", /*message*/"제1회 스쿠스타 빅 라이브 2위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200203", /*message*/"제1회 스쿠스타 빅 라이브 3위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200204", /*message*/"제1회 스쿠스타 빅 라이브 4위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200205", /*message*/"제1회 스쿠스타 빅 라이브 5위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200206", /*message*/"제1회 스쿠스타 빅 라이브 6위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200207", /*message*/"제1회 스쿠스타 빅 라이브 7위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200208", /*message*/"제1회 스쿠스타 빅 라이브 8위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200209", /*message*/"제1회 스쿠스타 빅 라이브 9위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200210", /*message*/"제1회 스쿠스타 빅 라이브 10위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200211", /*message*/"제1회 스쿠스타 빅 라이브 상위 50위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200212", /*message*/"제1회 스쿠스타 빅 라이브 상위 100위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200213", /*message*/"제1회 스쿠스타 빅 라이브 상위 300위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200214", /*message*/"제1회 스쿠스타 빅 라이브 상위 500위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200215", /*message*/"제1회 스쿠스타 빅 라이브 상위 1,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200216", /*message*/"제1회 스쿠스타 빅 라이브 상위 2,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200217", /*message*/"제1회 스쿠스타 빅 라이브 상위 3,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200218", /*message*/"제1회 스쿠스타 빅 라이브 상위 4,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200219", /*message*/"제1회 스쿠스타 빅 라이브 상위 5,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200220", /*message*/"제1회 스쿠스타 빅 라이브 상위 6,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200221", /*message*/"제1회 스쿠스타 빅 라이브 상위 7,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200222", /*message*/"제1회 스쿠스타 빅 라이브 상위 8,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200223", /*message*/"제1회 스쿠스타 빅 라이브 상위 9,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200224", /*message*/"제1회 스쿠스타 빅 라이브 상위 10,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200225", /*message*/"제1회 스쿠스타 빅 라이브 상위 20,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200226", /*message*/"제1회 스쿠스타 빅 라이브 상위 30,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200227", /*message*/"제1회 스쿠스타 빅 라이브 상위 40,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200228", /*message*/"제1회 스쿠스타 빅 라이브 상위 50,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200229", /*message*/"제1회 스쿠스타 빅 라이브 상위 60,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200230", /*message*/"제1회 스쿠스타 빅 라이브 상위 70,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200231", /*message*/"제1회 스쿠스타 빅 라이브 상위 80,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200232", /*message*/"제1회 스쿠스타 빅 라이브 상위 90,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200233", /*message*/"제1회 스쿠스타 빅 라이브 상위 100,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200298", /*message*/"제1회 스쿠스타 빅 라이브 참가상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100101", /*message*/"바다 위 대열전 볼티지 랭킹 1위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100102", /*message*/"바다 위 대열전 볼티지 랭킹 2위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100103", /*message*/"바다 위 대열전 볼티지 랭킹 3위");
@@ -31640,6 +31774,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0034", /*message*/"휴~♪
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0035", /*message*/"불꽃놀이, 수영장, 바다!
 여름은 너와 함께 
 가고 싶은 곳이 너무 많아.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0036", /*message*/"느, 늦더위가…
+푹푹 찐다~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0037", /*message*/"여름도 곧 끝이야.
+그래도 올해는 너랑 
+추억을 많이 만들어서…♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0044", /*message*/"오늘은 쪽지 시험이
 없기를…");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0045", /*message*/"수업이 끝나면
@@ -31782,6 +31921,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0034", /*message*/"이제 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0035", /*message*/"이번 주말에 불꽃놀이가 있어.
 너랑 같이 가고 싶은데…
 어때?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0036", /*message*/"새 학기는 학생회 일이
+많아. 연습 시간을
+줄이고 싶지 않으니까,
+효율적으로 움직여야 해.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0037", /*message*/"혹시…
+요즘 피곤하니?
+오늘은 내가 소화 잘되는
+저녁을 차려 줄게.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0044", /*message*/"보람찬 하루를 시작하기 위해서
 아침에 마음을 다잡자♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0045", /*message*/"오늘 학교 끝나고 같이
@@ -31933,6 +32080,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0034", /*message*/"여름�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0035", /*message*/"올여름은 너랑 같이
 많이 논 것 같아♪
 에헤헤… 행복하다♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0036", /*message*/"여름방학이 다 끝났네.
+이번 달부터 다시 힘내자♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0037", /*message*/"요즘 날이 선선해졌으니까…
+너랑 산책하러 가고 싶어♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0044", /*message*/"쉬는 시간에는 코토리를
 만나러 와 주면 좋겠다♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0045", /*message*/"오늘은 너랑 같이
@@ -32096,6 +32247,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0035", /*message*/"당신�
 마음과, 당신 앞에서
 수영복을 입는 게 
 부끄러운 마음이…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0036", /*message*/"더운 날씨가 아직 이어진다니, 
+건강 조심하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0037", /*message*/"밤바람이 시원한
+계절이네요.
+가끔은 밤에 산책하는 건
+어떨까요?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0044", /*message*/"수업을 더 잘 이해하기
 위해서도 예습하는 습관을
 들이는 게 좋아요.");
@@ -32270,6 +32427,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0035", /*message*/"덥다�
 지금부터 덥다고 말하는 거
 금지! …아, 그치만 그치만
 덥다냥~!!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0036", /*message*/"여름방학이 끝나 버렸어~!
+이 슬픔을
+노래로 만들면 어떨까?
+지금이라면 좋은 노래를
+부를 수 있을 것 같다냥♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0037", /*message*/"부실에 네가 있으면
+어쩐지 안심된다냥…♪
+에헤헤, 학교는 참 좋아!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0044", /*message*/"아직 졸려?
 그럼 린이랑 같이 운동장을
 달리자! 그럼 잠이 
@@ -32429,6 +32594,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0034", /*message*/"여름�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0035", /*message*/"여름방학 중에 잠깐은
 시간 낼 수 있지?
 같이 여행이나 갈까?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0036", /*message*/"자자, 넋 놓고 있지 마.
+이제 새 학기가 시작됐잖아.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0037", /*message*/"아직 여름방학 기분이 덜 빠졌어?
+할 수 없지… 다음 휴일에
+같이 놀아 줄까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0044", /*message*/"오늘 일정은 어떻게 돼?
 아침에 미리
 확인해 두는 게 좋아.");
@@ -32582,6 +32752,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0035", /*message*/"여름�
 불꽃놀이를 보러 가고 싶어.
 우리의 여름 추억…
 만들고 싶잖아♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0036", /*message*/"부실에 코스모스를
+장식해 둘게.
+가을의 벚꽃이라니
+참 예쁜 이름이야♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0037", /*message*/"혹시… 늦더위 때문에
+지친 거 아니야?
+내가 옆에 있을 테니까
+마음 놓고 쉬어.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0044", /*message*/"오늘도 좋은 하루를
 보낼 수 있기를 바라.
 내가 응원할게♪");
@@ -32734,6 +32912,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0034", /*message*/"수박 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0035", /*message*/"불꽃놀이를 보러 가지 않을래?
 여름이 끝나기 전에 너랑
 추억을 만들고 싶어.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0036", /*message*/"아직 더위가 끝나지 않았으니까
+밥 잘 챙겨 먹고 힘내자!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0037", /*message*/"오늘은 슈퍼에서
+꽁치를 샀어!
+같이 먹자♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0044", /*message*/"아침밥을 든든하게
 먹어야 기운이 나지.
 주먹밥을 먹고
@@ -32901,6 +33084,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0034", /*message*/"스쿨 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0035", /*message*/"너는 가고 싶은 데 없어?
 니코는 너랑 불꽃놀이를
 보고 싶은데… 안 돼?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0036", /*message*/"늦더위 같은 건 니코니가
+확 날려 버릴게니코!
+자, 연습하자, 연습!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0037", /*message*/"여름방학이 끝나는 건
+아쉽지만, 이렇게
+매일 학교에서 친구들을
+만날 수 있으니까…
+나쁘진 않네.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0044", /*message*/"좋은 아침♪
 오늘도 니코를 만나서
 좋았지♡");
@@ -33062,6 +33253,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0035", /*message*/"저기,
 뒹굴거리며 한숨 자자.
 선풍기도 돌아가고
 기분 좋아…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0036", /*message*/"9월이야!
+아직 한창 덥지만…
+9월이 된 것만으로도
+신기하게 가을이라는 느낌이 들어.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0037", /*message*/"여름이 끝나는 건
+조금 아쉽지만…
+너와 함께 지내는 가을도 좋아♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0044", /*message*/"밤늦게까지 안 자고 있으면
 언니들한테 혼난단 말이지~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0045", /*message*/"네가 웃으면
@@ -33216,6 +33414,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0035", /*message*/"괜찮�
 먹으러 올래?
 더위를 이기는 메뉴
 나랑 함께 먹자.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0036", /*message*/"얼마 전까지만 해도
+저녁 일곱 시까지
+밖이 환했는데,
+해가 많이 짧아졌어.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0037", /*message*/"방울벌레 우는 소리는
+참 맑고 예쁜 것 같아.
+내 목소리가 더 예쁘다고?
+…너도 참.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0044", /*message*/"아침은 먹었어?
 하루를 시작하려면
 든든하게 먹어야지.");
@@ -33375,6 +33581,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0035", /*message*/"이번 
 유성군을 볼 수 있대.
 올해는 너랑 같이 보러
 가고 싶어.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0036", /*message*/"꽁치 철이 시작됐나 봐.
+당장 오늘 저녁에 소금구이로 먹을까♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0037", /*message*/"바다를 질투하는 날이
+올 줄이야~
+아까부터 네가 바다만
+보고 있잖아.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0044", /*message*/"아침에 일어나면 바다를 향해
 아침 인사를 하곤 해.
 그러면 파도 소리로 대답해 줘.");
@@ -33545,6 +33757,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0035", /*message*/"차가�
 네? 엄마 같다고요?
 뭐예요! 저는 걱정해서
 하는 소린데!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0036", /*message*/"올해도 벌써 석 달밖에 안 남았네요.
+시간이 참 빨라요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0037", /*message*/"가을 하늘은 높고 푸르고,
+당신의 눈망울처럼
+맑고 아름다워요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0044", /*message*/"늦잠은 용납 못 해요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0045", /*message*/"머리를 묶는 건 어떠냐고요?
 글쎄요, 그다지…
@@ -33709,6 +33926,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0034", /*message*/"수박�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0035", /*message*/"기운이 없네.
 괜찮아?
 더위 먹은 건가?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0036", /*message*/"스포츠의 계절, 가을이 시작된다~!
+아, 하지만 수영장 시즌이 끝난 건
+아쉽네.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0037", /*message*/"아하하! 머리 위에
+잠자리가 앉았어~!
+잠깐만, 사진 찍을래.
+너와 잠자리와 가을 하늘,
+찰칵☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0044", /*message*/"오늘 하루도
 전속력 전진으로
 힘내자~!");
@@ -33852,6 +34077,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0034", /*message*/"괘씸�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0035", /*message*/"더운데…
 왜 이렇게
 너랑 떨어지기 싫은 걸까.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0036", /*message*/"타락천사와 새빨간 석산.
+이건 찍을 수밖에 없지!
+카메라 잘 부탁해!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0037", /*message*/"지상의 가을도
+요하네와 함께 만끽하자♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0044", /*message*/"스쿨 아이돌 같은
 경망스러운 짓은
 이 요하네에게
@@ -34019,6 +34249,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0035", /*message*/"명절�
 온 가족이 모이는 시기야.
 눈에 보이지 않아도
 우리 곁에 다 있어.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0036", /*message*/"추분이 지나면 무더위도 꺾인다고 했어.
+시원해질 때까지 조금만 더 힘내자.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0037", /*message*/"네 목소리는
+군고구마처럼 달콤해서
+듣다 보면 마음이
+따끈따끈해져.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0044", /*message*/"먼 파도 소리를 들으며
 좋아하는 책을 읽고
 차를 마시고.
@@ -34173,6 +34409,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0034", /*message*/"여름 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0035", /*message*/"올여름만의
 특별한 추억을…
 마리와 함께 만들자!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0036", /*message*/"가을이 시작됐지만
+마리의 마음은 아직 한여름이야.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0037", /*message*/"앞으로 점점
+시원해지겠어.
+마음껏 스킨십을
+할 수 있겠는걸~♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0044", /*message*/"끄응.
 마리가 쇼핑을 하려고
 하면 다이아랑 카난이
@@ -34347,6 +34589,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0035", /*message*/"으아�
 너무 빤히 보지 마…
 그렇게 보면
 부끄럽다구우.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0036", /*message*/"친척이 포도를 잔뜩 보내 줬어.
+새콤달콤하고 맛있어서
+혼자서 한 송이를 다 먹었어!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0037", /*message*/"루비가 코스모스를 닮았다구?
+에이~ 정말? 부끄러~.
+그래도 기뻐. 고마워♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0044", /*message*/"매일 댄스 연습과 근력 트레이닝을 하니까, 루비도 조금은 튼튼해졌을까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0045", /*message*/"사실 네 앞에서
 귀여운 의상을 입는 게
@@ -34487,6 +34735,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0035", /*message*/"올여�
 동호회 합숙도 있지만,
 매년 우리 둘이 하던
 방학 숙제 합숙도 잊지 마.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0036", /*message*/"늦더위가 오는 게 늦더라…
+으으, 아이랑 게임해서 진
+벌칙으로 하는 거야.
+그런 얼굴 하지 마~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0037", /*message*/"가을 느낌이 조금씩 나네…
+왠지 가슴이 허전해…
+잠깐만 붙어 있어도 될까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0044", /*message*/"좋은 아침이야!
 새로운 하루가 시작됐어.
 오늘도 함께 힘내자!");
@@ -34647,6 +34902,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0035", /*message*/"선배,
 촬영해 보는 건 어때요?
 하고 싶으시죠?
 그렇죠? 빨리 가요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0036", /*message*/"비든 우박이든
+안 내리려나…
+곧 운동회가
+있잖아요…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0037", /*message*/"여름이 끝났네요.
+수영복에 소보로빵을 넣는다든가
+이것저것 생각해 둔 게 있었는데.
+앗! 선배, 왜 웃는 거예요?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0044", /*message*/"오늘도 하루가 시작됐네요!
 힘내서 갈게요~!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0045", /*message*/"선배, 카스밍이 이불에서
@@ -34840,6 +35103,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0035", /*message*/"어제 
 밀짚모자, 한번 써 보세요.
 …역시 예상한 대로네요!
 선배한테 잘 어울려요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0036", /*message*/"아직 늦더위가 기승이네요…
+건강을 해치지 않도록
+조심하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0037", /*message*/"더웠다 추웠다 해서
+무슨 옷을 입을지 고민이에요.
+어떤 차림이 좋을지
+같이 생각 해 주실래요?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0044", /*message*/"좋은 아침이에요.
 오늘도 멋진 하루로
 만들어 봐요.");
@@ -35013,6 +35283,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0034", /*message*/"여름�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0035", /*message*/"여름이니까
 새 수영복을 사고 싶어.
 넌 어떤 수영복이 취향이야?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0036", /*message*/"일교차가
+심한 시기니까
+건강 조심해.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0037", /*message*/"매일 하는 걷기 운동하기
+쾌적한 계절이 되어 가네.
+너도 같이 할래?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0044", /*message*/"아직 졸리겠지만
 조금만 힘내자.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0045", /*message*/"어젯밤에 늦게 자서
@@ -35172,6 +35448,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0035", /*message*/"다음�
 사러 가자. 우리한테만
 예쁜 거 입히지 말고
 너도 좀 꾸며 봐!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0036", /*message*/"아~…
+여름방학이 끝나 버렸어…
+왜 여름방학은
+여름에만 있는 걸까…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0037", /*message*/"방학이 끝나면 항상
+하얗게 불태웠다는 느낌이
+들었는데, 올해는 다르네.
+너와 함께 보람찬 시간을
+보낸 덕분이야!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0044", /*message*/"안녕! 
 아이는 아침부터 기분 최고!
 너도 같이 최고하자!");
@@ -35342,6 +35627,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0034", /*message*/"에어�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0035", /*message*/"여름방학에도 열심히
 레슨할 수 있는 건
 네 덕분인 것 같아~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0036", /*message*/"늦더위가 늦바람이
+들었습니다… 어라?
+아이는 배꼽을 잡고
+웃던데…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0037", /*message*/"가을은 식욕의 계절이야~
+너를 피둥피둥하게 만들겠다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0044", /*message*/"앗… 된장국 냄새…
 좋은 아침입니다…");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0045", /*message*/"다시 잠들지 않게
@@ -35498,6 +35789,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0035", /*message*/"뭉게�
 이상하게 가슴이 막 뛰어요.
 당신과 함께 봐서
 그런 걸까요…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0036", /*message*/"여름도 다 갔네요… 하지만
+제 스쿨 아이돌 사랑은
+여전히 뜨겁답니다!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0037", /*message*/"가끔은 기분 전환 삼아
+자전거를 타러
+가는 건 어때요?
+바람을 가르며 달리면
+기분이 상쾌하답니다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0044", /*message*/"안녕하세요!
 오전에도 힘내 봐요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0045", /*message*/"어라? 어딘가 
@@ -35685,6 +35984,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0035", /*message*/"다른 
 역시 작을까?
 네가 직접 보고
 확인해 줄래?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0036", /*message*/"늦더위가 늦바람 들었다!
+이 말장난을 알려 준 건…
+말하지 않아도 알아?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0037", /*message*/"운동회 연습 중이야.
+같이 이인삼각 해 줄래?
+부탁이야!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0044", /*message*/"안녕!
 오늘도 열심히 하자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0045", /*message*/"좋은 아침!
@@ -35841,6 +36146,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0035", /*message*/"담력�
 리나 보드에 무서운
 얼굴을 그렸다가
 비극이 일어났거든…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0036", /*message*/"방울벌레들에게 지지 않도록
+나도 노래, 더 열심히 할래!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0037", /*message*/"잠자리가 날아다니는 계절.
+날씨도 차츰 시원해지겠네.
+…저기, 왜 내 눈앞에서
+손가락을 빙글빙글 돌리는 거야?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0044", /*message*/"수업 시간에는 집중.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0045", /*message*/"졸려 보여…
 눈꺼풀에 눈 그릴래?");

@@ -14943,6 +14943,24 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_1", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_2", /*message*/"累積合計49,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_3", /*message*/"使用組合技來累積合計22,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_33000120_4", /*message*/"累積合計65,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001101_1", /*message*/"使用組合技來累積合計4,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001101_2", /*message*/"累積合計24,500的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001101_3", /*message*/"使用組合技來累積合計4,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001102_1", /*message*/"使用組合技來累積合計4,500的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001102_2", /*message*/"累積合計30,100的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001102_3", /*message*/"使用組合技來累積合計4,500的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001103_1", /*message*/"使用組合技來累積合計5,500的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001103_2", /*message*/"累積合計35,850的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001103_3", /*message*/"使用組合技來累積合計5,500的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001201_1", /*message*/"使用組合技來累積合計12,800的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001201_2", /*message*/"累積合計85,920的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001201_3", /*message*/"使用組合技來累積合計12,800的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001202_1", /*message*/"使用組合技來累積合計16,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001202_2", /*message*/"累積合計112,800的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001202_3", /*message*/"使用組合技來累積合計16,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001203_1", /*message*/"使用組合技來累積合計19,200的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001203_2", /*message*/"累積合計140,960的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40001203_3", /*message*/"使用組合技來累積合計19,200的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40014101_1", /*message*/"累積合計12,250的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40014101_2", /*message*/"累積合計12,250的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_40014101_3", /*message*/"累積合計13,800的張力");
@@ -15003,6 +15021,54 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41004203_1", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41004203_2", /*message*/"累積合計77,840的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41004203_3", /*message*/"累積合計91,360的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41004203_4", /*message*/"累積合計100,400的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006101_1", /*message*/"累積合計5,350的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006101_2", /*message*/"累積合計10,700的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006101_3", /*message*/"累積合計19,150的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006101_4", /*message*/"累積合計19,150的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006101_5", /*message*/"累積合計11,450的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006102_1", /*message*/"累積合計6,600的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006102_2", /*message*/"累積合計13,150的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006102_3", /*message*/"累積合計23,500的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006102_4", /*message*/"累積合計23,500的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006102_5", /*message*/"累積合計14,100的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006103_1", /*message*/"累積合計7,850的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006103_2", /*message*/"累積合計15,600的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006103_3", /*message*/"累積合計27,950的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006103_4", /*message*/"累積合計27,950的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006103_5", /*message*/"累積合計16,850的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006201_1", /*message*/"累積合計18,960的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006201_2", /*message*/"累積合計37,040的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006201_3", /*message*/"累積合計66,880的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006201_4", /*message*/"累積合計66,880的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006201_5", /*message*/"累積合計40,720的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006202_1", /*message*/"累積合計25,040的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006202_2", /*message*/"累積合計48,160的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006202_3", /*message*/"累積合計87,680的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006202_4", /*message*/"累積合計87,680的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006202_5", /*message*/"累積合計53,760的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006203_1", /*message*/"累積合計31,520的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006203_2", /*message*/"累積合計59,840的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006203_3", /*message*/"累積合計109,440的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006203_4", /*message*/"累積合計109,440的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_41006203_5", /*message*/"累積合計67,600的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005101_1", /*message*/"累積合計17,600的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005101_2", /*message*/"累積合計11,500的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005101_3", /*message*/"累積合計19,150的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005102_1", /*message*/"累積合計21,600的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005102_2", /*message*/"累積合計14,050的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005102_3", /*message*/"累積合計23,500的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005103_1", /*message*/"累積合計25,700的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005103_2", /*message*/"累積合計16,700的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005103_3", /*message*/"累積合計27,950的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005201_1", /*message*/"累積合計61,440的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005201_2", /*message*/"累積合計39,760的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005201_3", /*message*/"累積合計66,880的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005202_1", /*message*/"累積合計80,480的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005202_2", /*message*/"累積合計51,760的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005202_3", /*message*/"累積合計87,680的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005203_1", /*message*/"累積合計100,400的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005203_2", /*message*/"累積合計64,320的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42005203_3", /*message*/"累積合計109,440的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42007101_1", /*message*/"讓4名學園偶像進行表現");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42007101_2", /*message*/"讓4名學園偶像進行表現");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_42007101_3", /*message*/"讓4名學園偶像進行表現");
@@ -16176,6 +16242,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200131", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200132", /*message*/"在試玩活動 學園偶像大型合作演唱會進入前90,000名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200133", /*message*/"在試玩活動 學園偶像大型合作演唱會進入前100,000名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200198", /*message*/"「試玩活動 學園偶像大型合作演唱會」參加獎");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200201", /*message*/"在第1回 學園偶像大型合作演唱會獲得第1名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200202", /*message*/"在第1回 學園偶像大型合作演唱會獲得第2名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200203", /*message*/"在第1回 學園偶像大型合作演唱會獲得第3名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200204", /*message*/"在第1回 學園偶像大型合作演唱會獲得第4名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200205", /*message*/"在第1回 學園偶像大型合作演唱會獲得第5名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200206", /*message*/"在第1回 學園偶像大型合作演唱會獲得第6名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200207", /*message*/"在第1回 學園偶像大型合作演唱會獲得第7名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200208", /*message*/"在第1回 學園偶像大型合作演唱會獲得第8名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200209", /*message*/"在第1回 學園偶像大型合作演唱會獲得第9名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200210", /*message*/"在第1回 學園偶像大型合作演唱會獲得第10名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200211", /*message*/"在第1回 學園偶像大型合作演唱會進入前50名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200212", /*message*/"在第1回 學園偶像大型合作演唱會進入前100名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200213", /*message*/"在第1回 學園偶像大型合作演唱會進入前300名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200214", /*message*/"在第1回 學園偶像大型合作演唱會進入前500名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200215", /*message*/"在第1回 學園偶像大型合作演唱會進入前1,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200216", /*message*/"在第1回 學園偶像大型合作演唱會進入前2,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200217", /*message*/"在第1回 學園偶像大型合作演唱會進入前3,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200218", /*message*/"在第1回 學園偶像大型合作演唱會進入前4,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200219", /*message*/"在第1回 學園偶像大型合作演唱會進入前5,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200220", /*message*/"在第1回 學園偶像大型合作演唱會進入前6,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200221", /*message*/"在第1回 學園偶像大型合作演唱會進入前7,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200222", /*message*/"在第1回 學園偶像大型合作演唱會進入前8,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200223", /*message*/"在第1回 學園偶像大型合作演唱會進入前9,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200224", /*message*/"在第1回 學園偶像大型合作演唱會進入前10,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200225", /*message*/"在第1回 學園偶像大型合作演唱會進入前20,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200226", /*message*/"在第1回 學園偶像大型合作演唱會進入前30,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200227", /*message*/"在第1回 學園偶像大型合作演唱會進入前40,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200228", /*message*/"在第1回 學園偶像大型合作演唱會進入前50,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200229", /*message*/"在第1回 學園偶像大型合作演唱會進入前60,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200230", /*message*/"在第1回 學園偶像大型合作演唱會進入前70,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200231", /*message*/"在第1回 學園偶像大型合作演唱會進入前80,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200232", /*message*/"在第1回 學園偶像大型合作演唱會進入前90,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200233", /*message*/"在第1回 學園偶像大型合作演唱會進入前100,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200298", /*message*/"「第1回 學園偶像大型合作演唱會」參加獎");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100101", /*message*/"在「海上大激戰」的張力排名獲得第1名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100102", /*message*/"在「海上大激戰」的張力排名獲得第2名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100103", /*message*/"在「海上大激戰」的張力排名獲得第3名的稱號");
@@ -16898,6 +16998,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200131", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200132", /*message*/"「試玩活動 學園偶像大型合作演唱會」TOP90,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200133", /*message*/"「試玩活動 學園偶像大型合作演唱會」TOP100,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200198", /*message*/"「試玩活動 學園偶像大型合作演唱會」參加獎");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200201", /*message*/"「第1回 學園偶像大型合作演唱會」第1名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200202", /*message*/"「第1回 學園偶像大型合作演唱會」第2名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200203", /*message*/"「第1回 學園偶像大型合作演唱會」第3名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200204", /*message*/"「第1回 學園偶像大型合作演唱會」第4名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200205", /*message*/"「第1回 學園偶像大型合作演唱會」第5名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200206", /*message*/"「第1回 學園偶像大型合作演唱會」第6名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200207", /*message*/"「第1回 學園偶像大型合作演唱會」第7名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200208", /*message*/"「第1回 學園偶像大型合作演唱會」第8名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200209", /*message*/"「第1回 學園偶像大型合作演唱會」第9名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200210", /*message*/"「第1回 學園偶像大型合作演唱會」第10名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200211", /*message*/"「第1回 學園偶像大型合作演唱會」TOP50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200212", /*message*/"「第1回 學園偶像大型合作演唱會」TOP100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200213", /*message*/"「第1回 學園偶像大型合作演唱會」TOP300");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200214", /*message*/"「第1回 學園偶像大型合作演唱會」TOP500");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200215", /*message*/"「第1回 學園偶像大型合作演唱會」TOP1,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200216", /*message*/"「第1回 學園偶像大型合作演唱會」TOP2,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200217", /*message*/"「第1回 學園偶像大型合作演唱會」TOP3,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200218", /*message*/"「第1回 學園偶像大型合作演唱會」TOP4,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200219", /*message*/"「第1回 學園偶像大型合作演唱會」TOP5,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200220", /*message*/"「第1回 學園偶像大型合作演唱會」TOP6,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200221", /*message*/"「第1回 學園偶像大型合作演唱會」TOP7,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200222", /*message*/"「第1回 學園偶像大型合作演唱會」TOP8,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200223", /*message*/"「第1回 學園偶像大型合作演唱會」TOP9,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200224", /*message*/"「第1回 學園偶像大型合作演唱會」TOP10,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200225", /*message*/"「第1回 學園偶像大型合作演唱會」TOP20,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200226", /*message*/"「第1回 學園偶像大型合作演唱會」TOP30,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200227", /*message*/"「第1回 學園偶像大型合作演唱會」TOP40,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200228", /*message*/"「第1回 學園偶像大型合作演唱會」TOP50,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200229", /*message*/"「第1回 學園偶像大型合作演唱會」TOP60,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200230", /*message*/"「第1回 學園偶像大型合作演唱會」TOP70,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200231", /*message*/"「第1回 學園偶像大型合作演唱會」TOP80,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200232", /*message*/"「第1回 學園偶像大型合作演唱會」TOP90,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200233", /*message*/"「第1回 學園偶像大型合作演唱會」TOP100,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200298", /*message*/"「第1回 學園偶像大型合作演唱會」參加獎");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100101", /*message*/"「海上大激戰」張力排名第1名");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100102", /*message*/"「海上大激戰」張力排名第2名");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100103", /*message*/"「海上大激戰」張力排名第3名");
@@ -32139,6 +32273,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0034", /*message*/"呼～�
 休息休息～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0035", /*message*/"煙火、游泳池和海邊！
 夏天想和你去好多地方喔～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0036", /*message*/"夏、夏天的尾巴……
+好熱喔～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0037", /*message*/"夏天馬上就要結束了，
+不過今年和你一起
+創造了各種回憶……♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0044", /*message*/"希望今天沒有小考……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0045", /*message*/"下課後就要趕去社團教室～
 真想趕快見到大家♪");
@@ -32266,6 +32405,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0034", /*message*/"夏天�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0035", /*message*/"這週末有煙火大會，
 我很希望能跟你一起去……
 可以嗎？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0036", /*message*/"新學期學生會有很多工作。
+因為不想減少練習時間，
+得有效率地處理才行。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0037", /*message*/"該不會……
+你最近有點累？
+今天我幫你準備養生晚餐吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0044", /*message*/"為了讓一整天都很充實，
 早上就要打起精神喔♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0045", /*message*/"今天放學後，
@@ -32401,6 +32546,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0034", /*message*/"有在�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0035", /*message*/"感覺今年夏天
 和你一起玩了很久♪
 耶嘿嘿……好幸福♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0036", /*message*/"暑假結束了呢，
+這個月再開始加油吧♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0037", /*message*/"最近天氣變涼了……
+真想和你一起去散步♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0044", /*message*/"要是你能在休息時間
 來見琴梨，
 琴梨會很開心♪");
@@ -32538,6 +32687,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0034", /*message*/"真想�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0035", /*message*/"既想和你一起去游泳池，
 又覺得穿泳裝
 出現在你面前很害羞……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0036", /*message*/"炎熱的天氣還會持續下去，
+要多注意身體喔。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0037", /*message*/"這個季節的晚風很舒服呢。
+要不要偶爾在晚上
+去散散步呢？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0044", /*message*/"為了更理解上課內容，
 可以試著培養預習的習慣。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0045", /*message*/"我做了三明治來。
@@ -32677,6 +32831,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0035", /*message*/"因為�
 才會越來越熱喵。
 現在開始禁止說好熱！
 ……但果然還是好熱喵～！！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0036", /*message*/"暑假結束了～！
+把這份悲傷寫成歌怎麼樣？
+現在好像能唱首好歌喵♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0037", /*message*/"有你在社團教室
+總覺得很安心喵……♪
+耶嘿嘿，在學校真好呢！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0044", /*message*/"還睏嗎？
 那就和凜一起去跑操場吧，
 一定會清醒的喵！");
@@ -32814,6 +32974,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0034", /*message*/"你說�
 ……其實我覺得很熱啦。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0035", /*message*/"暑假多少有點時間吧？
 要不要一起去旅行？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0036", /*message*/"好了好了，別發呆了，
+新學期已經開始囉。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0037", /*message*/"暑假都過完了還沒收心？
+真拿你沒辦法……
+下次放假我就陪你去玩吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0044", /*message*/"今天有什麼安排？
 趁早上仔細確認比較好喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0045", /*message*/"很期待中午？
@@ -32954,6 +33119,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0035", /*message*/"在夏�
 真想和你去看煙火呢。
 兩個人的夏日回憶……
 很吸引人對吧♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0036", /*message*/"我把大波斯菊拿去
+社團教室當擺飾喔。
+秋櫻這個別名也很好聽呢♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0037", /*message*/"你該不會……
+因為夏末的暑氣而疲勞？
+我會陪在你身邊，
+安心休息吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0044", /*message*/"希望今天也是美好的一天，
 我會為你加油喔♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0045", /*message*/"來了來了！
@@ -33096,6 +33268,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0034", /*message*/"我能�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0035", /*message*/"要不要去看煙火？
 我希望能在夏天結束前
 和你一起留下回憶。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0036", /*message*/"因為天氣還很熱，
+要好好吃飯，一起加油喔！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0037", /*message*/"今天我在超市買了秋刀魚！
+一起吃吧♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0044", /*message*/"不好好吃早餐，
 可是會沒力氣的。
 吃個飯糰，
@@ -33234,6 +33410,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0034", /*message*/"學園�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0035", /*message*/"你有沒有想去的地方？
 日香想和你一起看煙火……
 不行嗎？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0036", /*message*/"看小香香趕跑
+夏末的熱天氣日香！
+來，練習練習！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0037", /*message*/"雖然暑假結束很可惜，
+但之後就能每天在學校
+見到大家了……
+也不錯呢。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0044", /*message*/"早安♪
 你今天也能見到日香，
 真是太好了♡");
@@ -33371,6 +33554,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0034", /*message*/"我熱�
 就去吃刨冰吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0035", /*message*/"你也來這邊躺著睡吧～
 可以吹電扇，很舒服喔……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0036", /*message*/"九月了！雖然還很熱……
+但光是進入九月，
+就感受到秋天的腳步了呢。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0037", /*message*/"雖然夏天結束有點寂寞……
+但我也喜歡和你
+一起度過秋天♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0044", /*message*/"要是我熬夜，
 會被姊姊們罵的～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0045", /*message*/"如果你對我笑，
@@ -33495,6 +33684,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0035", /*message*/"有空�
 我準備了防止
 夏季倦怠症的菜色，
 一起吃吧。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0036", /*message*/"前陣子到晚上七點
+天色還是亮的，
+現在白天就突然
+變得好短呢。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0037", /*message*/"鈴蟲的叫聲清脆又動聽呢。
+我的聲音比較動聽？
+……你真是的。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0044", /*message*/"吃早餐了嗎？
 早餐是一天的開始，
 要吃得好才行。");
@@ -33636,6 +33832,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0035", /*message*/"這個�
 英仙座流星雨喔。
 今年我想找你
 一起去看。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0036", /*message*/"到秋刀魚的產季了呢。
+那今晚就做道
+鹽烤秋刀魚來吃吧♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0037", /*message*/"沒想到我會有
+嫉妒大海的一天～
+因為你從剛才開始
+就只顧著看海啊。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0044", /*message*/"早上起床後，
 要跟大海說早安，
 大海會用海浪聲回應喔。");
@@ -33792,6 +33995,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0035", /*message*/"老是�
 咦？我像媽媽一樣？
 真是的！
 我是在擔心你啊！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0036", /*message*/"今年還剩三個月就結束了。
+歲月的流逝還真快呢。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0037", /*message*/"秋季的天空好藍好高，
+就像你的眼睛一樣，
+清澈又美麗。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0044", /*message*/"不准睡過頭喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0045", /*message*/"把頭髮綁起來嗎？
 這個嘛……
@@ -33937,6 +34145,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0034", /*message*/"有人�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0035", /*message*/"你很沒精神呢，
 還好吧？
 是夏季倦怠症嗎？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0036", /*message*/"運動之秋開始囉～！
+啊，
+可是泳池關閉不開放了，
+真可惜。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0037", /*message*/"哈哈哈！
+你頭上停了隻蜻蜓～！
+等一下，
+讓我拍張照片。
+你與蜻蜓與秋季天空，
+我拍☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0044", /*message*/"今天一天也要火力全開地
 全速～前進～
 好好加油～！");
@@ -34074,6 +34292,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0034", /*message*/"可惡�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0035", /*message*/"明明很熱……
 為什麼夜羽這麼不想
 跟你分開呢？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0036", /*message*/"墮天使跟鮮紅的彼岸花，
+這不拍不行啊！
+就拜託你拍照了！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0037", /*message*/"凡間的秋日風光，
+就跟夜羽一起好好享受吧♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0044", /*message*/"學園偶像這種輕浮的東西，
 根本配不上夜羽大人！
 ……夜羽也曾經
@@ -34236,6 +34459,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0035", /*message*/"盂蘭�
 讓家族團聚的節日喔。
 即使看不到對方，
 對方也確實就在身邊喔。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0036", /*message*/"熱到秋分，冷到春分。
+在天氣轉涼前再撐一下吧。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0037", /*message*/"你的聲音就像烤地瓜一樣甜，
+而且聽了心頭就暖暖的。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0044", /*message*/"一邊聽遠方的海浪聲，
 一邊看喜歡的書，
 喝著茶。
@@ -34387,6 +34614,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0034", /*message*/"夏天�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0035", /*message*/"就跟鞠莉一起創造……
 這個夏天專屬的
 特別回憶吧？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0036", /*message*/"雖然秋天已經Start了，
+鞠莉的心卻還留在夏天。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0037", /*message*/"接下來會漸漸轉涼。
+可以盡情地肌膚接觸了～♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0044", /*message*/"唔～
 鞠莉正想去買東西，
 結果被黛雅和果南阻止了～
@@ -34547,6 +34778,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0035", /*message*/"哇哇�
 別一直看著露比……
 一直被盯著瞧，
 感覺好難為情喔。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0036", /*message*/"親戚送了很多葡萄過來喔。
+葡萄酸酸甜甜的很好吃，
+露比一個人就吃了一整串！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0037", /*message*/"露比很像大波斯菊？
+咦～真的嗎？
+好害羞喔。
+不過露比很高興喔。
+謝謝你♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0044", /*message*/"每天都在練舞
 跟鍛鍊肌肉，
 露比的身材
@@ -34688,6 +34927,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0035", /*message*/"今年�
 學園偶像同好會的集訓，
 但也別忘了每年慣例的
 暑假作業趕工雙人集訓喔。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0036", /*message*/"酷熱殘夏就要熱褲餘夏……
+嗚嗚，這是小愛要我說的
+懲罰遊戲啦～
+別用那種眼神看我～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0037", /*message*/"秋意變濃了……
+總覺得好寂寞……
+可以黏在你身邊一下嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0044", /*message*/"早安！
 新的一天開始了。
 今天也一起加油吧！");
@@ -34838,6 +35084,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0035", /*message*/"前輩�
 前輩很想去對吧？
 小霞霞說得沒錯吧！
 快走吧！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0036", /*message*/"能不能下雨
+或是來個颱風啊……
+下次有運動會呢……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0037", /*message*/"夏天結束了。
+虧小霞霞想了把波蘿麵包
+塞進泳裝之類的點子。
+啊，前輩，
+你為什麼笑啊？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0044", /*message*/"今天又是新的一天了！
 加油吧～！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0045", /*message*/"前輩，跟小霞霞一起
@@ -35006,6 +35260,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0035", /*message*/"這是�
 請前輩戴戴看。
 ……跟我想的一樣！
 前輩戴起來很好看！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0036", /*message*/"到夏末還是很炎熱呢……
+要多注意身體狀況喔。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0037", /*message*/"天氣忽冷忽熱，
+很難穿衣服呢。
+要不要跟我一起想想
+該怎麼穿搭呢？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0044", /*message*/"早安。
 今天也要度過
 美好的一天喔。");
@@ -35166,6 +35426,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0034", /*message*/"夏天�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0035", /*message*/"夏天到了，
 所以我想買新泳裝。
 你喜歡什麼款式的泳裝呢？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0036", /*message*/"現在這個時期
+氣溫變化很劇烈，
+所以要注意身體健康喔。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0037", /*message*/"漸漸到了每天健走時
+很舒服的季節呢。
+你也要一起來健走嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0044", /*message*/"你或許還很睏，
 不過還是該提起精神。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0045", /*message*/"因為昨天弄到很晚，
@@ -35315,6 +35581,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0035", /*message*/"下次�
 別老是只讓我們
 打扮得很可愛，
 你也要好好打扮喔！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0036", /*message*/"唉……
+暑假結束了……
+為什麼暑假只有
+夏天才有呢……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0037", /*message*/"雖然暑假結束會讓人有
+燃燒殆盡的感覺，
+但今年不太一樣呢。
+都是多虧跟你過得很充實吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0044", /*message*/"早安！
 愛姐從早上就超嗨的！
 一起來嗨吧！");
@@ -35477,6 +35751,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0034", /*message*/"在冷�
 真～的好幸福～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0035", /*message*/"暑假也能努力練習，
 都是多虧有你～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0036", /*message*/"酷熱殘夏就要熱褲餘夏……
+奇怪？
+這對小愛
+就很有效啊……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0037", /*message*/"到食慾之秋囉～
+要把你餵得胖胖的！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0044", /*message*/"啊……是味噌湯的香味……
 早安……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0045", /*message*/"你來幫忙監視，
@@ -35619,6 +35899,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0035", /*message*/"看著�
 就會變得無比興奮。
 是因為跟你一起看……
 的關係嗎？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0036", /*message*/"夏天要結束了呢……
+不過我對學園偶像的愛
+還是很火熱的喔！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0037", /*message*/"偶爾也稍微喘口氣，
+來騎個自行車怎麼樣？
+迎風騎車很舒服的！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0044", /*message*/"早安！
 上午也加油吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0045", /*message*/"咦？總覺得你看起來很睏……
@@ -35771,6 +36057,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0035", /*message*/"我想�
 別告訴大家……
 這件泳裝真的太小件嗎？
 可以幫我確認看看嗎？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0036", /*message*/"酷熱殘夏熱褲餘夏！
+教我這個冷笑話的人……
+不用說你也知道嗎？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0037", /*message*/"我為了運動會正在練習。
+來練兩人三腳吧！
+拜託你！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0044", /*message*/"早安！
 今天也一起加油吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0045", /*message*/"早安！
@@ -35909,6 +36201,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0035", /*message*/"試膽�
 因為之前我認真地在璃奈板
 畫上可怕的表情後，
 就引發了悲劇……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0036", /*message*/"不能輸給鈴蟲，
+我也要更努力唱歌！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0037", /*message*/"到蜻蜓飛舞的季節，
+天氣漸漸轉涼了。
+……呃，為什麼要對著我
+用手指畫圈圈呢？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0044", /*message*/"上課要專心。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0045", /*message*/"你看起來好睏……
 要在眼皮上畫眼睛嗎？");

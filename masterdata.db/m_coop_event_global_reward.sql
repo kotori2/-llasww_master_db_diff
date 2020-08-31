@@ -11,3 +11,6 @@ CREATE TABLE m_coop_event_global_reward(
 INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320010001, /*event_id*/32001, /*target_value*/15000, /*content_type*/21, /*content_id*/22001, /*content_amount*/500);
 INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320010002, /*event_id*/32001, /*target_value*/30000, /*content_type*/21, /*content_id*/22001, /*content_amount*/1000);
 INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320010003, /*event_id*/32001, /*target_value*/45000, /*content_type*/21, /*content_id*/22001, /*content_amount*/1500);
+INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320020001, /*event_id*/32002, /*target_value*/15000, /*content_type*/21, /*content_id*/22001, /*content_amount*/500);
+INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320020002, /*event_id*/32002, /*target_value*/30000, /*content_type*/21, /*content_id*/22001, /*content_amount*/1000);
+INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320020003, /*event_id*/32002, /*target_value*/45000, /*content_type*/21, /*content_id*/22001, /*content_amount*/1500);

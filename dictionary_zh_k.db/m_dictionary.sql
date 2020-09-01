@@ -7900,6 +7900,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21007", /*message*/"可用�
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21008", /*message*/"可用來在交換所內交換Aqours的高級記憶碎片。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21009", /*message*/"可用來在交換所內交換虹咲的高級記憶碎片。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21013", /*message*/"每張可交換1件μ&apos;s盛夏水邊之花服裝的票券。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21014", /*message*/"每張可交換1件Aqours盛夏水邊之花服裝的票券。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_2200", /*message*/"可讓AP回復1的道具。
 有機會在完成課題時獲得。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_22001", /*message*/"可用來在活動禮品交換所內交換各種物品。");
@@ -8109,6 +8110,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21007", /*message*/"μ&apos;
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21008", /*message*/"Aqours高級記憶碎片交換券");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21009", /*message*/"虹咲高級記憶碎片交換券");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21013", /*message*/"μ&apos;s盛夏水邊之花服裝交換券");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21014", /*message*/"Aqours盛夏水邊之花服裝交換券");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_2200", /*message*/"集訓票券");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_22001", /*message*/"大型合作演唱會獎章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_8001", /*message*/"高坂穗乃果的記憶碎片");
@@ -15488,6 +15490,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 附贈「μ&apos;s盛夏水邊之花服裝交換券」！
 ※期間內最多可購買3次。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10045_name", /*message*/"μ&apos;sALL STARS盛夏套組");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10047_desc", /*message*/"內含450個虹彩星石(付費)的超值套組♪
+附贈「Aqours盛夏水邊之花服裝交換券」！
+※期間內最多可購買3次。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10047_name", /*message*/"AqoursALL STARS盛夏套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11001_desc", /*message*/"內含「μ&apos;sUR特等星探券」和「μ&apos;s至少1張SR以上10連特等星探券」的超值套組♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11001_name", /*message*/"UR特別套組μ&apos;s");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11002_desc", /*message*/"內含「AqoursUR特等星探券」和「Aqours至少1張SR以上10連特等星探券」的超值套組♪");
@@ -32269,10 +32275,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0019", /*message*/"音乃�
 每個年級的蝴蝶結顏色
 都不一樣喔。
 你知道嗎？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0034", /*message*/"呼～♪吃點西瓜，
-休息休息～");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0035", /*message*/"煙火、游泳池和海邊！
-夏天想和你去好多地方喔～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0036", /*message*/"夏、夏天的尾巴……
 好熱喔～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0037", /*message*/"夏天馬上就要結束了，
@@ -32399,12 +32401,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0018", /*message*/"對學�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0019", /*message*/"穿著制服就能馬上認出
 是哪間學校的學生……
 記得別做奇怪的事喔。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0034", /*message*/"夏天也進入重頭戲了！
-無論社團跟休閒娛樂
-都盡情享受吧♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0035", /*message*/"這週末有煙火大會，
-我很希望能跟你一起去……
-可以嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0036", /*message*/"新學期學生會有很多工作。
 因為不想減少練習時間，
 得有效率地處理才行。");
@@ -32540,12 +32536,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0018", /*message*/"雖然�
 我很喜歡♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0019", /*message*/"音乃木坂的制服是西裝式的，
 我很喜歡那種端正的氛圍。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0034", /*message*/"有在寫暑假作業嗎？
-要是有不會的，
-琴梨可以幫你喔～");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0035", /*message*/"感覺今年夏天
-和你一起玩了很久♪
-耶嘿嘿……好幸福♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0036", /*message*/"暑假結束了呢，
 這個月再開始加油吧♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0037", /*message*/"最近天氣變涼了……
@@ -32682,11 +32672,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0018", /*message*/"因為�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0019", /*message*/"我很喜歡這件制服，
 感覺很穩重，
 也不會對課業造成影響呢。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0034", /*message*/"真想做出可以趕跑暑氣、
-充滿活力的表演！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0035", /*message*/"既想和你一起去游泳池，
-又覺得穿泳裝
-出現在你面前很害羞……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0036", /*message*/"炎熱的天氣還會持續下去，
 要多注意身體喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0037", /*message*/"這個季節的晚風很舒服呢。
@@ -32824,13 +32809,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0018", /*message*/"去學�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0019", /*message*/"跑步的時候，
 制服裙子會飛起來對吧？
 那感覺很不錯呢♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0034", /*message*/"嗚～好熱喵！
-凜把冰分你一半，
-你用扇子幫凜搧風喵……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0035", /*message*/"因為一直說好熱
-才會越來越熱喵。
-現在開始禁止說好熱！
-……但果然還是好熱喵～！！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0036", /*message*/"暑假結束了～！
 把這份悲傷寫成歌怎麼樣？
 現在好像能唱首好歌喵♪");
@@ -32969,11 +32947,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0018", /*message*/"全校�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0019", /*message*/"雖然制服不是
 專屬於學園偶像的服裝……
 但還是充滿回憶。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0034", /*message*/"你說雖然是夏天，
-但我看起來很涼爽？
-……其實我覺得很熱啦。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0035", /*message*/"暑假多少有點時間吧？
-要不要一起去旅行？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0036", /*message*/"好了好了，別發呆了，
 新學期已經開始囉。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0037", /*message*/"暑假都過完了還沒收心？
@@ -33112,13 +33085,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0018", /*message*/"我很�
 的感覺呢♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0019", /*message*/"我也喜歡穿制服站上舞台。
 畢竟是學園偶像的特色嘛♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0034", /*message*/"好熱呢～
-哇！小凜和香香
-看起來快融化了！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0035", /*message*/"在夏天結束之前，
-真想和你去看煙火呢。
-兩個人的夏日回憶……
-很吸引人對吧♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0036", /*message*/"我把大波斯菊拿去
 社團教室當擺飾喔。
 秋櫻這個別名也很好聽呢♪");
@@ -33262,12 +33228,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0019", /*message*/"音乃�
 制服是西裝式的，
 特色是每個年級
 有不同顏色的蝴蝶結！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0034", /*message*/"我能順利切開西瓜嗎……？
-如果成功了，
-我們就一起吃吧♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0035", /*message*/"要不要去看煙火？
-我希望能在夏天結束前
-和你一起留下回憶。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0036", /*message*/"因為天氣還很熱，
 要好好吃飯，一起加油喔！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0037", /*message*/"今天我在超市買了秋刀魚！
@@ -33405,11 +33365,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0018", /*message*/"穿上�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0019", /*message*/"日香喜歡粉紅色的針織衫♪
 軟綿綿又很可愛，
 就像日香一樣。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0034", /*message*/"學園偶像才不會輸給熱天氣！
-啊……好熱。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0035", /*message*/"你有沒有想去的地方？
-日香想和你一起看煙火……
-不行嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0036", /*message*/"看小香香趕跑
 夏末的熱天氣日香！
 來，練習練習！");
@@ -33549,11 +33504,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0018", /*message*/"浦女�
 會依年級而不同喔～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0019", /*message*/"浦女的制服很可愛吧♪
 還滿受歡迎的喔。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0034", /*message*/"我熱到腦袋都快冒煙了～
-這種時候……
-就去吃刨冰吧！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0035", /*message*/"你也來這邊躺著睡吧～
-可以吹電扇，很舒服喔……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0036", /*message*/"九月了！雖然還很熱……
 但光是進入九月，
 就感受到秋天的腳步了呢。");
@@ -33677,13 +33627,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0018", /*message*/"因為�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0019", /*message*/"我很喜歡這條紅色領巾，
 但升上三年級後，
 又要換色了對吧。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0034", /*message*/"最近總是在吃麵線……
-偶爾也做點
-有嚼勁的東西好了。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0035", /*message*/"有空的話要不要來吃午餐？
-我準備了防止
-夏季倦怠症的菜色，
-一起吃吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0036", /*message*/"前陣子到晚上七點
 天色還是亮的，
 現在白天就突然
@@ -33824,14 +33767,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0018", /*message*/"浦女�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0019", /*message*/"本以為是因為位在海邊小鎮，
 才設計成水手服的……
 但實際上應該跟那無關吧。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0034", /*message*/"哇～被蟲咬了，
-難怪覺得好癢。
-驅蟲噴霧……
-糟糕，用完了。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0035", /*message*/"這個月可以看到
-英仙座流星雨喔。
-今年我想找你
-一起去看。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0036", /*message*/"到秋刀魚的產季了呢。
 那今晚就做道
 鹽烤秋刀魚來吃吧♪");
@@ -33986,15 +33921,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0018", /*message*/"學校�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0019", /*message*/"入學時穿的全新制服，
 經過三年後，
 也變得皺巴巴的……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0034", /*message*/"就是因為一直喊熱，
-才會覺得特別熱！
-改說好涼吧。
-好涼，好涼……好熱……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0035", /*message*/"老是吃冰的東西
-對身體很不好喔。
-咦？我像媽媽一樣？
-真是的！
-我是在擔心你啊！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0036", /*message*/"今年還剩三個月就結束了。
 歲月的流逝還真快呢。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0037", /*message*/"秋季的天空好藍好高，
@@ -34139,12 +34065,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0019", /*message*/"浦女�
 夏天跟冬天領巾的
 綁法不同喔。
 雖然三年級生是一樣啦。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0034", /*message*/"有人送我西瓜，
-聽說很甜喔！
-我們一起吃吧♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0035", /*message*/"你很沒精神呢，
-還好吧？
-是夏季倦怠症嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0036", /*message*/"運動之秋開始囉～！
 啊，
 可是泳池關閉不開放了，
@@ -34285,13 +34205,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0019", /*message*/"其實�
 你問在哪裡……哇！
 沒、沒禮貌～！
 不准亂掀～！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0034", /*message*/"可惡的太陽……
-是想用酷暑奪走
-夜羽的力量吧！
-休想得逞～！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0035", /*message*/"明明很熱……
-為什麼夜羽這麼不想
-跟你分開呢？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0036", /*message*/"墮天使跟鮮紅的彼岸花，
 這不拍不行啊！
 就拜託你拍照了！");
@@ -34451,14 +34364,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0019", /*message*/"二年�
 適合小丸嗎？
 光是領巾顏色不一樣，
 印象也會大大不同……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0034", /*message*/"要是線香的火一直弄不熄，
-就別往左右揮，
-改成用力上下揮一下，
-就能弄熄囉。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0035", /*message*/"盂蘭盆節是睽違一年
-讓家族團聚的節日喔。
-即使看不到對方，
-對方也確實就在身邊喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0036", /*message*/"熱到秋分，冷到春分。
 在天氣轉涼前再撐一下吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0037", /*message*/"你的聲音就像烤地瓜一樣甜，
@@ -34608,12 +34513,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0019", /*message*/"已經�
 一年級生領巾。
 每次看到這個，都會覺得
 「當時真年輕～☆」呢♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0034", /*message*/"夏天的海
-格外地Brilliant
-又Beautiful呢♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0035", /*message*/"就跟鞠莉一起創造……
-這個夏天專屬的
-特別回憶吧？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0036", /*message*/"雖然秋天已經Start了，
 鞠莉的心卻還留在夏天。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0037", /*message*/"接下來會漸漸轉涼。
@@ -34771,13 +34670,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0019", /*message*/"要是�
 差更多歲……
 露比或許就要接收
 姊姊的制服了。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0034", /*message*/"夏天的白雲好蓬鬆，
-感覺用湯匙就可以挖起來。
-吃起來絕對很甜的！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0035", /*message*/"哇哇哇，
-別一直看著露比……
-一直被盯著瞧，
-感覺好難為情喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0036", /*message*/"親戚送了很多葡萄過來喔。
 葡萄酸酸甜甜的很好吃，
 露比一個人就吃了一整串！");
@@ -34921,12 +34813,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0018", /*message*/"我喜�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0019", /*message*/"身為學園偶像，
 也得做好學生的本分，
 努力念書才行！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0034", /*message*/"不可以因為天氣熱，
-就老是吃冰淇淋喔。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0035", /*message*/"今年夏天是有
-學園偶像同好會的集訓，
-但也別忘了每年慣例的
-暑假作業趕工雙人集訓喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0036", /*message*/"酷熱殘夏就要熱褲餘夏……
 嗚嗚，這是小愛要我說的
 懲罰遊戲啦～
@@ -35076,14 +34962,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0018", /*message*/"目標�
 日本第一的學園偶像！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0019", /*message*/"要吃餐包嗎？
 還是要拿去塞？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0034", /*message*/"呵呵～
-只要準備很多冷飲，
-大家就會大喝特喝，
-喝到肚子都凸出來……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0035", /*message*/"前輩，要不要去海邊拍照？
-前輩很想去對吧？
-小霞霞說得沒錯吧！
-快走吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0036", /*message*/"能不能下雨
 或是來個颱風啊……
 下次有運動會呢……");
@@ -35253,13 +35131,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0019", /*message*/"討厭�
 你說裙子翻起來了，
 是哪裡翻起來了！？
 到底哪裡啊～！？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0034", /*message*/"前輩喜歡吃什麼口味的刨冰？
-我喜歡抹茶加煉乳喔。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0035", /*message*/"這是之前的戲劇中
-用到的草帽，
-請前輩戴戴看。
-……跟我想的一樣！
-前輩戴起來很好看！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0036", /*message*/"到夏末還是很炎熱呢……
 要多注意身體狀況喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0037", /*message*/"天氣忽冷忽熱，
@@ -35420,12 +35291,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0018", /*message*/"嗯～�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0019", /*message*/"好看嗎？
 那是因為我稍微改了一下，
 讓自己穿起來更好看。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0034", /*message*/"夏天穿泳裝的機會
-會變多……
-晚餐就只吃涼粉好了……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0035", /*message*/"夏天到了，
-所以我想買新泳裝。
-你喜歡什麼款式的泳裝呢？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0036", /*message*/"現在這個時期
 氣溫變化很劇烈，
 所以要注意身體健康喔。");
@@ -35573,14 +35438,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0017", /*message*/"哈哈�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0018", /*message*/"愛姐最～喜歡思考
 制服的穿搭了！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0019", /*message*/"靠制服來制伏學園偶像界！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0034", /*message*/"耶～！夏天來啦～！
-愛姐一年之中
-最喜歡夏天了！
-心情嗨翻天啦～！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0035", /*message*/"下次去買你的泳裝吧。
-別老是只讓我們
-打扮得很可愛，
-你也要好好打扮喔！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0036", /*message*/"唉……
 暑假結束了……
 為什麼暑假只有
@@ -35746,11 +35603,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0018", /*message*/"因為�
 超棒的～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0019", /*message*/"這是把制服外套當成棉被的
 生活妙點子。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0034", /*message*/"在冷氣很涼的房間
-蓋棉被睡覺，
-真～的好幸福～");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0035", /*message*/"暑假也能努力練習，
-都是多虧有你～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0036", /*message*/"酷熱殘夏就要熱褲餘夏……
 奇怪？
 這對小愛
@@ -35892,13 +35744,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0018", /*message*/"學園�
 就是我的制服！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0019", /*message*/"優木雪菜無論何時
 都是學園偶像！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0034", /*message*/"說到夏天就是演唱會！
-你不覺得戶外演唱會
-是個好主意嗎？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0035", /*message*/"看著積雨雲，
-就會變得無比興奮。
-是因為跟你一起看……
-的關係嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0036", /*message*/"夏天要結束了呢……
 不過我對學園偶像的愛
 還是很火熱的喔！");
@@ -36049,14 +35894,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0017", /*message*/"好開�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0018", /*message*/"日本的學校制服很可愛，
 我很喜歡。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0019", /*message*/"……衣服好像又變小了。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0034", /*message*/"瑞士沒有海，
-但是可以在湖泊游泳喔。
-所以我有泳裝！
-啊，不過可能太小件了……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0035", /*message*/"我想偷偷拜託你一件事，
-別告訴大家……
-這件泳裝真的太小件嗎？
-可以幫我確認看看嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0036", /*message*/"酷熱殘夏熱褲餘夏！
 教我這個冷笑話的人……
 不用說你也知道嗎？");
@@ -36194,13 +36031,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0017", /*message*/"璃奈�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0018", /*message*/"我現在有比較像個
 學園偶像了嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0019", /*message*/"璃奈板：「笑盈盈♪」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0034", /*message*/"我想在慶典上做棉花糖，
-送給支持我的大家。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0035", /*message*/"試膽大會？不行。
-大家禁止我參加試膽大會。
-因為之前我認真地在璃奈板
-畫上可怕的表情後，
-就引發了悲劇……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0036", /*message*/"不能輸給鈴蟲，
 我也要更努力唱歌！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0037", /*message*/"到蜻蜓飛舞的季節，

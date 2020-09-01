@@ -412,3 +412,5 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Even
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32001/tex_banner_notice_s_32001", /*path*/"9;^");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10032/tex_banner_notice_l_10032", /*path*/"ZIm");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10033/tex_banner_notice_l_10033", /*path*/"vkm");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10047/tex_banner_notice_l_10047", /*path*/"l.M");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10047/tex_banner_notice_s_10047", /*path*/"oxA");

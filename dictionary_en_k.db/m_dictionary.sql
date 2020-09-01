@@ -7670,6 +7670,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21007", /*message*/"This tic
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21008", /*message*/"This ticket can be exchanged for an Aqours Memento Piece in the Item Exchange.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21009", /*message*/"This ticket can be exchanged for a Nijigasaki Memento Piece in the Item Exchange.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21013", /*message*/"This ticket can be exchanged for a single μ&apos;s Summer Splash costume.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21014", /*message*/"This ticket can be exchanged for a single Aqours Summer Splash costume.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_2200", /*message*/"An item that restores one AP.
 You can obtain them by completing Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_22001", /*message*/"You can trade this at the Event Exchange for all sorts of items.");
@@ -7879,6 +7880,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21007", /*message*/"μ&apos;
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21008", /*message*/"Aqours Memento Piece Exchange Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21009", /*message*/"Nijigasaki Memento Piece Exchange Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21013", /*message*/"μ&apos;s Summer Splash Costume Ticket");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21014", /*message*/"Aqours Summer Splash Costume Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_2200", /*message*/"Training Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_22001", /*message*/"SBL Medal");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_8001", /*message*/"Honoka Memorial Piece");
@@ -14934,6 +14936,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 
 As a bonus, you&apos;ll get tickets that can be exchanged for μ&apos;s Summer Splash costumes. You can buy this set up to three times while it is available.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10045_name", /*message*/"μ&apos;s All Stars Summer Set");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10047_desc", /*message*/"This set includes 450 Star Gems (Paid).
+
+As a bonus, you&apos;ll get tickets that can be exchanged for Aqours Summer Splash costumes. You can buy this set up to three times while it is available.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10047_name", /*message*/"Aqours All Stars Summer Set");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11001_desc", /*message*/"A bargain set with a Premium μ&apos;s UR Scout Ticket and a Premium μ&apos;s One SR+ Scout 10 Ticket.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11001_name", /*message*/"UR Guaranteed! μ&apos;s Special Set");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11002_desc", /*message*/"A bargain set with a Premium Aqours UR Scout Ticket and a Premium Aqours One SR+ Scout 10 Ticket.");
@@ -29377,8 +29383,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0016", /*message*/"Wow!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0017", /*message*/"Hehe.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0018", /*message*/"We wear a uniform every day, but I never get sick of it. After all, they are so well-made!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0019", /*message*/"Did you know that at Otonokizaka High, the color of your ribbon depends on what grade you&apos;re in?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0034", /*message*/"Whew! Let&apos;s take a rest and eat some watermelon.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0035", /*message*/"There are so many places I want to go with you this summer! There&apos;s the pool, the sea, the fireworks...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0036", /*message*/"It&apos;s the end of summer...but it&apos;s still so hot.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0037", /*message*/"Summer&apos;s almost over but I&apos;m happy we made so many memories together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0044", /*message*/"I hope there&apos;s no pop quizzes today.");
@@ -29448,8 +29452,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0016", /*message*/"Well, w
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0017", /*message*/"Hehe.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0018", /*message*/"You could say that for school idols, a school uniform is just another costume.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0019", /*message*/"When you wear a uniform, it&apos;s immediately obvious which school you&apos;re from, so...don&apos;t do anything strange, okay?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0034", /*message*/"Summer is here! Let&apos;s enjoy club and leisure activities to the fullest!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0035", /*message*/"There&apos;s a fireworks show this weekend. I was hoping to go with you but...are you free?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0036", /*message*/"The student council gets busy at the start of a new semester. I still want time to rehearse so I&apos;ll have to do things efficiently.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0037", /*message*/"You&apos;ve looked tired recently. I&apos;ll make you a nice, restoring dinner tonight.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0044", /*message*/"Let&apos;s make an effort from the morning to make sure we have the best day possible!");
@@ -29519,8 +29521,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0016", /*message*/"Hehehe.
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0017", /*message*/"Teehee, this is fun.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0018", /*message*/"It&apos;s different from our usual costumes, but I like going on stage in our uniforms as the high schoolers we are!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0019", /*message*/"I like the neat look of Otonokizaka&apos;s school uniform with its blazer.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0034", /*message*/"Have you done the summer homework? If you have any trouble, you can ask me.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0035", /*message*/"I feel like we&apos;ve spent a lot of time together this summer. Hehehe, I couldn&apos;t be happier.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0036", /*message*/"Wow, summer vacation&apos;s already over. Let&apos;s get back to work this month.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0037", /*message*/"It&apos;s gotten chillier recently hasn&apos;t it? I want to go on a walk with you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0044", /*message*/"Please come see me during break times.");
@@ -29590,8 +29590,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0016", /*message*/"Yay.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0017", /*message*/"*Giggle*");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0018", /*message*/"I spend so much time at school that my uniform is like my best friend.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0019", /*message*/"I like this uniform. It&apos;s comfortable, and it doesn&apos;t get in the way of my studies.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0034", /*message*/"A great big, energetic performance will help us forget all about this summer heat!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0035", /*message*/"I want to go to the pool with you, but I&apos;m embarrassed that you&apos;ll get to see me in my swimsuit.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0036", /*message*/"The days are still hot, so be careful you don&apos;t let the heat get to you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0037", /*message*/"The evening breeze is pleasant this time of year. How about going for a walk at night sometime?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0044", /*message*/"If you make it a habit to prepare for classes, it might help make them easier to understand.");
@@ -29661,8 +29659,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0016", /*message*/"Hooray!
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0017", /*message*/"Fantastic!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0018", /*message*/"We have to wear our uniforms to school every day! You know that, right?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0019", /*message*/"Have you ever noticed how our uniform skirts flutter when we run? I think it&apos;s really neat.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0034", /*message*/"*Groan* It&apos;s hot! If I give you half of my ice cream, will you fan me to cool me off?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0035", /*message*/"Every time someone says it&apos;s hot, it gets hotter. Starting now, the word hot is banned! But, you know, it&apos;s really hot!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0036", /*message*/"Summer break is over! Should we put this sadness into a song? I feel I could make a good one right now!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0037", /*message*/"It&apos;s kind of reassuring to find you in the club room. *Giggle* Isn&apos;t school great?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0044", /*message*/"Are you still sleepy? Then why not come run around the schoolyard with me? I guarantee it&apos;ll wake you up!");
@@ -29732,8 +29728,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0016", /*message*/"Very ni
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0017", /*message*/"*Giggle*");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0018", /*message*/"Don&apos;t you think it&apos;s kind of weird that all students wear matching uniforms? Have you ever wondered why that is?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0019", /*message*/"Our school uniforms may not be the same as our idol uniforms, but they sure are filled with memories.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0034", /*message*/"You think I don&apos;t look hot at all, even though it&apos;s summer? I&apos;m burning up here.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0035", /*message*/"You have some free time over the summer break, right? How about we go on a trip together?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0036", /*message*/"Hey there, the new school term has started. It&apos;s time to snap out of vacation mode.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0037", /*message*/"It still feels like summer break? Well, if you&apos;re desperate to shake it, why don&apos;t I hang out with you next time we have a free day?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0044", /*message*/"Any plans today? You should double check first thing after you wake up in the morning.");
@@ -29803,8 +29797,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0016", /*message*/"Wow.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0017", /*message*/"*Chuckle*");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0018", /*message*/"I like Otonokizaka&apos;s school uniforms. It really makes you feel like you&apos;re sharing the school life with everyone, doesn&apos;t it?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0019", /*message*/"It&apos;s nice getting up on stage in my uniform. It&apos;s a special thing only school idols can do, after all.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0034", /*message*/"Gosh it&apos;s hot out. I think Rin and Nico-chi are about to melt!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0035", /*message*/"I want a memory of our summer together. We should go watch fireworks sometime before it ends.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0036", /*message*/"I&apos;m going to decorate the clubroom with cosmos flowers. I love that name. It&apos;s so neat that they&apos;re called the cherry blossoms of autumn.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0037", /*message*/"Is the lingering summer heat wearing you down? Why don&apos;t you relax and take a break? I&apos;ll be right here beside you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0044", /*message*/"I&apos;m here to tell you, I hope you have a wonderful day today.");
@@ -29874,8 +29866,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0016", /*message*/"Yeah!")
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0017", /*message*/"This is great!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0018", /*message*/"Uniforms are a serious part of being a school idol, so I like to take great care every day when I wear mine.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0019", /*message*/"The Otonokizaka High uniform is based around a blazer, with a ribbon that varies in color for each grade level!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0034", /*message*/"Think you can break that watermelon with this stick? If you do, we&apos;ll get to eat it.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0035", /*message*/"Want to go watch the fireworks? I&apos;d like to make some memories with you before summer ends.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0036", /*message*/"The summer heat is dragging on, so eat to keep your strength up, and hang in there!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0037", /*message*/"I bought some Pacific saury at the supermarket today! Why don&apos;t you share it with me?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0044", /*message*/"If you want energy, you need to eat a good breakfast. Have a rice ball, and you&apos;ll be ready to do your best today, too.");
@@ -29945,8 +29935,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0016", /*message*/"I like 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0017", /*message*/"Not bad.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0018", /*message*/"Once you have your uniform on, you have to act properly.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0019", /*message*/"I really love my pink cardigan. Its soft, fluffy appearance matches my charm.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0034", /*message*/"The summer heat isn&apos;t going to stop a school idol like me! Phew. It&apos;s hot.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0035", /*message*/"Is there anything you&apos;d like to do? I&apos;d like to go watch fireworks with you. How about that?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0036", /*message*/"If the lingering heat&apos;s too much, I&apos;ll take your mind off of it! Enough talking; it&apos;s time to practice.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0037", /*message*/"It&apos;s too bad summer vacation has to end, but now we get to see everyone at school every day, so I&apos;m not complaining.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0044", /*message*/"Good morning. I&apos;ll bet you&apos;re glad to see me today.");
@@ -30016,8 +30004,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0016", /*message*/"Ahahah.
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0017", /*message*/"Heh heh!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0018", /*message*/"At Uranohoshi, your scarf color changes depending what school year you&apos;re in.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0019", /*message*/"Isn&apos;t our school uniform cute? I hear it&apos;s pretty popular.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0034", /*message*/"I&apos;m so hot, I&apos;m about ready to boil. That means it&apos;s time for some shaved ice!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0035", /*message*/"Hey, come over here and flop down next to me. It feels really good with the fan going.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0036", /*message*/"It&apos;s September! Oddly enough, even with all this heat, it&apos;s starting to feel a little like fall.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0037", /*message*/"I&apos;m a little sad to see summer end, but I look forward to spending the fall with you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0044", /*message*/"Don&apos;t stay up late, or my sisters will be angry.");
@@ -30087,8 +30073,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0016", /*message*/"Everyth
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0017", /*message*/"I feel a bunch of new tunes just bursting to come out.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0018", /*message*/"Uranohoshi&apos;s sailor outfits are a refreshing change after the blazer uniforms at Otonokizaka.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0019", /*message*/"I really like this red scarf, but its color will change as we go up in grade levels.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0034", /*message*/"I&apos;ve been eating somen noodles so much lately. It might be nice to try fixing something a little more filling for a change.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0035", /*message*/"Want to come join me for lunch? I have a special menu that&apos;ll help us beat the summer heat.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0036", /*message*/"The days are quickly growing shorter. Not long ago, it was still light out at seven o&apos;clock at night.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0037", /*message*/"Listen to the beautiful, clear chirping of the crickets. My voice is prettier? Gosh, if you say so.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0044", /*message*/"Did you eat breakfast? You better. It&apos;s the best way to start the day.");
@@ -30158,8 +30142,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0016", /*message*/"*Chuckl
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0017", /*message*/"Tee-hee.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0018", /*message*/"Our Uranohoshi uniforms aren&apos;t very fancy, but they&apos;re cute, don&apos;t you think?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0019", /*message*/"I sometimes wonder if we wear sailor uniforms because we live in a beach town. But I know there&apos;s probably no connection.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0034", /*message*/"Aw. Something stung me, and now it won&apos;t stop itching. It&apos;s time for some bug spray-- Dang, it&apos;s empty.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0035", /*message*/"The Perseids meteor shower happens this month. I&apos;d love to go view it with you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0036", /*message*/"The Pacific saury is coming into season. Maybe I&apos;ll even grill some up tonight for dinner.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0037", /*message*/"I never thought this day would come, but I actually feel jealous of the ocean. You&apos;ve been staring at it this whole time.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0044", /*message*/"Every morning when I wake up, I greet the ocean, and the sound of the waves answers me back.");
@@ -30229,8 +30211,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0016", /*message*/"*Chuckl
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0017", /*message*/"*Chuckle* How amusing.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0018", /*message*/"The uniforms signify our diligent pursuit of knowledge. Decoration would be inappropriate.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0019", /*message*/"I started school with a brand new uniform. Now, after three years, though, it is looking a little tired.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0034", /*message*/"All this mention of heat is just making me hotter! Let&apos;s talk about something cool instead. Ah, it&apos;s so cool. ...Gosh it&apos;s hot.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0035", /*message*/"Eating too many cold things is hard on your body. What? I sound like your mother?! I am simply concerned about you!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0036", /*message*/"Only three more months until the end of the year. The days and weeks sure pass by quickly.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0037", /*message*/"Staring up at the beautiful clear blue skies of autumn is like gazing into your eyes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0044", /*message*/"Sleeping in won&apos;t be tolerated.");
@@ -30300,8 +30280,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0016", /*message*/"Yahoo!"
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0017", /*message*/"Yay!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0018", /*message*/"I told myself I wouldn&apos;t go to any school that didn&apos;t have sailor uniforms.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0019", /*message*/"The scarf on our Uranohoshi uniform is worn differently depending on whether it&apos;s summer or winter; unless you&apos;re a senior.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0034", /*message*/"This watermelon I received is really sweet! You should have some.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0035", /*message*/"What&apos;s wrong? You don&apos;t look very energetic. Is the summer heat getting to you?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0036", /*message*/"Fall sports are about to start! Oh, wait--that also means the pool will be closing.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0037", /*message*/"Ahahah! A dragonfly landed on your head! Hold still while I take a picture of you and it with the fall sky in the background. *Snap*");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0044", /*message*/"Aye aye! Let&apos;s take today full speed ahead!");
@@ -30371,8 +30349,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0016", /*message*/"*Cackle
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0017", /*message*/"*Chuckle*");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0018", /*message*/"What most people consider to be a normal school uniform is anything but normal for me.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0019", /*message*/"Actually, I embroidered a magic sigil into my uniform. It&apos;s hidden, though-- Hey! Stop peeking under there!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0034", /*message*/"Darn you, Sun! Trying to rob me of my power with your heat! It&apos;s not gonna work!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0035", /*message*/"It&apos;s too hot to be standing so close, and yet I can&apos;t seem to move away from you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0036", /*message*/"A Fallen Angel with bright red spider lilies. This demands a picture! I&apos;ll let you do the honors!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0037", /*message*/"Autumn in your world should also bring lots of enjoyment for the two of us.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0044", /*message*/"There was once a time when I thought being a school idol sounded frivolous, and beneath my interest level!");
@@ -30442,8 +30418,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0016", /*message*/"Tee-hee
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0017", /*message*/"Hee-hee!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0018", /*message*/"Sometimes I forget to wear my uniform scarf to school, zura.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0019", /*message*/"Do you think the upperclassman uniforms would suit me? The different-colored scarf makes a big difference.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0034", /*message*/"When you&apos;re having trouble putting out incense, move it down quickly without moving it side to side! It goes out.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0035", /*message*/"The Obon festival is the one time per year my family gets together. Even if I can&apos;t see them, I know they&apos;re there.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0036", /*message*/"No heat or cold lasts past the equinox. I just gotta hold out a little longer until the weather cools down.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0037", /*message*/"Your voice is as sweet as a baked potato and warms my heart when I hear it.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0044", /*message*/"Reading my favorite book while sipping tea to the sound of waves. Am I allowed to live this luxuriously?");
@@ -30513,8 +30487,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0016", /*message*/"Whee!")
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0017", /*message*/"*Giggle*");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0018", /*message*/"This uniform is very cute as is, but I&apos;d like to add my own touch.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0019", /*message*/"When I look at my freshman uniform tie, I think about how young I was back then.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0034", /*message*/"The summer ocean is so brilliant and beautiful.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0035", /*message*/"Will you make special summer memories with me?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0036", /*message*/"Although fall has started, I still feel like it&apos;s summer.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0037", /*message*/"It&apos;s going to get even cooler from now on. That means more cuddling for us.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0044", /*message*/"Hmph. Why aren&apos;t Dia and Kanan letting me go shopping?");
@@ -30584,8 +30556,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0016", /*message*/"*Hum*")
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0017", /*message*/"Lalala!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0018", /*message*/"When I first started here, my uniform was too big, but now it&apos;s perfect! I must&apos;ve grown.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0019", /*message*/"If Dia and I were farther apart in age, I might&apos;ve inherited her uniform.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0034", /*message*/"Summer clouds are so fluffy, I feel like I could scoop some up in a spoon. I bet they&apos;re sweet!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0035", /*message*/"Ahh, don&apos;t look. You&apos;re making me blush.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0036", /*message*/"I got some grapes from a relative. They were so sour and yummy, I ate a whole bunch by myself!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0037", /*message*/"I look like cosmos flowers? Really? You&apos;re making me blush, but I&apos;m glad you think so. Thank you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0044", /*message*/"I dance and do weight training every day, so I think I&apos;m getting kinda buff.");
@@ -30655,8 +30625,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0016", /*message*/"*Giggle
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0017", /*message*/"This is fun!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0018", /*message*/"I like our school uniform, because we match.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0019", /*message*/"As a school idol, I need to make sure to study too!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0034", /*message*/"Just because it&apos;s hot doesn&apos;t mean you can eat ice cream everyday.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0035", /*message*/"The School Idol Club has training camp this summer, but don&apos;t forget our yearly homework boot camp.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0036", /*message*/"You should wave back at this heat wave. Sorry, Ai made me say it. Don&apos;t look at me like that.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0037", /*message*/"It&apos;s starting to feel like fall. And I&apos;m feeling lonely for some reason. Can I hug you for a minute?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0044", /*message*/"Good morning! Today&apos;s a new day. Let&apos;s do our best.");
@@ -30726,8 +30694,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0016", /*message*/"*Giggle
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0017", /*message*/"I&apos;m so happy!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0018", /*message*/"I&apos;m gonna be the best school idol in Japan!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0019", /*message*/"Do you want a bread roll? To eat or to stuff?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0034", /*message*/"*Evil laughter* If I bring a bunch of cold drinks, everyone will drink too much and their stomachs will stick out.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0035", /*message*/"Do you wanna take pictures on the beach? Of course you do! Let&apos;s go!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0036", /*message*/"Can&apos;t it start raining javelins or something? I&apos;m not looking forward to the sports festival.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0037", /*message*/"Summer&apos;s over. Too bad. I had planned how I&apos;d stuff my bathing suit with melon bread. Why are you laughing?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0044", /*message*/"It&apos;s the start of a new day! Let&apos;s do our best.");
@@ -30797,8 +30763,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0016", /*message*/"This is
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0017", /*message*/"Haha!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0018", /*message*/"I love how cute this school&apos;s uniforms are.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0019", /*message*/"My skirt is riding up?! Where? Where?!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0034", /*message*/"What&apos;s your favorite shaved ice flavor? Mine is green tea with condensed milk.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0035", /*message*/"Can you put on this straw hat I&apos;m using in a play? I knew it! It looks great on you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0036", /*message*/"It&apos;s still very hot. Let&apos;s be careful not to get sick.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0037", /*message*/"It&apos;s hard to pick an outfit when the weather is so fickle. Can you help me find something to wear?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0044", /*message*/"Good morning. Let&apos;s make today a good one.");
@@ -30868,8 +30832,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0016", /*message*/"This is
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0017", /*message*/"*Giggle*");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0018", /*message*/"Hmm, it&apos;s cute but a little tight around the chest.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0019", /*message*/"So you like it? I made some adjustments for it to suit me better.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0034", /*message*/"Since there are more chances to wear a bathing suit in the summer, I think I&apos;ll just have jelly noodles for dinner.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0035", /*message*/"I&apos;d like a new bathing suit for summer. What kind of bathing suits do you like?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0036", /*message*/"The weather is so fickle at this time of year. Try not to get sick.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0037", /*message*/"It&apos;s getting easier to take daily walks now. Would you like to come with me?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0044", /*message*/"I&apos;m sure we&apos;re both still a little sleepy, but let&apos;s get up and get out there.");
@@ -30939,8 +30901,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0016", /*message*/"Tee-hee
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0017", /*message*/"Hahaha!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0018", /*message*/"I love thinking of different ways to wear my uniform!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0019", /*message*/"Uniforms keep school idols uniform!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0034", /*message*/"Yay! It&apos;s summer! My favorite time of year! I&apos;m so psyched!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0035", /*message*/"Let&apos;s go buy you a swimsuit. You can&apos;t just dress us up all the time. It&apos;s important you look cute, too!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0036", /*message*/"Aw, good-bye summer vacation. Why is summer vacation only in the summer?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0037", /*message*/"I usually feel worn out after summer vacation, but this year&apos;s different thanks to the fun time we spent together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0044", /*message*/"Good morning! I&apos;m super excited already! Let&apos;s get excited together!");
@@ -31010,8 +30970,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0016", /*message*/"Hehe, n
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0017", /*message*/"Ta-da!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0018", /*message*/"I can sleep in since I don&apos;t have to worry about what I&apos;m gonna wear. Awesome, right?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0019", /*message*/"Ultimate life hack: using my uniform jacket as a blanket.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0034", /*message*/"Nothing beats sleeping in your bed with the air conditioning on.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0035", /*message*/"You&apos;re the reason I can work hard on my lessons during summer break.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0036", /*message*/"You should wave at this heat wave. Huh? Ai loved it.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0037", /*message*/"Fall is all about the food. I need to fatten you up, too!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0044", /*message*/"Ooh, I smell miso soup. Good morning.");
@@ -31081,8 +31039,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0016", /*message*/"Haha!")
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0017", /*message*/"I&apos;m so excited!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0018", /*message*/"This school idol costume IS my uniform!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0019", /*message*/"I, Setsuna Yuki, am a school idol now and always!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0034", /*message*/"Summer is all about live shows! What do you think about having one outdoors?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0035", /*message*/"I get excited when I look at the gigantic columns of summer clouds. Maybe its because we&apos;re looking at them together.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0036", /*message*/"Summer is ending, but my love for school idols is still burning hot!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0037", /*message*/"How about we take a break and go cycling or something? It feels good to cut through the wind.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0044", /*message*/"Good morning! Let&apos;s do our best this morning.");
@@ -31152,8 +31108,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0016", /*message*/"*Giggle
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0017", /*message*/"This is fun!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0018", /*message*/"I love how cute Japanese school uniforms are.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0019", /*message*/"I think my uniform might have gotten too small again.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0034", /*message*/"Switzerland doesn&apos;t have an ocean, but we swim in the lakes, so I have a swimsuit! It might be too small, though.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0035", /*message*/"Can you keep a secret from everyone? Do you think this bathing suit is too small? I need to you look and make sure.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0036", /*message*/"You should wave at this heat wave! Do you know who taught me that pun? Of course you do.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0037", /*message*/"I&apos;m practicing for the sports festival. Run the three-legged race with me! Please!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0044", /*message*/"Good morning! Let&apos;s do our best today.");
@@ -31223,8 +31177,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0016", /*message*/"*Hum* *
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0017", /*message*/"Rina-chan Board says, &quot;Woo-hoo!&quot;");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0018", /*message*/"I wonder if I&apos;ve gotten a little more like a school idol.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0019", /*message*/"Rina-chan Board says, &quot;All smiles!&quot;");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0034", /*message*/"I want to make cotton candy at a summer festival for everyone who cheers us on.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0035", /*message*/"A test of courage? Sorry, I&apos;m banned from those. I drew a really scary face on my Rina-chan Board once and chaos ensued.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0036", /*message*/"I&apos;ll work on my singing so I won&apos;t lose to the bell crickets!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0037", /*message*/"It&apos;s dragonfly season. It&apos;s getting cooler out, huh? ...Um, you won&apos;t catch me by holding out your finger.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0044", /*message*/"Gotta concentrate in class.");

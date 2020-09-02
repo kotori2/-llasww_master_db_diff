@@ -339,6 +339,16 @@ INSERT INTO `m_trade_product_content` VALUES (/*id*/60010701, /*trade_product_ma
 INSERT INTO `m_trade_product_content` VALUES (/*id*/60010801, /*trade_product_master_id*/600108, /*content_display_order*/1);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/60010901, /*trade_product_master_id*/600109, /*content_display_order*/1);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/60011001, /*trade_product_master_id*/600110, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/70010101, /*trade_product_master_id*/700101, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/70010201, /*trade_product_master_id*/700102, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/70010301, /*trade_product_master_id*/700103, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/70010401, /*trade_product_master_id*/700104, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/70010501, /*trade_product_master_id*/700105, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/70010601, /*trade_product_master_id*/700106, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/70010701, /*trade_product_master_id*/700107, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/70010801, /*trade_product_master_id*/700108, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/70010901, /*trade_product_master_id*/700109, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/70011001, /*trade_product_master_id*/700110, /*content_display_order*/1);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/3100100101, /*trade_product_master_id*/31001001, /*content_display_order*/0);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/3100100201, /*trade_product_master_id*/31001002, /*content_display_order*/0);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/3100100301, /*trade_product_master_id*/31001003, /*content_display_order*/0);

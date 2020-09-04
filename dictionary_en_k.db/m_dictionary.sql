@@ -3377,6 +3377,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_014001_00", /*message*/"Inside Co
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_001001_00", /*message*/"Otonokizaka High School Roof (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021004_03", /*message*/"Nijigasaki High School Clubroom (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021009_00", /*message*/"Nijigasaki High School Gate (Afternoon)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021010_00", /*message*/"Nijigasaki High School Cafeteria Exterior (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021012_00", /*message*/"Nijigasaki High School Lesson Room (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011001_00", /*message*/"Uranohoshi Girls&apos; High School Clubroom (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_015004_00", /*message*/"Numazu Shopping Arcade");
@@ -6436,6 +6437,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_shop_item_inline_image_31004", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_20004_s\" height=\"24px\" width=\"24px\" offsetY=\"-5px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_03", /*message*/"");
@@ -6457,6 +6459,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_04", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_001", /*message*/"{0:#,0}P");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_002", /*message*/"-P");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_003", /*message*/"{0:#,0}P");
@@ -8903,6 +8912,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20016301", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017101", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives μ&apos;s school idols an advantage. Try to base your formation around μ&apos;s members!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017201", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives μ&apos;s school idols an advantage. Try to base your formation around μ&apos;s members!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017301", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives μ&apos;s school idols an advantage. Try to base your formation around μ&apos;s members!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037101", /*message*/"[Hint] There will be Trick Notes that boost SP Gauge, so give them some well-timed taps and activate your SP Skill.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037201", /*message*/"[Hint] There will be Trick Notes that boost SP Gauge, so give them some well-timed taps and activate your SP Skill.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037301", /*message*/"[Hint] There will be plenty of Appeal Chances that must be cleared by using your SP Skill, so include SP type school idols in your strategies.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015101", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives Aqours school idols an advantage. Try to base your formation around Aqours members!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015201", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives Aqours school idols an advantage. Try to base your formation around Aqours members!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015301", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives Aqours school idols an advantage. Try to base your formation around Aqours members!");
@@ -9542,6 +9554,9 @@ Affects: All");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000329", /*message*/"Skill Activation Rate 10% Down Until Strategy Switch
 Condition: Always Activates
 Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000335", /*message*/"Increase Appeal by 20% for 10 Notes.
+Condition: On Success
+Affects: Non-Voltage Types");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000336", /*message*/"Increase Skill Activation Rate by 20% for 10 Notes.
 Condition: On Success
 Affects: μ&apos;s");
@@ -9697,6 +9712,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000325", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000327", /*message*/"<:icon_gimmick_2002/>Skill Activation Rate Down 50%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000328", /*message*/"<:icon_gimmick_2002/>Skill Activation Rate Down 20%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000329", /*message*/"<:icon_gimmick_2002/>Skill Activation Rate Down 10%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000335", /*message*/"<:icon_gimmick_1007/>Appeal Up 20%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000336", /*message*/"<:icon_gimmick_1002/>Skill Activation Rate Up 20%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10000000", /*message*/"[Special Effect] No
 
@@ -11837,6 +11853,51 @@ Affects: μ&apos;s");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20017301_5", /*message*/"[Special Effect] Base Appeal 10% Up
 Time: During Appeal Chance
 Affects: μ&apos;s");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_1", /*message*/"[Special Effect] Base Appeal 30% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_2", /*message*/"[Special Effect] Base Appeal 30% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_3", /*message*/"[Special Effect] Base Appeal 30% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_4", /*message*/"[Special Effect] Base Appeal 30% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_1", /*message*/"[Special Effect] Base Appeal 30% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_2", /*message*/"[Special Effect] Base Appeal 30% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_3", /*message*/"[Special Effect] Gained 1,500 SP Gauge
+Time: When Appeal Chance Objective cleared
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_4", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_5", /*message*/"[Special Effect] Base Appeal 30% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_1", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_2", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_3", /*message*/"[Special Effect] Base Appeal 50% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_4", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
+Time: During Appeal Chance
+Affects: SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_5", /*message*/"[Special Effect] Base Appeal 50% Down
+Time: During Appeal Chance
+Affects: Non-SP Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_6", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
+Time: During Appeal Chance
+Affects: SP Types");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21015101_1", /*message*/"[Special Effect] Base Appeal 10% Up
 Time: During Appeal Chance
 Affects: Aqours");
@@ -13938,6 +13999,21 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_2", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_3", /*message*/"Gain a total of 152,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_4", /*message*/"Gain a total of 162,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_5", /*message*/"Gain a total of 94,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_1", /*message*/"Gain a total of 17,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_2", /*message*/"Gain a total of 5,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_3", /*message*/"Gain a total of 16,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_4", /*message*/"Gain a total of 16,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_1", /*message*/"Gain a total of 51,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_2", /*message*/"Gain a total of 55,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_3", /*message*/"Gain a total of 55,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_4", /*message*/"Gain a total of 17,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_5", /*message*/"Gain a total of 45,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_1", /*message*/"Gain a total of 137,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_2", /*message*/"Gain a total of 31,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_3", /*message*/"Gain a total of 131,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_4", /*message*/"Gain a total of 60,000 Voltage with SP Skills.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_5", /*message*/"Gain a total of 78,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_6", /*message*/"Gain a total of 115,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015101_1", /*message*/"Gain a total of 8,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015101_2", /*message*/"Gain a total of 14,000 Voltage with SP Skills.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015101_3", /*message*/"Gain a total of 10,000 Voltage.");
@@ -15158,6 +15234,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10033_desc", /*message*/"This bargain set has 200 paid Star Gems, as well as a bonus 6-Month Anniversary Celebration Costume Ticket!
 This set can be purchased up to nine times for a limited time only.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10033_name", /*message*/"SIFAS 6-Month Anniversary Celebration Costume Set");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10034_desc", /*message*/"ラブカスター（有償）が500個入ったお得なセット♪
+おまけで合宿チケット付き！
+※期間中に3回まで購入できます");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10034_name", /*message*/"スクフェスシリーズ7周年記念セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10036_desc", /*message*/"A bargain set with 380 Star Gems (Paid) and bonus School Idol Sparkles! This set can be purchased up to three times for a limited time only.
 
 <color value=\"#ff3494\">The bonus School Idol Sparkles expire at 11:00 am on September 11 JST. When they expire, every five School Idol Sparkles will be converted into one School Idol Radiance. This amount is rounded up.</color>
@@ -15889,6 +15969,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100331", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100332", /*message*/"A Title for placing in the Top 90,000 for &quot;Catch the Mischievous Wolf!&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100333", /*message*/"A Title for placing in the Top 100,000 for &quot;Catch the Mischievous Wolf!&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100398", /*message*/"&quot;Catch the Mischievous Wolf!&quot; Participation Prize.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100401", /*message*/"A Title for placing at 1 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100402", /*message*/"A Title for placing at 2 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100403", /*message*/"A Title for placing at 3 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100404", /*message*/"A Title for placing at 4 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100405", /*message*/"A Title for placing at 5 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100406", /*message*/"A Title for placing at 6 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100407", /*message*/"A Title for placing at 7 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100408", /*message*/"A Title for placing at 8 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100409", /*message*/"A Title for placing at 9 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100410", /*message*/"A Title for placing at 10 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100411", /*message*/"A Title for placing in the Top 50 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100412", /*message*/"A Title for placing in the Top 100 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100413", /*message*/"A Title for placing in the Top 300 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100414", /*message*/"A Title for placing in the Top 500 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100415", /*message*/"A Title for placing in the Top 1,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100416", /*message*/"A Title for placing in the Top 2,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100417", /*message*/"A Title for placing in the Top 3,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100418", /*message*/"A Title for placing in the Top 4,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100419", /*message*/"A Title for placing in the Top 5,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100420", /*message*/"A Title for placing in the Top 6,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100421", /*message*/"A Title for placing in the Top 7,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100422", /*message*/"A Title for placing in the Top 8,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100423", /*message*/"A Title for placing in the Top 9,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100424", /*message*/"A Title for placing in the Top 10,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100425", /*message*/"A Title for placing in the Top 20,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100426", /*message*/"A Title for placing in the Top 30,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100427", /*message*/"A Title for placing in the Top 40,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100428", /*message*/"A Title for placing in the Top 50,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100429", /*message*/"A Title for placing in the Top 60,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100430", /*message*/"A Title for placing in the Top 70,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100431", /*message*/"A Title for placing in the Top 80,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100432", /*message*/"A Title for placing in the Top 90,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100433", /*message*/"A Title for placing in the Top 100,000 for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100498", /*message*/"&quot;Cooking with Vegetables!&quot; Participation Prize.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200101", /*message*/"A Title for placing at 1 for &quot;Trial Event SIFAS Big Live Show&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200102", /*message*/"A Title for placing at 2 for &quot;Trial Event SIFAS Big Live Show&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200103", /*message*/"A Title for placing at 3 for &quot;Trial Event SIFAS Big Live Show&quot;.");
@@ -16038,6 +16152,33 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100324", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100325", /*message*/"A Title for placing in the Top 15,000 in the Voltage Ranking for &quot;Catch the Mischievous Wolf!&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100326", /*message*/"A Title for placing in the Top 20,000 in the Voltage Ranking for &quot;Catch the Mischievous Wolf!&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100327", /*message*/"A Title for placing in the Top 25,000 in the Voltage Ranking for &quot;Catch the Mischievous Wolf!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100401", /*message*/"A Title for placing at 1 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100402", /*message*/"A Title for placing at 2 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100403", /*message*/"A Title for placing at 3 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100404", /*message*/"A Title for placing at 4 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100405", /*message*/"A Title for placing at 5 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100406", /*message*/"A Title for placing at 6 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100407", /*message*/"A Title for placing at 7 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100408", /*message*/"A Title for placing at 8 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100409", /*message*/"A Title for placing at 9 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100410", /*message*/"A Title for placing at 10 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100411", /*message*/"A Title for placing in the Top 50 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100412", /*message*/"A Title for placing in the Top 100 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100413", /*message*/"A Title for placing in the Top 300 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100414", /*message*/"A Title for placing in the Top 500 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100415", /*message*/"A Title for placing in the Top 1,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100416", /*message*/"A Title for placing in the Top 2,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100417", /*message*/"A Title for placing in the Top 3,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100418", /*message*/"A Title for placing in the Top 4,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100419", /*message*/"A Title for placing in the Top 5,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100420", /*message*/"A Title for placing in the Top 6,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100421", /*message*/"A Title for placing in the Top 7,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100422", /*message*/"A Title for placing in the Top 8,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100423", /*message*/"A Title for placing in the Top 9,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100424", /*message*/"A Title for placing in the Top 10,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100425", /*message*/"A Title for placing in the Top 15,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100426", /*message*/"A Title for placing in the Top 20,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100427", /*message*/"A Title for placing in the Top 25,000 in the Voltage Ranking for &quot;Cooking with Vegetables!&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100011", /*message*/"Kimino Kokorowa Kagayaiterukai?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100021", /*message*/"It&apos;s our miraculous time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100031", /*message*/"Snow Halation");
@@ -16645,6 +16786,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100331", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100332", /*message*/"&quot;Catch the Mischievous Wolf!&quot; Top 90,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100333", /*message*/"&quot;Catch the Mischievous Wolf!&quot; Top 100,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100398", /*message*/"Catch the Mischievous Wolf! Participation Prize");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100401", /*message*/"&quot;Cooking with Vegetables!&quot; #1 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100402", /*message*/"&quot;Cooking with Vegetables!&quot; #2 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100403", /*message*/"&quot;Cooking with Vegetables!&quot; #3 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100404", /*message*/"&quot;Cooking with Vegetables!&quot; #4 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100405", /*message*/"&quot;Cooking with Vegetables!&quot; #5 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100406", /*message*/"&quot;Cooking with Vegetables!&quot; #6 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100407", /*message*/"&quot;Cooking with Vegetables!&quot; #7 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100408", /*message*/"&quot;Cooking with Vegetables!&quot; #8 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100409", /*message*/"&quot;Cooking with Vegetables!&quot; #9 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100410", /*message*/"&quot;Cooking with Vegetables!&quot; #10 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100411", /*message*/"&quot;Cooking with Vegetables!&quot; Top 50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100412", /*message*/"&quot;Cooking with Vegetables!&quot; Top 100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100413", /*message*/"&quot;Cooking with Vegetables!&quot; Top 300");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100414", /*message*/"&quot;Cooking with Vegetables!&quot; Top 500");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100415", /*message*/"&quot;Cooking with Vegetables!&quot; Top 1,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100416", /*message*/"&quot;Cooking with Vegetables!&quot; Top 2,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100417", /*message*/"&quot;Cooking with Vegetables!&quot; Top 3,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100418", /*message*/"&quot;Cooking with Vegetables!&quot; Top 4,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100419", /*message*/"&quot;Cooking with Vegetables!&quot; Top 5,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100420", /*message*/"&quot;Cooking with Vegetables!&quot; Top 6,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100421", /*message*/"&quot;Cooking with Vegetables!&quot; Top 7,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100422", /*message*/"&quot;Cooking with Vegetables!&quot; Top 8,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100423", /*message*/"&quot;Cooking with Vegetables!&quot; Top 9,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100424", /*message*/"&quot;Cooking with Vegetables!&quot; Top 10,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100425", /*message*/"&quot;Cooking with Vegetables!&quot; Top 20,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100426", /*message*/"&quot;Cooking with Vegetables!&quot; Top 30,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100427", /*message*/"&quot;Cooking with Vegetables!&quot; Top 40,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100428", /*message*/"&quot;Cooking with Vegetables!&quot; Top 50,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100429", /*message*/"&quot;Cooking with Vegetables!&quot; Top 60,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100430", /*message*/"&quot;Cooking with Vegetables!&quot; Top 70,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100431", /*message*/"&quot;Cooking with Vegetables!&quot; Top 80,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100432", /*message*/"&quot;Cooking with Vegetables!&quot; Top 90,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100433", /*message*/"&quot;Cooking with Vegetables!&quot; Top 100,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100498", /*message*/"Cooking with Vegetables! Participation Prize");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200101", /*message*/"&quot;Trial Event SIFAS Big Live Show&quot; #1 Ranking Reward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200102", /*message*/"&quot;Trial Event SIFAS Big Live Show&quot; #2 Ranking Reward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200103", /*message*/"&quot;Trial Event SIFAS Big Live Show&quot; #3 Ranking Reward");
@@ -16794,6 +16969,33 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100324", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100325", /*message*/"&quot;Catch the Mischievous Wolf!&quot; Voltage Ranking Top 15,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100326", /*message*/"&quot;Catch the Mischievous Wolf!&quot; Voltage Ranking Top 20,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100327", /*message*/"&quot;Catch the Mischievous Wolf!&quot; Voltage Ranking Top 25,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100401", /*message*/"&quot;Cooking with Vegetables!&quot; #1 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100402", /*message*/"&quot;Cooking with Vegetables!&quot; #2 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100403", /*message*/"&quot;Cooking with Vegetables!&quot; #3 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100404", /*message*/"&quot;Cooking with Vegetables!&quot; #4 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100405", /*message*/"&quot;Cooking with Vegetables!&quot; #5 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100406", /*message*/"&quot;Cooking with Vegetables!&quot; #6 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100407", /*message*/"&quot;Cooking with Vegetables!&quot; #7 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100408", /*message*/"&quot;Cooking with Vegetables!&quot; #8 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100409", /*message*/"&quot;Cooking with Vegetables!&quot; #9 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100410", /*message*/"&quot;Cooking with Vegetables!&quot; #10 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100411", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100412", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100413", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 300");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100414", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 500");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100415", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 1,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100416", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 2,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100417", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 3,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100418", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 4,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100419", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 5,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100420", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 6,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100421", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 7,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100422", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 8,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100423", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 9,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100424", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 10,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100425", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 15,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100426", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 20,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100427", /*message*/"&quot;Cooking with Vegetables!&quot; Voltage Ranking Top 25,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_expect_year_datetime", /*message*/"{0:HH:mm M/dd}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_group_name_aqours", /*message*/"Aqours");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_group_name_azalea", /*message*/"AZALEA");
@@ -17551,6 +17753,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0011_01_s1", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0012_01_s1", /*message*/"Special Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0014_01_s1", /*message*/"Special Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0015_01_s1", /*message*/"Special Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0017_01_s1", /*message*/"Special Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0023_01_s1", /*message*/"Special Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0024_01_s1", /*message*/"Special Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_str3_communication_member_story_side_unlock", /*message*/"Unlock {2} for {0} &quot;{1}&quot;.");
@@ -27868,9 +28071,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"review_request_url_story_clear_story_m
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31001", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31002", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31003", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31004", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_101", /*message*/"Shop");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_103", /*message*/"Purchase Star Gems");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_104", /*message*/"Purchase Star Gems here.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_105", /*message*/"Event Exchange");
+INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_106", /*message*/"Trade your event items for all kinds of items here!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_107", /*message*/"Item Exchange");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_108", /*message*/"Trade for all sorts of items here!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_109", /*message*/"LP Recovery");
@@ -28200,6 +28406,8 @@ Composition / Arrangement: Shintaro Mori
 Strings Arrangement: Yoshiaki Fujisawa");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0017", /*message*/"Lyrics: Aki Hata
 Composition / Arrangement: Kazuya Nishioka");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0037", /*message*/"Lyrics: Aki Hata
+Composition / Arrangement: Yuugo Sasakura");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0054", /*message*/"Lyrics: Aki Hata
 Composition: Wataru Maeguchi
 Arrangement: Takeshi Masuda");
@@ -28329,6 +28537,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0014", /*message*/"Arashi 
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0015", /*message*/"NO EXIT ORION");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0016", /*message*/"Bokura wa Ima no Naka de");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0017", /*message*/"HEART to HEART!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0037", /*message*/"Wonder Zone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0054", /*message*/"Kodoku na Heaven");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0059", /*message*/"Someday of My Life");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0061", /*message*/"Arifureta Kanashimi no Hate");
@@ -28395,6 +28604,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0014", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0015", /*message*/"のーえぐじっとおりおん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0016", /*message*/"ぼくらはいまのなかで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0017", /*message*/"はーととぅはーと");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0037", /*message*/"わんだーぞーん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0054", /*message*/"こどくなへぶん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0059", /*message*/"さむでいおぶまいらいふ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0061", /*message*/"ありふれたかなしみのはて");

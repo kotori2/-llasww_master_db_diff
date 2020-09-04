@@ -118,3 +118,6 @@ INSERT INTO `m_live_mv` VALUES (/*live_id*/11015, /*live_stage_master_id*/100120
 INSERT INTO `m_live_mv` VALUES (/*live_id*/10062, /*live_stage_master_id*/1000702, /*position*/1, /*live_3d_asset_master_id*/1006201);
 INSERT INTO `m_live_mv` VALUES (/*live_id*/10062, /*live_stage_master_id*/1000801, /*position*/2, /*live_3d_asset_master_id*/1006202);
 INSERT INTO `m_live_mv` VALUES (/*live_id*/10062, /*live_stage_master_id*/1000901, /*position*/3, /*live_3d_asset_master_id*/1006203);
+INSERT INTO `m_live_mv` VALUES (/*live_id*/10037, /*live_stage_master_id*/1000702, /*position*/1, /*live_3d_asset_master_id*/1003701);
+INSERT INTO `m_live_mv` VALUES (/*live_id*/10037, /*live_stage_master_id*/1000801, /*position*/2, /*live_3d_asset_master_id*/1003702);
+INSERT INTO `m_live_mv` VALUES (/*live_id*/10037, /*live_stage_master_id*/1001701, /*position*/3, /*live_3d_asset_master_id*/1003703);

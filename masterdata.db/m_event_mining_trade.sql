@@ -8,3 +8,4 @@ CREATE TABLE m_event_mining_trade(
 INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31001, /*trade_master_id*/31001);
 INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31002, /*trade_master_id*/31002);
 INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31003, /*trade_master_id*/31003);
+INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31004, /*trade_master_id*/31004);

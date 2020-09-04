@@ -3403,6 +3403,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_014001_00", /*message*/"音樂廳
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_001001_00", /*message*/"音乃木坂學院 頂樓(白天・晴朗)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021004_03", /*message*/"虹咲學園 社團教室(白天・晴朗)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021009_00", /*message*/"虹咲學園 校門口(白天・晴朗)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021010_00", /*message*/"虹咲學園 學校餐廳外觀(晴朗白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021012_00", /*message*/"虹咲學園 練習室(白天・晴朗)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011001_00", /*message*/"浦之星女學院 社團教室內部(白天・晴朗)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_015004_00", /*message*/"沼津 商店街");
@@ -6494,6 +6495,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_shop_item_inline_image_31004", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_20004_s\" height=\"24px\" width=\"24px\" offsetY=\"-5px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_03", /*message*/"");
@@ -6515,6 +6517,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_04", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_001", /*message*/"{0:#,0}pt");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_002", /*message*/"-pt");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_003", /*message*/"{0:#,0}pt");
@@ -9276,6 +9285,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20016301", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017101", /*message*/"【攻略提示】在表現時間中，只有μ&apos;s的學園偶像具有有利的特殊效果，因此編組時建議以μ&apos;s的學園偶像為主。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017201", /*message*/"【攻略提示】在表現時間中，只有μ&apos;s的學園偶像具有有利的特殊效果，因此編組時建議以μ&apos;s的學園偶像為主。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017301", /*message*/"【攻略提示】在表現時間中，只有μ&apos;s的學園偶像具有有利的特殊效果，因此編組時建議以μ&apos;s的學園偶像為主。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037101", /*message*/"【攻略提示】建議抓準時機妥善處理組合技量表UP的特效節奏圖示，
+藉此累積量表來發動組合技。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037201", /*message*/"【攻略提示】建議抓準時機妥善處理組合技量表UP的特效節奏圖示，
+藉此累積量表來發動組合技。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037301", /*message*/"【攻略提示】由於必須發動組合技的表現時間很多，建議事先準備好編組了組合技型學園偶像的群組。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015101", /*message*/"【攻略提示】在表現時間中，只有Aqours的學園偶像具有有利的特殊效果，因此編組時建議以Aqours的學園偶像為主。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015201", /*message*/"【攻略提示】在表現時間中，只有Aqours的學園偶像具有有利的特殊效果，因此編組時建議以Aqours的學園偶像為主。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015301", /*message*/"【攻略提示】在表現時間中，只有Aqours的學園偶像具有有利的特殊效果，因此編組時建議以Aqours的學園偶像為主。");
@@ -10056,6 +10070,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000328", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000329", /*message*/"在切換群組之前，特技發動機率10%DOWN
 條件：必定發動
 適用對象：全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000335", /*message*/"持續10個節奏圖示，表現力20%UP
+條件：成功時
+適用對象：張力型以外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000336", /*message*/"持續10個節奏圖示，特技發動機率20%UP
 條件：成功時
 適用對象：μ&apos;s");
@@ -10211,6 +10228,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000325", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000327", /*message*/"<:icon_gimmick_2002/>特技發動機率50%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000328", /*message*/"<:icon_gimmick_2002/>特技發動機率20%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000329", /*message*/"<:icon_gimmick_2002/>特技發動機率10%DOWN");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000335", /*message*/"<:icon_gimmick_1007/>表現力20%UP");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000336", /*message*/"<:icon_gimmick_1002/>特技發動機率20%UP");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10000000", /*message*/"【特殊效果】無設定
 
@@ -12351,6 +12369,51 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20017301_4", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20017301_5", /*message*/"【特殊效果】基礎表現力10%UP
 時間：表現時間中
 適用對象：μ&apos;s");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_1", /*message*/"【特殊效果】基礎表現力30%UP
+時間：表現時間中
+適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_2", /*message*/"【特殊效果】基礎表現力30%UP
+時間：表現時間中
+適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_3", /*message*/"【特殊效果】基礎表現力30%UP
+時間：表現時間中
+適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_4", /*message*/"【特殊效果】基礎表現力30%UP
+時間：表現時間中
+適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_1", /*message*/"【特殊效果】基礎表現力30%UP
+時間：表現時間中
+適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_2", /*message*/"【特殊效果】基礎表現力30%UP
+時間：表現時間中
+適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_3", /*message*/"【特殊效果】組合技量表＋1,500
+時間：表現時間目標達成時
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_4", /*message*/"【特殊效果】基礎組合技量表增加量50%UP
+時間：表現時間中
+適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_5", /*message*/"【特殊效果】基礎表現力30%UP
+時間：表現時間中
+適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_1", /*message*/"【特殊效果】基礎組合技量表增加量50%UP
+時間：表現時間中
+適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_2", /*message*/"【特殊效果】基礎組合技量表增加量50%UP
+時間：表現時間中
+適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_3", /*message*/"【特殊效果】基礎表現力50%DOWN
+時間：表現時間中
+適用對象：組合技型以外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_4", /*message*/"【特殊效果】基礎組合技量表增加量50%UP
+時間：表現時間中
+適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_5", /*message*/"【特殊效果】基礎表現力50%DOWN
+時間：表現時間中
+適用對象：組合技型以外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_6", /*message*/"【特殊效果】基礎組合技量表增加量50%UP
+時間：表現時間中
+適用對象：組合技型");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21015101_1", /*message*/"【特殊效果】基礎表現力10%UP
 時間：表現時間中
 適用對象：Aqours");
@@ -14452,6 +14515,21 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_2", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_3", /*message*/"累積合計152,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_4", /*message*/"累積合計162,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_5", /*message*/"累積合計94,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_1", /*message*/"累積合計17,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_2", /*message*/"使用組合技來累積合計5,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_3", /*message*/"累積合計16,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_4", /*message*/"累積合計16,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_1", /*message*/"累積合計51,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_2", /*message*/"累積合計55,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_3", /*message*/"累積合計55,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_4", /*message*/"使用組合技來累積合計17,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_5", /*message*/"累積合計45,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_1", /*message*/"累積合計137,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_2", /*message*/"使用組合技來累積合計31,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_3", /*message*/"累積合計131,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_4", /*message*/"使用組合技來累積合計60,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_5", /*message*/"累積合計78,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_6", /*message*/"累積合計115,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015101_1", /*message*/"累積合計8,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015101_2", /*message*/"使用組合技來累積合計14,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015101_3", /*message*/"累積合計10,000的張力");
@@ -15714,6 +15792,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 附贈「半週年紀念♪服裝交換券」！
 ※期間內最多可購買9次。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10033_name", /*message*/"學園偶像祭AS半週年紀念♪服裝套組");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10034_desc", /*message*/"ラブカスター（有償）が500個入ったお得なセット♪
+おまけで合宿チケット付き！
+※期間中に3回まで購入できます");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10034_name", /*message*/"スクフェスシリーズ7周年記念セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10036_desc", /*message*/"內含380個虹彩星石(付費)的超值套組♪
 附贈「學園偶像輝石」！
 ※期間內最多可購買3次。
@@ -16448,6 +16530,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100331", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100332", /*message*/"在抓住惡作劇的大野狼！進入前90,000名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100333", /*message*/"在抓住惡作劇的大野狼！進入前100,000名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100398", /*message*/"「抓住惡作劇的大野狼！」參加獎");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100401", /*message*/"在蔬菜☆烹飪趣！獲得第1名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100402", /*message*/"在蔬菜☆烹飪趣！獲得第2名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100403", /*message*/"在蔬菜☆烹飪趣！獲得第3名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100404", /*message*/"在蔬菜☆烹飪趣！獲得第4名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100405", /*message*/"在蔬菜☆烹飪趣！獲得第5名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100406", /*message*/"在蔬菜☆烹飪趣！獲得第6名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100407", /*message*/"在蔬菜☆烹飪趣！獲得第7名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100408", /*message*/"在蔬菜☆烹飪趣！獲得第8名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100409", /*message*/"在蔬菜☆烹飪趣！獲得第9名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100410", /*message*/"在蔬菜☆烹飪趣！獲得第10名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100411", /*message*/"在蔬菜☆烹飪趣！進入前50名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100412", /*message*/"在蔬菜☆烹飪趣！進入前100名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100413", /*message*/"在蔬菜☆烹飪趣！進入前300名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100414", /*message*/"在蔬菜☆烹飪趣！進入前500名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100415", /*message*/"在蔬菜☆烹飪趣！進入前1,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100416", /*message*/"在蔬菜☆烹飪趣！進入前2,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100417", /*message*/"在蔬菜☆烹飪趣！進入前3,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100418", /*message*/"在蔬菜☆烹飪趣！進入前4,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100419", /*message*/"在蔬菜☆烹飪趣！進入前5,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100420", /*message*/"在蔬菜☆烹飪趣！進入前6,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100421", /*message*/"在蔬菜☆烹飪趣！進入前7,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100422", /*message*/"在蔬菜☆烹飪趣！進入前8,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100423", /*message*/"在蔬菜☆烹飪趣！進入前9,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100424", /*message*/"在蔬菜☆烹飪趣！進入前10,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100425", /*message*/"在蔬菜☆烹飪趣！進入前20,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100426", /*message*/"在蔬菜☆烹飪趣！進入前30,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100427", /*message*/"在蔬菜☆烹飪趣！進入前40,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100428", /*message*/"在蔬菜☆烹飪趣！進入前50,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100429", /*message*/"在蔬菜☆烹飪趣！進入前60,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100430", /*message*/"在蔬菜☆烹飪趣！進入前70,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100431", /*message*/"在蔬菜☆烹飪趣！進入前80,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100432", /*message*/"在蔬菜☆烹飪趣！進入前90,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100433", /*message*/"在蔬菜☆烹飪趣！進入前100,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100498", /*message*/"「蔬菜☆烹飪趣！」參加獎");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200101", /*message*/"在試玩活動 學園偶像大型合作演唱會獲得第1名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200102", /*message*/"在試玩活動 學園偶像大型合作演唱會獲得第2名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200103", /*message*/"在試玩活動 學園偶像大型合作演唱會獲得第3名的稱號");
@@ -16597,6 +16713,33 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100324", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100325", /*message*/"在「抓住惡作劇的大野狼！」的張力排名進入前15,000名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100326", /*message*/"在「抓住惡作劇的大野狼！」的張力排名進入前20,000名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100327", /*message*/"在「抓住惡作劇的大野狼！」的張力排名進入前25,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100401", /*message*/"在「蔬菜☆烹飪趣！」的張力排名獲得第1名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100402", /*message*/"在「蔬菜☆烹飪趣！」的張力排名獲得第2名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100403", /*message*/"在「蔬菜☆烹飪趣！」的張力排名獲得第3名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100404", /*message*/"在「蔬菜☆烹飪趣！」的張力排名獲得第4名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100405", /*message*/"在「蔬菜☆烹飪趣！」的張力排名獲得第5名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100406", /*message*/"在「蔬菜☆烹飪趣！」的張力排名獲得第6名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100407", /*message*/"在「蔬菜☆烹飪趣！」的張力排名獲得第7名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100408", /*message*/"在「蔬菜☆烹飪趣！」的張力排名獲得第8名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100409", /*message*/"在「蔬菜☆烹飪趣！」的張力排名獲得第9名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100410", /*message*/"在「蔬菜☆烹飪趣！」的張力排名獲得第10名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100411", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前50名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100412", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前100名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100413", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前300名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100414", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前500名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100415", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前1,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100416", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前2,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100417", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前3,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100418", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前4,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100419", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前5,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100420", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前6,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100421", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前7,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100422", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前8,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100423", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前9,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100424", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前10,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100425", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前15,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100426", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前20,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100427", /*message*/"在「蔬菜☆烹飪趣！」的張力排名進入前25,000名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100011", /*message*/"Kimino Kokorowa Kagayaiterukai?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100021", /*message*/"It&apos;s our miraculous time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100031", /*message*/"Snow Halation");
@@ -17204,6 +17347,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100331", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100332", /*message*/"「抓住惡作劇的大野狼！」TOP90,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100333", /*message*/"「抓住惡作劇的大野狼！」TOP100,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100398", /*message*/"「抓住惡作劇的大野狼！」參加獎");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100401", /*message*/"「蔬菜☆烹飪趣！」第1名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100402", /*message*/"「蔬菜☆烹飪趣！」第2名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100403", /*message*/"「蔬菜☆烹飪趣！」第3名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100404", /*message*/"「蔬菜☆烹飪趣！」第4名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100405", /*message*/"「蔬菜☆烹飪趣！」第5名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100406", /*message*/"「蔬菜☆烹飪趣！」第6名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100407", /*message*/"「蔬菜☆烹飪趣！」第7名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100408", /*message*/"「蔬菜☆烹飪趣！」第8名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100409", /*message*/"「蔬菜☆烹飪趣！」第9名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100410", /*message*/"「蔬菜☆烹飪趣！」第10名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100411", /*message*/"「蔬菜☆烹飪趣！」TOP50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100412", /*message*/"「蔬菜☆烹飪趣！」TOP100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100413", /*message*/"「蔬菜☆烹飪趣！」TOP300");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100414", /*message*/"「蔬菜☆烹飪趣！」TOP500");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100415", /*message*/"「蔬菜☆烹飪趣！」TOP1,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100416", /*message*/"「蔬菜☆烹飪趣！」TOP2,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100417", /*message*/"「蔬菜☆烹飪趣！」TOP3,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100418", /*message*/"「蔬菜☆烹飪趣！」TOP4,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100419", /*message*/"「蔬菜☆烹飪趣！」TOP5,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100420", /*message*/"「蔬菜☆烹飪趣！」TOP6,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100421", /*message*/"「蔬菜☆烹飪趣！」TOP7,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100422", /*message*/"「蔬菜☆烹飪趣！」TOP8,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100423", /*message*/"「蔬菜☆烹飪趣！」TOP9,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100424", /*message*/"「蔬菜☆烹飪趣！」TOP10,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100425", /*message*/"「蔬菜☆烹飪趣！」TOP20,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100426", /*message*/"「蔬菜☆烹飪趣！」TOP30,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100427", /*message*/"「蔬菜☆烹飪趣！」TOP40,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100428", /*message*/"「蔬菜☆烹飪趣！」TOP50,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100429", /*message*/"「蔬菜☆烹飪趣！」TOP60,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100430", /*message*/"「蔬菜☆烹飪趣！」TOP70,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100431", /*message*/"「蔬菜☆烹飪趣！」TOP80,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100432", /*message*/"「蔬菜☆烹飪趣！」TOP90,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100433", /*message*/"「蔬菜☆烹飪趣！」TOP100,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100498", /*message*/"「蔬菜☆烹飪趣！」參加獎");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200101", /*message*/"「試玩活動 學園偶像大型合作演唱會」第1名");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200102", /*message*/"「試玩活動 學園偶像大型合作演唱會」第2名");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200103", /*message*/"「試玩活動 學園偶像大型合作演唱會」第3名");
@@ -17353,6 +17530,33 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100324", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100325", /*message*/"「抓住惡作劇的大野狼！」張力排名TOP15,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100326", /*message*/"「抓住惡作劇的大野狼！」張力排名TOP20,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100327", /*message*/"「抓住惡作劇的大野狼！」張力排名TOP25,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100401", /*message*/"「蔬菜☆烹飪趣！」張力排名第1名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100402", /*message*/"「蔬菜☆烹飪趣！」張力排名第2名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100403", /*message*/"「蔬菜☆烹飪趣！」張力排名第3名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100404", /*message*/"「蔬菜☆烹飪趣！」張力排名第4名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100405", /*message*/"「蔬菜☆烹飪趣！」張力排名第5名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100406", /*message*/"「蔬菜☆烹飪趣！」張力排名第6名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100407", /*message*/"「蔬菜☆烹飪趣！」張力排名第7名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100408", /*message*/"「蔬菜☆烹飪趣！」張力排名第8名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100409", /*message*/"「蔬菜☆烹飪趣！」張力排名第9名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100410", /*message*/"「蔬菜☆烹飪趣！」張力排名第10名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100411", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100412", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100413", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP300");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100414", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP500");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100415", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP1,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100416", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP2,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100417", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP3,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100418", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP4,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100419", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP5,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100420", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP6,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100421", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP7,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100422", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP8,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100423", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP9,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100424", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP10,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100425", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP15,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100426", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP20,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100427", /*message*/"「蔬菜☆烹飪趣！」張力排名TOP25,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_expect_year_datetime", /*message*/"{0:M月d日 H:mm}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_group_name_aqours", /*message*/"Aqours");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_group_name_azalea", /*message*/"AZALEA");
@@ -18202,6 +18406,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0011_01_s1", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0012_01_s1", /*message*/"特設舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0014_01_s1", /*message*/"特設舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0015_01_s1", /*message*/"特設舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0017_01_s1", /*message*/"特設舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0023_01_s1", /*message*/"特設舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0024_01_s1", /*message*/"特設舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_str3_communication_member_story_side_unlock", /*message*/"{0}「{1}」的{2}解鎖");
@@ -29296,9 +29501,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"review_request_url_story_clear_story_m
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31001", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31002", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31003", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31004", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_101", /*message*/"商店");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_103", /*message*/"購買虹彩星石");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_104", /*message*/"在此可購買虹彩星石");
+INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_105", /*message*/"活動禮品交換所");
+INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_106", /*message*/"可用活動道具交換各式各樣的道具");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_107", /*message*/"道具交換所");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_108", /*message*/"可交換各式各樣的道具");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_109", /*message*/"回復LP");
@@ -29637,6 +29845,8 @@ Composition / Arrangement: Shintaro Mori
 Strings Arrangement: Yoshiaki Fujisawa");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0017", /*message*/"Lyrics: Aki Hata
 Composition / Arrangement: Kazuya Nishioka");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0037", /*message*/"Lyrics: Aki Hata
+Composition / Arrangement: Yuugo Sasakura");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0054", /*message*/"Lyrics: Aki Hata
 Composition: Wataru Maeguchi
 Arrangement: Takeshi Masuda");
@@ -29766,6 +29976,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0014", /*message*/"Arashi 
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0015", /*message*/"NO EXIT ORION");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0016", /*message*/"Bokura wa Ima no Naka de");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0017", /*message*/"HEART to HEART!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0037", /*message*/"Wonder Zone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0054", /*message*/"Kodoku na Heaven");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0059", /*message*/"Someday of My Life");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0061", /*message*/"Arifureta Kanashimi no Hate");
@@ -29832,6 +30043,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0014", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0015", /*message*/"のーえぐじっとおりおん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0016", /*message*/"ぼくらはいまのなかで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0017", /*message*/"はーととぅはーと");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0037", /*message*/"わんだーぞーん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0054", /*message*/"こどくなへぶん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0059", /*message*/"さむでいおぶまいらいふ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0061", /*message*/"ありふれたかなしみのはて");

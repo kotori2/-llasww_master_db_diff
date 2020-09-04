@@ -3412,6 +3412,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_014001_00", /*message*/"콘서트
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_001001_00", /*message*/"오토노키자카 고교 옥상(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021004_03", /*message*/"니지가사키 학원 부실(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021009_00", /*message*/"니지가사키 학원 교문(맑은 낮)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021010_00", /*message*/"니지가사키 학원 학교 식당 외관(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021012_00", /*message*/"니지가사키 학원 레슨실(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011001_00", /*message*/"우라노호시 여고 부실 내부(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_015004_00", /*message*/"누마즈 상점가");
@@ -6499,6 +6500,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_shop_item_inline_image_31004", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_20004_s\" height=\"24px\" width=\"24px\" offsetY=\"-5px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_03", /*message*/"");
@@ -6520,6 +6522,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_04", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31003_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31004_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_001", /*message*/"{0:#,0}P");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_002", /*message*/"-P");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_003", /*message*/"{0:#,0}P");
@@ -9313,6 +9322,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20016301", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017101", /*message*/"[공략 힌트] 어필 찬스 중 μ&apos;s 멤버가 유리한 특수 효과가 있어요. μ&apos;s 멤버를 중심으로 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017201", /*message*/"[공략 힌트] 어필 찬스 중 μ&apos;s 멤버가 유리한 특수 효과가 있어요. μ&apos;s 멤버를 중심으로 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017301", /*message*/"[공략 힌트] 어필 찬스 중 μ&apos;s 멤버가 유리한 특수 효과가 있어요. μ&apos;s 멤버를 중심으로 편성하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037101", /*message*/"[공략 힌트] SP 게이지가 증가하는 기믹 노트를 실수 없이 처리하여 게이지를 모아서 SP 특기를 발동하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037201", /*message*/"[공략 힌트] SP 게이지가 증가하는 기믹 노트를 실수 없이 처리하여 게이지를 모아서 SP 특기를 발동하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037301", /*message*/"[공략 힌트] SP 특기가 필요한 어필 찬스가 많으니 SP 타입 스쿨 아이돌을 편성한 작전을 준비하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015101", /*message*/"[공략 힌트] 어필 찬스 중 Aqours가 유리한 특수 효과가 있어요. Aqours 멤버를 중심으로 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015201", /*message*/"[공략 힌트] 어필 찬스 중 Aqours가 유리한 특수 효과가 있어요. Aqours 멤버를 중심으로 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015301", /*message*/"[공략 힌트] 어필 찬스 중 Aqours가 유리한 특수 효과가 있어요. Aqours 멤버를 중심으로 편성하세요.");
@@ -10063,6 +10075,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000328", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000329", /*message*/"작전을 바꿀 때까지 특기 발동률이 10% 감소
 조건: 반드시 발동
 대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000335", /*message*/"10 노트 동안 어필 20% 증가
+조건: 성공 시
+대상: 볼티지 타입 외 모두");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000336", /*message*/"10 노트 동안 특기 발동률 20% 증가
 조건: 성공 시
 대상： μ&apos;s");
@@ -10218,6 +10233,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000325", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000327", /*message*/"<:icon_gimmick_2002/>특기 발동률 감소 50%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000328", /*message*/"<:icon_gimmick_2002/>특기 발동률 감소 20%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000329", /*message*/"<:icon_gimmick_2002/>특기 발동률 감소 10%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000335", /*message*/"<:icon_gimmick_1007/>어필 증가 20%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000336", /*message*/"<:icon_gimmick_1002/>특기 발동률 증가 20%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10000000", /*message*/"[특수 효과] 없음
 
@@ -12358,6 +12374,51 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20017301_4", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20017301_5", /*message*/"[특수 효과] 기본 어필 10% 증가
 시간: 어필 찬스 중
 대상: μ&apos;s");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_1", /*message*/"[특수 효과] 기본 어필 30% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_2", /*message*/"[특수 효과] 기본 어필 30% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_3", /*message*/"[특수 효과] 기본 어필 30% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_4", /*message*/"[특수 효과] 기본 어필 30% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_1", /*message*/"[특수 효과] 기본 어필 30% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_2", /*message*/"[특수 효과] 기본 어필 30% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_3", /*message*/"[특수 효과] SP 게이지 1,500 획득
+시간: 어필 찬스 목표달성 시
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_4", /*message*/"[특수 효과] 기본 SP 게이지 획득량 50% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037201_5", /*message*/"[특수 효과] 기본 어필 30% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_1", /*message*/"[특수 효과] 기본 SP 게이지 획득량 50% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_2", /*message*/"[특수 효과] 기본 SP 게이지 획득량 50% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_3", /*message*/"[특수 효과] 기본 어필 50% 감소
+시간: 어필 찬스 중
+대상: SP 타입 외 모두");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_4", /*message*/"[특수 효과] 기본 SP 게이지 획득량 50% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_5", /*message*/"[특수 효과] 기본 어필 50% 감소
+시간: 어필 찬스 중
+대상: SP 타입 외 모두");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037301_6", /*message*/"[특수 효과] 기본 SP 게이지 획득량 50% 증가
+시간: 어필 찬스 중
+대상: SP 타입");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21015101_1", /*message*/"[특수 효과] 기본 어필 10% 증가
 시간: 어필 찬스 중
 대상： Aqours");
@@ -14459,6 +14520,21 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_2", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_3", /*message*/"152,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_4", /*message*/"162,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_5", /*message*/"94,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_1", /*message*/"17,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_2", /*message*/"SP 특기로 5,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_3", /*message*/"16,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_4", /*message*/"16,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_1", /*message*/"51,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_2", /*message*/"55,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_3", /*message*/"55,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_4", /*message*/"SP 특기로 17,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037201_5", /*message*/"45,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_1", /*message*/"137,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_2", /*message*/"SP 특기로 31,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_3", /*message*/"131,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_4", /*message*/"SP 특기로 60,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_5", /*message*/"78,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037301_6", /*message*/"115,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015101_1", /*message*/"8,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015101_2", /*message*/"SP 특기로 14,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015101_3", /*message*/"10,000 볼티지 획득");
@@ -15722,6 +15798,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 보너스 &quot;하프 애니버서리 기념♪ 의상 교환 티켓&quot;까지!
 ※기간 중, 최대 9회 구매 가능");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10033_name", /*message*/"스쿠스타 하프 애니버서리 기념♪ 의상 세트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10034_desc", /*message*/"ラブカスター（有償）が500個入ったお得なセット♪
+おまけで合宿チケット付き！
+※期間中に3回まで購入できます");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10034_name", /*message*/"スクフェスシリーズ7周年記念セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10036_desc", /*message*/"러브카스타(유료) 380개가 포함된 알찬 세트♪
 보너스로 스쿨 아이돌의 반짝임이 지급됩니다!
 ※기간 중 최대 3회까지 구매할 수 있습니다.
@@ -16451,6 +16531,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100331", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100332", /*message*/"장난꾸러기 늑대를 잡아라! 랭킹 상위 90,000위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100333", /*message*/"장난꾸러기 늑대를 잡아라! 랭킹 상위 100,000위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100398", /*message*/"장난꾸러기 늑대를 잡아라! 참가상");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100401", /*message*/"베지터블☆쿠킹! 랭킹 1위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100402", /*message*/"베지터블☆쿠킹! 랭킹 2위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100403", /*message*/"베지터블☆쿠킹! 랭킹 3위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100404", /*message*/"베지터블☆쿠킹! 랭킹 4위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100405", /*message*/"베지터블☆쿠킹! 랭킹 5위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100406", /*message*/"베지터블☆쿠킹! 랭킹 6위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100407", /*message*/"베지터블☆쿠킹! 랭킹 7위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100408", /*message*/"베지터블☆쿠킹! 랭킹 8위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100409", /*message*/"베지터블☆쿠킹! 랭킹 9위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100410", /*message*/"베지터블☆쿠킹! 랭킹 10위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100411", /*message*/"베지터블☆쿠킹! 랭킹 상위 50위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100412", /*message*/"베지터블☆쿠킹! 랭킹 상위 100위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100413", /*message*/"베지터블☆쿠킹! 랭킹 상위 300위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100414", /*message*/"베지터블☆쿠킹! 랭킹 상위 500위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100415", /*message*/"베지터블☆쿠킹! 랭킹 상위 1,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100416", /*message*/"베지터블☆쿠킹! 랭킹 상위 2,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100417", /*message*/"베지터블☆쿠킹! 랭킹 상위 3,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100418", /*message*/"베지터블☆쿠킹! 랭킹 상위 4,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100419", /*message*/"베지터블☆쿠킹! 랭킹 상위 5,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100420", /*message*/"베지터블☆쿠킹! 랭킹 상위 6,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100421", /*message*/"베지터블☆쿠킹! 랭킹 상위 7,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100422", /*message*/"베지터블☆쿠킹! 랭킹 상위 8,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100423", /*message*/"베지터블☆쿠킹! 랭킹 상위 9,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100424", /*message*/"베지터블☆쿠킹! 랭킹 상위 10,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100425", /*message*/"베지터블☆쿠킹! 랭킹 상위 20,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100426", /*message*/"베지터블☆쿠킹! 랭킹 상위 30,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100427", /*message*/"베지터블☆쿠킹! 랭킹 상위 40,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100428", /*message*/"베지터블☆쿠킹! 랭킹 상위 50,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100429", /*message*/"베지터블☆쿠킹! 랭킹 상위 60,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100430", /*message*/"베지터블☆쿠킹! 랭킹 상위 70,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100431", /*message*/"베지터블☆쿠킹! 랭킹 상위 80,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100432", /*message*/"베지터블☆쿠킹! 랭킹 상위 90,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100433", /*message*/"베지터블☆쿠킹! 랭킹 상위 100,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100498", /*message*/"베지터블☆쿠킹! 참가상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200101", /*message*/"사전 이벤트 스쿠스타 빅 라이브 랭킹 1위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200102", /*message*/"사전 이벤트 스쿠스타 빅 라이브 랭킹 2위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200103", /*message*/"사전 이벤트 스쿠스타 빅 라이브 랭킹 3위 칭호");
@@ -16600,6 +16714,33 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100324", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100325", /*message*/"장난꾸러기 늑대를 잡아라! 볼티지 랭킹 상위 15,000위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100326", /*message*/"장난꾸러기 늑대를 잡아라! 볼티지 랭킹 상위 20,000위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100327", /*message*/"장난꾸러기 늑대를 잡아라! 볼티지 랭킹 상위 25,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100401", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 1위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100402", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 2위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100403", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 3위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100404", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 4위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100405", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 5위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100406", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 6위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100407", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 7위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100408", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 8위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100409", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 9위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100410", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 10위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100411", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 50위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100412", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 100위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100413", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 300위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100414", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 500위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100415", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 1,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100416", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 2,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100417", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 3,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100418", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 4,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100419", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 5,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100420", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 6,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100421", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 7,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100422", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 8,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100423", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 9,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100424", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 10,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100425", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 15,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100426", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 20,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100427", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 25,000위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100011", /*message*/"Kimino Kokorowa Kagayaiterukai?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100021", /*message*/"It&apos;s our miraculous time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100031", /*message*/"Snow Halation");
@@ -17207,6 +17348,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100331", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100332", /*message*/"장난꾸러기 늑대를 잡아라! 상위 90,000위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100333", /*message*/"장난꾸러기 늑대를 잡아라! 상위 100,000위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100398", /*message*/"장난꾸러기 늑대를 잡아라! 참가상");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100401", /*message*/"베지터블☆쿠킹! 1위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100402", /*message*/"베지터블☆쿠킹! 2위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100403", /*message*/"베지터블☆쿠킹! 3위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100404", /*message*/"베지터블☆쿠킹! 4위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100405", /*message*/"베지터블☆쿠킹! 5위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100406", /*message*/"베지터블☆쿠킹! 6위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100407", /*message*/"베지터블☆쿠킹! 7위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100408", /*message*/"베지터블☆쿠킹! 8위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100409", /*message*/"베지터블☆쿠킹! 9위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100410", /*message*/"베지터블☆쿠킹! 10위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100411", /*message*/"베지터블☆쿠킹! 상위 50위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100412", /*message*/"베지터블☆쿠킹! 상위 100위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100413", /*message*/"베지터블☆쿠킹! 상위 300위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100414", /*message*/"베지터블☆쿠킹! 상위 500위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100415", /*message*/"베지터블☆쿠킹! 상위 1,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100416", /*message*/"베지터블☆쿠킹! 상위 2,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100417", /*message*/"베지터블☆쿠킹! 상위 3,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100418", /*message*/"베지터블☆쿠킹! 상위 4,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100419", /*message*/"베지터블☆쿠킹! 상위 5,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100420", /*message*/"베지터블☆쿠킹! 상위 6,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100421", /*message*/"베지터블☆쿠킹! 상위 7,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100422", /*message*/"베지터블☆쿠킹! 상위 8,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100423", /*message*/"베지터블☆쿠킹! 상위 9,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100424", /*message*/"베지터블☆쿠킹! 상위 10,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100425", /*message*/"베지터블☆쿠킹! 상위 20,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100426", /*message*/"베지터블☆쿠킹! 상위 30,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100427", /*message*/"베지터블☆쿠킹! 상위 40,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100428", /*message*/"베지터블☆쿠킹! 상위 50,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100429", /*message*/"베지터블☆쿠킹! 상위 60,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100430", /*message*/"베지터블☆쿠킹! 상위 70,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100431", /*message*/"베지터블☆쿠킹! 상위 80,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100432", /*message*/"베지터블☆쿠킹! 상위 90,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100433", /*message*/"베지터블☆쿠킹! 상위 100,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100498", /*message*/"베지터블☆쿠킹! 참가상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200101", /*message*/"사전 이벤트 스쿠스타 빅 라이브 1위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200102", /*message*/"사전 이벤트 스쿠스타 빅 라이브 2위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200103", /*message*/"사전 이벤트 스쿠스타 빅 라이브 3위");
@@ -17356,6 +17531,33 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100324", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100325", /*message*/"장난꾸러기 늑대를 잡아라! 볼티지 랭킹 상위 15,000위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100326", /*message*/"장난꾸러기 늑대를 잡아라! 볼티지 랭킹 상위 20,000위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100327", /*message*/"장난꾸러기 늑대를 잡아라! 볼티지 랭킹 상위 25,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100401", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 1위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100402", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 2위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100403", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 3위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100404", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 4위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100405", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 5위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100406", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 6위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100407", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 7위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100408", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 8위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100409", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 9위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100410", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 10위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100411", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 50위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100412", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 100위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100413", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 300위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100414", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 500위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100415", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 1,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100416", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 2,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100417", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 3,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100418", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 4,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100419", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 5,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100420", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 6,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100421", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 7,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100422", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 8,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100423", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 9,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100424", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 10,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100425", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 15,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100426", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 20,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100427", /*message*/"베지터블☆쿠킹! 볼티지 랭킹 상위 25,000위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_expect_year_datetime", /*message*/"{0:M월 d일 H:mm}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_group_name_aqours", /*message*/"Aqours");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_group_name_azalea", /*message*/"AZALEA");
@@ -18177,6 +18379,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0011_01_s1", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0012_01_s1", /*message*/"특별 스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0014_01_s1", /*message*/"특별 스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0015_01_s1", /*message*/"특별 스테이지");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0017_01_s1", /*message*/"특별 스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0023_01_s1", /*message*/"특별 스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0024_01_s1", /*message*/"특별 스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_str3_communication_member_story_side_unlock", /*message*/"{0} &apos;{1}&apos;의 {2} 열기");
@@ -28500,9 +28703,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"review_request_url_story_clear_story_m
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31001", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31002", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31003", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31004", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_101", /*message*/"상점");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_103", /*message*/"러브카스타 구매");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_104", /*message*/"러브카스타를 구매할 수 있습니다");
+INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_105", /*message*/"이벤트 교환소");
+INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_106", /*message*/"이벤트 아이템과 다양한 아이템을 교환할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_107", /*message*/"아이템 교환소");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_108", /*message*/"아이템을 교환할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_109", /*message*/"LP 회복");
@@ -28839,6 +29045,8 @@ Composition / Arrangement: Shintaro Mori
 Strings Arrangement: Yoshiaki Fujisawa");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0017", /*message*/"Lyrics: Aki Hata
 Composition / Arrangement: Kazuya Nishioka");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0037", /*message*/"Lyrics: Aki Hata
+Composition / Arrangement: Yuugo Sasakura");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0054", /*message*/"Lyrics: Aki Hata
 Composition: Wataru Maeguchi
 Arrangement: Takeshi Masuda");
@@ -28968,6 +29176,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0014", /*message*/"Arashi 
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0015", /*message*/"NO EXIT ORION");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0016", /*message*/"Bokura wa Ima no Naka de");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0017", /*message*/"HEART to HEART!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0037", /*message*/"Wonder Zone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0054", /*message*/"Kodoku na Heaven");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0059", /*message*/"Someday of My Life");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0061", /*message*/"Arifureta Kanashimi no Hate");
@@ -29034,6 +29243,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0014", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0015", /*message*/"のーえぐじっとおりおん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0016", /*message*/"ぼくらはいまのなかで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0017", /*message*/"はーととぅはーと");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0037", /*message*/"わんだーぞーん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0054", /*message*/"こどくなへぶん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0059", /*message*/"さむでいおぶまいらいふ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0061", /*message*/"ありふれたかなしみのはて");

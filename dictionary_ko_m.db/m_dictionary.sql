@@ -2013,6 +2013,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"무
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"내 손은 약손~♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"눈을 감아!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"애정 듬뿍 주먹밥");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"도서실에서는 조용히");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"알파카에게 질투?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"둥실둥실 들뜨는 기분");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"남모를 노력");
@@ -2047,6 +2048,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"특
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"최고의 선물을 찾아");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"카스밍색으로 물들여요♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"연극을 사랑해!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"소중한 시간");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"영혼의 빛");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"평화롭고도 자극적인");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"눈은 마음의 거울");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"시선을 사로잡겠어");

@@ -2013,6 +2013,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"一
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"痛痛～飛走了～♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"閉上眼睛！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"充滿愛心的飯糰");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"在圖書館請保持安靜");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"吃醋啦？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"飄飄然的心情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"私底下努力");
@@ -2047,6 +2048,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"慰
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"尋求最棒的禮物");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"染上小霞霞的色彩♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"熱愛演戲！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"寶貴的時光");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"靈魂的光芒");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"既和平又刺激");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"眼睛比嘴巴更會說話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"讓你的視線離不開我");

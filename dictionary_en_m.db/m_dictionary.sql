@@ -2013,6 +2013,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"All
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"Pain, Pain, Go Away!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"Close Your Eyes!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"Rice Balls Filled with Love");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"Quiet in the Library");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"Jealous?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"Floating Sensation");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"Secret Efforts");
@@ -2047,6 +2048,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"Spe
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"In Search of the Perfect Present");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"Dyed a Shade of Kasumin");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"I Love Theater!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"A Precious Time");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"Sparkle of the Soul");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"Peaceful and Exciting");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"Eyes Are the Window to the Soul");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"Your Eyes Are Glued to Me");

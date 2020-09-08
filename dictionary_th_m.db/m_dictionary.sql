@@ -2016,6 +2016,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"ม
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"ความเจ็บปวดเอ๋ยจงหายไป~♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"หลับตาสิ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"ข้าวปั้นเปี่ยมรัก");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"ช่วยเงียบในห้องสมุดด้วยจ้ะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"หวงเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"ความรู้สึกนุ่มละมุน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"ความพยายามที่เป็นความลับ");
@@ -2050,6 +2051,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"ข
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"ตามหาสุดยอดของขวัญ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"ย้อมให้เป็นสีของคาสึมิน♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"ฉันรักการแสดง!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"ช่วงเวลาแสนสำคัญ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"ประกายแห่งจิตวิญญาณ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"ความสงบสุขและสิ่งจูงใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"ดวงตาคือหน้าต่างของหัวใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"จะดึงดูดเธอไว้ไม่ให้ละสายตาไปไหนเลย");

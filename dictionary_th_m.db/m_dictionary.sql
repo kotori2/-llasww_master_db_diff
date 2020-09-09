@@ -690,10 +690,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001502", /*message*/"[ฉลองครบรอบครึ่งปี!]เคลียร์ &quot;Music S.T.A.R.T!!&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001503", /*message*/"[ฉลองครบรอบครึ่งปี!]เคลียร์ &quot;Step! ZERO to ONE&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001504", /*message*/"[ฉลองครบรอบครึ่งปี!]เคลียร์ &quot;SKY JOURNEY&quot; 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001601", /*message*/"[ที่ระลึกบิ๊กไลฟ์!]
+ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001602", /*message*/"[ที่ระลึกบิ๊กไลฟ์!]
+ได้รับสคูลไอดอล 1 คน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001603", /*message*/"[ที่ระลึกบิ๊กไลฟ์!]
 ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001604", /*message*/"[ที่ระลึกบิ๊กไลฟ์!]
 ได้รับสคูลไอดอล 1 คน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001701", /*message*/"[スクフェスシリーズ7周年記念] เคลียร์ &quot;SKY JOURNEY&quot; 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001702", /*message*/"[スクフェスシリーズ7周年記念] เคลียร์ &quot;Wake up, Challenger!!&quot; 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001703", /*message*/"[スクフェスシリーズ7周年記念] เคลียร์ &quot;Yume no Tobira&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001810", /*message*/"[เจิดจรัสรับวันหยุด]ผู้เล่นถึง Rank 10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001811", /*message*/"[เจิดจรัสรับวันหยุด]ผู้เล่นถึง Rank 20");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001812", /*message*/"[เจิดจรัสรับวันหยุด]ผู้เล่นถึง Rank 30");

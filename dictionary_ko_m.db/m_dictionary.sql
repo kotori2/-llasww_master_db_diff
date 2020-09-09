@@ -690,8 +690,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001502", /*message*/"[하프 애니버서리 기념!] Music S.T.A.R.T!! 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001503", /*message*/"[하프 애니버서리 기념!] Step! ZERO to ONE 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001504", /*message*/"[하프 애니버서리 기념!] SKY JOURNEY 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001601", /*message*/"&quot;빅 라이브 개최 기념!&quot; 빅 라이브에서 상을 1회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001602", /*message*/"&quot;빅 라이브 개최 기념!&quot; 스쿨 아이돌 1명 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001603", /*message*/"&quot;빅 라이브 개최 기념!&quot; 빅 라이브에서 상을 1회 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001604", /*message*/"&quot;빅 라이브 개최 기념!&quot; 스쿨 아이돌 1명 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001701", /*message*/"[スクフェスシリーズ7周年記念] SKY JOURNEY 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001702", /*message*/"[スクフェスシリーズ7周年記念] Wake up, Challenger!! 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001703", /*message*/"[スクフェスシリーズ7周年記念] Yume no Tobira 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001810", /*message*/"[반짝반짝 바캉스] 유저 Rank 10 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001811", /*message*/"[반짝반짝 바캉스] 유저 Rank 20 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001812", /*message*/"[반짝반짝 바캉스] 유저 Rank 30 달성");

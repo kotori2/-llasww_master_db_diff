@@ -8,6 +8,7 @@ CREATE TABLE m_login_bonus_birthday(
 );
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/1, /*start_at*/1596380400, /*end_at*/1596466800, /*suit_master_id*/100013001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/2, /*start_at*/1571583600, /*end_at*/1571670000, /*suit_master_id*/100023001);
+INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/3, /*start_at*/1599836400, /*end_at*/1599922800, /*suit_master_id*/100033001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/4, /*start_at*/1584198000, /*end_at*/1584284400, /*suit_master_id*/100043001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/6, /*start_at*/1587222000, /*end_at*/1587308400, /*suit_master_id*/100063001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/7, /*start_at*/1591628400, /*end_at*/1591714800, /*suit_master_id*/100073001);

@@ -4191,6 +4191,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302032001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302032001_voice", /*message*/"【SR】[Exciting Animal]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302033001", /*message*/"Rose Knight");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302033001_voice", /*message*/"【UR】[Rose Knight]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302033101", /*message*/"Rose Knight[P]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302042001", /*message*/"Exciting Animal");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302042001_voice", /*message*/"【SR】[Exciting Animal]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302043001", /*message*/"Celebrity in Blue");
@@ -15270,6 +15271,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 おまけで合宿チケット付き！
 ※期間中に3回まで購入できます");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10034_name", /*message*/"スクフェスシリーズ7周年記念セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10035_desc", /*message*/"ラブカスター（有償）が160個入ったお得なセット♪
+おまけで『9周年Tシャツ衣装交換チケット』付き！
+※期間中に最大9回購入できます");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10035_name", /*message*/"ラブライブ！シリーズ9周年記念セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10036_desc", /*message*/"A bargain set with 380 Star Gems (Paid) and bonus School Idol Sparkles! This set can be purchased up to three times for a limited time only.
 
 <color value=\"#ff3494\">The bonus School Idol Sparkles expire at 11:00 am on September 11 JST. When they expire, every five School Idol Sparkles will be converted into one School Idol Radiance. This amount is rounded up.</color>
@@ -18496,6 +18501,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_12", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_13", /*message*/"It was a live show that showed appreciation to her fans! After the memorable show ends, Ayumu gets an idea.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_14", /*message*/"After a successful solo live show, Ayumu discusses her desire to grow even more as a school idol with you. But, the next day, you end up catching a cold...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_15", /*message*/"Ayumu has nursed you all the way back to good health, but now she&apos;s the one with a cold!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_16", /*message*/"The number of applicants seeking to join Ayumu&apos;s fan club is skyrocketing! What does Ayumu think of this?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_2", /*message*/"At lunch, you and Ayumu go to the cafeteria together. You&apos;re very impressed by Ayumu&apos;s homemade, beautifully done boxed lunch.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_3", /*message*/"On your way home together on the train, you realize this is the first time you and Ayumu are in the same club. Ayumu seems happy that the realization makes you glad.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_4", /*message*/"One day after classes, you&apos;re writing the club log in the clubroom. Ayumu asks what you write in it, so you read it to her.");
@@ -18511,6 +18517,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_12", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_13", /*message*/"After the live show, Kasumi happily reads comments from her fans. You feel a little inadequate by comparison.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_14", /*message*/"You are now Member Number 001 of Kasumi&apos;s Fan Club, and she wants to talk to you about something.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_15", /*message*/"The Kasumin Fan Club bread roll event is a huge success! However, Kasumi seems to have found a fatal flaw in the Kasumin Fan Club!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_16", /*message*/"Kasumi opts to stay back after the club finishes their practice session. What is the reason behind her decision?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_2", /*message*/"Kasumi shows up to the clubroom with a huge bag. What could be inside? Kasumi has a big smile on her face while she opens it up.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_3", /*message*/"The school has an open campus on the weekend, and the School Idol Club is poised to participate in the club introduction event.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_4", /*message*/"It&apos;s the final day of the vote for who will earn the center spot. Kasumi is confident with her incredible cuteness and tricky planning, but who will win?!");
@@ -18526,6 +18533,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_12", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_13", /*message*/"Shizuku successfully performed as the character you created together. Now that it&apos;s over, Shizuku is showing you a new side to herself, less worried than before.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_14", /*message*/"Shizuku&apos;s solo event goes off without a hitch. You notice her smiling happily to herself one day. What seems to have sparked such joy within her?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_15", /*message*/"Shizuku decides to show you around for a day of fun to thank you for everything. Now what kind of day will it be?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_16", /*message*/"You have recently noticed further improvements in Shizuku&apos;s expressiveness. Apparently, a current obsession of hers is the driving force behind her growth. What exactly is this obsession of hers?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_2", /*message*/"Shizuku, who loves theater, loves making up stories in her life, too. Her imagination has been just as wild ever since she was a kid.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_3", /*message*/"One day, Shizuku asks you to be her reading partner. She seems unable to get into character for this particular part.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_4", /*message*/"When you return to the clubroom to pick up a forgotten item, you find Shizuku wriggling in a strange fashion. What&apos;s happening to her?!");
@@ -18541,6 +18549,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_12", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_13", /*message*/"The song you created for Karin, who wanted to meet everyone&apos;s expectations, had the message that she can rely on others more and be honest. How does Karin feel after performing a song like that at the live show?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_14", /*message*/"After a successful live show, you notice Karin wandering around town one day and call out to her. Where might she be heading?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_15", /*message*/"Karin and you end up going on a date to the zoo. And why the zoo? For the pandas, of course!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_16", /*message*/"Karin is serious when it comes to both her school idol and her modeling activities. What is her reaction when you suggest that she start up a fan club?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_2", /*message*/"Karin says she was looking for you, and it&apos;s for a...date?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_3", /*message*/"You&apos;re worried about Karin because she&apos;s staying after every day to practice, but once you hear what she has to say...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_4", /*message*/"After hearing how satisfied Karin is being in the School Idol Club, you want to support her even more. One day, she comes to you wanting to discuss something about performing.");
@@ -18556,6 +18565,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_12", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_13", /*message*/"At the event, Ai unveiled a song she wrote the lyrics for with her Ai Pals in mind. Her surprise for her Ai Pals was a big success! But what surprise do the Ai Pals have in store for Ai?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_14", /*message*/"Ai&apos;s solo event is a huge success! You and Ai decide to head over to Harajuku to watch another school idol group&apos;s live show.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_15", /*message*/"Ai has revealed an unexpected side to you: She&apos;s afraid of thunder. You invite her to go see another school idol live show together, but she appears to already have other plans.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_16", /*message*/"Ai invites you out on a date after finding you pondering over what to do on the weekend. She plans on showing you around town all day.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_2", /*message*/"Whether older or younger, Ai has so many friends. So, she invites them all to the club&apos;s first karaoke session!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_3", /*message*/"Things are always bustling around Ai, and that attracts people to her. One day, you end up having lunch with her and Rina.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_4", /*message*/"Ai loves her grandma and older sister more than anything. You think that&apos;s where she gets her friendliness, but what is this &quot;help-help situation&quot; she speaks of?");
@@ -18571,6 +18581,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_12", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_13", /*message*/"The live show was a huge success! Kanata is relieved that she was accepted for who she is. Then, she receives a message from Haruka.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_14", /*message*/"Kanata pulls off a hugely successful solo event and makes amends with Haruka! After the event, you get a call from Kanata to hang out.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_15", /*message*/"You tag along with Kanata and Haruka on their fishing trip. You decide to head over to Uchiura, where Chika and Kanan decide to join in too!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_16", /*message*/"Kanata is already in the clubroom when you drop by for lunch. Her delicious-looking boxed lunch is all handmade. What goodies are in it?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_2", /*message*/"You head over to Kanata&apos;s class to make sure she gets to practice on time, but you can&apos;t find her. Where could she be?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_3", /*message*/"As you write lyrics during club, Kanata comes over to you. She tells you all about how much she loves her little sister, Haruka.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_4", /*message*/"Kanata approaches you in the cafeteria during lunch. She wants you to eat some of her lunch because she made too much.");
@@ -18586,6 +18597,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_12", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_13", /*message*/"Setsuna put on a heartfelt performance to convey her love for everyone who supports her, as well as her parents. What do Setsuna&apos;s parents think?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_14", /*message*/"Setsuna&apos;s event is a roaring success and her parents approve of her school idol activities! After the event, you spot Setsuna and Riko out in town. What does this odd pair have in common?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_15", /*message*/"One day, after Setsuna and Riko bonded over their shared interests, you decide to join in for a gaming session in the clubroom. Games are just one more thing that she loves.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_16", /*message*/"Setsuna is not only happy with her school idol life, but also with her hobbies that she loves. One day, you find Setsuna in the clubroom in a cheerful mood.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_2", /*message*/"You respect Setsuna for working so hard as both of her personas, Setsuna and Nana. Things seem to be getting out of hand, however, leading Setsuna to say she has to skip practice.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_3", /*message*/"Setsuna is hiding her school idol life from her parents. There&apos;s one more thing she loves as much as school idols, but what is it?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_4", /*message*/"Setsuna loves manga and anime. So, you invite her to your house where you have the whole collection of manga she wants to read.");
@@ -18601,6 +18613,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_12", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_13", /*message*/"Emma finished her live show that she wanted to heal people through. Meeting with her fans at the show deepens her resolve!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_14", /*message*/"You head over to the clubroom early one day to find Emma already there. What has she been doing all morning?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_15", /*message*/"You are grateful to Emma for always cleaning the clubroom each morning to keep it spick-and-span. One day, you find Setsuna consoling Emma. What could have happened to her?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_16", /*message*/"You and Emma are searching for clues about the school idol she looked up to. On the way home, the two of you spot a photo studio offering kimono dressing and decide to head inside.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_2", /*message*/"Emma came to Japan after falling in love with school idols from a video she saw as a child. You ask her about her life in Switzerland, wondering what it was like.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_3", /*message*/"You and Emma promise to hold a school idol concert in Switzerland someday. One day, the club members discuss what kind of school idols they want to become. What does Emma say?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_4", /*message*/"Emma decides to find out what kind of school idol she wants to become by watching some school idol videos. Then, in Emma&apos;s room you discuss what to do to prepare for the next live show.");
@@ -18616,6 +18629,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_12", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_13", /*message*/"Rina did her first live show without her Rina-chan Board, hoping to make it her best performance yet. How did it go?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_14", /*message*/"Rina&apos;s event is met with huge praise. While everyone practices as usual, something about Rina seems off. She always rushes to leave the minute practice is over. What is she doing after school?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_15", /*message*/"Rina has been looking after a kitten on campus after school. Upon realizing this, the club members all decide to take care of it. One day, Rina bursts into the clubroom in a panic.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_16", /*message*/"Fishpuff has settled in nicely amongst the club members at Nijigasaki. She has also become a popular addition to the whole school and is thought of like an idol by all.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_2", /*message*/"Thanks to the Rina-chan Board, Rina can connect with the people around her. She says she wants to connect with even more people.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_3", /*message*/"You invite Rina to a school idol show. Rina is very surprised to see how many people are there to see a school idol.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_4", /*message*/"Rina works hard at practice to connect with people at shows, just like how she saw before. However, there&apos;s a problem she can&apos;t ignore when it comes to performing.");
@@ -18793,6 +18807,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_12", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_13", /*message*/"Episode 13 Spread the Cheer");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_14", /*message*/"Episode 14 Let Me Nurse You Back to Health!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_15", /*message*/"Episode 15 Fond Apple Memories");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_16", /*message*/"Episode 16 Why Me?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_2", /*message*/"Episode 2 Nostalgic Flavor");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_3", /*message*/"Episode 3 Stay with Me");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_4", /*message*/"Episode 4 A Blank Vision");
@@ -18808,6 +18823,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_12", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_13", /*message*/"Episode 13 What&apos;s Most Important");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_14", /*message*/"Episode 14 Kasumi&apos;s Hospitality");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_15", /*message*/"Episode 15 A Fan Club Identity Crisis!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_16", /*message*/"Episode 16 Kasumi&apos;s Daily Task");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_2", /*message*/"Episode 2 Demon Bread");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_3", /*message*/"Episode 3 Vote for Center!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_4", /*message*/"Episode 4 The Fateful Day");
@@ -18823,6 +18839,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_12", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_13", /*message*/"Episode 13 The Day of the Event");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_14", /*message*/"Episode 14 Insuppressible Feelings");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_15", /*message*/"Episode 15 It&apos;s the Thought That Counts");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_16", /*message*/"Episode 16 Musical Theater Company Obsession!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_2", /*message*/"Episode 2 Imaginative Explosion");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_3", /*message*/"Episode 3 Cast Off Your Shame!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_4", /*message*/"Episode 4 Prepping for a Tournament");
@@ -18838,6 +18855,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_12", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_13", /*message*/"Episode 13 Let Me Rely on You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_14", /*message*/"Episode 14 Map-Muddled Karin!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_15", /*message*/"Episode 15 To the Pandas!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_16", /*message*/"Episode 16 A Fan Club?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_2", /*message*/"Episode 2 Karin&apos;s Day");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_3", /*message*/"Episode 3 Forward and Up");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_4", /*message*/"Episode 4 Won&apos;t Lose to Anyone");
@@ -18853,6 +18871,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_12", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_13", /*message*/"Episode 13 Surprise?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_14", /*message*/"Episode 14 Ai&apos;s Weakness?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_15", /*message*/"Episode 15 The Perfect Girl!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_16", /*message*/"Episode 16 My Duty!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_2", /*message*/"Episode 2 No One Left Out!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_3", /*message*/"Episode 3 Check Out My Lunch!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_4", /*message*/"Episode 4 Help-Help Situation!");
@@ -18868,6 +18887,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_12", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_13", /*message*/"Episode 13 Stronger Than Ever");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_14", /*message*/"Episode 14 Kanata&apos;s on a Roll");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_15", /*message*/"Episode 15 Let&apos;s Go Fishing");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_16", /*message*/"Episode 16 Do You Wanna Make a Fan Club?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_2", /*message*/"Episode 2 Kanata&apos;s Circumstance");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_3", /*message*/"Episode 3 Little Sister, Big Love");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_4", /*message*/"Episode 4 Unexpected Talent");
@@ -18883,6 +18903,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_12", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_13", /*message*/"Episode 13 Straightforward Feelings!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_14", /*message*/"Episode 14 Honest to Yourself");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_15", /*message*/"Episode 15 Way Too Much Love");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_16", /*message*/"Episode 16 The Giver of Happiness");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_2", /*message*/"Episode 2 A World Worth Protecting");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_3", /*message*/"Episode 3 One More Favorite!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_4", /*message*/"Episode 4 Why She&apos;s &quot;Setsuna&quot;");
@@ -18898,6 +18919,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_12", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_13", /*message*/"Episode 13 Connected by Kindness");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_14", /*message*/"Episode 14 In the Clubroom at Dawn");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_15", /*message*/"Episode 15 The Person I Want to Be");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_16", /*message*/"Episode 16 The Kimono of My Dreams!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_2", /*message*/"Episode 2 Secret Date");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_3", /*message*/"Episode 3 What I Want to Be?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_4", /*message*/"Episode 4 Room Visit!");
@@ -18913,6 +18935,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_12", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_13", /*message*/"Episode 13 I Am Me!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_14", /*message*/"Episode 14 An After-School Secret");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_15", /*message*/"Episode 15 Rina the Negotiator!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_16", /*message*/"Episode 16 Rina&apos;s Fan Club");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_2", /*message*/"Episode 2 Connections with People");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_3", /*message*/"Episode 3 The Power of School Idols");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_4", /*message*/"Episode 4 Quite the Pickle");
@@ -28862,22 +28885,31 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_310902", /*message*/"All Sta
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_310905", /*message*/"Summer Splash Ruby Kurosawa");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320101", /*message*/"9th Anniversary T-Shirt: Ayumu Uehara");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320102", /*message*/"All Stars Prologue Ayumu Uehara");
+INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320103", /*message*/"Summer Splash Ayumu Uehara");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320201", /*message*/"9th Anniversary T-Shirt: Kasumi Nakasu");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320202", /*message*/"All Stars Prologue Kasumi Nakasu");
+INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320203", /*message*/"Summer Splash Kasumi Nakasu");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320301", /*message*/"9th Anniversary T-Shirt: Shizuku Osaka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320302", /*message*/"All Stars Prologue Shizuku Osaka");
+INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320303", /*message*/"Summer Splash Shizuku Osaka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320401", /*message*/"9th Anniversary T-Shirt: Karin Asaka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320402", /*message*/"All Stars Prologue Karin Asaka");
+INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320403", /*message*/"Summer Splash Karin Asaka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320501", /*message*/"9th Anniversary T-Shirt: Ai Miyashita");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320502", /*message*/"All Stars Prologue Ai Miyashita");
+INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320503", /*message*/"Summer Splash Ai Miyashita");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320601", /*message*/"9th Anniversary T-Shirt: Kanata Konoe");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320602", /*message*/"All Stars Prologue Kanata Konoe");
+INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320603", /*message*/"Summer Splash Kanata Konoe");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320701", /*message*/"9th Anniversary T-Shirt: Setsuna Yuki");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320702", /*message*/"All Stars Prologue Setsuna Yuki");
+INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320703", /*message*/"Summer Splash Setsuna Yuki");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320801", /*message*/"9th Anniversary T-Shirt: Emma Verde");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320802", /*message*/"All Stars Prologue Emma Verde");
+INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320803", /*message*/"Summer Splash Emma Verde");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320901", /*message*/"9th Anniversary T-Shirt: Rina Tennoji");
 INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320902", /*message*/"All Stars Prologue Rina Tennoji");
+INSERT INTO `m_dictionary` VALUES (/*id*/"suit_name_320903", /*message*/"Summer Splash Rina Tennoji");
 INSERT INTO `m_dictionary` VALUES (/*id*/"sys_member_love_reward_header_text", /*message*/"Bond Level");
 INSERT INTO `m_dictionary` VALUES (/*id*/"sys_member_love_reward_stamp_text", /*message*/"CLEAR!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"system_option_l_p115", /*message*/"Cancel");

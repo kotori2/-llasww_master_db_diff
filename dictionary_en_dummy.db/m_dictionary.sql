@@ -10,6 +10,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035008_00", /*message*/"Small Par
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"Planetarium (with Northern Lights)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035031_01", /*message*/"Field (Flower Meadow) (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035032_00", /*message*/"Old Town Street A (Afternoon)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035034_00", /*message*/"Ice Rink (Inside)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035037_00", /*message*/"Izuhakone Railway Platform (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"Event Rules 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"Event Rules 2/5");
@@ -77,3 +78,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_07", /*message*/"");

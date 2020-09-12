@@ -10,6 +10,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035008_00", /*message*/"สวน
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"ท้องฟ้าจำลอง (มีออโรร่า)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035031_01", /*message*/"สนามหญ้า (ทุ่งดอกไม้) (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035032_00", /*message*/"ถนนในย่านเมืองเก่า A (กลางวัน)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035034_00", /*message*/"ลานสเก็ตน้ำแข็ง (ด้านใน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035037_00", /*message*/"ชานชาลาสถานีอิสึฮาโกเนะ (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"กติกาอีเวนต์ 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"กติกาอีเวนต์ 2/5");
@@ -77,3 +78,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30009_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_07", /*message*/"");

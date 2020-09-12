@@ -8231,6 +8231,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15007", /*message*/"提升�
 可在完成課題時獲得。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15008", /*message*/"提升活動集點獲得量的道具，
 可在完成課題時獲得。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15009", /*message*/"提升活動集點獲得量的道具，
+可在完成課題時獲得。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15901", /*message*/"提升活動集點獲得量的道具，
 可在完成課題時獲得。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_16001", /*message*/"可以跳過演唱會的道具。
@@ -8304,6 +8306,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15005", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15006", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15007", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15008", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15009", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15009_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15901", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15001", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15001_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15002", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15002_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
@@ -8313,6 +8316,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15005", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15006", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15006_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15007", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15007_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15008", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15008_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15009", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15009_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15901", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15901_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_list_l_101", /*message*/"道具列表");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_list_l_108", /*message*/"沒有可顯示的消耗性道具");
@@ -8402,6 +8406,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15005", /*message*/"學園�
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15006", /*message*/"草莓塔");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15007", /*message*/"UMA圖鑑");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15008", /*message*/"魔杖");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15009", /*message*/"冰刀鞋");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15901", /*message*/"應援手燈B");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_16001", /*message*/"跳略券");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1700", /*message*/"學園偶像勳章");
@@ -16556,6 +16561,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000931", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000932", /*message*/"在魔法時光！進入前90,000名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000933", /*message*/"在魔法時光！進入前100,000名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000998", /*message*/"「魔法時光！」參加獎");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001001", /*message*/"在青春滑冰競賽獲得第1名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001002", /*message*/"在青春滑冰競賽獲得第2名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001003", /*message*/"在青春滑冰競賽獲得第3名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001004", /*message*/"在青春滑冰競賽獲得第4名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001005", /*message*/"在青春滑冰競賽獲得第5名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001006", /*message*/"在青春滑冰競賽獲得第6名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001007", /*message*/"在青春滑冰競賽獲得第7名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001008", /*message*/"在青春滑冰競賽獲得第8名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001009", /*message*/"在青春滑冰競賽獲得第9名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001010", /*message*/"在青春滑冰競賽獲得第10名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001011", /*message*/"在青春滑冰競賽進入前50名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001012", /*message*/"在青春滑冰競賽進入前100名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001013", /*message*/"在青春滑冰競賽進入前300名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001014", /*message*/"在青春滑冰競賽進入前500名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001015", /*message*/"在青春滑冰競賽進入前1,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001016", /*message*/"在青春滑冰競賽進入前2,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001017", /*message*/"在青春滑冰競賽進入前3,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001018", /*message*/"在青春滑冰競賽進入前4,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001019", /*message*/"在青春滑冰競賽進入前5,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001020", /*message*/"在青春滑冰競賽進入前6,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001021", /*message*/"在青春滑冰競賽進入前7,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001022", /*message*/"在青春滑冰競賽進入前8,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001023", /*message*/"在青春滑冰競賽進入前9,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001024", /*message*/"在青春滑冰競賽進入前10,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001025", /*message*/"在青春滑冰競賽進入前20,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001026", /*message*/"在青春滑冰競賽進入前30,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001027", /*message*/"在青春滑冰競賽進入前40,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001028", /*message*/"在青春滑冰競賽進入前50,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001029", /*message*/"在青春滑冰競賽進入前60,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001030", /*message*/"在青春滑冰競賽進入前70,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001031", /*message*/"在青春滑冰競賽進入前80,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001032", /*message*/"在青春滑冰競賽進入前90,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001033", /*message*/"在青春滑冰競賽進入前100,000名的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001098", /*message*/"「青春滑冰競賽」參加獎");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100101", /*message*/"在海上大激戰獲得第1名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100102", /*message*/"在海上大激戰獲得第2名的稱號");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100103", /*message*/"在海上大激戰獲得第3名的稱號");
@@ -17373,6 +17412,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000931", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000932", /*message*/"「魔法時光！」TOP90,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000933", /*message*/"「魔法時光！」TOP100,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000998", /*message*/"「魔法時光！」參加獎");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001001", /*message*/"「青春滑冰競賽」第1名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001002", /*message*/"「青春滑冰競賽」第2名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001003", /*message*/"「青春滑冰競賽」第3名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001004", /*message*/"「青春滑冰競賽」第4名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001005", /*message*/"「青春滑冰競賽」第5名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001006", /*message*/"「青春滑冰競賽」第6名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001007", /*message*/"「青春滑冰競賽」第7名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001008", /*message*/"「青春滑冰競賽」第8名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001009", /*message*/"「青春滑冰競賽」第9名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001010", /*message*/"「青春滑冰競賽」第10名");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001011", /*message*/"「青春滑冰競賽」TOP50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001012", /*message*/"「青春滑冰競賽」TOP100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001013", /*message*/"「青春滑冰競賽」TOP300");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001014", /*message*/"「青春滑冰競賽」TOP500");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001015", /*message*/"「青春滑冰競賽」TOP1,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001016", /*message*/"「青春滑冰競賽」TOP2,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001017", /*message*/"「青春滑冰競賽」TOP3,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001018", /*message*/"「青春滑冰競賽」TOP4,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001019", /*message*/"「青春滑冰競賽」TOP5,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001020", /*message*/"「青春滑冰競賽」TOP6,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001021", /*message*/"「青春滑冰競賽」TOP7,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001022", /*message*/"「青春滑冰競賽」TOP8,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001023", /*message*/"「青春滑冰競賽」TOP9,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001024", /*message*/"「青春滑冰競賽」TOP10,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001025", /*message*/"「青春滑冰競賽」TOP20,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001026", /*message*/"「青春滑冰競賽」TOP30,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001027", /*message*/"「青春滑冰競賽」TOP40,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001028", /*message*/"「青春滑冰競賽」TOP50,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001029", /*message*/"「青春滑冰競賽」TOP60,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001030", /*message*/"「青春滑冰競賽」TOP70,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001031", /*message*/"「青春滑冰競賽」TOP80,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001032", /*message*/"「青春滑冰競賽」TOP90,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001033", /*message*/"「青春滑冰競賽」TOP100,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001098", /*message*/"「青春滑冰競賽」參加獎");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100101", /*message*/"「海上大激戰」第1名");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100102", /*message*/"「海上大激戰」第2名");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100103", /*message*/"「海上大激戰」第3名");
@@ -30708,6 +30781,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"tower_ls_p501", /*message*/"完全回�
 INSERT INTO `m_dictionary` VALUES (/*id*/"tower_ls_p801", /*message*/"通過舞台{0}！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"tower_ls_p802", /*message*/"通過{0}{1}！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"tower_result_ls_101", /*message*/"/ {0:#,0}");
+INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_17001", /*message*/"可用回憶之鑰來交換各種道具。
+此處的內容會在每個月1號的0:00(日本時間)重置。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_21001", /*message*/"每張票券可交換1件服裝。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_21007", /*message*/"可用交換券來交換高級記憶碎片。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_gacha_point_shiny_piece", /*message*/"可用閃耀碎晶來交換各種報酬。

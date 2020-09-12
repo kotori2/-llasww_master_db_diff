@@ -8292,6 +8292,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15007", /*message*/"이벤�
 과제를 달성하면 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15008", /*message*/"이벤트 포인트를 획득량을 늘려 주는 아이템.
 과제를 달성하면 획득할 수 있습니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15009", /*message*/"이벤트 포인트를 획득량을 늘려 주는 아이템.
+과제를 달성하면 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15901", /*message*/"이벤트 포인트를 획득량을 늘려 주는 아이템.
 과제를 달성하면 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_16001", /*message*/"라이브를 즉시 완료할 수 있는 아이템.
@@ -8366,6 +8368,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15005", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15006", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15007", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15008", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15009", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15009_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_15901", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1200_s\" height=\"40px\" width=\"40px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15001", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15001_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15002", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15002_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
@@ -8375,6 +8378,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15005", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15006", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15006_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15007", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15007_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15008", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15008_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15009", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15009_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_inline_image_small_15901", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_15901_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_list_l_101", /*message*/"아이템 목록");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_list_l_108", /*message*/"표시할 소모 아이템이 없습니다.");
@@ -8464,6 +8468,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15005", /*message*/"스쿨 �
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15006", /*message*/"딸기 타르트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15007", /*message*/"UMA 도감");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15008", /*message*/"요술봉");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15009", /*message*/"스케이트화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15901", /*message*/"응원 블레이드 B");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_16001", /*message*/"스킵 티켓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1700", /*message*/"스쿨 아이돌의 증표");
@@ -16557,6 +16562,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000931", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000932", /*message*/"매지컬 타임! 랭킹 상위 90,000위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000933", /*message*/"매지컬 타임! 랭킹 상위 100,000위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13000998", /*message*/"매지컬 타임! 참가상");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001001", /*message*/"청춘 아이스 스케이팅 랭킹 1위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001002", /*message*/"청춘 아이스 스케이팅 랭킹 2위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001003", /*message*/"청춘 아이스 스케이팅 랭킹 3위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001004", /*message*/"청춘 아이스 스케이팅 랭킹 4위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001005", /*message*/"청춘 아이스 스케이팅 랭킹 5위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001006", /*message*/"청춘 아이스 스케이팅 랭킹 6위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001007", /*message*/"청춘 아이스 스케이팅 랭킹 7위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001008", /*message*/"청춘 아이스 스케이팅 랭킹 8위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001009", /*message*/"청춘 아이스 스케이팅 랭킹 9위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001010", /*message*/"청춘 아이스 스케이팅 랭킹 10위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001011", /*message*/"청춘 아이스 스케이팅 랭킹 상위 50위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001012", /*message*/"청춘 아이스 스케이팅 랭킹 상위 100위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001013", /*message*/"청춘 아이스 스케이팅 랭킹 상위 300위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001014", /*message*/"청춘 아이스 스케이팅 랭킹 상위 500위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001015", /*message*/"청춘 아이스 스케이팅 랭킹 상위 1,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001016", /*message*/"청춘 아이스 스케이팅 랭킹 상위 2,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001017", /*message*/"청춘 아이스 스케이팅 랭킹 상위 3,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001018", /*message*/"청춘 아이스 스케이팅 랭킹 상위 4,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001019", /*message*/"청춘 아이스 스케이팅 랭킹 상위 5,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001020", /*message*/"청춘 아이스 스케이팅 랭킹 상위 6,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001021", /*message*/"청춘 아이스 스케이팅 랭킹 상위 7,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001022", /*message*/"청춘 아이스 스케이팅 랭킹 상위 8,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001023", /*message*/"청춘 아이스 스케이팅 랭킹 상위 9,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001024", /*message*/"청춘 아이스 스케이팅 랭킹 상위 10,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001025", /*message*/"청춘 아이스 스케이팅 랭킹 상위 20,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001026", /*message*/"청춘 아이스 스케이팅 랭킹 상위 30,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001027", /*message*/"청춘 아이스 스케이팅 랭킹 상위 40,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001028", /*message*/"청춘 아이스 스케이팅 랭킹 상위 50,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001029", /*message*/"청춘 아이스 스케이팅 랭킹 상위 60,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001030", /*message*/"청춘 아이스 스케이팅 랭킹 상위 70,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001031", /*message*/"청춘 아이스 스케이팅 랭킹 상위 80,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001032", /*message*/"청춘 아이스 스케이팅 랭킹 상위 90,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001033", /*message*/"청춘 아이스 스케이팅 랭킹 상위 100,000위 칭호");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13001098", /*message*/"청춘 아이스 스케이팅 참가상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100101", /*message*/"바다 위 대열전 랭킹 1위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100102", /*message*/"바다 위 대열전 랭킹 2위 칭호");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100103", /*message*/"바다 위 대열전 랭킹 3위 칭호");
@@ -17374,6 +17413,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000931", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000932", /*message*/"매지컬 타임! 상위 90,000위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000933", /*message*/"매지컬 타임! 상위 100,000위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13000998", /*message*/"매지컬 타임! 참가상");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001001", /*message*/"청춘 아이스 스케이팅 1위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001002", /*message*/"청춘 아이스 스케이팅 2위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001003", /*message*/"청춘 아이스 스케이팅 3위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001004", /*message*/"청춘 아이스 스케이팅 4위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001005", /*message*/"청춘 아이스 스케이팅 5위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001006", /*message*/"청춘 아이스 스케이팅 6위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001007", /*message*/"청춘 아이스 스케이팅 7위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001008", /*message*/"청춘 아이스 스케이팅 8위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001009", /*message*/"청춘 아이스 스케이팅 9위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001010", /*message*/"청춘 아이스 스케이팅 10위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001011", /*message*/"청춘 아이스 스케이팅 상위 50위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001012", /*message*/"청춘 아이스 스케이팅 상위 100위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001013", /*message*/"청춘 아이스 스케이팅 상위 300위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001014", /*message*/"청춘 아이스 스케이팅 상위 500위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001015", /*message*/"청춘 아이스 스케이팅 상위 1,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001016", /*message*/"청춘 아이스 스케이팅 상위 2,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001017", /*message*/"청춘 아이스 스케이팅 상위 3,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001018", /*message*/"청춘 아이스 스케이팅 상위 4,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001019", /*message*/"청춘 아이스 스케이팅 상위 5,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001020", /*message*/"청춘 아이스 스케이팅 상위 6,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001021", /*message*/"청춘 아이스 스케이팅 상위 7,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001022", /*message*/"청춘 아이스 스케이팅 상위 8,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001023", /*message*/"청춘 아이스 스케이팅 상위 9,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001024", /*message*/"청춘 아이스 스케이팅 상위 10,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001025", /*message*/"청춘 아이스 스케이팅 상위 20,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001026", /*message*/"청춘 아이스 스케이팅 상위 30,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001027", /*message*/"청춘 아이스 스케이팅 상위 40,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001028", /*message*/"청춘 아이스 스케이팅 상위 50,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001029", /*message*/"청춘 아이스 스케이팅 상위 60,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001030", /*message*/"청춘 아이스 스케이팅 상위 70,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001031", /*message*/"청춘 아이스 스케이팅 상위 80,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001032", /*message*/"청춘 아이스 스케이팅 상위 90,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001033", /*message*/"청춘 아이스 스케이팅 상위 100,000위");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13001098", /*message*/"청춘 아이스 스케이팅 참가상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100101", /*message*/"바다 위 대열전 1위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100102", /*message*/"바다 위 대열전 2위");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100103", /*message*/"바다 위 대열전 3위");
@@ -29884,6 +29957,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"tower_ls_p501", /*message*/"모든 스
 INSERT INTO `m_dictionary` VALUES (/*id*/"tower_ls_p801", /*message*/"스테이지 {0} 클리어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"tower_ls_p802", /*message*/"{0} {1} 클리어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"tower_result_ls_101", /*message*/"/ {0:#,0}");
+INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_17001", /*message*/"메모리얼 키와 각종 아이템을 교환할 수 있습니다.
+교환 아이템은 매월 1일 자정(한국 시각)에 갱신됩니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_21001", /*message*/"티켓 1장당 의상 한 벌과 교환 가능합니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_21007", /*message*/"교환 티켓과 하이 메모리를 교환할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_gacha_point_shiny_piece", /*message*/"사이니 피스를 각종 보상과 교환할 수 있습니다.

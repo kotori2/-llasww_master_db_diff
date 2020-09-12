@@ -7,6 +7,7 @@ CREATE TABLE m_trade(
   PRIMARY KEY (id)
 );
 INSERT INTO `m_trade` VALUES (/*id*/2001, /*category_pattern_id*/0, /*display_order*/1, /*monthly_reset*/1, /*description*/"k.trade_description_gacha_point_shiny_piece");
+INSERT INTO `m_trade` VALUES (/*id*/17001, /*category_pattern_id*/0, /*display_order*/2, /*monthly_reset*/1, /*description*/"k.trade_description_17001");
 INSERT INTO `m_trade` VALUES (/*id*/20059, /*category_pattern_id*/0, /*display_order*/10, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20061, /*category_pattern_id*/0, /*display_order*/10, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20062, /*category_pattern_id*/0, /*display_order*/10, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
@@ -24,6 +25,7 @@ INSERT INTO `m_trade` VALUES (/*id*/20117, /*category_pattern_id*/0, /*display_o
 INSERT INTO `m_trade` VALUES (/*id*/20118, /*category_pattern_id*/0, /*display_order*/10, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20129, /*category_pattern_id*/0, /*display_order*/10, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20131, /*category_pattern_id*/0, /*display_order*/10, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
+INSERT INTO `m_trade` VALUES (/*id*/20132, /*category_pattern_id*/0, /*display_order*/10, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/21001, /*category_pattern_id*/0, /*display_order*/1, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
 INSERT INTO `m_trade` VALUES (/*id*/21002, /*category_pattern_id*/0, /*display_order*/2, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
 INSERT INTO `m_trade` VALUES (/*id*/21007, /*category_pattern_id*/0, /*display_order*/20, /*monthly_reset*/0, /*description*/"k.trade_description_21007");

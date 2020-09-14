@@ -153,6 +153,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000094", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000095", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000096", /*message*/"領取登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000097", /*message*/"完成所有每日課題");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000098", /*message*/"[光輝燦爛閃耀假期]進行3次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000099", /*message*/"完成所有每日課題");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000100", /*message*/"完成所有每日課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"遊玩1次「Bokura wa Ima no Naka de」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"獲得900點活動集點");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"完成5場LIVE");
@@ -733,6 +736,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001604", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001701", /*message*/"[スクフェスシリーズ7周年記念] 完成5次「SKY JOURNEY」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001702", /*message*/"[スクフェスシリーズ7周年記念] 完成5次「Wake up, Challenger!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001703", /*message*/"[スクフェスシリーズ7周年記念] 完成5次「Yume no Tobira」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001801", /*message*/"[光輝燦爛閃耀假期]把玩家RANK提升到10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001802", /*message*/"[光輝燦爛閃耀假期]把玩家RANK提升到20");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001803", /*message*/"[光輝燦爛閃耀假期]把玩家RANK提升到30");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001804", /*message*/"[光輝燦爛閃耀假期]觀賞完第7章劇情");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001805", /*message*/"[光輝燦爛閃耀假期]觀賞完第10章劇情");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001806", /*message*/"[光輝燦爛閃耀假期]觀賞完第13章劇情");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001807", /*message*/"[光輝燦爛閃耀假期]完成11場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001808", /*message*/"[光輝燦爛閃耀假期]完成33場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001809", /*message*/"[光輝燦爛閃耀假期]完成55場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001810", /*message*/"[光輝燦爛閃耀假期]把玩家RANK提升到10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001811", /*message*/"[光輝燦爛閃耀假期]把玩家RANK提升到20");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001812", /*message*/"[光輝燦爛閃耀假期]把玩家RANK提升到30");

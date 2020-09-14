@@ -153,6 +153,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000094", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000095", /*message*/"ซ้อม 2 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000096", /*message*/"รับล็อกอินโบนัส");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000097", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000098", /*message*/"[เจิดจรัสรับวันหยุด]ซ้อม 3 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000099", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000100", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"เล่น &quot;Bokura wa Ima no Naka de&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
@@ -737,6 +740,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001604", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001701", /*message*/"[スクフェスシリーズ7周年記念] เคลียร์ &quot;SKY JOURNEY&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001702", /*message*/"[スクフェスシリーズ7周年記念] เคลียร์ &quot;Wake up, Challenger!!&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001703", /*message*/"[スクフェスシリーズ7周年記念] เคลียร์ &quot;Yume no Tobira&quot; 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001801", /*message*/"[เจิดจรัสรับวันหยุด]ผู้เล่นถึง Rank 10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001802", /*message*/"[เจิดจรัสรับวันหยุด]ผู้เล่นถึง Rank 20");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001803", /*message*/"[เจิดจรัสรับวันหยุด]ผู้เล่นถึง Rank 30");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001804", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์สตอรี่ 7 บท");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001805", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์สตอรี่ 10 บท");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001806", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์สตอรี่ 13 บท");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001807", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์ไลฟ์ 11 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001808", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์ไลฟ์ 33 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001809", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์ไลฟ์ 55 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001810", /*message*/"[เจิดจรัสรับวันหยุด]ผู้เล่นถึง Rank 10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001811", /*message*/"[เจิดจรัสรับวันหยุด]ผู้เล่นถึง Rank 20");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001812", /*message*/"[เจิดจรัสรับวันหยุด]ผู้เล่นถึง Rank 30");

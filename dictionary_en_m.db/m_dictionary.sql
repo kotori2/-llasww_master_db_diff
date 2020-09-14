@@ -153,6 +153,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000094", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000095", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000096", /*message*/"Collect your login bonus.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000097", /*message*/"Clear all daily Goals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000098", /*message*/"[Sparkling Vacation] Perform Training a total of 3 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000099", /*message*/"Clear all daily Goals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000100", /*message*/"Clear all daily Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"Gain 900 event points.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"Clear a Live Show: x5");
@@ -733,6 +736,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001604", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001701", /*message*/"[スクフェスシリーズ7周年記念] Clear &quot;SKY JOURNEY&quot;: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001702", /*message*/"[スクフェスシリーズ7周年記念] Clear &quot;Wake up, Challenger!!&quot;: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001703", /*message*/"[スクフェスシリーズ7周年記念] Clear &quot;Yume no Tobira&quot;: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001801", /*message*/"[Sparkling Vacation] Reach Player Rank 10.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001802", /*message*/"[Sparkling Vacation] Reach Player Rank 20.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001803", /*message*/"[Sparkling Vacation] Reach Player Rank 30.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001804", /*message*/"[Sparkling Vacation] Finish Story Chapter 7.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001805", /*message*/"[Sparkling Vacation] Finish Story Chapter 10.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001806", /*message*/"[Sparkling Vacation] Finish Story Chapter 13.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001807", /*message*/"[Sparkling Vacation] Clear a Live Show: x11");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001808", /*message*/"[Sparkling Vacation] Clear a Live Show: x33");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001809", /*message*/"[Sparkling Vacation] Clear a Live Show: x55");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001810", /*message*/"[Sparkling Vacation] Reach Player Rank 10.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001811", /*message*/"[Sparkling Vacation] Reach Player Rank 20.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001812", /*message*/"[Sparkling Vacation] Reach Player Rank 30.");

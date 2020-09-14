@@ -153,6 +153,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000094", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000095", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000096", /*message*/"로그인 보너스 받기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000097", /*message*/"일일 과제 모두 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000098", /*message*/"[반짝반짝 바캉스] 합숙 3회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000099", /*message*/"일일 과제 모두 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000100", /*message*/"일일 과제 모두 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Bokura wa Ima no Naka de 1회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"이벤트 포인트 900 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"라이브 5회 클리어");
@@ -733,6 +736,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001604", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001701", /*message*/"[スクフェスシリーズ7周年記念] SKY JOURNEY 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001702", /*message*/"[スクフェスシリーズ7周年記念] Wake up, Challenger!! 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001703", /*message*/"[スクフェスシリーズ7周年記念] Yume no Tobira 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001801", /*message*/"[반짝반짝 바캉스] 유저 Rank 10 달성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001802", /*message*/"[반짝반짝 바캉스] 유저 Rank 20 달성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001803", /*message*/"[반짝반짝 바캉스] 유저 Rank 30 달성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001804", /*message*/"[반짝반짝 바캉스] 스토리 7장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001805", /*message*/"[반짝반짝 바캉스] 스토리 10장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001806", /*message*/"[반짝반짝 바캉스] 스토리 13장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001807", /*message*/"[반짝반짝 바캉스] 라이브 11회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001808", /*message*/"[반짝반짝 바캉스] 라이브 33회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001809", /*message*/"[반짝반짝 바캉스] 라이브 55회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001810", /*message*/"[반짝반짝 바캉스] 유저 Rank 10 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001811", /*message*/"[반짝반짝 바캉스] 유저 Rank 20 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001812", /*message*/"[반짝반짝 바캉스] 유저 Rank 30 달성");

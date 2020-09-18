@@ -2266,6 +2266,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200033001_4",
 適用對象：同屬性成員");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200033001_5", /*message*/"持續10個節奏圖示，組合技量表增加量＋20%
 適用對象：同屬性成員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200043001_1", /*message*/"下次發動組合技所累積的張力值＋自己表現力值的38%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200043001_2", /*message*/"下次發動組合技所累積的張力值＋自己表現力值的38.5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200043001_3", /*message*/"下次發動組合技所累積的張力值＋自己表現力值的39%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200043001_4", /*message*/"下次發動組合技所累積的張力值＋自己表現力值的39.5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200043001_5", /*message*/"下次發動組合技所累積的張力值＋自己表現力值的40%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200063001_1", /*message*/"持續10個節奏圖示，體力消耗－11%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200063001_2", /*message*/"持續10個節奏圖示，體力消耗－12%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200063001_3", /*message*/"持續10個節奏圖示，體力消耗－13%");
@@ -2326,6 +2331,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201092001_2",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201092001_3", /*message*/"組合技量表＋最高組合技數值的6%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201092001_4", /*message*/"組合技量表＋最高組合技數值的6.5%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201092001_5", /*message*/"組合技量表＋最高組合技數值的7%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201093001_1", /*message*/"體力回復自己的體力值的28%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201093001_2", /*message*/"體力回復自己的體力值的31%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201093001_3", /*message*/"體力回復自己的體力值的34%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201093001_4", /*message*/"體力回復自己的體力值的37%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201093001_5", /*message*/"體力回復自己的體力值的40%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_202043001_1", /*message*/"下次發動組合技所累積的張力值＋自己表現力值的30%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_202043001_2", /*message*/"下次發動組合技所累積的張力值＋自己表現力值的30.5%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_202043001_3", /*message*/"下次發動組合技所累積的張力值＋自己表現力值的31%");
@@ -2531,6 +2541,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022001_4",
 適用對象：同屬性成員");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022001_5", /*message*/"持續5個節奏圖示，特技發動機率4%UP
 適用對象：同屬性成員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022002_1", /*message*/"張力值＋自己表現力值的25%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022002_2", /*message*/"張力值＋自己表現力值的28%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022002_3", /*message*/"張力值＋自己表現力值的31%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022002_4", /*message*/"張力值＋自己表現力值的34%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301022002_5", /*message*/"張力值＋自己表現力值的37%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301023001_1", /*message*/"防護效果＋自己的體力值的20%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301023001_2", /*message*/"防護效果＋自己的體力值的23%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301023001_3", /*message*/"防護效果＋自己的體力值的26%");
@@ -2631,6 +2646,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302012001_2",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302012001_3", /*message*/"下次發動組合技所累積的張力值＋自己表現力值的21%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302012001_4", /*message*/"下次發動組合技所累積的張力值＋自己表現力值的21.5%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302012001_5", /*message*/"下次發動組合技所累積的張力值＋自己表現力值的22%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302012002_1", /*message*/"組合技量表＋最高組合技數值的5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302012002_2", /*message*/"組合技量表＋最高組合技數值的5.5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302012002_3", /*message*/"組合技量表＋最高組合技數值的6%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302012002_4", /*message*/"組合技量表＋最高組合技數值的6.5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302012002_5", /*message*/"組合技量表＋最高組合技數值的7%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302022001_1", /*message*/"組合技量表＋最高組合技數值的5%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302022001_2", /*message*/"組合技量表＋最高組合技數值的5.5%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_302022001_3", /*message*/"組合技量表＋最高組合技數值的6%");
@@ -3253,6 +3273,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_102092001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_200012001", /*message*/"一定會順利的！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_200032001", /*message*/"逐漸成形之物");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_200033001", /*message*/"要對大家保密喔");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_200043001", /*message*/"月夜的祈禱");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_200063001", /*message*/"紅色的魅力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_200083001", /*message*/"這裡是我的夢中世界");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_200093001", /*message*/"擄獲大家的心日香♪");
@@ -3262,6 +3283,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_201063001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_201073001", /*message*/"希望願望能夠傳達到♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_201083001", /*message*/"Shall we dance？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_201092001", /*message*/"對露比來說最美好的事物");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_201093001", /*message*/"真想躺你的大腿呢～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_202043001", /*message*/"你能跟上我的腳步嗎");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_202063001", /*message*/"歡迎來到夢之世界～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_202073001", /*message*/"Emotional Power");
@@ -3287,6 +3309,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300092001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300093001", /*message*/"出發前進！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301013001", /*message*/"流星願望");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301022001", /*message*/"受到旋律的引導");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301022002", /*message*/"連接新的夢想");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301023001", /*message*/"綻放光芒的瞬間");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301032001", /*message*/"前往充滿無限可能的大海");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301033001", /*message*/"一起進入夢鄉吧");
@@ -3302,6 +3325,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301072001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301082001", /*message*/"Let&apos;s！Sing a song♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301093001", /*message*/"Charming Lollipop");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_302012001", /*message*/"踏出的一步");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_302012002", /*message*/"聲音層層相疊真好玩♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_302022001", /*message*/"嚴禁東張西望！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_302022002", /*message*/"小霞霞進行曲");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_302023001", /*message*/"讓心綻放♪");
@@ -3701,6 +3725,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_200032001", /*message*/"我�
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_200032001_voice", /*message*/"【SR】[我來示範給你看]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_200033001", /*message*/"我超喜歡這件泳衣的");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_200033001_voice", /*message*/"【UR】[我超喜歡這件泳衣的]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_200043001", /*message*/"兩人共用一根吸管");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_200043001_voice", /*message*/"【UR】[兩人共用一根吸管]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_200063001", /*message*/"居然讓我等這麼久");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_200063001_voice", /*message*/"【UR】[居然讓我等這麼久]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_200083001", /*message*/"為你而唱");
@@ -3719,6 +3745,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_201083001", /*message*/"我�
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_201083001_voice", /*message*/"【UR】[我會支援你的♪]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_201092001", /*message*/"好想徹底講究細節來做服裝呀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_201092001_voice", /*message*/"【SR】[好想徹底講究細節來做服裝呀]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_201093001", /*message*/"……請你收下！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_201093001_voice", /*message*/"【UR】[……請你收下！]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_202043001", /*message*/"因為跟你兩個人獨處呀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_202043001_voice", /*message*/"【UR】[因為跟你兩個人獨處呀]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_202063001", /*message*/"接下來輪到小彼方了～♪");
@@ -3769,6 +3797,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301013001", /*message*/"在�
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301013001_voice", /*message*/"【UR】[在滿天流星下]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301022001", /*message*/"愛與勇氣的魔法少女・梨梨子");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301022001_voice", /*message*/"【SR】[愛與勇氣的魔法少女・梨梨子]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301022002", /*message*/"令人嚮往的情境");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301022002_voice", /*message*/"【SR】[令人嚮往的情境]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301023001", /*message*/"毫無迷惘的清澈旋律");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301023001_voice", /*message*/"【UR】[毫無迷惘的清澈旋律]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301032001", /*message*/"我去游了個泳喔～");
@@ -3799,6 +3829,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301093001", /*message*/"好�
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301093001_voice", /*message*/"【UR】[好吃到不行]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_302012001", /*message*/"我明天會再來看你的");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_302012001_voice", /*message*/"【SR】[我明天會再來看你的]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_302012002", /*message*/"呵呵，很像她的作風呢～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_302012002_voice", /*message*/"【SR】[呵呵，很像她的作風呢～]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_302022001", /*message*/"真期待吃到麵包的人的表情～♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_302022001_voice", /*message*/"【SR】[真期待吃到麵包的人的表情～♡]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_302022002", /*message*/"咿～～～！雙腳站不穩啊！");
@@ -4169,6 +4201,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_200032001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_200032001_voice", /*message*/"【SR】[Snow Halation]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_200033001", /*message*/"Humming Angel");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_200033001_voice", /*message*/"【UR】[Humming Angel]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_200043001", /*message*/"月下的大和撫子");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_200043001_voice", /*message*/"【UR】[月下的大和撫子]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_200043101", /*message*/"月下的大和撫子[P]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_200063001", /*message*/"艷麗綻放的薔薇");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_200063001_voice", /*message*/"【UR】[艷麗綻放的薔薇]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_200083001", /*message*/"繽紛慶典");
@@ -4189,6 +4224,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_201083001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_201083001_voice", /*message*/"【UR】[皇家公主]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_201092001", /*message*/"Kimino Kokorowa Kagayaiterukai?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_201092001_voice", /*message*/"【SR】[Kimino Kokorowa Kagayaiterukai?]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_201093001", /*message*/"小惡魔的誘惑");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_201093001_voice", /*message*/"【UR】[小惡魔的誘惑]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_201093101", /*message*/"小惡魔的誘惑[P]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_202043001", /*message*/"藍色誘惑");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_202043001_voice", /*message*/"【UR】[藍色誘惑]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_202063001", /*message*/"天使的搖籃曲");
@@ -4239,6 +4277,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301013001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301013001_voice", /*message*/"【UR】[獅子座星光]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301022001", /*message*/"Aozora Jumping Heart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301022001_voice", /*message*/"【SR】[Aozora Jumping Heart]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301022002", /*message*/"Brightest Melody");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301022002_voice", /*message*/"【SR】[Brightest Melody]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301023001", /*message*/"花開的序曲");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301023001_voice", /*message*/"【UR】[花開的序曲]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301032001", /*message*/"Kimino Kokorowa Kagayaiterukai?");
@@ -4269,6 +4309,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301093001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301093001_voice", /*message*/"【UR】[Sweets Deco]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302012001", /*message*/"彩虹薔薇");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302012001_voice", /*message*/"【SR】[彩虹薔薇]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302012002", /*message*/"儀樂合奏");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302012002_voice", /*message*/"【SR】[儀樂合奏]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302022001", /*message*/"彩虹薔薇");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302022001_voice", /*message*/"【SR】[彩虹薔薇]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302022002", /*message*/"儀樂合奏");
@@ -4520,6 +4562,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_102092001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_200012001", /*message*/"あなたにはとくべつおまけしちゃうよ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_200032001", /*message*/"おてほんをみせるね");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_200033001", /*message*/"このみずぎすごくおきにいりなんだ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_200043001", /*message*/"ふたりでひとつのすとろー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_200063001", /*message*/"わたしをこんなにまたせるなんて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_200083001", /*message*/"あなたのためにうたうね");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_200093001", /*message*/"ありがと");
@@ -4529,6 +4572,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_201063001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_201073001", /*message*/"てんごくずら");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_201083001", /*message*/"わたしがさぽーとしてあげる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_201092001", /*message*/"とことんこだわってつくりたいな");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_201093001", /*message*/"うけとってください");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_202043001", /*message*/"きみとふたりきりだもの");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_202063001", /*message*/"つぎはかなたちゃんのばんでーす");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_202073001", /*message*/"えへへうれしいです");
@@ -4554,6 +4598,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300092001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300093001", /*message*/"にこのとくせいおべんとういかがですかぁ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301013001", /*message*/"りゅうせいにかこまれて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301022001", /*message*/"あいとゆうきのまほうしょうじょりこっぴー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301022002", /*message*/"あこがれちゃうしちゅえーしょん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301023001", /*message*/"まよいのないすんだせんりつ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301032001", /*message*/"ひとおよぎしてたんだよ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301033001", /*message*/"ちゃんとつながれたんだから");
@@ -4569,6 +4614,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301072001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301082001", /*message*/"はいきいてみて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301093001", /*message*/"ほっぺたおちちゃいそう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_302012001", /*message*/"あしたもまたあいにくるね");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_302012002", /*message*/"ふふあのこらしいなあ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_302022001", /*message*/"たべるひとのかおがたのしみですね～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_302022002", /*message*/"ひえええあしがふらふらする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_302023001", /*message*/"おまたせしましたぁ");
@@ -4745,6 +4791,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_102092001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_200012001", /*message*/"ぼくらのらいぶきみとのらいふ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_200032001", /*message*/"すのーはれーしょん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_200033001", /*message*/"はみんぐえんじぇる");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_200043001", /*message*/"げっかのやまとなでしこ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_200063001", /*message*/"どらまてぃっくろーず");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_200083001", /*message*/"からふるふぇすた");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_200093001", /*message*/"すまいりーえんじぇる");
@@ -4754,6 +4801,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_201063001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_201073001", /*message*/"らくえんからのししゃ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_201083001", /*message*/"ろいやるぷりんせす");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_201092001", /*message*/"きみのこころはかがやいてるかい");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_201093001", /*message*/"こあくまのゆうわく");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_202043001", /*message*/"ぶるーたんたしおん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_202063001", /*message*/"てんしのこもりうた");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_202073001", /*message*/"すかーれっとかれっじ");
@@ -4779,6 +4827,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300092001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300093001", /*message*/"みょうじょうのきてき");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301013001", /*message*/"れおすたーぶらいと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301022001", /*message*/"あおぞらじゃんぴんぐはーと");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301022002", /*message*/"ぶらいてすとめろでぃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301023001", /*message*/"ぷれりゅーどぶろっさむ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301032001", /*message*/"きみのこころはかがやいてるかい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301033001", /*message*/"ぶるーれーゔ");
@@ -4794,6 +4843,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301072001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301082001", /*message*/"あおぞらじゃんぴんぐはーと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301093001", /*message*/"すうぃーつでこ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_302012001", /*message*/"れいんぼーろーず");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_302012002", /*message*/"まーちんぐはーもにー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_302022001", /*message*/"れいんぼーろーず");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_302022002", /*message*/"まーちんぐはーもにー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_302023001", /*message*/"ふらわーしんふぉにー");
@@ -6607,7 +6657,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_07", /*message*/"");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_shop_item_inline_image_31004", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_20004_s\" height=\"24px\" width=\"24px\" offsetY=\"-5px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_03", /*message*/"");
@@ -7004,6 +7053,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_1010830016", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_1010930016", /*message*/"耶嘿嘿……真好吃……好幸福～♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_2000330016", /*message*/"這套泳裝是我為今天特地挑選的……如何？
 咦？很可愛？謝、謝謝……嘿嘿……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_2000430016", /*message*/"要我跟你一起喝這個……？
+嗚嗚，太難為情了……！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_2000630016", /*message*/"我一直都很期待今天喔……
 快點好好幫我帶路吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_2000830016", /*message*/"我只在你面前唱喔？");
@@ -7018,6 +7069,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_2010830016", /*message*/"�
 派對的貴賓們才行呢。
 因為你是鞠莉
 最～重要的夥伴嘛♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_2010930016", /*message*/"希望你能收下露比織的圍巾。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_2020430016", /*message*/"用十個文字內表達我在你眼中是什麼感覺♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_2020630016", /*message*/"因為今天是約會，
 所以小彼方在便當裡放了很多你喜歡吃的菜色喔～");
@@ -8815,6 +8867,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000165", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000166", /*message*/"【LIVE特徴】 LIVE中，Pure屬性以外的基礎表現力5%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000167", /*message*/"【LIVE特徴】 LIVE中，Pure屬性以外的基礎表現力10%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000168", /*message*/"【LIVE特徴】 LIVE中，Pure屬性以外的基礎表現力20%DOWN");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000169", /*message*/"【LIVE特徴】 LIVE中，Active屬性以外的基礎表現力5%DOWN");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000170", /*message*/"【LIVE特徴】 LIVE中，Active屬性以外的基礎表現力10%DOWN");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000171", /*message*/"【LIVE特徴】 LIVE中，Active屬性以外的基礎表現力20%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000172", /*message*/"【LIVE特徴】 LIVE中，Elegant屬性以外的基礎表現力5%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000173", /*message*/"【LIVE特徴】 LIVE中，Elegant屬性以外的基礎表現力10%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000174", /*message*/"【LIVE特徴】 LIVE中，Elegant屬性以外的基礎表現力20%DOWN");
@@ -9379,6 +9434,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12018301", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12019101", /*message*/"【攻略提示】在表現時間中，建議試著以編組了非張力型學園偶像的群組來進行挑戰。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12019201", /*message*/"【攻略提示】在表現時間中，建議試著以編組了非張力型學園偶像的群組來進行挑戰。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12019301", /*message*/"【攻略提示】在表現時間中，建議試著以編組了非張力型學園偶像的群組來進行挑戰。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12020101", /*message*/"【攻略提示】在表現時間中，某些特殊效果會讓非對應類型的表現力大幅降低，建議切換群組來對應，讓LIVE進行更加有利。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12020201", /*message*/"【攻略提示】在表現時間中，某些特殊效果會讓非對應類型的表現力大幅降低，建議切換群組來對應，讓LIVE進行更加有利。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12020301", /*message*/"【攻略提示】在表現時間中，某些特殊效果會讓非對應類型的表現力大幅降低，建議切換群組來對應，讓LIVE進行更加有利。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12031101", /*message*/"【攻略提示】會造成體力消耗的特效節奏圖示就用強化型的群組效果等方法來減少消耗量吧。
 某些表現時間在完成時還能夠回復體力喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12031201", /*message*/"【攻略提示】會造成體力消耗的特效節奏圖示就用強化型的群組效果等方法來減少消耗量吧。
@@ -15933,6 +15991,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10036_name", /*message*/"光輝燦爛閃耀假期☆享樂套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10037_desc", /*message*/"『プレミアムUR確定ガチャチケット』が入ったお得なセット♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10037_name", /*message*/"UR確定！GW2020セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10039_desc", /*message*/"內含450個虹彩星石(付費)的超值套組♪
+附贈「Wake up, Challenger!!服裝交換券」及Aqours成員的記憶碎片！
+※期間內限購三次。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10039_name", /*message*/"加油！Aqours套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10045_desc", /*message*/"內含450個虹彩星石(付費)的超值套組♪
 附贈「μ&apos;s盛夏水邊之花服裝交換券」！
 ※期間內最多可購買3次。");
@@ -18205,6 +18267,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004072", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004073", /*message*/"服裝「Miracle Voyage」２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004082", /*message*/"服裝「Bokura no LIVE Kimi to no LIFE」１");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004083", /*message*/"服裝「Bokura no LIVE Kimi to no LIFE」２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004092", /*message*/"服裝「月下的大和撫子」１");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004093", /*message*/"服裝「月下的大和撫子」２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1005032", /*message*/"服裝「新鮮水果甜品店」1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1005033", /*message*/"服裝「新鮮水果甜品店」2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1005042", /*message*/"服裝「月光舞孃」1");
@@ -18308,6 +18372,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102072", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102073", /*message*/"服裝「花之交響樂」２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102082", /*message*/"服裝「Aozora Jumping Heart」１");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102083", /*message*/"服裝「Aozora Jumping Heart」２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102092", /*message*/"服裝「Brightest Melody」１");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102093", /*message*/"服裝「Brightest Melody」２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1103032", /*message*/"服裝「快樂啦啦隊女孩」1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1103033", /*message*/"服裝「快樂啦啦隊女孩」2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1103042", /*message*/"服裝「海神的巫女」1");
@@ -18400,6 +18466,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1109072", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1109073", /*message*/"服裝「Sweets Deco」２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1109082", /*message*/"服裝「Aozora Jumping Heart」１");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1109083", /*message*/"服裝「Aozora Jumping Heart」２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1109092", /*message*/"服裝「小惡魔的誘惑」１");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1109093", /*message*/"服裝「小惡魔的誘惑」２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_111", /*message*/"提醒");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_112", /*message*/"提醒");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_113", /*message*/"其他");
@@ -18419,6 +18487,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1201052", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1201053", /*message*/"服裝「Sweets Deco」２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1201062", /*message*/"服裝「彩虹薔薇」１");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1201063", /*message*/"服裝「彩虹薔薇」２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1201072", /*message*/"服裝「儀樂合奏」１");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1201073", /*message*/"服裝「儀樂合奏」２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1202032", /*message*/"服裝「Diamond」1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1202033", /*message*/"服裝「Diamond」2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1202042", /*message*/"服裝「歡樂動物」1");
@@ -18583,6 +18653,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_71", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_72", /*message*/"生日");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_73", /*message*/"生日");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_74", /*message*/"生日");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_75", /*message*/"生日");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_76", /*message*/"生日");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_77", /*message*/"生日");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_78", /*message*/"生日");
@@ -31842,6 +31913,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2000330014", /*message*/"為什�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2000330015", /*message*/"是時候該思考
 下次表演的服裝了……
 有沒有什麼好點子呢？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2000430012", /*message*/"手上如果要拿東西的話，
+果然還是扇子最適合吧？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2000430013", /*message*/"為了配合服裝的風格，
+動作也應該要優雅些呢。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2000430014", /*message*/"真是的，
+今天我要你陪我到最後喔！
+呵呵，逗你的啦♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2000430015", /*message*/"呼啊……
+討厭，剛才的呵欠
+請你要裝做沒看到喔！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2000630012", /*message*/"我希望在你的面前能夠
 變得坦率點……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2000630013", /*message*/"……我會等你的，
@@ -31950,6 +32031,14 @@ Aqours的報導時，
 也覺得好難為情。
 但比起那些，
 露比更感到開心呢♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2010930012", /*message*/"嘿嘿，
+露比很喜歡這套服裝呢♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2010930013", /*message*/"露比想吃點心了……
+我們一起吃吧？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2010930014", /*message*/"露比想和你一起去
+各種地方喔☆");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2010930015", /*message*/"希望你能對露比施加
+不睡回籠覺的魔法～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2020430012", /*message*/"跟你單獨出門，
 好令人緊張呢。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_2020430013", /*message*/"我已經做好站上舞台的
@@ -32244,6 +32333,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010220014", /*message*/"之前�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010220015", /*message*/"我有時候也得要
 拿出氣魄來才行！
 ……要是真能做到就好了。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010220022", /*message*/"Aqours的服裝
+每一套都很特別喔。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010220023", /*message*/"感覺好像能飛上天空呢。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010220024", /*message*/"我們會永遠在一起對吧！
+感覺好安心又好高興喔♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010220025", /*message*/"你喜歡什麼類型的書呢？
+我想了解你的喜好……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010230012", /*message*/"如果我真的很像一朵花的話，
 我有點好奇自己會是朵
 什麼樣的花呢……");
@@ -32416,6 +32512,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3020120014", /*message*/"就算�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3020120015", /*message*/"今天我們可以一起回家嗎？
 呵呵♪
 在回家的路上盡情地聊天吧。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3020120022", /*message*/"我會將大家的聲音
+連繫起來給你看的♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3020120023", /*message*/"來，
+演奏出美妙的音色吧！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3020120024", /*message*/"好想和你一起去吃聖代喔♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3020120025", /*message*/"有沒有東西忘了拿？
+沒問題吧？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3020220012", /*message*/"小霞霞還是希望有人
 對我說「非你莫屬」！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3020220013", /*message*/"這樣在舞台上
@@ -33339,6 +33442,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0063", /*message*/"啊！�
 我也要搔你癢囉～♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0064", /*message*/"祝你生日快樂～～！
 耶嘿嘿，能幫你慶生真開心♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0075", /*message*/"今天是小梨的生日。
+希望未來也能多多欣賞到
+Aqours的動人歌曲♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0104", /*message*/"不看看接下來的劇情嗎？
 真好奇之後的發展～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0105", /*message*/"還可以再舉行演唱會喔！
@@ -33477,6 +33583,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0063", /*message*/"啊！
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0064", /*message*/"生日快樂♪
 能像這樣幫你慶生，
 我覺得非常幸福♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0075", /*message*/"今天是梨子的生日。
+我很喜歡……
+你彈奏的美妙琴聲喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0104", /*message*/"真好奇故事的後續，
 要不要一起去看看？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0105", /*message*/"實踐練習是很重要的。
@@ -33612,6 +33721,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0063", /*message*/"哇！�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0064", /*message*/"嘿嘿……
 生日快樂♡
 能幫你慶生真開心。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0075", /*message*/"今天是小梨的生日。
+柔和的鋼琴聲
+很有小梨的風格……
+琴梨很喜歡♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0104", /*message*/"好像能看劇情的後續了！
 好嘛，一起去看看～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0105", /*message*/"好想辦演唱會喔～
@@ -33747,6 +33860,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0063", /*message*/"該不�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0064", /*message*/"能遇到你真好……！
 因為今天是你的生日，
 無論如何我都想當面祝福你。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0075", /*message*/"梨子不僅溫柔，
+也十分堅強。
+……生日快樂♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0104", /*message*/"真想知道劇情的後續。
 要不要一起去看看？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0105", /*message*/"為了發揮
@@ -33884,6 +34000,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0063", /*message*/"喵～�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0064", /*message*/"喵喵喵～生日快樂♪
 耶嘿嘿，因為想嚇你一跳，
 就在這裡等你了喵。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0075", /*message*/"梨子學姐，生日快樂！
+希望你下次能告訴凜
+東京和內浦的不同喵～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0104", /*message*/"聽說有後續的劇情喔，
 要不要看看喵？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0105", /*message*/"好想參加演唱會喵～！
@@ -34017,6 +34136,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0063", /*message*/"你這�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0064", /*message*/"生日快樂。
 ……當、當然是在跟你說啊！
 真遲鈍……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0075", /*message*/"今天是梨子的生日。
+梨子的旋律
+和我的琴聲不同……
+我非常喜歡。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0104", /*message*/"要不要去看看劇情？
 說不定會有新發現喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0105", /*message*/"差不多該開演唱會了吧？
@@ -34161,6 +34284,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0063", /*message*/"哇！
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0064", /*message*/"生日快樂♪
 呵呵，可要盛大慶祝
 你的生日才行！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0075", /*message*/"小梨就像飄舞的櫻花花瓣，
+為人帶來溫柔光芒。
+生日快樂♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0104", /*message*/"如果有空的話，
 就去看看劇情吧♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0105", /*message*/"現在似乎可以辦演唱會了，
@@ -34301,6 +34427,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0062", /*message*/"嗶啊�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0063", /*message*/"哇，怎麼了嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0064", /*message*/"今天是你的生日對吧！
 大家一起熱鬧慶祝吧♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0075", /*message*/"梨子學姐，生日快樂♪
+梨子學姐的鋼琴聲中，
+有股讓人想一直聽下去的
+溫柔氣息。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0104", /*message*/"要不要去看看劇情？
 我很好奇……！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0105", /*message*/"完成演唱會準備後
@@ -34444,6 +34574,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0063", /*message*/"什麼�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0064", /*message*/"你猜猜今天是什麼日子？
 因為是你的生日，
 一定要度過最棒的一天才行！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0075", /*message*/"梨子，生日快樂。
+真希望下次能彈鋼琴
+讓日香聽呢♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0104", /*message*/"好像有新劇情♪
 一起去看吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0105", /*message*/"日香還想舉辦
@@ -34567,6 +34700,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0063", /*message*/"哇～�
 那裡很癢～快住手～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0064", /*message*/"生日快樂！
 能像這樣幫你慶生真開心。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0075", /*message*/"小梨，生日快樂！
+在寫歌的時候，
+小梨總是幫我很多喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0104", /*message*/"好像有新劇情可以看喔！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0105", /*message*/"準備萬全！
 來辦演唱會吧♪");
@@ -34697,6 +34833,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0063", /*message*/"呵呵�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0064", /*message*/"生日快樂。
 你的支持就是我們的力量。
 真的很感謝你。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0075", /*message*/"生日派對？我的！？
+咦……
+不好意思讓你們費心了……
+但還是要說，謝謝你。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0104", /*message*/"似乎還有沒看過的劇情喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0105", /*message*/"一起開場精彩的演唱會吧♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0106", /*message*/"我想去特訓！
@@ -34851,6 +34991,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0063", /*message*/"很癢�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0064", /*message*/"生日快樂。
 你替我帶來了許多的幸福，
 今天換我帶給你幸福喔。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0075", /*message*/"小梨，生日快樂。
+看到小梨似乎
+適應了內浦的生活，
+我也覺得很高興。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0104", /*message*/"還有沒看過的劇情喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0105", /*message*/"有演唱會！
 好興奮喔♪");
@@ -34997,6 +35141,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0063", /*message*/"嘻，�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0064", /*message*/"生日快樂。
 沒有比遇見你
 更幸福的事了。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0075", /*message*/"梨子學妹總是
+很努力為Aqours作曲。
+你是Aqours的支柱喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0104", /*message*/"不妨去觀看劇情吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0105", /*message*/"我們的演唱會
 可要打起精神上場！");
@@ -35136,6 +35283,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0063", /*message*/"哈哈�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0064", /*message*/"生日快樂！
 今天會跟Aqours的所有人
 一起幫你盛大慶祝喔！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0075", /*message*/"我為了今天，
+有用鋼琴練習
+生日快樂歌喔。
+快聽我彈吧，小梨♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0104", /*message*/"再不去看劇情的話，
 我就要先看囉。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0105", /*message*/"現在覺得無論什麼樣的演唱會
@@ -35286,6 +35437,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0063", /*message*/"等等�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0064", /*message*/"親愛的小惡魔
 迎接了生日的到來，
 快準備舉杯慶祝吧～！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0075", /*message*/"生日快樂，
+梨梨♪
+夜羽總是被你
+彈奏的旋律給迷惑呢。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0104", /*message*/"似乎還有故事的
 封印沒解開喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0105", /*message*/"吾等編織的黑暗舞台，
@@ -35436,6 +35591,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0063", /*message*/"哇～�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0064", /*message*/"生日快樂。
 希望你往後也過著
 很幸福的人生。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0075", /*message*/"生日快樂！
+小梨總是很溫柔，
+又有都會的氣息，
+讓小丸好崇拜的啦♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0104", /*message*/"一起來看故事的啦～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0105", /*message*/"嗚嗚嗚～
 小丸現在非常想開
@@ -35592,6 +35751,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0064", /*message*/"Happy B
 鞠莉一直在等這一天到來喔。
 來，Birthday party
 要開始囉♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0075", /*message*/"梨子雖然個性認真，
+偶爾也會非常冒失，
+所以很有趣……
+說錯，是很可愛喔♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0104", /*message*/"Let&apos;s reading story♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0105", /*message*/"Stand by OK☆
 隨時都能進行LIVE喔♪");
@@ -35750,6 +35913,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0063", /*message*/"好癢�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0064", /*message*/"生日快樂。
 你的支持是帶給露比
 勇氣的原動力喔。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0075", /*message*/"生日快樂。
+露比做了以小梨為形象的
+束口袋，請收下吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0104", /*message*/"不去看……
 劇情嗎……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0105", /*message*/"演唱會就拜託你
@@ -35901,6 +36067,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0064", /*message*/"生日�
 你能誕生到世上，
 跟我相遇……
 我真的非常高興。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0075", /*message*/"小梨，生日快樂。
+我也不太擅長站在大眾面前，
+所以我對小梨有種親近感呢。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0104", /*message*/"一起看看新劇情吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0105", /*message*/"有演唱會喔！
 一起過去吧！");
@@ -36054,6 +36223,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0064", /*message*/"今天�
 虧小霞霞想了很棒的企劃，
 要送給一直支持
 小霞霞的前輩耶～！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0075", /*message*/"梨子學姐，生日快樂～！
+梨梨這個綽號感覺
+非常閃亮，很好聽喔！
+小霞霞也想要
+那樣的綽號呢～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0104", /*message*/"還有沒看過的劇情嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0105", /*message*/"前輩～
 去開演唱會吧！");
@@ -36223,6 +36397,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0063", /*message*/"為了�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0064", /*message*/"生日快樂，前輩！
 往後還要請前輩
 繼續指導了！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0075", /*message*/"梨子學姐，生日快樂。
+聽說梨子學姐克服了
+怕狗的恐懼，
+所以想請梨子學姐也
+摸摸我家的狗！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0104", /*message*/"啊，
 還有沒看過的故事！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0105", /*message*/"前輩，
@@ -36374,6 +36553,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0063", /*message*/"我一�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0064", /*message*/"生日快樂。
 希望你能度過很棒的一年……
 在我的影響下♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0075", /*message*/"小梨，生日快樂。
+你彈的鋼琴，
+就像大家說的一樣
+非常動聽！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0104", /*message*/"如果你去看劇情，
 就能更了解我喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0105", /*message*/"要開演唱會了！
@@ -36540,6 +36723,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0064", /*message*/"生日�
 今天要讓你度過
 最棒的生日！
 跟愛姐來吧～！！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0075", /*message*/"梨子，生日快樂～！
+梨子來彈鋼琴，
+愛姐來跳激烈舞蹈，
+這主意如何？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0104", /*message*/"愛姐來念新劇情給你聽吧？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0105", /*message*/"你想看愛姐的演唱會對吧？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0106", /*message*/"愛姐想看看更多
@@ -36682,6 +36869,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0064", /*message*/"生日�
 今天是跟小彼方
 睡一整天午覺的日子♪
 小彼方的膝蓋借你躺～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0075", /*message*/"小梨生日快樂～
+小梨的鋼琴彈得超好聽，
+會讓小彼方直接秒睡喔～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0104", /*message*/"好像還有沒看過的故事喔～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0105", /*message*/"耶～
 跟小彼方去開演唱會吧！");
@@ -36831,6 +37021,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0063", /*message*/"這該�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0064", /*message*/"生日快樂！
 對於讓我們相遇的這個奇蹟，
 我要獻上最高級的感謝……！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0075", /*message*/"梨子同學，生日快樂！
+聽說梨子同學不是
+很愛出鋒頭的人，
+但梨子同學在舞台上
+看起來總是很耀眼喔！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0104", /*message*/"還有沒看過的故事喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0105", /*message*/"再開更多演唱會吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0106", /*message*/"為了讓大家看到
@@ -36978,6 +37173,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0063", /*message*/"你搔�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0064", /*message*/"生日快樂！
 其實我原本想辦個
 生日驚喜派對的。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0075", /*message*/"生日快樂，小梨！
+我也很喜歡麵包喔！
+小梨喜歡三明治夾什麼料呢？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0104", /*message*/"還有沒看過的故事喔～
 快去看看吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0105", /*message*/"聽說可以開演唱會喔！");
@@ -37120,6 +37318,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0064", /*message*/"那個�
 自從認識你，
 我就變得很常笑，
 所以要跟你說謝謝。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0075", /*message*/"梨子學姐，生日快樂。
+我們都很內向呢……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0104", /*message*/"還有沒看過的劇情喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0105", /*message*/"要開演唱會嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0106", /*message*/"我想去特訓。

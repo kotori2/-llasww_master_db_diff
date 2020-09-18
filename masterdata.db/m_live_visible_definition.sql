@@ -29,6 +29,6 @@ INSERT INTO `m_live_visible_definition` VALUES (/*live_m_id*/12004, /*safe_swing
 INSERT INTO `m_live_visible_definition` VALUES (/*live_m_id*/12005, /*safe_swing_bone*/"", /*live_mixer_base_mode*/1, /*live_enable_skin_merge*/"");
 INSERT INTO `m_live_visible_definition` VALUES (/*live_m_id*/12006, /*safe_swing_bone*/"", /*live_mixer_base_mode*/1, /*live_enable_skin_merge*/"");
 INSERT INTO `m_live_visible_definition` VALUES (/*live_m_id*/12007, /*safe_swing_bone*/1, /*live_mixer_base_mode*/1, /*live_enable_skin_merge*/"");
-INSERT INTO `m_live_visible_definition` VALUES (/*live_m_id*/12008, /*safe_swing_bone*/"", /*live_mixer_base_mode*/1, /*live_enable_skin_merge*/"");
+INSERT INTO `m_live_visible_definition` VALUES (/*live_m_id*/12008, /*safe_swing_bone*/1, /*live_mixer_base_mode*/1, /*live_enable_skin_merge*/1);
 INSERT INTO `m_live_visible_definition` VALUES (/*live_m_id*/12009, /*safe_swing_bone*/"", /*live_mixer_base_mode*/1, /*live_enable_skin_merge*/"");
 INSERT INTO `m_live_visible_definition` VALUES (/*live_m_id*/12010, /*safe_swing_bone*/"", /*live_mixer_base_mode*/1, /*live_enable_skin_merge*/"");

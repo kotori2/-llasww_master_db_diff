@@ -1030,6 +1030,10 @@ INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/302073001, /*grade*/1, /*c
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/401053001, /*grade*/1, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/400052001, /*grade*/1, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/401082002, /*grade*/1, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/200043001, /*grade*/1, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/201093001, /*grade*/1, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/302012002, /*grade*/1, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/301022002, /*grade*/1, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502011001, /*grade*/1, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502021001, /*grade*/1, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502031001, /*grade*/1, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
@@ -1053,6 +1057,10 @@ INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/302073001, /*grade*/2, /*c
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/401053001, /*grade*/2, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/400052001, /*grade*/2, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/401082002, /*grade*/2, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/200043001, /*grade*/2, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/201093001, /*grade*/2, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/302012002, /*grade*/2, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/301022002, /*grade*/2, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502011001, /*grade*/2, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502021001, /*grade*/2, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502031001, /*grade*/2, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
@@ -1076,6 +1084,10 @@ INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/302073001, /*grade*/3, /*c
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/401053001, /*grade*/3, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/400052001, /*grade*/3, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/401082002, /*grade*/3, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/200043001, /*grade*/3, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/201093001, /*grade*/3, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/302012002, /*grade*/3, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/301022002, /*grade*/3, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502011001, /*grade*/3, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502021001, /*grade*/3, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502031001, /*grade*/3, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
@@ -1099,6 +1111,10 @@ INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/302073001, /*grade*/4, /*c
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/401053001, /*grade*/4, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/400052001, /*grade*/4, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/401082002, /*grade*/4, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/200043001, /*grade*/4, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/201093001, /*grade*/4, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/302012002, /*grade*/4, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/301022002, /*grade*/4, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502011001, /*grade*/4, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502021001, /*grade*/4, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502031001, /*grade*/4, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
@@ -1122,6 +1138,10 @@ INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/302073001, /*grade*/5, /*c
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/401053001, /*grade*/5, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/400052001, /*grade*/5, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/401082002, /*grade*/5, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/200043001, /*grade*/5, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/201093001, /*grade*/5, /*content_type*/13, /*content_id*/1800, /*content_amount*/125);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/302012002, /*grade*/5, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
+INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/301022002, /*grade*/5, /*content_type*/13, /*content_id*/1800, /*content_amount*/25);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502011001, /*grade*/5, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502021001, /*grade*/5, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);
 INSERT INTO `m_card_grade_up_item` VALUES (/*card_id*/502031001, /*grade*/5, /*content_type*/13, /*content_id*/1800, /*content_amount*/5);

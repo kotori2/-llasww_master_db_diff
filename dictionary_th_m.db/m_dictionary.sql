@@ -194,6 +194,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000041", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000042", /*message*/"รับล็อกอินโบนัส");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000043", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000044", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"ซ้อม 2 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000201", /*message*/"เพิ่มเลเวลสคูลไอดอล 1 คนให้ MAX");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000202", /*message*/"เพิ่มเลเวลสคูลไอดอล 2 คนให้ MAX");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000203", /*message*/"ปลดล็อกผังสกิล 30 ช่องขึ้นไปในการฝึกพิเศษสคูลไอดอล");

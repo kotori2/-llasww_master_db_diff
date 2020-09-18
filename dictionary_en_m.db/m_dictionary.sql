@@ -194,6 +194,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000041", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000042", /*message*/"Collect your login bonus.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000043", /*message*/"Clear all daily Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000044", /*message*/"Clear all daily Goals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000201", /*message*/"Bring a school idol to max level: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000202", /*message*/"Bring a school idol to max level: x2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000203", /*message*/"Unlock 30 or more tiles for any school idol in Practice.");

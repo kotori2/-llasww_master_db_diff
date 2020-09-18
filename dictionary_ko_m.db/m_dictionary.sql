@@ -194,6 +194,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000041", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000042", /*message*/"로그인 보너스 받기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000043", /*message*/"일일 과제 모두 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000044", /*message*/"일일 과제 모두 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000201", /*message*/"스쿨 아이돌 1명 최대 레벨 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000202", /*message*/"스쿨 아이돌 2명 최대 레벨 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000203", /*message*/"임의의 스쿨 아이돌의 특훈에서 칸 30개 이상 열기");

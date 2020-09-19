@@ -194,7 +194,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000041", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000042", /*message*/"領取登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000043", /*message*/"完成所有每日課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000044", /*message*/"完成所有每日課題");
-INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"進行2次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"完成所有每日課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000201", /*message*/"把1名學園偶像的等級提升到最大值");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000202", /*message*/"把2名學園偶像的等級提升到最大值");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400000203", /*message*/"選擇任一名學園偶像進行「特訓」並解鎖至少30個晶格");

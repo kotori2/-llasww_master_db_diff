@@ -755,6 +755,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001815", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001816", /*message*/"[光輝燦爛閃耀假期]完成11場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001817", /*message*/"[光輝燦爛閃耀假期]完成33場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001818", /*message*/"[光輝燦爛閃耀假期]完成55場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001901", /*message*/"[ライブ応援！ログインボーナス] 於期間內領取9次登入獎勵");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002001", /*message*/"[Guilty Kiss First LOVELIVE! 課題] 完成10次「New Romantic Sailors」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002002", /*message*/"[CYaRon！ First LOVELIVE! 課題] 完成10次「Braveheart Coaster」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002003", /*message*/"[AZALEA First LOVELIVE! 課題] 完成10次「Amazing Travel DNA」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002004", /*message*/"[Aqoursユニットライブ開催記念課題] 完成10次「KOKORO Magic &quot;A to Z&quot;」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -899,6 +904,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800007", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800008", /*message*/"觀賞完第11章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800009", /*message*/"觀賞完第12章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800010", /*message*/"觀賞完第13章劇情");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800011", /*message*/"觀賞完第14章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"觀賞完1話默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"觀賞完5話默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"觀賞完10話默契篇章");
@@ -1125,6 +1131,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400202", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400203", /*message*/"完成10次「Yume no Tobira」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400204", /*message*/"完成50次「Yume no Tobira」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400205", /*message*/"完成100次「Yume no Tobira」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400206", /*message*/"完成10次「Wonder Zone」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400207", /*message*/"完成50次「Wonder Zone」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400208", /*message*/"完成100次「Wonder Zone」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400209", /*message*/"完成10次「Koini Naritai AQUARIUM」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400210", /*message*/"完成50次「Koini Naritai AQUARIUM」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400211", /*message*/"完成100次「Koini Naritai AQUARIUM」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");
@@ -2227,6 +2239,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_12", /*message*/"專注向前！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_13", /*message*/"透過社團活動介紹
 提升虹咲知名度大作戰！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_14", /*message*/"逐漸填滿的拼圖！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_2", /*message*/"掌握機會！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_3", /*message*/"尋找專屬光芒 前篇");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"尋找專屬光芒 後篇");
@@ -2240,6 +2253,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_10", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_11", /*message*/"第11章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_12", /*message*/"第12章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_13", /*message*/"第13章");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_14", /*message*/"第14章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_2", /*message*/"第2章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_3", /*message*/"第3章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"第4章");
@@ -2470,6 +2484,58 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_13_9", /*message*/"
 栞子實在無法理解成員們這樣的想法。
 當栞子看見一個人努力練習的步夢時，
 她便上前對步夢說……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_1", /*message*/"各社團都同意了學校說明會的開會結果，
+社團活動介紹終於得以舉辦。
+在說明會的前一天，
+步夢為表演做的準備進入了最後階段。
+你和步夢留在社團教室練習時，
+栞子出聲叫了你們。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_10", /*message*/"雖然栞子認同了同好會的熱忱，
+但她還是不肯批准。
+不過她說只要能在期限內
+找齊一千名志工，
+她就同意舉辦學園偶像祭。
+於是你便答應她一定會把人找齊。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_2", /*message*/"時間終於來到社團活動介紹的當天，
+步夢在前一天也一直練習到最後一刻。
+同好會成員們忙著介紹社團活動
+以及發送學園偶像祭的傳單，
+而μ&apos;s和Aqours也來幫忙了。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_3", /*message*/"社團活動介紹終於要開始了。
+步夢與「虹咲學園學園偶像同好會」
+想告訴聚集在大禮堂的
+虹咲未來新生們的理念，
+將透過步夢的表演傳達出去！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_4", /*message*/"學校說明會圓滿落幕！
+雖然你問栞子要不要正式加入同好會，
+但她以自己想要專心處理
+學生會事務為由而拒絕了。
+不過栞子的一句話，
+讓你察覺到了一件事！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_5", /*message*/"關於學園偶像祭場地一事，
+你向大家提議要不要在虹咲學園舉辦。
+而首先要做的就是去找栞子這位
+學生會長商量……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_6", /*message*/"你們找栞子商量，
+說想在虹咲舉辦學園偶像祭，
+但栞子表示在校內舉辦會有問題，
+所以無法同意。
+既然如此，只要能解決那些問題，
+應該就能獲得同意了！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_7", /*message*/"為了在虹咲舉辦學園偶像祭，
+同好會順利地陸續取得校內學生的支持。
+與此同時，強力的幫手們來到了虹咲！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_8", /*message*/"在來到虹咲的穗乃果等人的協助下，
+大家想出了許多想在學園偶像祭上
+實踐的點子。
+不過在經營方面，
+似乎還有很多事情必須考慮……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_9", /*message*/"能不能把各個學校的社團都拉進來
+一起舉辦學園偶像祭呢？
+大家決定分頭到處問看看。
+之後同好會帶著要回覆栞子的
+問題解決對策，
+再次去向她提出訴求……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_1_10", /*message*/"在果林加入同時，虹咲學園學園偶像
 同好會的宗旨也確立了！
 雖然想尋找在原本的社員中
@@ -3034,6 +3100,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_13_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_13_7", /*message*/"請讓我來唱！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_13_8", /*message*/"才不覺得受挫呢！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_13_9", /*message*/"過程中的事物");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_1", /*message*/"直到最後一刻！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_10", /*message*/"栞子的想法");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_2", /*message*/"學校說明會開幕！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_3", /*message*/"跨出了一大步！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_4", /*message*/"看見希望了！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_5", /*message*/"天不從人願");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_6", /*message*/"午休廣播電台！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_7", /*message*/"演練不能馬虎！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_8", /*message*/"栞子對策會議！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_9", /*message*/"請你同意！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_10", /*message*/"重新開始！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_1a", /*message*/"想為學園偶像加油打氣！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_1b", /*message*/"想為學園偶像加油打氣！");

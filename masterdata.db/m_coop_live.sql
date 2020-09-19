@@ -11,8 +11,11 @@ CREATE TABLE m_coop_live(
   FOREIGN KEY (live_m_id) REFERENCES m_live(live_id)
 );
 INSERT INTO `m_coop_live` VALUES (/*id*/40001, /*event_id*/32002, /*live_m_id*/10001, /*play_count_per_day*/3, /*display_order*/1);
+INSERT INTO `m_coop_live` VALUES (/*id*/40008, /*event_id*/32003, /*live_m_id*/10008, /*play_count_per_day*/3, /*display_order*/1);
 INSERT INTO `m_coop_live` VALUES (/*id*/40014, /*event_id*/32001, /*live_m_id*/10014, /*play_count_per_day*/3, /*display_order*/1);
 INSERT INTO `m_coop_live` VALUES (/*id*/41004, /*event_id*/32001, /*live_m_id*/11004, /*play_count_per_day*/3, /*display_order*/2);
+INSERT INTO `m_coop_live` VALUES (/*id*/41005, /*event_id*/32003, /*live_m_id*/11005, /*play_count_per_day*/3, /*display_order*/2);
 INSERT INTO `m_coop_live` VALUES (/*id*/41006, /*event_id*/32002, /*live_m_id*/11006, /*play_count_per_day*/3, /*display_order*/2);
 INSERT INTO `m_coop_live` VALUES (/*id*/42005, /*event_id*/32002, /*live_m_id*/12005, /*play_count_per_day*/3, /*display_order*/3);
 INSERT INTO `m_coop_live` VALUES (/*id*/42007, /*event_id*/32001, /*live_m_id*/12007, /*play_count_per_day*/3, /*display_order*/3);
+INSERT INTO `m_coop_live` VALUES (/*id*/42008, /*event_id*/32003, /*live_m_id*/12008, /*play_count_per_day*/3, /*display_order*/3);

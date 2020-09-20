@@ -22,7 +22,6 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0016", /*acb_pack_name*/"
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0017", /*acb_pack_name*/"swdgj3", /*awb_pack_name*/"b73ls3");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0018", /*acb_pack_name*/"7ic2k1", /*awb_pack_name*/"fc0hhe");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0019", /*acb_pack_name*/"wrtnuq", /*awb_pack_name*/"sz78v6");
-INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0025", /*acb_pack_name*/"6v7xjs", /*awb_pack_name*/"iizxwy");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0027", /*acb_pack_name*/"gc2w9h", /*awb_pack_name*/"ig7d5v");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0028", /*acb_pack_name*/"t5uavt", /*awb_pack_name*/"obz5dw");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0030", /*acb_pack_name*/"ae66du", /*awb_pack_name*/"7uk1up");
@@ -18174,6 +18173,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0001_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0001_0079", /*acb_pack_name*/"lyfbx5", /*awb_pack_name*/"g0mw32");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0001_0080", /*acb_pack_name*/"szc4ri", /*awb_pack_name*/"3pj0wo");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0001_0081", /*acb_pack_name*/"8974cp", /*awb_pack_name*/"k8xj66");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0001_0082", /*acb_pack_name*/"78b4ib", /*awb_pack_name*/"7mcsnf");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0001_0083", /*acb_pack_name*/"g51ree", /*awb_pack_name*/"pg57k3");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0001_0084", /*acb_pack_name*/"i92728", /*awb_pack_name*/"pza5aq");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0001_0085", /*acb_pack_name*/"jh7tbi", /*awb_pack_name*/"d8jbz1");
@@ -18303,6 +18303,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0002_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0002_0079", /*acb_pack_name*/"cpdas5", /*awb_pack_name*/"do6v7m");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0002_0080", /*acb_pack_name*/"v26nu4", /*awb_pack_name*/"9m8o4f");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0002_0081", /*acb_pack_name*/"jrco02", /*awb_pack_name*/"n0yiuy");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0002_0082", /*acb_pack_name*/"uheup7", /*awb_pack_name*/"uqbheo");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0002_0083", /*acb_pack_name*/"fd5jln", /*awb_pack_name*/"wjy7n2");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0002_0084", /*acb_pack_name*/"h3gsz2", /*awb_pack_name*/"v8xgpm");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0002_0085", /*acb_pack_name*/"x81dix", /*awb_pack_name*/"06231q");
@@ -18432,6 +18433,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0003_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0003_0079", /*acb_pack_name*/"6p0xfk", /*awb_pack_name*/"hecn21");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0003_0080", /*acb_pack_name*/"xczfe0", /*awb_pack_name*/"xs6b4s");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0003_0081", /*acb_pack_name*/"gbgv79", /*awb_pack_name*/"qbz58y");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0003_0082", /*acb_pack_name*/"v0qtsa", /*awb_pack_name*/"qupjsd");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0003_0083", /*acb_pack_name*/"i63zmp", /*awb_pack_name*/"ekrcox");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0003_0084", /*acb_pack_name*/"6084jx", /*awb_pack_name*/"ssekon");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0003_0085", /*acb_pack_name*/"fcptza", /*awb_pack_name*/"be7agf");
@@ -18561,6 +18563,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0004_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0004_0079", /*acb_pack_name*/"t7xane", /*awb_pack_name*/"5hsdjp");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0004_0080", /*acb_pack_name*/"gljee2", /*awb_pack_name*/"kqhnug");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0004_0081", /*acb_pack_name*/"21jfjl", /*awb_pack_name*/"kjbf8u");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0004_0082", /*acb_pack_name*/"1ar495", /*awb_pack_name*/"u5itp7");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0004_0083", /*acb_pack_name*/"ex3p2s", /*awb_pack_name*/"bwoh6q");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0004_0084", /*acb_pack_name*/"0m0x93", /*awb_pack_name*/"pzga8p");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0004_0085", /*acb_pack_name*/"dyhgxd", /*awb_pack_name*/"akczwv");
@@ -18690,6 +18693,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0005_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0005_0079", /*acb_pack_name*/"5dsez1", /*awb_pack_name*/"arc2wo");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0005_0080", /*acb_pack_name*/"tntevk", /*awb_pack_name*/"oumwtd");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0005_0081", /*acb_pack_name*/"b3rldk", /*awb_pack_name*/"blalwp");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0005_0082", /*acb_pack_name*/"lgvuko", /*awb_pack_name*/"olvuca");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0005_0083", /*acb_pack_name*/"qy6fao", /*awb_pack_name*/"yvrg9b");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0005_0084", /*acb_pack_name*/"l1p62h", /*awb_pack_name*/"hpstgn");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0005_0085", /*acb_pack_name*/"zii4no", /*awb_pack_name*/"p8472j");
@@ -18819,6 +18823,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0006_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0006_0079", /*acb_pack_name*/"9av7k8", /*awb_pack_name*/"wb8hw8");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0006_0080", /*acb_pack_name*/"xtkqvb", /*awb_pack_name*/"2ngoqn");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0006_0081", /*acb_pack_name*/"gtkexz", /*awb_pack_name*/"ytfyuq");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0006_0082", /*acb_pack_name*/"n61kq3", /*awb_pack_name*/"ivyd47");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0006_0083", /*acb_pack_name*/"ue4i2k", /*awb_pack_name*/"9ddfaa");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0006_0084", /*acb_pack_name*/"bolhmg", /*awb_pack_name*/"5chf1f");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0006_0085", /*acb_pack_name*/"3hevxc", /*awb_pack_name*/"asolrp");
@@ -18948,6 +18953,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0007_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0007_0079", /*acb_pack_name*/"urpyyu", /*awb_pack_name*/"am0u1x");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0007_0080", /*acb_pack_name*/"9xouf0", /*awb_pack_name*/"5gapmr");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0007_0081", /*acb_pack_name*/"hnztuc", /*awb_pack_name*/"aahf7y");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0007_0082", /*acb_pack_name*/"6us6pc", /*awb_pack_name*/"38q6ph");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0007_0083", /*acb_pack_name*/"pakbll", /*awb_pack_name*/"fmqt9v");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0007_0084", /*acb_pack_name*/"8ha5s2", /*awb_pack_name*/"c3umq5");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0007_0085", /*acb_pack_name*/"0s30gt", /*awb_pack_name*/"wj54cy");
@@ -19077,6 +19083,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0008_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0008_0079", /*acb_pack_name*/"rntncl", /*awb_pack_name*/"ds249q");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0008_0080", /*acb_pack_name*/"gjxi1h", /*awb_pack_name*/"3njptq");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0008_0081", /*acb_pack_name*/"3nglbh", /*awb_pack_name*/"ljyywm");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0008_0082", /*acb_pack_name*/"xvesro", /*awb_pack_name*/"kgizn3");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0008_0083", /*acb_pack_name*/"t91grq", /*awb_pack_name*/"l1o2dj");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0008_0084", /*acb_pack_name*/"s5s18d", /*awb_pack_name*/"zruk3r");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0008_0085", /*acb_pack_name*/"k5xkzv", /*awb_pack_name*/"gbyeed");
@@ -19206,6 +19213,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0009_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0009_0079", /*acb_pack_name*/"1sm8da", /*awb_pack_name*/"5j2e1v");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0009_0080", /*acb_pack_name*/"efteo9", /*awb_pack_name*/"qsbuq5");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0009_0081", /*acb_pack_name*/"mp08ij", /*awb_pack_name*/"scybmf");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0009_0082", /*acb_pack_name*/"oj9eca", /*awb_pack_name*/"2y5zjp");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0009_0083", /*acb_pack_name*/"mfb8nn", /*awb_pack_name*/"w20i7p");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0009_0084", /*acb_pack_name*/"av25ur", /*awb_pack_name*/"r9uw4j");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0009_0085", /*acb_pack_name*/"z2nmjr", /*awb_pack_name*/"op519u");
@@ -19335,6 +19343,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0101_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0101_0079", /*acb_pack_name*/"s8fojr", /*awb_pack_name*/"o1n4df");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0101_0080", /*acb_pack_name*/"u1ciid", /*awb_pack_name*/"n1ir2l");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0101_0081", /*acb_pack_name*/"ougzd7", /*awb_pack_name*/"apyfx5");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0101_0082", /*acb_pack_name*/"w6a6bz", /*awb_pack_name*/"htq6vt");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0101_0083", /*acb_pack_name*/"pkwtcd", /*awb_pack_name*/"cpxytf");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0101_0084", /*acb_pack_name*/"blznbn", /*awb_pack_name*/"r3qf63");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0101_0085", /*acb_pack_name*/"csld9g", /*awb_pack_name*/"f9aduc");
@@ -19464,6 +19473,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0102_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0102_0079", /*acb_pack_name*/"crubds", /*awb_pack_name*/"69ktss");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0102_0080", /*acb_pack_name*/"ul3ycy", /*awb_pack_name*/"febn1o");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0102_0081", /*acb_pack_name*/"n7rf7z", /*awb_pack_name*/"3r3jv0");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0102_0082", /*acb_pack_name*/"77h3cw", /*awb_pack_name*/"mt95ec");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0102_0083", /*acb_pack_name*/"za419d", /*awb_pack_name*/"mmt9s4");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0102_0084", /*acb_pack_name*/"slvfzh", /*awb_pack_name*/"kb16xo");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0102_0085", /*acb_pack_name*/"gdc7oz", /*awb_pack_name*/"8f4qtm");
@@ -19593,6 +19603,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0103_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0103_0079", /*acb_pack_name*/"xfdb74", /*awb_pack_name*/"im4jph");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0103_0080", /*acb_pack_name*/"3729wo", /*awb_pack_name*/"k86qu1");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0103_0081", /*acb_pack_name*/"u66dul", /*awb_pack_name*/"igh1ij");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0103_0082", /*acb_pack_name*/"7ymbrz", /*awb_pack_name*/"k0q9an");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0103_0083", /*acb_pack_name*/"pdps7b", /*awb_pack_name*/"tw8wyf");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0103_0084", /*acb_pack_name*/"p6dxyg", /*awb_pack_name*/"2apc7l");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0103_0085", /*acb_pack_name*/"hfa7jk", /*awb_pack_name*/"hc1owl");
@@ -19722,6 +19733,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0104_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0104_0079", /*acb_pack_name*/"f6will", /*awb_pack_name*/"0mao1y");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0104_0080", /*acb_pack_name*/"aqncpk", /*awb_pack_name*/"deacdg");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0104_0081", /*acb_pack_name*/"ufi9mp", /*awb_pack_name*/"77mu2c");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0104_0082", /*acb_pack_name*/"g7pfwy", /*awb_pack_name*/"hq44s1");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0104_0083", /*acb_pack_name*/"munmmd", /*awb_pack_name*/"3l9h3o");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0104_0084", /*acb_pack_name*/"kfec1e", /*awb_pack_name*/"rx2iey");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0104_0085", /*acb_pack_name*/"jhqkrc", /*awb_pack_name*/"rwdqac");
@@ -19851,6 +19863,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0105_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0105_0079", /*acb_pack_name*/"zncrbs", /*awb_pack_name*/"mtwl53");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0105_0080", /*acb_pack_name*/"ew5nu1", /*awb_pack_name*/"2y136u");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0105_0081", /*acb_pack_name*/"yfbijc", /*awb_pack_name*/"ndhmla");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0105_0082", /*acb_pack_name*/"ljwfe1", /*awb_pack_name*/"nplcqz");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0105_0083", /*acb_pack_name*/"xho951", /*awb_pack_name*/"9katbk");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0105_0084", /*acb_pack_name*/"6d17j2", /*awb_pack_name*/"a7qk27");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0105_0085", /*acb_pack_name*/"53wgu5", /*awb_pack_name*/"z2y29q");
@@ -19980,6 +19993,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0106_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0106_0079", /*acb_pack_name*/"fcfkyz", /*awb_pack_name*/"reli1d");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0106_0080", /*acb_pack_name*/"dpwv12", /*awb_pack_name*/"xqgbp0");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0106_0081", /*acb_pack_name*/"xmkybw", /*awb_pack_name*/"3rhyvr");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0106_0082", /*acb_pack_name*/"flvl03", /*awb_pack_name*/"mg6ek6");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0106_0083", /*acb_pack_name*/"1fukw9", /*awb_pack_name*/"4cmhi4");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0106_0084", /*acb_pack_name*/"zlp3kq", /*awb_pack_name*/"rnztb0");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0106_0085", /*acb_pack_name*/"4rinho", /*awb_pack_name*/"ejffwm");
@@ -20109,6 +20123,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0107_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0107_0079", /*acb_pack_name*/"3f6orh", /*awb_pack_name*/"x66wki");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0107_0080", /*acb_pack_name*/"ukt2wl", /*awb_pack_name*/"c19gux");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0107_0081", /*acb_pack_name*/"u77y5l", /*awb_pack_name*/"7rskp1");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0107_0082", /*acb_pack_name*/"841uva", /*awb_pack_name*/"6jf8dq");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0107_0083", /*acb_pack_name*/"tcma9g", /*awb_pack_name*/"i91h1t");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0107_0084", /*acb_pack_name*/"v34gk3", /*awb_pack_name*/"lr2k38");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0107_0085", /*acb_pack_name*/"o7oarp", /*awb_pack_name*/"u6uhka");
@@ -20238,6 +20253,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0108_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0108_0079", /*acb_pack_name*/"mzhkc0", /*awb_pack_name*/"3jrhz0");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0108_0080", /*acb_pack_name*/"b2r5i0", /*awb_pack_name*/"h76ww5");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0108_0081", /*acb_pack_name*/"nwx62w", /*awb_pack_name*/"b7gs9e");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0108_0082", /*acb_pack_name*/"466jlf", /*awb_pack_name*/"xfpodt");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0108_0083", /*acb_pack_name*/"xvpzcr", /*awb_pack_name*/"ntadur");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0108_0084", /*acb_pack_name*/"cvda23", /*awb_pack_name*/"7ucpqs");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0108_0085", /*acb_pack_name*/"y4l7kl", /*awb_pack_name*/"kct1a4");
@@ -20367,6 +20383,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0109_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0109_0079", /*acb_pack_name*/"8bx5qd", /*awb_pack_name*/"a5igka");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0109_0080", /*acb_pack_name*/"3uwpa1", /*awb_pack_name*/"vx09yw");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0109_0081", /*acb_pack_name*/"0zzvt8", /*awb_pack_name*/"hyzxz0");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0109_0082", /*acb_pack_name*/"abpofi", /*awb_pack_name*/"wcnrzs");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0109_0083", /*acb_pack_name*/"x5rnv9", /*awb_pack_name*/"ybi72h");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0109_0084", /*acb_pack_name*/"xb1xo0", /*awb_pack_name*/"d7sef3");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0109_0085", /*acb_pack_name*/"ke1bp7", /*awb_pack_name*/"pawrle");
@@ -20496,6 +20513,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0201_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0201_0079", /*acb_pack_name*/"6hdaj9", /*awb_pack_name*/"g40oqm");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0201_0080", /*acb_pack_name*/"1p7ogo", /*awb_pack_name*/"aggqds");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0201_0081", /*acb_pack_name*/"rujyy2", /*awb_pack_name*/"ewzwtr");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0201_0082", /*acb_pack_name*/"ce85ie", /*awb_pack_name*/"d47cex");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0201_0083", /*acb_pack_name*/"2yyvsu", /*awb_pack_name*/"cmeoi8");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0201_0084", /*acb_pack_name*/"nbknpq", /*awb_pack_name*/"6xuq2k");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0201_0085", /*acb_pack_name*/"16ed2d", /*awb_pack_name*/"vszfg8");
@@ -20625,6 +20643,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0202_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0202_0079", /*acb_pack_name*/"zukytd", /*awb_pack_name*/"vaafa7");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0202_0080", /*acb_pack_name*/"jcrxj4", /*awb_pack_name*/"2q46iw");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0202_0081", /*acb_pack_name*/"9cbq6u", /*awb_pack_name*/"85t8qe");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0202_0082", /*acb_pack_name*/"7eojf1", /*awb_pack_name*/"f68s1n");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0202_0083", /*acb_pack_name*/"9ztre5", /*awb_pack_name*/"wvm56x");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0202_0084", /*acb_pack_name*/"rlslpi", /*awb_pack_name*/"oxorsd");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0202_0085", /*acb_pack_name*/"o2lqgd", /*awb_pack_name*/"3velye");
@@ -20754,6 +20773,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0203_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0203_0079", /*acb_pack_name*/"rglaqq", /*awb_pack_name*/"3msked");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0203_0080", /*acb_pack_name*/"uzpwy5", /*awb_pack_name*/"4ygbsj");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0203_0081", /*acb_pack_name*/"ybfzbj", /*awb_pack_name*/"bau3n6");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0203_0082", /*acb_pack_name*/"prup5i", /*awb_pack_name*/"xoz7kq");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0203_0083", /*acb_pack_name*/"ff3rwx", /*awb_pack_name*/"3f5u2z");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0203_0084", /*acb_pack_name*/"edx5fh", /*awb_pack_name*/"p38e1g");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0203_0085", /*acb_pack_name*/"xj14lj", /*awb_pack_name*/"oqnp37");
@@ -20883,6 +20903,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0204_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0204_0079", /*acb_pack_name*/"krypoa", /*awb_pack_name*/"2b6kyc");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0204_0080", /*acb_pack_name*/"u54q24", /*awb_pack_name*/"w07222");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0204_0081", /*acb_pack_name*/"z0cid5", /*awb_pack_name*/"227ss0");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0204_0082", /*acb_pack_name*/"fja8hk", /*awb_pack_name*/"y4ydmw");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0204_0083", /*acb_pack_name*/"azqblb", /*awb_pack_name*/"q53eka");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0204_0084", /*acb_pack_name*/"4lzfw1", /*awb_pack_name*/"summ8a");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0204_0085", /*acb_pack_name*/"62s76g", /*awb_pack_name*/"n1gi3d");
@@ -21012,6 +21033,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0205_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0205_0079", /*acb_pack_name*/"tkdayk", /*awb_pack_name*/"uusgic");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0205_0080", /*acb_pack_name*/"hofnsp", /*awb_pack_name*/"tul0ew");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0205_0081", /*acb_pack_name*/"douy48", /*awb_pack_name*/"dmulzv");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0205_0082", /*acb_pack_name*/"27hdl6", /*awb_pack_name*/"eumghx");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0205_0083", /*acb_pack_name*/"vf8yd2", /*awb_pack_name*/"a3llb3");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0205_0084", /*acb_pack_name*/"gbgps0", /*awb_pack_name*/"x77bxm");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0205_0085", /*acb_pack_name*/"9h5xuh", /*awb_pack_name*/"tq9leh");
@@ -21141,6 +21163,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0206_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0206_0079", /*acb_pack_name*/"brymbg", /*awb_pack_name*/"x80bve");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0206_0080", /*acb_pack_name*/"rtil0q", /*awb_pack_name*/"ji1mqk");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0206_0081", /*acb_pack_name*/"ntimvy", /*awb_pack_name*/"68466o");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0206_0082", /*acb_pack_name*/"as438v", /*awb_pack_name*/"5gd8fc");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0206_0083", /*acb_pack_name*/"htjjx4", /*awb_pack_name*/"f0xlh0");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0206_0084", /*acb_pack_name*/"nx84dm", /*awb_pack_name*/"8wqsul");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0206_0085", /*acb_pack_name*/"zda6ud", /*awb_pack_name*/"cgwfjv");
@@ -21270,6 +21293,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0207_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0207_0079", /*acb_pack_name*/"on3irv", /*awb_pack_name*/"cg4jsi");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0207_0080", /*acb_pack_name*/"dosi5b", /*awb_pack_name*/"qmisdm");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0207_0081", /*acb_pack_name*/"f0qkzu", /*awb_pack_name*/"qqak4r");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0207_0082", /*acb_pack_name*/"eqlsxw", /*awb_pack_name*/"6ogde0");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0207_0083", /*acb_pack_name*/"lxjnpo", /*awb_pack_name*/"larox3");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0207_0084", /*acb_pack_name*/"qu99p7", /*awb_pack_name*/"5bvhb4");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0207_0085", /*acb_pack_name*/"mfomwy", /*awb_pack_name*/"dgx3z2");
@@ -21399,6 +21423,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0208_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0208_0079", /*acb_pack_name*/"1jv18s", /*awb_pack_name*/"snri1h");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0208_0080", /*acb_pack_name*/"n2rm06", /*awb_pack_name*/"s86sk7");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0208_0081", /*acb_pack_name*/"69b7ty", /*awb_pack_name*/"lxv6uk");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0208_0082", /*acb_pack_name*/"si4amp", /*awb_pack_name*/"gw3fcn");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0208_0083", /*acb_pack_name*/"g4jvj7", /*awb_pack_name*/"4w730w");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0208_0084", /*acb_pack_name*/"xy3bo0", /*awb_pack_name*/"f53e9j");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0208_0085", /*acb_pack_name*/"fvgytu", /*awb_pack_name*/"spga3w");
@@ -21528,6 +21553,7 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0209_0078", /*acb_pack
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0209_0079", /*acb_pack_name*/"5vuy68", /*awb_pack_name*/"jcex5h");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0209_0080", /*acb_pack_name*/"1ivzaw", /*awb_pack_name*/"d18h19");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0209_0081", /*acb_pack_name*/"alsyug", /*awb_pack_name*/"pjxczj");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0209_0082", /*acb_pack_name*/"r20got", /*awb_pack_name*/"bf8s1l");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0209_0083", /*acb_pack_name*/"ouhcdk", /*awb_pack_name*/"qgchcd");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0209_0084", /*acb_pack_name*/"u4wdkm", /*awb_pack_name*/"9np91m");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"vo_na_m0209_0085", /*acb_pack_name*/"cir62k", /*awb_pack_name*/"ytz8l3");

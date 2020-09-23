@@ -56,6 +56,7 @@ INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/300082002, /*critical_
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/300093001, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/301033001, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/301042002, /*critical_rate_offset*/1500);
+INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/301073001, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/302012001, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/302012002, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/302023001, /*critical_rate_offset*/1500);
@@ -70,6 +71,7 @@ INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/400023001, /*critical_
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/400032001, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/400062001, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/400092001, /*critical_rate_offset*/1500);
+INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/401012002, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/401013001, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/401022001, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/401032001, /*critical_rate_offset*/1500);

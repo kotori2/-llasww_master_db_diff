@@ -123,3 +123,4 @@ INSERT INTO `m_background` VALUES (/*id*/303300200, /*prefab_asset_path*/"JX", /
 INSERT INTO `m_background` VALUES (/*id*/303300400, /*prefab_asset_path*/"il", /*background_asset_path*/"");
 INSERT INTO `m_background` VALUES (/*id*/303300700, /*prefab_asset_path*/"nCH", /*background_asset_path*/"h-");
 INSERT INTO `m_background` VALUES (/*id*/303504000, /*prefab_asset_path*/"+u-", /*background_asset_path*/"wDc");
+INSERT INTO `m_background` VALUES (/*id*/303505600, /*prefab_asset_path*/"N{}", /*background_asset_path*/"\"AT");

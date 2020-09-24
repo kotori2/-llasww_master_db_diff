@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"5d2facae84c5c507682bdbc940a823f8cdcb850c", /*hash*/"8e153be97346e5b20752e9e0a6e59772e63c4eb0", /*size*/5739494);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"19a4b018fef52060dadf3c92bcf67113b8135f96", /*hash*/"e78b892c913979c7681cc2ad3df0743874d330b5", /*size*/5739479);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_dummy.db", /*keys*/"6c2be59bae89090d8252ec586a63940943f28367", /*hash*/"14f0d06917fefa77334416e3367258980a9ccd00", /*size*/1921);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"125b68a23f73deca30698c286b054804021ae588", /*hash*/"53f8eeefc1ed4a46d5d1235d2b01baddbc73a13d", /*size*/729243);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"6db4f045e76aab6390183ea926799462d915fc2a", /*hash*/"a3969dcf94b0963875e817e5990c32d6c0634c31", /*size*/8305);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"7f68ea49
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_v.db", /*keys*/"dd845d280267182f93f94b9ded9bfc266b6ca253", /*hash*/"630a013f2108652123248f9aa6512e0cf183c25d", /*size*/537);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_ios.db", /*keys*/"f2ba669b6a2a7f78bc7bc24e87d9c5b1691ceddc", /*hash*/"9692aa0e68d1d6d41225eb68f58e9eca8486849c", /*size*/44722);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_inline_image.db", /*keys*/"5871ac3800b0298e7f5d3e5b8d64761d2889254d", /*hash*/"098d0f974d67104d7736afd0428a223344f5922b", /*size*/687);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"567edce78daaf59199f044badc59b77ce47ae744", /*hash*/"223e168e02dd3b6b6f62676f9112f9180d9c3299", /*size*/5027291);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"43be6a45bcffeeb18a8a5a591aa700b13a7bc713", /*hash*/"8145246c828d43df2a28548834a8637a25916e44", /*size*/5027093);

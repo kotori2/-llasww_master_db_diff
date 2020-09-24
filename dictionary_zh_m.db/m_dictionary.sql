@@ -156,6 +156,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000097", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000098", /*message*/"[光輝燦爛閃耀假期]進行3次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000099", /*message*/"完成所有每日課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000100", /*message*/"完成所有每日課題");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000101", /*message*/"遊玩1次「Wonderful Rush」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000102", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000103", /*message*/"進行2次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000104", /*message*/"完成所有每日課題");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000105", /*message*/"完成所有每日課題");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000106", /*message*/"完成所有每日課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"遊玩1次「Bokura wa Ima no Naka de」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"獲得900點活動集點");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"完成5場LIVE");

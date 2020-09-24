@@ -156,6 +156,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000097", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000098", /*message*/"[เจิดจรัสรับวันหยุด]ซ้อม 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000099", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000100", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000101", /*message*/"เล่น &quot;Wonderful Rush&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000102", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000103", /*message*/"ซ้อม 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000104", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000105", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000106", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"เล่น &quot;Bokura wa Ima no Naka de&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");

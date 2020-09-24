@@ -156,6 +156,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000097", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000098", /*message*/"[Sparkling Vacation] Perform Training a total of 3 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000099", /*message*/"Clear all daily Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000100", /*message*/"Clear all daily Goals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000101", /*message*/"Play &quot;Wonderful Rush&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000102", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000103", /*message*/"Perform Training a total of 2 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000104", /*message*/"Clear all daily Goals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000105", /*message*/"Clear all daily Goals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000106", /*message*/"Clear all daily Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"Gain 900 event points.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"Clear a Live Show: x5");

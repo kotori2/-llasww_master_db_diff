@@ -9588,6 +9588,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20008101", /*message*
 藉此累積量表來發動組合技。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20008201", /*message*/"【攻略提示】由於表現時間中某些特殊效果僅能提升組合技型的組合技量表增加量，因此編組時建議以組合技型的學園偶像為主。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20008301", /*message*/"【攻略提示】由於表現時間中某些特殊效果僅能提升組合技型的組合技量表增加量，因此編組時建議以組合技型的學園偶像為主。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20012101", /*message*/"【攻略提示】編組中只要同類型的成員越多，在處理節奏圖示時就可以獲得越多特殊效果喔。
+無法完成表現時間時，建議試著重新編組。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20012201", /*message*/"【攻略提示】編組中只要同類型的成員越多，在處理節奏圖示時就可以獲得越多特殊效果喔。
+無法完成表現時間時，建議試著重新編組。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20012301", /*message*/"【攻略提示】編組中只要同類型的成員越多，在處理節奏圖示時就可以獲得越多特殊效果喔。
+無法完成表現時間時，建議試著重新編組。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20016101", /*message*/"【攻略提示】表現時間中會出現帶有消耗體力效果的節奏圖示，
 因此建議多加注意體力的消耗。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20016201", /*message*/"【攻略提示】表現時間中會出現帶有消耗體力效果的節奏圖示，
@@ -10427,6 +10433,20 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000335", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000336", /*message*/"持續10個節奏圖示，特技發動機率20%UP
 條件：成功時
 適用對象：μ&apos;s");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000337", /*message*/"下次發動組合技的張力累積量＋組合技型×10%
+條件：成功時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000338", /*message*/"持續20個節奏圖示，張力型×5%的表現力UP
+條件：成功時
+適用對象：張力型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000339", /*message*/"持續20個節奏圖示，強化型×10%的特技發動機率UP
+條件：成功時
+適用對象：強化型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000346", /*message*/"持續10個節奏圖示，張力型×5%的表現力UP
+條件：成功時
+適用對象：張力型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000347", /*message*/"持續10個節奏圖示，強化型×10%的特技發動機率UP
+條件：成功時
+適用對象：強化型");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_60000004", /*message*/"體力消耗20
 條件：必定發動");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_60000005", /*message*/"體力消耗80
@@ -10583,6 +10603,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000328", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000329", /*message*/"<:icon_gimmick_2002/>特技發動機率10%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000335", /*message*/"<:icon_gimmick_1007/>表現力20%UP");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000336", /*message*/"<:icon_gimmick_1002/>特技發動機率20%UP");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000337", /*message*/"<:icon_gimmick_1011/>組合技張力UP");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000338", /*message*/"<:icon_gimmick_1007/>表現力UP【張力型】");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000339", /*message*/"<:icon_gimmick_1002/>特技發動機率UP【強化型】");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000346", /*message*/"<:icon_gimmick_1007/>表現力UP【張力型】");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000347", /*message*/"<:icon_gimmick_1002/>特技發動機率UP【強化型】");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10000000", /*message*/"【特殊效果】無設定
 
 ");
@@ -12728,6 +12753,54 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20008301_2", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20008301_3", /*message*/"【特殊效果】基礎組合技量表增加量30%UP
 時間：表現時間中
 適用對象：組合技型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012101_1", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012101_2", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012101_3", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012101_4", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012201_1", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012201_2", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012201_3", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012201_4", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012201_5", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012301_1", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012301_2", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012301_3", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012301_4", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012301_5", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012301_6", /*message*/"【特殊效果】無設定
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20012301_7", /*message*/"【特殊效果】無設定
+
+");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016101_1", /*message*/"【特殊效果】體力回復4,000
 時間：表現時間目標達成時
 ");
@@ -15092,6 +15165,22 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20008201_3", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20008301_1", /*message*/"使用組合技來累積合計35,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20008301_2", /*message*/"累積合計200,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20008301_3", /*message*/"使用組合技來累積合計100,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012101_1", /*message*/"累積合計6,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012101_2", /*message*/"使用組合技來累積合計9,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012101_3", /*message*/"累積合計9,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012101_4", /*message*/"累積合計21,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012201_1", /*message*/"累積合計24,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012201_2", /*message*/"使用組合技來累積合計21,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012201_3", /*message*/"累積合計26,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012201_4", /*message*/"累積合計57,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012201_5", /*message*/"使用組合技來累積合計21,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012301_1", /*message*/"累積合計43,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012301_2", /*message*/"使用組合技來累積合計45,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012301_3", /*message*/"累積合計102,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012301_4", /*message*/"累積合計63,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012301_5", /*message*/"使用組合技來累積合計45,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012301_6", /*message*/"累積合計74,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20012301_7", /*message*/"累積合計115,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016101_1", /*message*/"累積合計9,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016101_2", /*message*/"累積合計12,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016101_3", /*message*/"使用組合技來累積合計7,000的張力");
@@ -19480,6 +19569,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0009_01_s1", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0010_01_s1", /*message*/"特設舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0011_01_s1", /*message*/"特設舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0012_01_s1", /*message*/"特設舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0013_01_s1", /*message*/"特設舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0014_01_s1", /*message*/"特設舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0015_01_s1", /*message*/"特設舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_stage_name_bg0017_01_s1", /*message*/"特設舞台");
@@ -30998,6 +31088,8 @@ Arrangement: Kyo Takada");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0011", /*message*/"Lyrics: Aki Hata
 Composition: Takahiro Yamada
 Arrangement: Kousuke Nakanishi");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0012", /*message*/"Lyrics: Aki Hata
+Composition / Arrangement: Takahiro Kawata");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0013", /*message*/"Lyrics: Aki Hata
 Composition / Arrangement: Akihiko Yamaguchi");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0014", /*message*/"Lyrics: Aki Hata
@@ -31138,6 +31230,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0004", /*message*/"Shunjo 
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0005", /*message*/"PSYCHIC FIRE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0008", /*message*/"Bokura no LIVE Kimi to no LIFE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0011", /*message*/"Snow Halation");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0012", /*message*/"Wonderful Rush");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0013", /*message*/"Music S.T.A.R.T!!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0014", /*message*/"Arashi no Naka no Koi dakara");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0015", /*message*/"NO EXIT ORION");
@@ -31206,6 +31299,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0004", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0005", /*message*/"さいきっくふぁいや");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0008", /*message*/"ぼくらのらいぶきみとのらいふ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0011", /*message*/"すのーはれーしょん");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0012", /*message*/"わんだふるらっしゅ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0013", /*message*/"みゅーじっくすたーと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0014", /*message*/"あらしのなかのこいだから");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0015", /*message*/"のーえぐじっとおりおん");

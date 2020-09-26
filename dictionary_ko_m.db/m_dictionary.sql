@@ -794,6 +794,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002002", /*message*/"[CYaRon！ First LOVELIVE! 課題] Braveheart Coaster 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002003", /*message*/"[AZALEA First LOVELIVE! 課題] Amazing Travel DNA 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002004", /*message*/"[Aqoursユニットライブ開催記念課題] KOKORO Magic &quot;A to Z&quot; 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002101", /*message*/"[ライブ応援！ログインボーナス] 기간 중, 9회 로그인 보너스 받기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002402", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");

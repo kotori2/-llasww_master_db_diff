@@ -722,7 +722,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000805", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] SUPER NOVA 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] 미야시타 아이이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] 아사카 카린이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] Dream Land!Dream World! 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] Dream Land! Dream World! 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000905", /*message*/"[Dream Land！Dream World！ 発売記念！] 우에하라 아유무이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000906", /*message*/"[Dream Land！Dream World！ 発売記念！] 오사카 시즈쿠이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000907", /*message*/"[Dream Land！Dream World！ 発売記念！] 유키 세츠나이/가 포함된 SP 특기 20회 사용");
@@ -1150,9 +1150,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400184", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"SUPER NOVA 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"SUPER NOVA 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"SUPER NOVA 100회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"Dream Land!Dream World! 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"Dream Land!Dream World! 50회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"Dream Land!Dream World! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"Dream Land! Dream World! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"Dream Land! Dream World! 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"Dream Land! Dream World! 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400191", /*message*/"Sing &amp; Smile!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400192", /*message*/"Sing &amp; Smile!! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400193", /*message*/"Sing &amp; Smile!! 100회 클리어");
@@ -2108,6 +2108,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"초
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"같이 쇼핑하자♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"숙녀처럼");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"파워 디저트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"발상과 센스");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"아름다운 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"하나하나 쌓아 올린 것");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"좋아한다는 건 행복해");
@@ -2153,6 +2154,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"세
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_1", /*message*/"들뜨는 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_2", /*message*/"편안한 의상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082001_1", /*message*/"이미지보다 먼저");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_1", /*message*/"샤이니한 스테이지를 만들자♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"댄스 댄스!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"데이트 신청?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"부끄러워 죽겠어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"비밀 친구");

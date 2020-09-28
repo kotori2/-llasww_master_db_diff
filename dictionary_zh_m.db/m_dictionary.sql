@@ -722,7 +722,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000805", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] 完成5次「SUPER NOVA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] 使用20次發動成員包含宮下愛的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] 使用20次發動成員包含朝香果林的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] 完成5次「Dream Land!Dream World!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] 完成5次「Dream Land! Dream World!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000905", /*message*/"[Dream Land！Dream World！ 発売記念！] 使用20次發動成員包含上原步夢的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000906", /*message*/"[Dream Land！Dream World！ 発売記念！] 使用20次發動成員包含櫻坂雫的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000907", /*message*/"[Dream Land！Dream World！ 発売記念！] 使用20次發動成員包含優木雪菜的組合技");
@@ -1150,9 +1150,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400184", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"完成10次「SUPER NOVA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"完成50次「SUPER NOVA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"完成100次「SUPER NOVA」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"完成10次「Dream Land!Dream World!」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"完成50次「Dream Land!Dream World!」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"完成100次「Dream Land!Dream World!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"完成10次「Dream Land! Dream World!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"完成50次「Dream Land! Dream World!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"完成100次「Dream Land! Dream World!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400191", /*message*/"完成10次「Sing &amp; Smile!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400192", /*message*/"完成50次「Sing &amp; Smile!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400193", /*message*/"完成100次「Sing &amp; Smile!!」");
@@ -2108,6 +2108,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"翠
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"一起買東西♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"像淑女一樣");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"帶來活力的甜點");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"靈感與品味");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"美麗的心");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"一點一滴累積");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"能一直喜歡的幸福");
@@ -2153,6 +2154,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"拓
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_1", /*message*/"雀躍的心情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_2", /*message*/"寬鬆的服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082001_1", /*message*/"想像的下一步");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_1", /*message*/"一起創造Shiny的舞台吧♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"Dance Dance！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"約會的邀約？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"羞死人了");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"秘密朋友");

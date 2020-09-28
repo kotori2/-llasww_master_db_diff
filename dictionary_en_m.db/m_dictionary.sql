@@ -722,7 +722,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000805", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] Clear &quot;SUPER NOVA&quot;: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] Use an SP Skill including Ai Miyashita 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] Use an SP Skill including Karin Asaka 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] Clear &quot;Dream Land!Dream World!&quot;: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] Clear &quot;Dream Land! Dream World!&quot;: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000905", /*message*/"[Dream Land！Dream World！ 発売記念！] Use an SP Skill including Ayumu Uehara 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000906", /*message*/"[Dream Land！Dream World！ 発売記念！] Use an SP Skill including Shizuku Osaka 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000907", /*message*/"[Dream Land！Dream World！ 発売記念！] Use an SP Skill including Setsuna Yuki 20 times.");
@@ -1150,9 +1150,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400184", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"Clear &quot;SUPER NOVA&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"Clear &quot;SUPER NOVA&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"Clear &quot;SUPER NOVA&quot;: x100");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"Clear &quot;Dream Land!Dream World!&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"Clear &quot;Dream Land!Dream World!&quot;: x50");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"Clear &quot;Dream Land!Dream World!&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"Clear &quot;Dream Land! Dream World!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"Clear &quot;Dream Land! Dream World!&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"Clear &quot;Dream Land! Dream World!&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400191", /*message*/"Clear &quot;Sing &amp; Smile!!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400192", /*message*/"Clear &quot;Sing &amp; Smile!!&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400193", /*message*/"Clear &quot;Sing &amp; Smile!!&quot;: x100");
@@ -2108,6 +2108,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"Nat
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"Shopping Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"Like a Lady");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"Power Sweets");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"Inspiration and Good Taste");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"A Beautiful Heart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"Built Piece by Piece");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"The Joy of Enjoying");
@@ -2153,6 +2154,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"A N
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_1", /*message*/"Exhilarated Spirit");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_2", /*message*/"Relaxing Costume");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082001_1", /*message*/"Finding a Vision");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_1", /*message*/"Let&apos;s Make a Shiny Stage!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"Dance Till You Drop!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"A Date?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"Too Embarrassed to Live");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"Secret Friend");

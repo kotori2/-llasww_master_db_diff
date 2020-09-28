@@ -305,4 +305,5 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0208_empty", /*message*/"<s
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0209_empty", /*message*/"<span size=\"32\"><img src=\"Common/InlineImage/Member/tex_sd_ch9999_dr0003_01\" width=\"88px\" height=\"88px\" offsetY=\"-25px\" />璃奈</span><br/><span size=\"28\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch1001_empty", /*message*/"<span size=\"32\">〜잠시 후〜");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch1002_empty", /*message*/"<span size=\"32\">（SE）</span><br/><span size=\"28\">");
-INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch1003_empty", /*message*/"<span size=\"32\">全員</span><br/><span size=\"28\">");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch1003_empty", /*message*/"<span size=\"32\">전원</span>
+<span size=\"28\">");

@@ -2385,6 +2385,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300042001_4",
 Affects: Same Strategy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300042001_5", /*message*/"Increase Critical Power by 7% for 10 Notes.
 Affects: Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300042002_1", /*message*/"Gain 15% of own stamina as a shield.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300042002_2", /*message*/"Gain 18% of own stamina as a shield.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300042002_3", /*message*/"Gain 21% of own stamina as a shield.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300042002_4", /*message*/"Gain 24% of own stamina as a shield.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300042002_5", /*message*/"Gain 27% of own stamina as a shield.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300043001_1", /*message*/"Increase Voltage gain by 5% for 5 Notes.
 Affects: All");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300043001_2", /*message*/"Increase Voltage gain by 5.3% for 5 Notes.
@@ -2615,6 +2620,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301082001_4",
 Affects: All");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301082001_5", /*message*/"SP Gauge gain increases by 4.2% for 5 Notes
 Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301083001_1", /*message*/"The Voltage gained from the next SP Skill increases by 30% of own Technique");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301083001_2", /*message*/"The Voltage gained from the next SP Skill increases by 30.5% of own Technique");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301083001_3", /*message*/"The Voltage gained from the next SP Skill increases by 31% of own Technique");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301083001_4", /*message*/"The Voltage gained from the next SP Skill increases by 31.5% of own Technique");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301083001_5", /*message*/"The Voltage gained from the next SP Skill increases by 32% of own Technique");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301093001_1", /*message*/"SP Gauge gain increases by 5% for 10 Notes
 Affects: All");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301093001_2", /*message*/"SP Gauge gain increases by 5.3% for 10 Notes
@@ -3303,6 +3313,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300022002", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300023001", /*message*/"Sylvan Power");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300033001", /*message*/"What You Like");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300042001", /*message*/"I Won&apos;t Lose!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300042002", /*message*/"A Song Full of Emotion");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300043001", /*message*/"Love Arrow Shot");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300052001", /*message*/"Such Fun!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300052002", /*message*/"Let&apos;s Get This Party Started");
@@ -3334,6 +3345,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301063002", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301072001", /*message*/"I&apos;m So Excited, Zura!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301073001", /*message*/"Enveloped in Steam");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301082001", /*message*/"Let&apos;s Sing a Song!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301083001", /*message*/"Make the World Mari-Colored");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301093001", /*message*/"Charming Lollipop");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_302012001", /*message*/"A Step Forward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_302012002", /*message*/"I Love the Layers of Sound!");
@@ -3783,6 +3795,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300033001", /*message*/"Can 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300033001_voice", /*message*/"【UR】[Can You Help Over Here?]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300042001", /*message*/"I Can&apos;t Believe You Two");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300042001_voice", /*message*/"【SR】[I Can&apos;t Believe You Two]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300042002", /*message*/"I&apos;ll Show You When It&apos;s Complete");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300042002_voice", /*message*/"【SR】[I&apos;ll Show You When It&apos;s Complete]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300043001", /*message*/"Shot from the Heart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300043001_voice", /*message*/"【UR】[Shot from the Heart]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300052001", /*message*/"This Bed&apos;s So Comfy!");
@@ -3845,6 +3859,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301073001", /*message*/"My B
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301073001_voice", /*message*/"【UR】[My Body Moves with It, Zura!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301082001", /*message*/"Listen to This");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301082001_voice", /*message*/"【SR】[Listen to This]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301083001", /*message*/"Our Colors");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301083001_voice", /*message*/"【UR】[Our Colors]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301093001", /*message*/"Keep Coming Back for More");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301093001_voice", /*message*/"【UR】[Keep Coming Back for More]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_302012001", /*message*/"I&apos;ll Come See You Tomorrow, Too");
@@ -4275,6 +4291,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300033001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300033001_voice", /*message*/"【UR】[Welcome to the Party]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300042001", /*message*/"Bokura no LIVE Kimi to no LIFE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300042001_voice", /*message*/"【SR】[Bokura no LIVE Kimi to no LIFE]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300042002", /*message*/"It&apos;s our miraculous time");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300042002_voice", /*message*/"【SR】[It&apos;s our miraculous time]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300043001", /*message*/"Blue Amor");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300043001_voice", /*message*/"【UR】[Blue Amor]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300052001", /*message*/"Snow Halation");
@@ -4337,6 +4355,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301073001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301073001_voice", /*message*/"【UR】[Maiden of Steam]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301082001", /*message*/"Aozora Jumping Heart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301082001_voice", /*message*/"【SR】[Aozora Jumping Heart]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301083001", /*message*/"Colorful Splash");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301083001_voice", /*message*/"【UR】[Colorful Splash]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301083101", /*message*/"Colorful Splash[P]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301093001", /*message*/"Sweets Deco");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301093001_voice", /*message*/"【UR】[Sweets Deco]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_302012001", /*message*/"Rainbow Rose");
@@ -4623,6 +4644,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300022002", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300023001", /*message*/"いいまそこのしげみがゆれて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300033001", /*message*/"こっちてつだってくれる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300042001", /*message*/"まったくあなたたちは");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300042002", /*message*/"かんせいしたらみせますね");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300043001", /*message*/"いちしゃじっこん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300052001", /*message*/"おふとんきもちいいにゃ～おんぷおんぷ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300052002", /*message*/"むにゃむにゃうへへ");
@@ -4654,6 +4676,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301063002", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301072001", /*message*/"まるのだいすきなほん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301073001", /*message*/"からだもうごいちゃうずら～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301082001", /*message*/"はいきいてみて");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301083001", /*message*/"わたしたちのいろ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301093001", /*message*/"ほっぺたおちちゃいそう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_302012001", /*message*/"あしたもまたあいにくるね");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_302012002", /*message*/"ふふあのこらしいなあ");
@@ -4858,6 +4881,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300022002", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300023001", /*message*/"ふぉれすとふぇありー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300033001", /*message*/"うぇるかむとぅーざぱーてぃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300042001", /*message*/"ぼくらのらいぶきみとのらいふ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300042002", /*message*/"それはぼくたちのきせき");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300043001", /*message*/"ぶるーあもーる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300052001", /*message*/"すのーはれーしょん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300052002", /*message*/"ぼくらのらいぶきみとのらいふ");
@@ -4889,6 +4913,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301063002", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301072001", /*message*/"きみのこころはかがやいてるかい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301073001", /*message*/"ゆけむりてんにょ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301082001", /*message*/"あおぞらじゃんぴんぐはーと");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301083001", /*message*/"からふるすぷらっしゅ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301093001", /*message*/"すうぃーつでこ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_302012001", /*message*/"れいんぼーろーず");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_302012002", /*message*/"まーちんぐはーもにー");
@@ -7090,6 +7115,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3010530016", /*message*/"T
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3010630016", /*message*/"I look 30% more fallen angel-esque in this outfit? How rude! I&apos;m always a top-class fallen angel, no matter what I&apos;m wearing.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3010630026", /*message*/"I only wanted to sprinkle a little bit of secret fallen-angel spice in... It wasn&apos;t my intention for this to happen, you know?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3010730016", /*message*/"Eeek! Driving is so hard, zuraaa!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3010830016", /*message*/"I&apos;ll fill your heart with thoughts of Mari!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3010930016", /*message*/"I feel like sweet things can melt away even my heart.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3020230016", /*message*/"My feelings can&apos;t be beat!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3020330016", /*message*/"*Chuckle* Are you really that happy? You&apos;re just like me.");
@@ -16262,7 +16288,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101011", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101021", /*message*/"Clear &quot;Koe Tsunagou yo&quot; 100 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101031", /*message*/"Clear &quot;Tele Telepathy&quot; 100 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101181", /*message*/"Clear &quot;SUPER NOVA&quot; 100 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101191", /*message*/"Clear &quot;Dream Land!Dream World!&quot; 100 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101191", /*message*/"Clear &quot;Dream Land! Dream World!&quot; 100 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10101201", /*message*/"Clear &quot;Sing &amp; Smile!!&quot; 100 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10200161", /*message*/"Clear 100 Live Shows with a Show Formation comprised only of μ&apos;s.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10200162", /*message*/"Clear 1,000 Live Shows with a Show Formation comprised only of μ&apos;s.");
@@ -17211,7 +17237,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101011", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101021", /*message*/"Koe Tsunagou yo");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101031", /*message*/"Tele Telepathy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101181", /*message*/"SUPER NOVA");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101191", /*message*/"Dream Land!Dream World!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101191", /*message*/"Dream Land! Dream World!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10101201", /*message*/"Sing &amp; Smile!!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10200161", /*message*/"μ&apos;s Fan ★");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10200162", /*message*/"μ&apos;s Fan ★★");
@@ -18449,6 +18475,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004082", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004083", /*message*/"Costume Bokura no LIVE Kimi to no LIFE ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004092", /*message*/"Costume A Lady in the Moonlight １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004093", /*message*/"Costume A Lady in the Moonlight ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004102", /*message*/"Costume It&apos;s our miraculous time １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1004103", /*message*/"Costume It&apos;s our miraculous time ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1005032", /*message*/"Costume Fresh Fruits Parlor 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1005033", /*message*/"Costume Fresh Fruits Parlor 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1005042", /*message*/"Costume Moonlight Dancer 1");
@@ -18642,6 +18670,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1108082", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1108083", /*message*/"Costume Aozora Jumping Heart ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1108092", /*message*/"Costume Brightest Melody １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1108093", /*message*/"Costume Brightest Melody ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1108102", /*message*/"Costume Colorful Splash １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1108103", /*message*/"Costume Colorful Splash ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1109032", /*message*/"Costume Happiness Cheerleader 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1109033", /*message*/"Costume Happiness Cheerleader 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1109042", /*message*/"Costume Fantastic Clown 1");
@@ -19315,7 +19345,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_present_route_setting_description_sh
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_present_route_setting_description_special_login_bonus_default", /*message*/"Login Bonus");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_present_route_setting_description_story_main_2", /*message*/"Story Chapter {0} Episode {1} completion reward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_present_route_setting_description_story_main_default", /*message*/"Obtained through Story");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_present_route_setting_description_story_member_2", /*message*/"Reward from {0} Bond Episode {1}");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_present_route_setting_description_story_member_2", /*message*/"{0} Bond Episode {1} clear reward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_present_route_setting_description_story_member_default", /*message*/"Gained from Bond Episode");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_present_route_setting_description_tower_clear_reward_3", /*message*/"First clear reward for {0} {1} {2}.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_present_route_setting_description_tower_clear_reward_default", /*message*/"First-time clearance item from the Dream Live Parade");
@@ -23916,66 +23946,136 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055504", /
 Affects: Same Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055505", /*message*/"Increase base Appeal by 3.2%.
 Affects: Same Attribute");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055601", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055701", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055702", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055703", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055704", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055705", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055801", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055901", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055902", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055903", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055904", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055905", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056001", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056101", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056102", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056103", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056104", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056105", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056201", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056301", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056302", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056303", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056304", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056305", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056401", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056501", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056502", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056503", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056504", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056505", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056601", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056701", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056702", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056703", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056704", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056705", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056801", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056901", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056902", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056903", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056904", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056905", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057001", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057101", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057102", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057103", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057104", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057105", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057201", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057301", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057302", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057303", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057304", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057305", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057401", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057501", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057502", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057503", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057504", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057505", /*message*/"仮データ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055601", /*message*/"Reduce Stamina damage by 44% for 1 Notes.
+条件:作戦変更時に2回だけ発動 確率:100%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055701", /*message*/"Increase base Stamina by 4%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055702", /*message*/"Increase base Stamina by 4.3%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055703", /*message*/"Increase base Stamina by 4.6%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055704", /*message*/"Increase base Stamina by 4.9%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055705", /*message*/"Increase base Stamina by 5.2%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055801", /*message*/"Increase Voltage gain by 1% until the Live Show ends.
+Condition: On song start, 100% chance
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055901", /*message*/"Increase base Appeal by 5%.
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055902", /*message*/"Increase base Appeal by 5.5%.
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055903", /*message*/"Increase base Appeal by 6%.
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055904", /*message*/"Increase base Appeal by 6.5%.
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20055905", /*message*/"Increase base Appeal by 7%.
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056001", /*message*/"Gain 100% of own Appeal as Voltage.
+Condition: Activates once on Strategy Switch
+Chance: 100%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056101", /*message*/"Increase base Appeal by 4%.
+Affects: Same School Year");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056102", /*message*/"Increase base Appeal by 4.3%.
+Affects: Same School Year");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056103", /*message*/"Increase base Appeal by 4.6%.
+Affects: Same School Year");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056104", /*message*/"Increase base Appeal by 4.9%.
+Affects: Same School Year");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056105", /*message*/"Increase base Appeal by 5.2%.
+Affects: Same School Year");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056201", /*message*/"Increase base Appeal by 1.6% until the Live Show ends.
+Condition: Once on Appeal Chance success, 100% chance
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056301", /*message*/"Increase base Technique by 4%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056302", /*message*/"Increase base Technique by 4.3%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056303", /*message*/"Increase base Technique by 4.6%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056304", /*message*/"Increase base Technique by 4.9%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056305", /*message*/"Increase base Technique by 5.2%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056401", /*message*/"Gain 10% of own Technique as Voltage.
+条件:自身のクリティカル時10回だけ発動 確率:100%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056501", /*message*/"Increase base Technique by 3%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056502", /*message*/"Increase base Technique by 3.5%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056503", /*message*/"Increase base Technique by 4%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056504", /*message*/"Increase base Technique by 4.5%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056505", /*message*/"Increase base Technique by 5%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056601", /*message*/"Voltage gained from next SP Skill increases by 2.6% of own Appeal.
+Condition: On Appeal Chance start, 100% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056701", /*message*/"Increase base Appeal by 5%.
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056702", /*message*/"Increase base Appeal by 5.5%.
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056703", /*message*/"Increase base Appeal by 6%.
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056704", /*message*/"Increase base Appeal by 6.5%.
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056705", /*message*/"Increase base Appeal by 7%.
+Affects: Self");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056801", /*message*/"Increase base Appeal by 2.5% until the Live Show ends.
+Condition: On song start, 100% chance
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056901", /*message*/"Increase base Appeal by 5%.
+Increase base Technique by 1.5%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056902", /*message*/"Increase base Appeal by 5.5%.
+Increase base Technique by 2%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056903", /*message*/"Increase base Appeal by 6%.
+Increase base Technique by 2.5%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056904", /*message*/"Increase base Appeal by 6.5%.
+Increase base Technique by 3%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20056905", /*message*/"Increase base Appeal by 7%.
+Increase base Technique by 3.5%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057001", /*message*/"Voltage gained from next SP Skill increases by 6.6% of own Appeal.
+条件:SP特技発動時10回だけ発動 確率:100%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057101", /*message*/"Increase base Appeal by 4%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057102", /*message*/"Increase base Appeal by 4.3%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057103", /*message*/"Increase base Appeal by 4.6%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057104", /*message*/"Increase base Appeal by 4.9%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057105", /*message*/"Increase base Appeal by 5.2%.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057201", /*message*/"Restore 6.6% of own stamina.
+Condition: On Appeal Chance success, 100% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057301", /*message*/"Increase base Stamina by 3%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057302", /*message*/"Increase base Stamina by 3.5%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057303", /*message*/"Increase base Stamina by 4%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057304", /*message*/"Increase base Stamina by 4.5%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057305", /*message*/"Increase base Stamina by 5%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057401", /*message*/"Increase Appeal by 4% for 5 Notes.
+Condition: On Appeal Chance start, 100% chance
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057501", /*message*/"Increase base Appeal by 3%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057502", /*message*/"Increase base Appeal by 3.5%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057503", /*message*/"Increase base Appeal by 4%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057504", /*message*/"Increase base Appeal by 4.5%.
+Affects: Same Strategy Member");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057505", /*message*/"Increase base Appeal by 5%.
+Affects: Same Strategy Member");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057601", /*message*/"仮データ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057701", /*message*/"仮データ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20057702", /*message*/"仮データ");
@@ -26620,11 +26720,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051503", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051504", /*message*/"Stamina+ :Same Strategy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051505", /*message*/"Stamina+ :Same Strategy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051601", /*message*/"Voltage Gained :On SP Skill Use");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051701", /*message*/"アピール&amp;スタミナ＋ :Same Attribute");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051702", /*message*/"アピール&amp;スタミナ＋ :Same Attribute");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051703", /*message*/"アピール&amp;スタミナ＋ :Same Attribute");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051704", /*message*/"アピール&amp;スタミナ＋ :Same Attribute");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051705", /*message*/"アピール&amp;スタミナ＋ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051701", /*message*/"Appeal and Stamina + :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051702", /*message*/"Appeal and Stamina + :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051703", /*message*/"Appeal and Stamina + :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051704", /*message*/"Appeal and Stamina + :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051705", /*message*/"Appeal and Stamina + :Same Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051801", /*message*/"Appeal Up :On Song Start/All");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051901", /*message*/"Appeal+ :Same Strategy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20051902", /*message*/"Appeal+ :Same Strategy");
@@ -26739,66 +26839,66 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055502", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055503", /*message*/"Appeal+ :Same Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055504", /*message*/"Appeal+ :Same Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055505", /*message*/"Appeal+ :Same Attribute");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055601", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055701", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055702", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055703", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055704", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055705", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055801", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055901", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055902", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055903", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055904", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055905", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056001", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056101", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056102", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056103", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056104", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056105", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056201", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056301", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056302", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056303", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056304", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056305", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056401", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056501", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056502", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056503", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056504", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056505", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056601", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056701", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056702", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056703", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056704", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056705", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056801", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056901", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056902", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056903", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056904", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056905", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057001", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057101", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057102", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057103", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057104", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057105", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057201", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057301", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057302", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057303", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057304", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057305", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057401", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057501", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057502", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057503", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057504", /*message*/"仮データ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057505", /*message*/"仮データ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055601", /*message*/"Lower Damage :On Strategy Switch");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055701", /*message*/"Stamina+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055702", /*message*/"Stamina+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055703", /*message*/"Stamina+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055704", /*message*/"Stamina+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055705", /*message*/"Stamina+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055801", /*message*/"Voltage Up :On Song Start/Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055901", /*message*/"Appeal+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055902", /*message*/"Appeal+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055903", /*message*/"Appeal+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055904", /*message*/"Appeal+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20055905", /*message*/"Appeal+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056001", /*message*/"Voltage Gained :On Strategy Switch");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056101", /*message*/"Appeal+ :Same Year");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056102", /*message*/"Appeal+ :Same Year");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056103", /*message*/"Appeal+ :Same Year");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056104", /*message*/"Appeal+ :Same Year");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056105", /*message*/"Appeal+ :Same Year");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056201", /*message*/"Appeal+ :On AC Success/Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056301", /*message*/"Technique+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056302", /*message*/"Technique+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056303", /*message*/"Technique+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056304", /*message*/"Technique+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056305", /*message*/"Technique+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056401", /*message*/"Voltage Gained :On Critical");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056501", /*message*/"Technique+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056502", /*message*/"Technique+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056503", /*message*/"Technique+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056504", /*message*/"Technique+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056505", /*message*/"Technique+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056601", /*message*/"SP Skill Up :AC Start");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056701", /*message*/"Appeal+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056702", /*message*/"Appeal+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056703", /*message*/"Appeal+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056704", /*message*/"Appeal+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056705", /*message*/"Appeal+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056801", /*message*/"Appeal+ :On Song Start/Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056901", /*message*/"アピール&amp;テクニック＋ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056902", /*message*/"アピール&amp;テクニック＋ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056903", /*message*/"アピール&amp;テクニック＋ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056904", /*message*/"アピール&amp;テクニック＋ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20056905", /*message*/"アピール&amp;テクニック＋ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057001", /*message*/"SP Skill Up :On SP Skill Use");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057101", /*message*/"Appeal+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057102", /*message*/"Appeal+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057103", /*message*/"Appeal+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057104", /*message*/"Appeal+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057105", /*message*/"Appeal+ :Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057201", /*message*/"Stamina Restored :AC Success");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057301", /*message*/"Stamina+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057302", /*message*/"Stamina+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057303", /*message*/"Stamina+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057304", /*message*/"Stamina+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057305", /*message*/"Stamina+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057401", /*message*/"Appeal Up :During AC/Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057501", /*message*/"Appeal+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057502", /*message*/"Appeal+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057503", /*message*/"Appeal+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057504", /*message*/"Appeal+ :Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057505", /*message*/"Appeal+ :Same Strategy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057601", /*message*/"仮データ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057701", /*message*/"仮データ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20057702", /*message*/"仮データ");
@@ -29773,7 +29873,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2017", /*message*/"MELODY"
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2018", /*message*/"Koe Tsunagou yo");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2019", /*message*/"Tele Telepathy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2031", /*message*/"SUPER NOVA");
-INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2032", /*message*/"Dream Land!Dream World!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2032", /*message*/"Dream Land! Dream World!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2033", /*message*/"Sing &amp; Smile!!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0001", /*message*/"それはぼくたちのきせき");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0002", /*message*/"すたーとだっしゅ");
@@ -30772,6 +30872,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000420012", /*message*/"Ack! Y-
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000420013", /*message*/"Let&apos;s try dancing while wearing our costumes. We&apos;ll have them on throughout the entire live show, so if anything is uncomfortable we must not overlook it.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000420014", /*message*/"Strangely enough, I find it easier to write lyrics after talking to you. I wonder why.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000420015", /*message*/"We don&apos;t have practice today. Why do you look so surprised about that? Resting in moderation is an important part of training as well.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000420022", /*message*/"I&apos;m going to practice my choreography today. I hope you&apos;ll be watching!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000420023", /*message*/"I&apos;m not going to wait for a miracle to happen. I&apos;m going to make it happen right before everyone&apos;s eyes!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000420024", /*message*/"It&apos;s so difficult to think of lyrics. Maybe I just have too much I want to convey.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000420025", /*message*/"No need to overwork yourself. Come join me for a break.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000430012", /*message*/"I&apos;ll get you right through the heart with my Love Arrow Shot!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000430013", /*message*/"Would such a cute costume really work on me?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000430014", /*message*/"I feel really focused when I wear a show costume. Battle mode? *Giggle* You know, you could probably call it that.");
@@ -30896,6 +31000,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010820012", /*message*/"I want 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010820013", /*message*/"Maybe I&apos;ll sneakily swap my costume with Dia&apos;s. *Giggle* I can&apos;t wait to see Dia&apos;s surprised face.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010820014", /*message*/"The feeling of satisfaction I get when singing is one that can&apos;t come from anything else.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010820015", /*message*/"Let me invite you to my room. I&apos;ll have lots of tasty sweets for us to eat.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010830012", /*message*/"Oh, I can&apos;t sit still! Hey, you come over here too!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010830013", /*message*/"I just love this costume!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010830014", /*message*/"A message from yours truly! Make sure your eyes are always, ALWAYS on me!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010830015", /*message*/"You want to know the secret behind all my energy? Hmm, I don&apos;t know if I should tell you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010930012", /*message*/"Can I scooch a little closer to you?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010930013", /*message*/"Wanna go get cake together sometime?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010930014", /*message*/"Time really flies when I&apos;m with you.");

@@ -722,7 +722,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000805", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] เคลียร์ &quot;SUPER NOVA&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] ใช้ท่าพิเศษ SP ที่มีมิยาชิตะ ไอ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] ใช้ท่าพิเศษ SP ที่มีอาซากะ คาริน 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] เคลียร์ &quot;Dream Land!Dream World!&quot; 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000904", /*message*/"[Dream Land！Dream World！ 発売記念！] เคลียร์ &quot;Dream Land! Dream World!&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000905", /*message*/"[Dream Land！Dream World！ 発売記念！] ใช้ท่าพิเศษ SP ที่มีอุเอฮาระ อายูมุ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000906", /*message*/"[Dream Land！Dream World！ 発売記念！] ใช้ท่าพิเศษ SP ที่มีโอซากะ ชิสึคุ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000907", /*message*/"[Dream Land！Dream World！ 発売記念！] ใช้ท่าพิเศษ SP ที่มียูกิ เซ็ตสึนะ 20 ครั้ง");
@@ -1154,9 +1154,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400184", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"เคลียร์ &quot;SUPER NOVA&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"เคลียร์ &quot;SUPER NOVA&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"เคลียร์ &quot;SUPER NOVA&quot; 100 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"เคลียร์ &quot;Dream Land!Dream World!&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"เคลียร์ &quot;Dream Land!Dream World!&quot; 50 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"เคลียร์ &quot;Dream Land!Dream World!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"เคลียร์ &quot;Dream Land! Dream World!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"เคลียร์ &quot;Dream Land! Dream World!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"เคลียร์ &quot;Dream Land! Dream World!&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400191", /*message*/"เคลียร์ &quot;Sing &amp; Smile!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400192", /*message*/"เคลียร์ &quot;Sing &amp; Smile!!&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400193", /*message*/"เคลียร์ &quot;Sing &amp; Smile!!&quot; 100 ครั้ง");
@@ -2112,6 +2112,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"ค
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"ไปซื้อของด้วยกันนะ♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"ดั่งกุลสตรี");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"Power Sweet");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"ความคิดที่ผุดขึ้นมากับเซนส์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"หัวใจอันงดงาม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"ทีละเล็กทีละน้อย
 ค่อยๆ สะสมไป");
@@ -2158,6 +2159,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"ห
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_1", /*message*/"จิตใจที่อยู่ไม่สุข");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_2", /*message*/"ชุดที่ผ่อนคลาย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082001_1", /*message*/"ปลายทางของภาพในความคิด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_1", /*message*/"มาทำให้เป็นสเตจที่ไชนี่กันเถอะ♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"Dance Dance!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"ชวนเดตเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"อายจนจะตายอยู่แล้ว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"เพื่อนลับๆ");

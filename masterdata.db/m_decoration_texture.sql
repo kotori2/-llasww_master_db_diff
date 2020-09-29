@@ -475,3 +475,5 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Camp
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/100036/tex_banner_notice_s_100036", /*path*/"hKx");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/100037/tex_banner_notice_l_100037", /*path*/"wRH");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/100037/tex_banner_notice_s_100037", /*path*/":tR");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/100040/tex_banner_notice_l_100040", /*path*/"5PA");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/100040/tex_banner_notice_s_100040", /*path*/"t|E");

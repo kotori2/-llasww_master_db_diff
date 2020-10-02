@@ -12,6 +12,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035031_01", /*message*/"สนา
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035032_00", /*message*/"ถนนในย่านเมืองเก่า A (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035034_00", /*message*/"ลานสเก็ตน้ำแข็ง (ด้านใน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035037_00", /*message*/"ชานชาลาสถานีอิสึฮาโกเนะ (กลางวัน)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035055_00", /*message*/"ร้านอาหารจีน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"กติกาอีเวนต์ 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"กติกาอีเวนต์ 2/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200103", /*message*/"กติกาอีเวนต์ 3/5");
@@ -90,3 +91,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30010_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30011_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30011_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30011_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30011_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30011_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30011_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30011_07", /*message*/"");

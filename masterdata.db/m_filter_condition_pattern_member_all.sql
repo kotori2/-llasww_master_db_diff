@@ -1,0 +1,40 @@
+CREATE TABLE m_filter_condition_pattern_member_all(
+  pattern_id INTEGER NOT NULL,
+  condition INTEGER NOT NULL,
+  condition_data INTEGER,
+  image_asset_path TEXT,
+  text TEXT,
+  text_color INTEGER,
+  text_outline_color INTEGER,
+  display_index INTEGER NOT NULL,
+  is_default INTEGER NOT NULL,
+  PRIMARY KEY (pattern_id, condition)
+);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/1, /*condition_data*/1, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_muse1", /*text_color*/"", /*text_outline_color*/"", /*display_index*/0, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/2, /*condition_data*/2, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_muse2", /*text_color*/"", /*text_outline_color*/"", /*display_index*/1, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/3, /*condition_data*/3, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_muse3", /*text_color*/"", /*text_outline_color*/"", /*display_index*/2, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/4, /*condition_data*/4, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_muse4", /*text_color*/"", /*text_outline_color*/"", /*display_index*/3, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/5, /*condition_data*/5, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_muse5", /*text_color*/"", /*text_outline_color*/"", /*display_index*/4, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/6, /*condition_data*/6, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_muse6", /*text_color*/"", /*text_outline_color*/"", /*display_index*/5, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/7, /*condition_data*/7, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_muse7", /*text_color*/"", /*text_outline_color*/"", /*display_index*/6, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/8, /*condition_data*/8, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_muse8", /*text_color*/"", /*text_outline_color*/"", /*display_index*/7, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/9, /*condition_data*/9, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_muse9", /*text_color*/"", /*text_outline_color*/"", /*display_index*/8, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/101, /*condition_data*/101, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_aqours1", /*text_color*/"", /*text_outline_color*/"", /*display_index*/12, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/102, /*condition_data*/102, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_aqours2", /*text_color*/"", /*text_outline_color*/"", /*display_index*/13, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/103, /*condition_data*/103, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_aqours3", /*text_color*/"", /*text_outline_color*/"", /*display_index*/14, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/104, /*condition_data*/104, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_aqours4", /*text_color*/"", /*text_outline_color*/"", /*display_index*/15, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/105, /*condition_data*/105, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_aqours5", /*text_color*/"", /*text_outline_color*/"", /*display_index*/16, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/106, /*condition_data*/106, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_aqours6", /*text_color*/"", /*text_outline_color*/"", /*display_index*/17, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/107, /*condition_data*/107, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_aqours7", /*text_color*/"", /*text_outline_color*/"", /*display_index*/18, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/108, /*condition_data*/108, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_aqours8", /*text_color*/"", /*text_outline_color*/"", /*display_index*/19, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/109, /*condition_data*/109, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_aqours9", /*text_color*/"", /*text_outline_color*/"", /*display_index*/20, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/201, /*condition_data*/201, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_niji1", /*text_color*/"", /*text_outline_color*/"", /*display_index*/24, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/202, /*condition_data*/202, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_niji2", /*text_color*/"", /*text_outline_color*/"", /*display_index*/25, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/203, /*condition_data*/203, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_niji3", /*text_color*/"", /*text_outline_color*/"", /*display_index*/26, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/204, /*condition_data*/204, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_niji4", /*text_color*/"", /*text_outline_color*/"", /*display_index*/27, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/205, /*condition_data*/205, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_niji5", /*text_color*/"", /*text_outline_color*/"", /*display_index*/28, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/206, /*condition_data*/206, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_niji6", /*text_color*/"", /*text_outline_color*/"", /*display_index*/29, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/207, /*condition_data*/207, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_niji7", /*text_color*/"", /*text_outline_color*/"", /*display_index*/30, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/208, /*condition_data*/208, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_niji8", /*text_color*/"", /*text_outline_color*/"", /*display_index*/31, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/209, /*condition_data*/209, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_member_niji9", /*text_color*/"", /*text_outline_color*/"", /*display_index*/32, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_member_all` VALUES (/*pattern_id*/1, /*condition*/255, /*condition_data*/"", /*image_asset_path*/"", /*text*/"k.m_filter_m_dic_member_name_all", /*text_color*/"", /*text_outline_color*/"", /*display_index*/35, /*is_default*/1);

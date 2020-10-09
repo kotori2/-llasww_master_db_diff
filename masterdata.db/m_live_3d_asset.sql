@@ -94,6 +94,9 @@ INSERT INTO `m_live_3d_asset` VALUES (/*id*/1101403, /*timeline*/"_e", /*live_st
 INSERT INTO `m_live_3d_asset` VALUES (/*id*/1101501, /*timeline*/"+$R", /*live_stage_master_id*/1000702, /*stage_effect_asset_path*/"L|d", /*quality_setitng_set_id*/1, /*shader_variant_asset_path*/"");
 INSERT INTO `m_live_3d_asset` VALUES (/*id*/1101502, /*timeline*/"rI5", /*live_stage_master_id*/1000801, /*stage_effect_asset_path*/"@M3", /*quality_setitng_set_id*/2, /*shader_variant_asset_path*/"");
 INSERT INTO `m_live_3d_asset` VALUES (/*id*/1101503, /*timeline*/"c1q", /*live_stage_master_id*/1001201, /*stage_effect_asset_path*/".@(", /*quality_setitng_set_id*/3, /*shader_variant_asset_path*/"");
+INSERT INTO `m_live_3d_asset` VALUES (/*id*/1104401, /*timeline*/"IvB", /*live_stage_master_id*/1000702, /*stage_effect_asset_path*/"3w(", /*quality_setitng_set_id*/1, /*shader_variant_asset_path*/"");
+INSERT INTO `m_live_3d_asset` VALUES (/*id*/1104402, /*timeline*/"V`:", /*live_stage_master_id*/1000801, /*stage_effect_asset_path*/"DTj", /*quality_setitng_set_id*/2, /*shader_variant_asset_path*/"");
+INSERT INTO `m_live_3d_asset` VALUES (/*id*/1104403, /*timeline*/"4q^", /*live_stage_master_id*/1001401, /*stage_effect_asset_path*/"3X:", /*quality_setitng_set_id*/3, /*shader_variant_asset_path*/"");
 INSERT INTO `m_live_3d_asset` VALUES (/*id*/1107801, /*timeline*/"fYs", /*live_stage_master_id*/1000702, /*stage_effect_asset_path*/"uId", /*quality_setitng_set_id*/1, /*shader_variant_asset_path*/"");
 INSERT INTO `m_live_3d_asset` VALUES (/*id*/1107802, /*timeline*/"=>X", /*live_stage_master_id*/1000801, /*stage_effect_asset_path*/"o7Z", /*quality_setitng_set_id*/2, /*shader_variant_asset_path*/"");
 INSERT INTO `m_live_3d_asset` VALUES (/*id*/1107803, /*timeline*/"\KU", /*live_stage_master_id*/1002401, /*stage_effect_asset_path*/",.'", /*quality_setitng_set_id*/3, /*shader_variant_asset_path*/"");

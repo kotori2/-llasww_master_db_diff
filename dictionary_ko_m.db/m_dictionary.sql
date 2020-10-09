@@ -993,6 +993,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800008", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800009", /*message*/"스토리 12장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800010", /*message*/"스토리 13장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800011", /*message*/"스토리 14장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800012", /*message*/"스토리 15장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"인연 에피소드 1화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"인연 에피소드 5화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"인연 에피소드 10화 보기");
@@ -1225,6 +1226,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400208", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400209", /*message*/"Koini Naritai AQUARIUM 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400210", /*message*/"Koini Naritai AQUARIUM 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400211", /*message*/"Koini Naritai AQUARIUM 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400212", /*message*/"Wonderful Rush 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400213", /*message*/"Wonderful Rush 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400214", /*message*/"Wonderful Rush 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400215", /*message*/"GALAXY HidE and SeeK 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400216", /*message*/"GALAXY HidE and SeeK 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400217", /*message*/"GALAXY HidE and SeeK 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -2355,6 +2362,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_12", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_13", /*message*/"부활동 소개로
 니지가사키의 인지도를 높이자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_14", /*message*/"맞추어지는 퍼즐 조각!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_15", /*message*/"우리 모두의 꿈을 위해 · 전편");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_2", /*message*/"기회를 잡아라!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_3", /*message*/"only our shine · 전편");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine · 후편");
@@ -2369,6 +2377,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_11", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_12", /*message*/"제12장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_13", /*message*/"제13장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_14", /*message*/"제14장");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_15", /*message*/"제15장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_2", /*message*/"제2장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_3", /*message*/"제3장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"제4장");
@@ -2429,6 +2438,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_7", /*message*/"　동호회 멤버들이 니지가사키 학원에서 스쿨 아이돌 페스티벌을 개최하는 것에 대해 학생들의 지지를 순조롭게 끌어내던 중, 니지가사키 학원에 강력한 도우미가 찾아왔다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_8", /*message*/"　호노카, 우미, 코토리가 니지가사키 학원에 와서 지혜를 모아 준 덕분에, 스쿨 아이돌 페스티벌에서 하고 싶은 일의 아이디어는 잔뜩 나왔다. 하지만 행사 운영에 앞서 고려해야 할 것은 아직 산더미인데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_14_9", /*message*/"　스쿨 아이돌 페스티벌에 자기 학교의 부가 참여할 의향이 있는지 각자 물어보기로 했다. 그리고 동호회 멤버들은 시오리코가 지적했던 문제에 대한 해결책을 가지고 재차 담판을 지으러 간다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_1", /*message*/"　당신은 스쿨 아이돌 페스티벌을 니지가사키 학원에서 개최하기 위한 조건으로, 마감일까지 자원봉사자 1,000명을 모집하기로 시오리코와 약속한 다음 자원봉사자를 모집하기 위한 홈페이지를 만들기로 한다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_10", /*message*/"　메인 스테이지 첫 공연을 니지가사키 멤버들에게 맡기고 싶다는 호노카와 치카의 이야기를 듣고, 당신은 스쿨 아이돌 페스티벌을 개최하기 위해 더욱더 강한 책임감을 느낀다. 그러던 어느 날, 시오리코가 당신을 부르는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_2", /*message*/"　자원봉사 참가 신청이 하나둘씩 들어오자, 동호회 멤버들은 기뻐하며 이대로 목표 인원수까지 자원봉사자를 모으자고 열을 올린다. 자원봉사 희망자는 니지가사키뿐만 아니라 오토노키자카와 우라노호시 여고에서도 나오고 있었다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_3", /*message*/"　μ&apos;s, Aqours, 니지가사키 멤버들은 스쿨 아이돌 페스티벌을 개최하기 위해 자원봉사자 모집에 더욱더 힘을 쏟는다. 그러던 중, 당신은 자원봉사 신청자 수가 궁금해 부실에서 점심을 먹기로 한다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_4", /*message*/"　홈페이지에 들어온 자원봉사자 신청 건수가 시오리코와 약속한 1,000명에 도달했다! 그 사실을 시오리코에게 알리자, 그녀는 맥이 빠질 정도로 무덤덤한 반응을 보이는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_5", /*message*/"　아유무는 당신에게 뭔가 선물하고 싶어서 시오리코와 함께 선물을 고르기로 했다. 즐거운 시간을 보내며 선물을 정하고, 스쿨 아이돌 페스티벌을 위해 더욱 노력하겠다고 즐겁게 말하는 아유무를 보며 시오리코는 조금 걱정하는 기색을 보인다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_6", /*message*/"　자원봉사자 설명회를 준비하러 모인 μ&apos;s, Aqours, 니지가사키 멤버들은 1,000부나 되는 자료를 만들면서도 설명회 당일을 향한 기대감에 피로도 잊고 즐거워했다. 드디어 찾아온 설명회 당일, 당신은 의욕을 불태우지만….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_7", /*message*/"　홈페이지에 신청한 1,000명의 자원봉사자를 맞이할 예정이었지만, 실제로 설명회에 온 사람은 100명도 채 되지 않았다. 평소에 자주 자원봉사 활동을 하는 시오리코가 우려하던 일이 벌어진 것이다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_8", /*message*/"　자원봉사자 설명회에 목표했던 인원이 오지 않았지만, 상심할 여유는 없다. 동호회 멤버들은 계속해서 노력하자고 말하면서도 충격을 감추지 못한다. 그중에서 가장 책임을 느끼는 당신을 보며 아유무의 불안감은 커져만 가는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_9", /*message*/"　동호회 멤버들도 자원봉사자 모집 일을 혼자 끌어안는 당신을 걱정한다. 아유무는 시오리코에게 상의해 메시지를 적은 노트를 선물하기로 했다. 한편 호노카와 치카도 당신 소식을 듣고 걱정하고 있었다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_1_10", /*message*/"　카린이 합류하고, 니지가사키 학원 스쿨 아이돌 동호회가 지향할 스타일도 가닥이 잡혔다!
 이어서 옛 부원이자 가장 눈에 띄던 세츠나를 찾아봤지만, 어디 있는지 아무도 모른다는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_1_1a", /*message*/"　당신은 오다이바에 있는 니지가사키 학원에 재학 중인 고등학교 2학년. 
@@ -2684,6 +2703,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_7", /*message*/"사전 계획은 철저히!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_8", /*message*/"시오리코 대책 회의!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_14_9", /*message*/"허가해 주세요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_1", /*message*/"동지들이여, 모여라!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_10", /*message*/"충돌");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_2", /*message*/"모여드는 사람들! 높아지는 기대감!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_3", /*message*/"1,000명의 조력자!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_4", /*message*/"신뢰하는 너에게");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_5", /*message*/"자원봉사자 설명회를 열자!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_6", /*message*/"설명회로 알게된 것");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_7", /*message*/"드리우는 암운?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_8", /*message*/"조마조마, 안절부절");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_9", /*message*/"뜻밖의 제안");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_10", /*message*/"다시 한번 시작이야!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_1a", /*message*/"스쿨 아이돌을 응원하고 싶어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_1b", /*message*/"스쿨 아이돌을 응원하고 싶어!");

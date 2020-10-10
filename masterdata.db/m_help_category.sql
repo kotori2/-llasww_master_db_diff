@@ -19,3 +19,4 @@ INSERT INTO `m_help_category` VALUES (/*id*/12, /*display_order*/5, /*category_n
 INSERT INTO `m_help_category` VALUES (/*id*/13, /*display_order*/4, /*category_name*/"k.help_category_13");
 INSERT INTO `m_help_category` VALUES (/*id*/14, /*display_order*/1, /*category_name*/"k.help_category_14");
 INSERT INTO `m_help_category` VALUES (/*id*/15, /*display_order*/3, /*category_name*/"k.help_category_15");
+INSERT INTO `m_help_category` VALUES (/*id*/16, /*display_order*/2, /*category_name*/"k.help_category_16");

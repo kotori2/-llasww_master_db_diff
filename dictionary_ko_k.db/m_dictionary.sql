@@ -81,6 +81,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_22", /*message*/"はじ
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_23", /*message*/"ユニットピンズ（CYaRon！）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_24", /*message*/"ユニットピンズ（AZALEA）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_25", /*message*/"ユニットピンズ（Guilty Kiss）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_26", /*message*/"하트 벨트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_27", /*message*/"네 잎 클로버 초커");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_28", /*message*/"눈 결정 뱅글");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_3", /*message*/"음표 브로치");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_4", /*message*/"음표 열쇠고리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_5", /*message*/"꽃 팔찌");
@@ -1488,6 +1491,741 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40
 조건: 대미지를 받았을 때, 확률: 5%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_9", /*message*/"다음에 발동하는 SP 특기로 획득하는 볼티지 94 증가
 조건: 대미지를 받았을 때, 확률: 5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_1", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_10", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_11", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_12", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_13", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.4%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_14", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.4%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_15", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_2", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_3", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_4", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_5", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_6", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_7", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_8", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_9", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_1", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_10", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.6%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_11", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.6%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_12", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.7%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_13", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.8%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_14", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.8%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_15", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.9%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_16", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_2", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_3", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_4", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_5", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_6", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_7", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.4%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_8", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.4%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_9", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_1", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_10", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.8%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_11", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.9%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_12", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_13", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_14", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_15", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_16", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.4%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_17", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_2", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_3", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_4", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_5", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_6", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.4%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_7", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_8", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.6%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_9", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.7%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_1", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_10", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_11", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_12", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_13", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.4%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_14", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_15", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.6%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_16", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.7%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_17", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.8%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_18", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_2", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_3", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_4", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_5", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.4%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_6", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_7", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.7%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_8", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.8%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_9", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.9%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_1", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_10", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_11", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.6%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_12", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.8%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_13", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_14", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_15", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_16", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3.5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_17", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3.6%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_18", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3.8%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_19", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 4%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_2", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_3", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_4", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_5", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.6%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_6", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.8%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_7", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_8", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_9", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_1", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_10", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.8%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_11", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_12", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_13", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3.5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_14", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3.7%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_15", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 3.9%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_16", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 4.1%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_17", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 4.3%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_18", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 4.5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_19", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 4.7%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_2", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_20", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 5%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_3", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.4%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_4", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.6%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_5", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 1.8%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_6", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_7", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.2%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_8", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.4%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_9", /*message*/"게임 종료까지 SP 특기로 획득하는 볼티지가 자기 테크닉의 2.6%만큼 증가
+조건: 라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_1", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_10", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.9%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_11", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_12", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.3%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_13", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_14", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.7%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_15", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_2", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_3", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.4%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_4", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_5", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_6", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_7", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_8", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_9", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.7%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_1", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_10", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.4%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_11", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_12", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.9%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_13", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_14", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.4%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_15", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.7%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_16", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_2", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_3", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_4", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_5", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_6", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.3%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_7", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_8", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_9", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_1", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_10", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_11", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_12", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.4%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_13", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.7%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_14", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_15", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  5.3%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_16", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  5.6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_17", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_2", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.3%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_3", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_4", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.9%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_5", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_6", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_7", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_8", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_9", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_1", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_10", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_11", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_12", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_13", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  5.2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_14", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  5.5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_15", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  5.9%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_16", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  6.2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_17", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  6.6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_18", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  7%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_2", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.3%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_3", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.7%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_4", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_5", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.4%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_6", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.7%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_7", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_8", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.4%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_9", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_1", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_10", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_11", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_12", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  5.2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_13", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  5.6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_14", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_15", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  6.4%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_16", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  6.8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_17", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  7.2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_18", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  7.6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_19", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_2", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.3%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_3", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.7%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_4", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_5", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_6", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.9%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_7", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.3%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_8", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.7%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_9", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_1", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_10", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  5.2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_11", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  5.7%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_12", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  6.2%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_13", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  6.6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_14", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  7.1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_15", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  7.6%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_16", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  8.1%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_17", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  8.5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_18", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  9%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_19", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  9.5%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_2", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.4%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_20", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  10%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_3", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  1.9%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_4", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.4%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_5", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  2.8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_6", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.3%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_7", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  3.8%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_8", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.3%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_9", /*message*/"게임 종료까지 어필로 획득하는 기본 획득 볼티지의 최대치가  4.7%만큼 증가
+조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_1", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_10", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.2%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_11", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_12", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.9%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_13", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 9.2%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_14", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 9.6%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_15", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 10%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_2", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5.3%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_3", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5.7%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_4", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 6%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_5", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 6.4%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_6", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 6.7%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_7", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 7.1%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_8", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 7.5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_9", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 7.8%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_1", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_10", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 9.2%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_11", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 9.6%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_12", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 10.1%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_13", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 10.6%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_14", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 11%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_15", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 11.5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_16", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 12%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_2", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5.4%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_3", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5.9%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_4", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 6.4%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_5", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 6.8%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_6", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 7.3%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_7", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 7.8%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_8", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.2%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_9", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.7%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_1", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_10", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 10%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_11", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 10.6%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_12", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 11.1%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_13", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 11.7%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_14", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 12.3%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_15", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 12.8%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_16", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 13.4%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_17", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 14%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_2", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5.5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_3", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 6.1%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_4", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 6.6%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_5", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 7.2%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_6", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 7.8%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_7", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.3%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_8", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.9%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_9", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 9.5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_1", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_10", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 10.8%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_11", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 11.4%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_12", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 12.1%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_13", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 12.7%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_14", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 13.4%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_15", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 14%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_16", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 14.7%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_17", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 15.3%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_18", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 16%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_2", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5.6%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_3", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 6.2%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_4", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 6.9%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_5", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 7.5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_6", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.2%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_7", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.8%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_8", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 9.5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_9", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 10.1%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_1", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_10", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 11.5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_11", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 12.2%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_12", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 12.9%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_13", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 13.6%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_14", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 14.3%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_15", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 15.1%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_16", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 15.8%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_17", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 16.5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_18", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 17.2%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_19", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 18%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_2", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5.7%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_3", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 6.4%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_4", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 7.1%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_5", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 7.8%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_6", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.6%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_7", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 9.3%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_8", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 10%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_9", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 10.7%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_1", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_10", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 12.1%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_11", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 12.8%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_12", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 13.6%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_13", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 14.4%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_14", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 15.2%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_15", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 16%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_16", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 16.8%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_17", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 17.6%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_18", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 18.4%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_19", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 19.2%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_2", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 5.7%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_20", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 20%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_3", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 6.5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_4", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 7.3%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_5", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.1%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_6", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 8.9%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_7", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 9.7%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_8", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 10.5%) 조건: 라이브 중
+대상: 자신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_9", /*message*/"게임 종료까지 남은 체력이 많을수록 기본 크리티컬 수치가 증가(최대 11.3%) 조건: 라이브 중
+대상: 자신");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000001", /*message*/"SP 게이지 획득+(활력): 라이브 중");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000002", /*message*/"SP 게이지 획득+(활력): 라이브 중");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000003", /*message*/"SP 게이지 획득+(활력): 라이브 중");
@@ -1527,6 +2265,24 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000036"
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000037", /*message*/"어필 UP :작전 변경 시");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000038", /*message*/"SP 게이지 획득 UP :AC 시작 시");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000039", /*message*/"SP 특기 UP :대미지를 받았을 때");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000420", /*message*/"SP 특기 UP :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000421", /*message*/"SP 특기 UP :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000422", /*message*/"SP 특기 UP :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000423", /*message*/"SP 특기 UP :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000424", /*message*/"SP 특기 UP :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000425", /*message*/"SP 특기 UP :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000450", /*message*/"획득 볼티지 상한 확장 :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000451", /*message*/"획득 볼티지 상한 확장 :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000452", /*message*/"획득 볼티지 상한 확장 :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000453", /*message*/"획득 볼티지 상한 확장 :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000454", /*message*/"획득 볼티지 상한 확장 :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000455", /*message*/"획득 볼티지 상한 확장 :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000480", /*message*/"크리티컬+(활력) :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000481", /*message*/"크리티컬+(활력) :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000482", /*message*/"크리티컬+(활력) :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000483", /*message*/"크리티컬+(활력) :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000484", /*message*/"크리티컬+(활력) :라이브 중");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000485", /*message*/"크리티컬+(활력) :라이브 중");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_101", /*message*/"SIF ID 업적");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_401", /*message*/"모든 업적을 달성했습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_402", /*message*/"달성한 업적이 없습니다.");
@@ -7519,6 +8275,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_12", /*message*/"프렌�
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_13", /*message*/"튜토리얼");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_14", /*message*/"기타");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_15", /*message*/"빅 라이브");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_16", /*message*/"드림 라이브 퍼레이드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_2", /*message*/"라이브");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_3", /*message*/"스쿨 아이돌 육성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_4", /*message*/"편성");
@@ -7589,11 +8346,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_124", /*message*/"<al
 <align=\"center\"><sprite src=\"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_11305\" width=\"1184px\" height=\"520px\"/></align>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_125", /*message*/"업데이트 정보, 점검 알림 등의 공지 내용을 확인할 수 있습니다.
 게임 내외로 중요한 내용이 포함되어 있으니 반드시 확인하세요.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_126", /*message*/"과제를 달성하면 아이템과 칭호 등 다양한 보상을 받을 수 있습니다.
-데일리 과제의 갱신 시각은 매일 자정(한국 시각)입니다.
-위클리 과제는 매주 월요일 자정(한국 시각)에 갱신됩니다.
-
-라이브에 대한 과제에서 스토리 중의 라이브 스테이지는 카운트 대상이 아니니 주의하시기 바랍니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_127", /*message*/"지금까지 플레이한 라이브 이력, 선호 부원 랭킹을 확인할 수 있습니다.
 게스트 설정에서는 프렌드의 라이브에 참가할 스쿨 아이돌을 속성별로 설정할 수 있습니다.
 
@@ -7811,6 +8563,28 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_148", /*message*/"인
 ・스쿨 아이돌 최대 레벨 상한 확장
 　스쿨 아이돌의 최대 레벨 상한을 확장합니다.
 　상한 확장 후, 특훈 화면의 &quot;레벨 업&quot; 버튼에서 스쿨 아이돌을 더욱 성장시킬 수 있습니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_149", /*message*/"드림 라이브 퍼레이드는 정해진 스테이지를 순서대로 공략하는 이벤트입니다.
+드림 라이브 퍼레이드에서는 다수의 퍼레이드가 동시에 개최되는 경우가 있습니다.
+퍼레이드 선택 화면에서 참가할 퍼레이드를 선택하세요.
+
+드림 라이브 퍼레이드 이용 방법
+
+・드림 라이브 퍼레이드에서는 LP를 소비하지 않는 대신 라이브에 참가 가능 횟수가
+　스쿨 아이돌별로 제한됩니다.
+・횟수는 PP로 나타내며 해당 퍼레이드에서 사용 가능한 최대 횟수와 현재의 남은 PP가 표시됩니다.
+・라이브에 참가할 때마다 PP를 1 소비합니다.
+・1번 클리어한 라이브에 다시 도전할 수 없습니다.
+・드림 라이브 퍼레이드에서는 라이브를 클리어해도 플레이어 경험치,
+　인연 포인트, 등장 보상을 획득할 수 없습니다.
+
+드림 라이브 퍼레이드에서 보상을 획득하는 경우는 다음과 같습니다.
+・해당 스테이지를 처음 클리어했을 때 첫 클리어 보상을 획득합니다.
+・특정 스테이지를 처음 클리어했을 때 스테이지 달성 보상을 획득합니다.
+
+획득한 보상은 드림 라이브 퍼레이드 전용 교환소에서
+액세서리와 하이 메모리 등 기간 한정 아이템 또는 상시 교환 가능 아이템으로 교환할 수 있습니다.
+
+기간 한정 아이템은 다음 드림 퍼레이드 개최 시 라인업이 변경될 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_15", /*message*/"라이브를 도와주는 다른 유저입니다.
 
 프렌드가 게스트로 참가하는 경우에는 프렌드의 스쿨 아이돌이 보유한 개성과 
@@ -7819,6 +8593,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_15", /*message*/"라�
 
 개성과 아이디어 스킬에 대한 자세한 설명은 &apos;스쿨 아이돌 육성&apos;의 &apos;개성&apos; 및 
 &apos;아이디어 스킬&apos;에 기재되어 있습니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_152", /*message*/"보너스 스쿨 아이돌은 이벤트에 유리한 스쿨 아이돌입니다.
+
+드림 라이브 퍼레이드에서는 보너스 스쿨 아이돌의 PP 최대치가 증가합니다. 보너스 스쿨 아이돌은 이벤트 기간마다 다릅니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_153", /*message*/"소모 아이템, 합숙 아이템, 스카우트 티켓, 육성 아이템, 액세서리 목록이 탭별로 표시됩니다.
 ※소모 아이템과 합숙 아이템, 스카우트 티켓은 보유 중인 아이템만 표시됩니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_154", /*message*/"한 가지 작전만으로 곡을 플레이하는 편성입니다.
@@ -7861,6 +8638,61 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_156", /*message*/"스
 
 표적 편성은 &quot;편성&quot;의 &quot;표적 편성&quot;에서 설명을 확인할 수 있습니다.
 역할 분담 편성은 &quot;편성&quot;의 &quot;역할 분담 편성&quot;에서 설명을 확인할 수 있습니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_157", /*message*/"라이브 스테이지에서는 스테이지에 설정된 목표 볼티지를 획득해야 합니다.
+목표 볼티지에 도달하기까지 다음 스테이지에 도전할 수 없습니다.
+
+1회 플레이로 목표 볼티지를 얻지 못한 경우, 
+획득한 볼티지를 이어서 플레이할 수 있습니다.
+
+라이브를 도중에 포기하면 PP를 소비하지 않습니다.
+
+라이브 도중에 앱이 강제 종료된 경우, 스테이지 클리어로 인정되지 않고 PP도 소비하지 않습니다.
+
+스토리 스테이지는 스토리를 끝까지 읽어야 클리어됩니다.
+
+일러스트 스테이지는 보상의 유무에 따라 클리어 타이밍이 달라집니다.
+보상이 없는 경우, 이전 라이브 스테이지를 클리어한 시점에서 일러스트 스테이지도 클리어합니다.
+보상이 있는 경우, 일러스트 등장 후 보상을 획득한 타이밍에 클리어합니다.
+
+퍼레이드별 스테이지 달성도는 이어지고 
+다시 같은 퍼레이드가 개최되면 이어서 플레이할 수 있습니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_158", /*message*/"드림 라이브 퍼레이드에서 라이브를 하는 데 필요한 포인트입니다.
+PP는 스쿨 아이돌마다 상한이 정해져 있고 라이브를 플레이하면 감소합니다.
+라이브에 필요한 PP가 부족한 스쿨 아이돌을 편성하면
+라이브를 시작할 수 없습니다.
+
+PP는 이벤트별로 관리되며 퍼레이드가 다수 개최 중인 경우, 각각의 퍼레이드에서 라이브 가능 횟수가 다릅니다.
+
+PP는 스쿨 아이돌 목록, 스쿨 아이돌 정보 화면에서 확인할 수 있습니다.
+해당 퍼레이드에서 사용할 수 있는 최대 횟수와 남은 사용 횟수가 표시됩니다.
+
+PP 회복 방법은 소지한 모든 스쿨 아이돌의 PP를 한꺼번에 회복하는 방법과
+퍼포먼스 드링크와 러브카스타로 개별 회복하는 방법이 있습니다.
+모두 이벤트 개최 기간 중에 이용 가능한 횟수가 정해져 있습니다.
+
+보너스 스쿨 아이돌에는 PP 마크가 붙고, 최대 사용 횟수가 다른 스쿨 아이돌보다 많습니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_159", /*message*/"과제를 달성하면 아이템과 칭호 등 다양한 보상을 받을 수 있습니다.
+데일리 과제의 갱신 시각은 매일 자정(한국 시각)입니다.
+위클리 과제는 매주 월요일 자정(한국 시각)에 갱신됩니다.
+
+라이브에 대한 과제에서 스토리 도중의 라이브 스테이지는 카운트 대상이 아니니 주의하시기 바랍니다.
+과제로 카운트되는 기준은 다음과 같습니다.
+
+・라이브를 플레이하는 것이 조건인 과제
+ LP를 소비하고 라이브를 시작하면 카운트됩니다.
+ 드림 라이브 퍼레이드에서는 도중에 라이브를 중단/포기하면 카운트되지 않습니다.
+
+・라이브를 클리어하는 것이 조건인 과제
+ 라이브를 마지막까지 수행하면 카운트됩니다.
+ 도중에 라이브를 중단/포기, 또는 체력이 0이 되면 카운트되지 않습니다.
+
+・라이브에서 특기를 사용하는 것이 조건인 과제
+ 마지막까지 수행한 라이브에서 특기 사용 횟수가 카운트됩니다.
+ 도중에 중단/포기, 또는 체력이 0이 된 라이브의 특기 사용 발동 횟수가 카운트되지 않습니다.
+
+・라이브에서 SP 특기를 사용하는 것이 조건인 과제
+ 마지막까지 수행한 라이브에서 SP 특기 사용 횟수가 카운트됩니다.
+ 도중에 중단/포기, 또는 체력이 0이 된 라이브의 SP 특기 발동 횟수는 카운트되지 않습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_16", /*message*/"라이브를 계속 진행하기 위해 필요한 능력치입니다.
 라이브 중에는 노트를 처리할 때마다 체력이 감소합니다.
 어필 찬스에 실패하면 체력이 크게 감소하니 주의하세요.
@@ -8470,7 +9302,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_143", /*message*/"랭
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_144", /*message*/"통신 중단");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_147", /*message*/"인연 보드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_148", /*message*/"인연 보드 효과");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_149", /*message*/"드림 라이브 퍼레이드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_15", /*message*/"게스트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_150", /*message*/"라이브 스테이지 달성도와 퍼레이드 달성도");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_151", /*message*/"PP");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_152", /*message*/"보너스 스쿨 아이돌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_154", /*message*/"표적 편성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_155", /*message*/"역할 분담 편성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_16", /*message*/"체력");
@@ -8626,6 +9462,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1804", /*message*/"특훈에
 <color value=\"#ff3494\">※유효 기간 종료 후, 5개당 스쿨 아이돌의 광휘 1개로 변환됩니다. 남는 개수는 올림 처리됩니다.</color>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1900", /*message*/"특훈에서 칸을 열 때 사용하는 아이템.
 합숙 및 일반 라이브에서 획득할 수 있습니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_19001", /*message*/"이벤트 교환소에서 다양한 아이템으로 교환할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1960", /*message*/"특훈에서 칸을 열 때 사용하는 아이템.
 합숙 및 데일리 라이브에서 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_20001", /*message*/"이벤트 교환소에서 다양한 아이템으로 교환할 수 있다.");
@@ -8648,6 +9485,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21015", /*message*/"1장당 
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_2200", /*message*/"AP를 1 추가하는 아이템.
 과제를 달성하면 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_22001", /*message*/"이벤트 교환소에서 다양한 아이템으로 교환할 수 있다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_24001", /*message*/"PP를 1회 회복하는 아이템");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_8000", /*message*/"특훈에서 대상 멤버의 보이스나 사이드 에피소드를 열 때 사용하는 아이템.
 참가 곡의 일반 / 데일리 라이브에서 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_9000", /*message*/"스카우트를 1회 할 수 있는 티켓.");
@@ -8824,6 +9662,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_18207", /*message*/"유키 �
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_18208", /*message*/"엠마 베르데의 하이 메모리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_18209", /*message*/"텐노지 리나의 하이 메모리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1900", /*message*/"빨간색 마카롱★1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_19001", /*message*/"퍼레이드 메달");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1901", /*message*/"빨간색 마카롱★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1902", /*message*/"빨간색 마카롱★3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1910", /*message*/"파란색 마카롱★1");
@@ -8866,6 +9705,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21014", /*message*/"Aqours �
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21015", /*message*/"니지동 서머 스플래시 의상 교환 티켓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_2200", /*message*/"합숙 티켓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_22001", /*message*/"빅 라이브 메달");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_24001", /*message*/"퍼포먼스 드링크");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_8001", /*message*/"코우사카 호노카의 메모리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_8002", /*message*/"아야세 에리의 메모리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_8003", /*message*/"미나미 코토리의 메모리");
@@ -17559,6 +18399,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10400511", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10400512", /*message*/"텐노지 리나을/를 라이브 편성 중앙에 설정하고 라이브 1,000회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10400513", /*message*/"텐노지 리나을/를 라이브 편성 중앙에 설정하고 라이브 5,000회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10500521", /*message*/"게임 플레이 시작 시점부터 보유");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10502441", /*message*/"드림 라이브 퍼레이드에서 라이브 스테이지 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10502442", /*message*/"드림 라이브 퍼레이드에서 라이브 스테이지 30회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10502443", /*message*/"드림 라이브 퍼레이드에서 라이브 스테이지 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10600011", /*message*/"「New Romantic Sailors」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10600021", /*message*/"「Braveheart Coaster」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10600031", /*message*/"「Amazing Travel DNA」を10回クリアする");
@@ -18544,6 +19387,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10400511", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10400512", /*message*/"텐노지 리나 팬★★");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10400513", /*message*/"텐노지 리나 팬★★★");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10500521", /*message*/"스쿠스타 신입♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10502441", /*message*/"퍼레이드 마스터 ★");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10502442", /*message*/"퍼레이드 마스터 ★★");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10502443", /*message*/"퍼레이드 마스터 ★★★");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10600011", /*message*/"Guilty Kiss First LOVELIVE!  ~New Romantic Sailors~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10600021", /*message*/"CYaRon！ First LOVELIVE!  ~Braveheart Coaster~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10600031", /*message*/"AZALEA First LOVELIVE!  ~Amazing Travel DNA~");
@@ -31216,6 +32062,9 @@ Composition / Arrangement: Kenta Urashima, Takumi Yamamoto");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2019", /*message*/"Lyrics: NOVECHIKA, Naoki Kubo
 Composition: Naoki Kubo
 Arrangement: Hisashi Nawata");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2020", /*message*/"Lyrics: Kanata Okajima
+Composition: Keisuke Koyama, Shunsuke Harada
+Arrangement: Keisuke Koyama");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2031", /*message*/"Lyrics / Composition / Arrangement：Dummy Dog");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2032", /*message*/"Lyrics：hot tears
 Composition：Shota Kageyama
@@ -31289,6 +32138,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2016", /*message*/"My Own 
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2017", /*message*/"MELODY");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2018", /*message*/"Koe Tsunagou yo");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2019", /*message*/"Tele Telepathy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2020", /*message*/"Love U my friends");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2031", /*message*/"SUPER NOVA");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2032", /*message*/"Dream Land! Dream World!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2033", /*message*/"Sing &amp; Smile!!");
@@ -31359,6 +32209,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2016", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2017", /*message*/"めろでぃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2018", /*message*/"こえつなごうよ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2019", /*message*/"てれてれぱしー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2020", /*message*/"らぶゆーまいふれんず");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2031", /*message*/"すーぱーのゔぁ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2032", /*message*/"どりーむらんどどりーむわーるど");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2033", /*message*/"しんぐあんどすまいる");
@@ -31808,6 +32659,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_17001", /*message*/"
 교환 아이템은 매월 1일 자정(한국 시각)에 갱신됩니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_21001", /*message*/"티켓 1장당 의상 한 벌과 교환 가능합니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_21007", /*message*/"교환 티켓과 하이 메모리를 교환할 수 있습니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_33000", /*message*/"퍼레이드 메달을 각종 보상과 교환할 수 있습니다.
+해당 내용은 매월 1일 자정(한국 시각)에 갱신됩니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_33500", /*message*/"퍼레이드 메달을 각종 보상과 교환할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_gacha_point_shiny_piece", /*message*/"사이니 피스를 각종 보상과 교환할 수 있습니다.
 해당 내용은 매월 1일 자정(한국 시각)에 갱신됩니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_gacha_point_shiny_quartz", /*message*/"사이니 쿼츠를 각종 보상과 교환할 수 있습니다.

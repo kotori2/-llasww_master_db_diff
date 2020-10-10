@@ -98,3 +98,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30011_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30011_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30011_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30011_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_1", /*message*/"活動規則 1/3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_2", /*message*/"活動規則 2/3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_3", /*message*/"活動規則 3/3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_001", /*message*/"活動規則 1/6");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_002", /*message*/"活動規則 2/6");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_003", /*message*/"活動規則 3/6");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_004", /*message*/"活動規則 4/6");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_005", /*message*/"活動規則 5/6");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_006", /*message*/"活動規則 6/6");

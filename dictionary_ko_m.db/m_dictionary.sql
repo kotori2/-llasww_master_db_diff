@@ -848,6 +848,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002304", /*message*/"[AZALEA First LOVELIVE! 課題] Torikoriko PLEASE!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002305", /*message*/"[AZALEA First LOVELIVE! 課題] Amazing Travel DNA 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002402", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002601", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 인연 보드의 강화 칸을 1회 오픈");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002602", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 인연 보드의 강화 칸을 5회 오픈");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002603", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 드림 라이브 퍼레이드에서 라이브 10회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002604", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002605", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 드림 라이브 퍼레이드에서 스쿨 아이돌 1명의 PP를 회복");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002606", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -862,6 +868,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"제5화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"제6화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"제7화");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"사전 이벤트 드림 라이브 퍼레이드");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"드림 라이브 퍼레이드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");
@@ -1992,6 +2000,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500162", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500163", /*message*/"유키 세츠나의 보드 보너스를 15회 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500164", /*message*/"엠마 베르데의 보드 보너스를 15회 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500165", /*message*/"텐노지 리나의 보드 보너스를 15회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700001", /*message*/"드림 라이브 퍼레이드에서 라이브 스테이지 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700002", /*message*/"드림 라이브 퍼레이드에서 라이브 스테이지 30회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700003", /*message*/"드림 라이브 퍼레이드에서 라이브 스테이지 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"인연Lv");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"액세서리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"캠페인");
@@ -2001,6 +2012,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_16", /*message*/"컴플�
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_18", /*message*/"라이브");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_19", /*message*/"인연 보드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_2", /*message*/"스쿨 아이돌");
+INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_20", /*message*/"드림 라이브 퍼레이드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_3", /*message*/"스토리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_4", /*message*/"에피소드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_5", /*message*/"유저 Rank");

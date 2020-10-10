@@ -80,6 +80,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_22", /*message*/"はじ
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_23", /*message*/"ユニットピンズ（CYaRon！）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_24", /*message*/"ユニットピンズ（AZALEA）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_25", /*message*/"ユニットピンズ（Guilty Kiss）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_26", /*message*/"Heart Belt");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_27", /*message*/"Clover Choker");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_28", /*message*/"Snowflake Bangle");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_3", /*message*/"Musical Note Brooch");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_4", /*message*/"Musical Note Keychain");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_5", /*message*/"Flower Bracelet");
@@ -1462,6 +1465,846 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40
 Condition: Upon Damage, 5% chance");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_9", /*message*/"Increase Voltage gained by next SP Skill by 94.
 Condition: Upon Damage, 5% chance");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_1", /*message*/"Increase SP Skill Voltage gain by 1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_10", /*message*/"Increase SP Skill Voltage gain by 1.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_11", /*message*/"Increase SP Skill Voltage gain by 1.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_12", /*message*/"Increase SP Skill Voltage gain by 1.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_13", /*message*/"Increase SP Skill Voltage gain by 1.4% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_14", /*message*/"Increase SP Skill Voltage gain by 1.4% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_15", /*message*/"Increase SP Skill Voltage gain by 1.5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_2", /*message*/"Increase SP Skill Voltage gain by 1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_3", /*message*/"Increase SP Skill Voltage gain by 1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_4", /*message*/"Increase SP Skill Voltage gain by 1.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_5", /*message*/"Increase SP Skill Voltage gain by 1.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_6", /*message*/"Increase SP Skill Voltage gain by 1.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_7", /*message*/"Increase SP Skill Voltage gain by 1.2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_8", /*message*/"Increase SP Skill Voltage gain by 1.2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_9", /*message*/"Increase SP Skill Voltage gain by 1.2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_1", /*message*/"Increase SP Skill Voltage gain by 1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_10", /*message*/"Increase SP Skill Voltage gain by 1.6% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_11", /*message*/"Increase SP Skill Voltage gain by 1.6% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_12", /*message*/"Increase SP Skill Voltage gain by 1.7% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_13", /*message*/"Increase SP Skill Voltage gain by 1.8% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_14", /*message*/"Increase SP Skill Voltage gain by 1.8% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_15", /*message*/"Increase SP Skill Voltage gain by 1.9% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_16", /*message*/"Increase SP Skill Voltage gain by 2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_2", /*message*/"Increase SP Skill Voltage gain by 1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_3", /*message*/"Increase SP Skill Voltage gain by 1.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_4", /*message*/"Increase SP Skill Voltage gain by 1.2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_5", /*message*/"Increase SP Skill Voltage gain by 1.2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_6", /*message*/"Increase SP Skill Voltage gain by 1.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_7", /*message*/"Increase SP Skill Voltage gain by 1.4% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_8", /*message*/"Increase SP Skill Voltage gain by 1.4% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_9", /*message*/"Increase SP Skill Voltage gain by 1.5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_1", /*message*/"Increase SP Skill Voltage gain by 1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_10", /*message*/"Increase SP Skill Voltage gain by 1.8% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_11", /*message*/"Increase SP Skill Voltage gain by 1.9% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_12", /*message*/"Increase SP Skill Voltage gain by 2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_13", /*message*/"Increase SP Skill Voltage gain by 2.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_14", /*message*/"Increase SP Skill Voltage gain by 2.2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_15", /*message*/"Increase SP Skill Voltage gain by 2.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_16", /*message*/"Increase SP Skill Voltage gain by 2.4% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_17", /*message*/"Increase SP Skill Voltage gain by 2.5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_2", /*message*/"Increase SP Skill Voltage gain by 1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_3", /*message*/"Increase SP Skill Voltage gain by 1.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_4", /*message*/"Increase SP Skill Voltage gain by 1.2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_5", /*message*/"Increase SP Skill Voltage gain by 1.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_6", /*message*/"Increase SP Skill Voltage gain by 1.4% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_7", /*message*/"Increase SP Skill Voltage gain by 1.5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_8", /*message*/"Increase SP Skill Voltage gain by 1.6% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_9", /*message*/"Increase SP Skill Voltage gain by 1.7% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_1", /*message*/"Increase SP Skill Voltage gain by 1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_10", /*message*/"Increase SP Skill Voltage gain by 2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_11", /*message*/"Increase SP Skill Voltage gain by 2.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_12", /*message*/"Increase SP Skill Voltage gain by 2.2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_13", /*message*/"Increase SP Skill Voltage gain by 2.4% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_14", /*message*/"Increase SP Skill Voltage gain by 2.5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_15", /*message*/"Increase SP Skill Voltage gain by 2.6% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_16", /*message*/"Increase SP Skill Voltage gain by 2.7% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_17", /*message*/"Increase SP Skill Voltage gain by 2.8% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_18", /*message*/"Increase SP Skill Voltage gain by 3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_2", /*message*/"Increase SP Skill Voltage gain by 1.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_3", /*message*/"Increase SP Skill Voltage gain by 1.2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_4", /*message*/"Increase SP Skill Voltage gain by 1.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_5", /*message*/"Increase SP Skill Voltage gain by 1.4% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_6", /*message*/"Increase SP Skill Voltage gain by 1.5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_7", /*message*/"Increase SP Skill Voltage gain by 1.7% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_8", /*message*/"Increase SP Skill Voltage gain by 1.8% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_9", /*message*/"Increase SP Skill Voltage gain by 1.9% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_1", /*message*/"Increase SP Skill Voltage gain by 1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_10", /*message*/"Increase SP Skill Voltage gain by 2.5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_11", /*message*/"Increase SP Skill Voltage gain by 2.6% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_12", /*message*/"Increase SP Skill Voltage gain by 2.8% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_13", /*message*/"Increase SP Skill Voltage gain by 3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_14", /*message*/"Increase SP Skill Voltage gain by 3.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_15", /*message*/"Increase SP Skill Voltage gain by 3.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_16", /*message*/"Increase SP Skill Voltage gain by 3.5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_17", /*message*/"Increase SP Skill Voltage gain by 3.6% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_18", /*message*/"Increase SP Skill Voltage gain by 3.8% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_19", /*message*/"Increase SP Skill Voltage gain by 4% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_2", /*message*/"Increase SP Skill Voltage gain by 1.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_3", /*message*/"Increase SP Skill Voltage gain by 1.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_4", /*message*/"Increase SP Skill Voltage gain by 1.5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_5", /*message*/"Increase SP Skill Voltage gain by 1.6% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_6", /*message*/"Increase SP Skill Voltage gain by 1.8% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_7", /*message*/"Increase SP Skill Voltage gain by 2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_8", /*message*/"Increase SP Skill Voltage gain by 2.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_9", /*message*/"Increase SP Skill Voltage gain by 2.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_1", /*message*/"Increase SP Skill Voltage gain by 1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_10", /*message*/"Increase SP Skill Voltage gain by 2.8% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_11", /*message*/"Increase SP Skill Voltage gain by 3.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_12", /*message*/"Increase SP Skill Voltage gain by 3.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_13", /*message*/"Increase SP Skill Voltage gain by 3.5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_14", /*message*/"Increase SP Skill Voltage gain by 3.7% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_15", /*message*/"Increase SP Skill Voltage gain by 3.9% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_16", /*message*/"Increase SP Skill Voltage gain by 4.1% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_17", /*message*/"Increase SP Skill Voltage gain by 4.3% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_18", /*message*/"Increase SP Skill Voltage gain by 4.5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_19", /*message*/"Increase SP Skill Voltage gain by 4.7% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_2", /*message*/"Increase SP Skill Voltage gain by 1.2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_20", /*message*/"Increase SP Skill Voltage gain by 5% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_3", /*message*/"Increase SP Skill Voltage gain by 1.4% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_4", /*message*/"Increase SP Skill Voltage gain by 1.6% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_5", /*message*/"Increase SP Skill Voltage gain by 1.8% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_6", /*message*/"Increase SP Skill Voltage gain by 2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_7", /*message*/"Increase SP Skill Voltage gain by 2.2% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_8", /*message*/"Increase SP Skill Voltage gain by 2.4% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_9", /*message*/"Increase SP Skill Voltage gain by 2.6% of own Technique
+Condition: During Song until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_1", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_10", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.9%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_11", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_12", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.3%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_13", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_14", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.7%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_15", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_2", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_3", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.4%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_4", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_5", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_6", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_7", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_8", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_9", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.7%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_1", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_10", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.4%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_11", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_12", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.9%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_13", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_14", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.4%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_15", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.7%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_16", /*message*/"Increase the limit of Base Voltage gained by Appeal by 5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_2", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_3", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_4", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_5", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_6", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.3%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_7", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_8", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_9", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_1", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_10", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_11", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_12", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.4%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_13", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.7%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_14", /*message*/"Increase the limit of Base Voltage gained by Appeal by 5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_15", /*message*/"Increase the limit of Base Voltage gained by Appeal by 5.3%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_16", /*message*/"Increase the limit of Base Voltage gained by Appeal by 5.6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_17", /*message*/"Increase the limit of Base Voltage gained by Appeal by 6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_2", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.3%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_3", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_4", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.9%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_5", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_6", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_7", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_8", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_9", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_1", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_10", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_11", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_12", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_13", /*message*/"Increase the limit of Base Voltage gained by Appeal by 5.2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_14", /*message*/"Increase the limit of Base Voltage gained by Appeal by 5.5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_15", /*message*/"Increase the limit of Base Voltage gained by Appeal by 5.9%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_16", /*message*/"Increase the limit of Base Voltage gained by Appeal by 6.2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_17", /*message*/"Increase the limit of Base Voltage gained by Appeal by 6.6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_18", /*message*/"Increase the limit of Base Voltage gained by Appeal by 7%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_2", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.3%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_3", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.7%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_4", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_5", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.4%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_6", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.7%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_7", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_8", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.4%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_9", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_1", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_10", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_11", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_12", /*message*/"Increase the limit of Base Voltage gained by Appeal by 5.2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_13", /*message*/"Increase the limit of Base Voltage gained by Appeal by 5.6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_14", /*message*/"Increase the limit of Base Voltage gained by Appeal by 6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_15", /*message*/"Increase the limit of Base Voltage gained by Appeal by 6.4%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_16", /*message*/"Increase the limit of Base Voltage gained by Appeal by 6.8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_17", /*message*/"Increase the limit of Base Voltage gained by Appeal by 7.2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_18", /*message*/"Increase the limit of Base Voltage gained by Appeal by 7.6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_19", /*message*/"Increase the limit of Base Voltage gained by Appeal by 8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_2", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.3%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_3", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.7%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_4", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_5", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_6", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.9%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_7", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.3%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_8", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.7%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_9", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_1", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_10", /*message*/"Increase the limit of Base Voltage gained by Appeal by 5.2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_11", /*message*/"Increase the limit of Base Voltage gained by Appeal by 5.7%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_12", /*message*/"Increase the limit of Base Voltage gained by Appeal by 6.2%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_13", /*message*/"Increase the limit of Base Voltage gained by Appeal by 6.6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_14", /*message*/"Increase the limit of Base Voltage gained by Appeal by 7.1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_15", /*message*/"Increase the limit of Base Voltage gained by Appeal by 7.6%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_16", /*message*/"Increase the limit of Base Voltage gained by Appeal by 8.1%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_17", /*message*/"Increase the limit of Base Voltage gained by Appeal by 8.5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_18", /*message*/"Increase the limit of Base Voltage gained by Appeal by 9%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_19", /*message*/"Increase the limit of Base Voltage gained by Appeal by 9.5%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_2", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.4%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_20", /*message*/"Increase the limit of Base Voltage gained by Appeal by 10%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_3", /*message*/"Increase the limit of Base Voltage gained by Appeal by 1.9%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_4", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.4%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_5", /*message*/"Increase the limit of Base Voltage gained by Appeal by 2.8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_6", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.3%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_7", /*message*/"Increase the limit of Base Voltage gained by Appeal by 3.8%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_8", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.3%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_9", /*message*/"Increase the limit of Base Voltage gained by Appeal by 4.7%
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_1", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_10", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.2%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_11", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_12", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.9%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_13", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 9.2%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_14", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 9.6%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_15", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 10%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_2", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5.3%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_3", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5.7%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_4", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 6%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_5", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 6.4%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_6", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 6.7%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_7", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 7.1%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_8", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 7.5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_9", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 7.8%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_1", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_10", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 9.2%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_11", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 9.6%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_12", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 10.1%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_13", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 10.6%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_14", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 11%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_15", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 11.5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_16", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 12%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_2", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5.4%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_3", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5.9%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_4", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 6.4%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_5", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 6.8%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_6", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 7.3%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_7", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 7.8%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_8", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.2%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_9", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.7%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_1", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_10", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 10%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_11", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 10.6%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_12", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 11.1%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_13", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 11.7%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_14", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 12.3%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_15", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 12.8%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_16", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 13.4%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_17", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 14%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_2", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5.5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_3", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 6.1%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_4", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 6.6%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_5", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 7.2%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_6", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 7.8%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_7", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.3%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_8", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.9%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_9", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 9.5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_1", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_10", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 10.8%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_11", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 11.4%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_12", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 12.1%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_13", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 12.7%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_14", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 13.4%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_15", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 14%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_16", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 14.7%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_17", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 15.3%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_18", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 16%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_2", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5.6%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_3", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 6.2%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_4", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 6.9%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_5", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 7.5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_6", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.2%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_7", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.8%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_8", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 9.5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_9", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 10.1%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_1", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_10", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 11.5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_11", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 12.2%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_12", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 12.9%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_13", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 13.6%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_14", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 14.3%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_15", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 15.1%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_16", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 15.8%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_17", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 16.5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_18", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 17.2%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_19", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 18%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_2", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5.7%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_3", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 6.4%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_4", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 7.1%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_5", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 7.8%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_6", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.6%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_7", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 9.3%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_8", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 10%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_9", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 10.7%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_1", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_10", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 12.1%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_11", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 12.8%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_12", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 13.6%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_13", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 14.4%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_14", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 15.2%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_15", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 16%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_16", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 16.8%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_17", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 17.6%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_18", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 18.4%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_19", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 19.2%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_2", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 5.7%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_20", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 20%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_3", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 6.5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_4", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 7.3%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_5", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.1%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_6", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 8.9%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_7", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 9.7%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_8", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 10.5%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_9", /*message*/"Gain more Base Critical Power the higher your remaining Stamina is (Max 11.3%)
+Condition: During Song
+Affects: Self until the Live Show ends.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000001", /*message*/"SP Gauge Gain+ (Energetic): During Song");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000002", /*message*/"SP Gauge Gain+ (Energetic): During Song");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000003", /*message*/"SP Gauge Gain+ (Energetic): During Song");
@@ -1501,6 +2344,24 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000036"
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000037", /*message*/"Appeal Up :On Strategy Switch");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000038", /*message*/"SP Gauge Gain Up :AC Start");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000039", /*message*/"SP Skill Up :When Damaged");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000420", /*message*/"SP Skill Up :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000421", /*message*/"SP Skill Up :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000422", /*message*/"SP Skill Up :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000423", /*message*/"SP Skill Up :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000424", /*message*/"SP Skill Up :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000425", /*message*/"SP Skill Up :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000450", /*message*/"Voltage Gain Maximum Unlock :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000451", /*message*/"Voltage Gain Maximum Unlock :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000452", /*message*/"Voltage Gain Maximum Unlock :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000453", /*message*/"Voltage Gain Maximum Unlock :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000454", /*message*/"Voltage Gain Maximum Unlock :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000455", /*message*/"Voltage Gain Maximum Unlock :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000480", /*message*/"Critical+ (Energetic) :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000481", /*message*/"Critical+ (Energetic) :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000482", /*message*/"Critical+ (Energetic) :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000483", /*message*/"Critical+ (Energetic) :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000484", /*message*/"Critical+ (Energetic) :In-Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000485", /*message*/"Critical+ (Energetic) :In-Song");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_101", /*message*/"SIF ID Records");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_401", /*message*/"Earned all achievements.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_402", /*message*/"There are no achievements earned.");
@@ -7376,6 +8237,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_12", /*message*/"Friends
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_13", /*message*/"Tutorial");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_14", /*message*/"Other");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_15", /*message*/"Big Live Shows");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_16", /*message*/"Dream Live Parade");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_2", /*message*/"Live Shows");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_3", /*message*/"Strengthen School Idols");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_4", /*message*/"Formation");
@@ -7440,9 +8302,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_124", /*message*/"<al
 <align=\"center\"><sprite src=\"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_11303\" width=\"1184px\" height=\"520px\"/></align>
 <align=\"center\"><sprite src=\"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_11305\" width=\"1184px\" height=\"520px\"/></align>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_125", /*message*/"Check information on updates and maintenance and other important messages from the operations team. Pay close attention, as it will contain important information relating to the game.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_126", /*message*/"Through completing Goals, you can gain a variety of rewards such as items and Titles. Daily Goals are reset daily at 12:00 am JST. Weekly Goals are reset weekly on Mondays at 12:00 am JST.
-
-Please note that Story Live Shows will not count towards Live Show Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_127", /*message*/"Here, you can check a record of Live Shows you&apos;ve played and rankings of your most used members. You can select which school idols appears as guests for your Friends based on their Attribute.
 
 Please note that initially-released songs for events and campaigns will not be reflected in your Play History.");
@@ -7622,12 +8481,32 @@ This increases the stat bonus gained from the member having the same attribute a
 
 ・School Idol Max Level Increase
 This increases school idols&apos; max levels. After unlocking a higher max level, you will be able to power them up further by tapping the Level Up icon in the Practice screen.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_149", /*message*/"The Dream Live Parade is an event in which you clear an array of stages in order. Sometimes, multiple Parades are held. You can choose which one you&apos;d like to take part in on the Parade select screen.
+
+Dream Live Parade Rules
+
+・Though Dream Live Parade shows do not cost LP, each school idol can only be used a limited amount of times.
+・School idols require PP to participate. The PP displayed marks their current remaining chances to participate over their maximum chances to perform.
+・Performing in a show costs 1 PP.
+・You cannot do a show again after you have cleared it.
+・Clearing a show in the Dream Live Parade will not get you player experience points, Bond points, or drop items.
+
+You will be able to gain rewards from the Dream Live Parade at the following points:
+・First time clearance rewards will be gained upon completing a stage for the first time.
+・Stage completion rewards will be given when you first complete certain stages.
+
+You can trade in your rewards at the Dream Live Parade Exchange for limited-time items such as accessories or Memento Pieces, or other items that are always available for exchange.
+
+The lineup of limited-time items may change the next time a Dream Live Parade is available.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_15", /*message*/"These are other players who help you during Live Shows.
 
 When a friend joins you as a guest, you will be able to use your friend&apos;s school idol&apos;s abilities and <color value=\"#ff3494\">Insight Skills</color>.
 If a guest that is not your friend joins your Live Show, you will only be able to use their school idol&apos;s abilities.
 
 You can find out more on abilities and Insight Skills in the Ability and Insight Skill pages under Strengthen School Idols.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_152", /*message*/"Bonus school idols are school idols that confer an advantage in events.
+
+In the Dream Live Parade, bonus school idols will have their maximum PP increased. Each event will have different bonus school idols.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_153", /*message*/"This will show lists of consumables, Training items, Scouting Tickets, power-up items, and accessories. Lists for consumables, Training items, and Scouting Tickets will only show items you currently possess.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_154", /*message*/"This is a type of formation that allows you to play a song with only one strategy. It is good for beginners as it is intended to make songs easier to clear.
 
@@ -7660,6 +8539,47 @@ Automatically creates a formation based on members&apos; attributes, groups, str
 
 More information about Focused Formations can be found under the &quot;Focused Formation&quot; section of &quot;Formations.&quot;
 More information about Specialist Formations can be found under the &quot;Specialist Formation&quot; section of &quot;Formations.&quot;");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_157", /*message*/"In a Live Show Stage, you&apos;ll need to meet the Voltage goal. You won&apos;t be able to move on to the next stage until you get enough Voltage.
+
+If you do not gain enough Voltage in one play, the Voltage you gained will carry over between shows until you reach the goal amount.
+
+If you quit midway, your PP will not be used.
+
+If the app crashes during a Live Show, the stage will not count as cleared and your PP will not be used.
+
+You can complete Story Stages by reading that story.
+
+The timing with which a Picture Stage is counted as cleared is based on its rewards. If the stage has no rewards, then the Picture Stage will count as cleared when you clear the Live Stage right before it. If the stage does have rewards, it will count as cleared after you have displayed the picture and collected the rewards.
+
+Progression is saved for each Parade, so you will be able to pick up where you left off when the same Parade is held again.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_158", /*message*/"PP are the points you use to perform Live Shows in the Dream Live Parade.
+Each school idol has a maximum PP. Their PP decreases with each performance.
+If you have a school idol who lacks the needed PP in your formation, you will not be able to play a Live Show.
+
+You must manage school idols&apos; PP per Parade, and if multiple Parades are being held, school idols will have different stocks of PP for each.
+
+PP can be checked in the school idol details screen, from the school idol list. Their maximum PP and current PP will be shown, displaying how many times they can perform in the Parade.
+
+There are two methods of restoring PP. You can either fully restore the PP of all of your members, or restore individuals&apos; PP with Performance Drinks or Star Gems. Each can only be used a limited number of times during the event.
+
+Bonus school idols will have PP icons and have larger denominators than other school idols.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_159", /*message*/"Through completing Goals, you can gain a variety of rewards such as items and Titles. Daily Goals are reset daily at 12:00 am JST. Weekly Goals are reset weekly on Mondays at 12:00 am JST.
+
+Please note that Story Live Shows will not count towards Live Show Goals.
+
+The standards for clearing these Goals are as follows.
+
+・Goals completed by playing Live Shows
+Plays are counted toward Goals once you spend LP to start a Live Show. During Dream Live Parade shows, however, exiting the show without completing it will result in it not being counted towards your Goal.
+
+・Goals completed by clearing Live Shows
+You must play a Live Show all the way through in order for it to count toward the Goal. Shows won&apos;t be counted if you quit before completing them, or if your stamina reaches 0.
+
+・Goals completed by using skills in Live Shows
+The amount of skills used will be counted towards the Goal if you clear the Live Show. Skills used won&apos;t be counted if you quit before completing the Live Show, or if your stamina reaches 0.
+
+・Goals completed by using SP Skills in Live Shows
+Each use of your SP Skill will be counted towards the Goal if you clear the Live Show. SP Skills used won&apos;t be counted if you quit before completing the Live Show, or if your stamina reaches 0.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_16", /*message*/"The stat needed to continue Live Shows.
 Your stamina goes down whenever you tap notes during a Live Show.
 Watch out, too, since if you fail an Appeal Chance, you will lose a lot more stamina.
@@ -8176,7 +9096,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_143", /*message*/"Ran
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_144", /*message*/"Disconnections");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_147", /*message*/"Bond Board");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_148", /*message*/"Bond Board Effects");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_149", /*message*/"Dream Live Parade");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_15", /*message*/"Guests");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_150", /*message*/"Live Show Stage Progression and Parade Progression");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_151", /*message*/"PP");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_152", /*message*/"Bonus School Idols");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_154", /*message*/"Focused Formations");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_155", /*message*/"Specialist Formations");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_16", /*message*/"Stamina");
@@ -8326,6 +9250,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1804", /*message*/"An item u
 <color value=\"#ff3494\">When they expire, every 5 School Idol Sparkles will be converted into one School Idol Radiance. This amount is rounded up.</color>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1900", /*message*/"An item used to unlock tiles during Practice.
 You can obtain them from Training and normal Live Shows.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_19001", /*message*/"This ticket can be exchanged for a variety of items in the Item Exchange.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1960", /*message*/"An item used to unlock tiles during Practice.
 You can obtain them from Training and daily Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_20001", /*message*/"You can trade this at the Event Exchange for all sorts of items.");
@@ -8348,6 +9273,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21015", /*message*/"This tic
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_2200", /*message*/"An item that restores one AP.
 You can obtain them by completing Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_22001", /*message*/"You can trade this at the Event Exchange for all sorts of items.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_24001", /*message*/"This item restores 1 PP.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_8000", /*message*/"An item used to unlock members&apos; voiced lines and side episodes in Practice.
 You can obtain them from normal or daily Live Shows of songs they sing in.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_9000", /*message*/"A ticket that allows you to scout once.");
@@ -8524,6 +9450,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_18207", /*message*/"Setsuna 
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_18208", /*message*/"Emma Verde Memento Piece");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_18209", /*message*/"Rina Tennoji Memento Piece");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1900", /*message*/"Red Macaron ★1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_19001", /*message*/"Parade Medal");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1901", /*message*/"Red Macaron ★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1902", /*message*/"Red Macaron ★3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1910", /*message*/"Blue Macaron ★1");
@@ -8566,6 +9493,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21014", /*message*/"Aqours S
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21015", /*message*/"Nijigasaki Summer Splash Costume Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_2200", /*message*/"Training Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_22001", /*message*/"SBL Medal");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_24001", /*message*/"Performance Drink");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_8001", /*message*/"Honoka Memorial Piece");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_8002", /*message*/"Eli Memorial Piece");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_8003", /*message*/"Kotori Memorial Piece");
@@ -16973,6 +17901,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10400511", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10400512", /*message*/"Complete 1,000 Live Shows with Rina Tennoji as the center of your Show Formation.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10400513", /*message*/"Complete 5,000 Live Shows with Rina Tennoji as the center of your Show Formation.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10500521", /*message*/"The starter title.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10502441", /*message*/"Complete a Live Stage in Dream Live Parade: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10502442", /*message*/"Complete a Live Stage in Dream Live Parade: x30");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10502443", /*message*/"Complete a Live Stage in Dream Live Parade: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10600011", /*message*/"「New Romantic Sailors」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10600021", /*message*/"「Braveheart Coaster」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10600031", /*message*/"「Amazing Travel DNA」を10回クリアする");
@@ -17958,6 +18889,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10400511", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10400512", /*message*/"Rina Tennoji Fan ★★");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10400513", /*message*/"Rina Tennoji Fan ★★★");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10500521", /*message*/"New Player");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10502441", /*message*/"Parade Master ★");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10502442", /*message*/"Parade Master ★★");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10502443", /*message*/"Parade Master ★★★");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10600011", /*message*/"Guilty Kiss First LOVELIVE!  ~New Romantic Sailors~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10600021", /*message*/"CYaRon！ First LOVELIVE!  ~Braveheart Coaster~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10600031", /*message*/"AZALEA First LOVELIVE!  ~Amazing Travel DNA~");
@@ -30554,6 +31488,9 @@ Composition / Arrangement: Kenta Urashima, Takumi Yamamoto");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2019", /*message*/"Lyrics: NOVECHIKA, Naoki Kubo
 Composition: Naoki Kubo
 Arrangement: Hisashi Nawata");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2020", /*message*/"Lyrics: Kanata Okajima
+Composition: Keisuke Koyama, Shunsuke Harada
+Arrangement: Keisuke Koyama");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2031", /*message*/"Lyrics / Composition / Arrangement：Dummy Dog");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2032", /*message*/"Lyrics：hot tears
 Composition：Shota Kageyama
@@ -30627,6 +31564,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2016", /*message*/"My Own 
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2017", /*message*/"MELODY");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2018", /*message*/"Koe Tsunagou yo");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2019", /*message*/"Tele Telepathy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2020", /*message*/"Love U my friends");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2031", /*message*/"SUPER NOVA");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2032", /*message*/"Dream Land! Dream World!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2033", /*message*/"Sing &amp; Smile!!");
@@ -30697,6 +31635,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2016", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2017", /*message*/"めろでぃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2018", /*message*/"こえつなごうよ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2019", /*message*/"てれてれぱしー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2020", /*message*/"らぶゆーまいふれんず");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2031", /*message*/"すーぱーのゔぁ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2032", /*message*/"どりーむらんどどりーむわーるど");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2033", /*message*/"しんぐあんどすまいる");
@@ -31100,6 +32039,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"tower_result_ls_101", /*message*/"/ {0
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_17001", /*message*/"You can trade Memory Keys for various items. These will be reset on the first of every month at 12:00 am JST.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_21001", /*message*/"You can exchange one ticket for one costume.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_21007", /*message*/"You can trade Exchange Tickets for Memento Pieces.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_33000", /*message*/"You can exchange Parade Medals for a variety of rewards.
+These will be reset on the first of every month at 12:00 am JST.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_33500", /*message*/"You can exchange Parade Medals for a variety of rewards.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_gacha_point_shiny_piece", /*message*/"Exchange Shiny Pieces for rewards. This Exchange resets on the 1st of every month at 12:00 am JST.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_gacha_point_shiny_quartz", /*message*/"Exchange Shiny Quartz for rewards. Shiny Quartz become Shiny Pieces once they expire.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_monthly_reset_false", /*message*/"You can trade SBL Medals for rewards.");

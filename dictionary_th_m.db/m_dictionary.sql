@@ -852,6 +852,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002304", /*message*/"[AZALEA First LOVELIVE! 課題] เคลียร์ &quot;Torikoriko PLEASE!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002305", /*message*/"[AZALEA First LOVELIVE! 課題] เคลียร์ &quot;Amazing Travel DNA&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002402", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002601", /*message*/"[ฉลองเปิดบริการดรีมไลฟ์พาเรด!] ปลดช่องเสริมพลังในบอร์ดความสนิท 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002602", /*message*/"[ฉลองเปิดบริการดรีมไลฟ์พาเรด!] ปลดช่องเสริมพลังในบอร์ดความสนิท 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002603", /*message*/"[ฉลองเปิดบริการดรีมไลฟ์พาเรด!] เล่นดรีมไลฟ์พาเรด 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002604", /*message*/"[ฉลองเปิดบริการดรีมไลฟ์พาเรด!] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002605", /*message*/"[ฉลองเปิดบริการดรีมไลฟ์พาเรด!] ฟื้นฟู PP ของสคูลไอดอล 1 คน ในดรีมไลฟ์พาเรด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002606", /*message*/"[ฉลองเปิดบริการดรีมไลฟ์พาเรด!] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -866,6 +872,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"บทที่ 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"บทที่ 7");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"พรีอีเวนต์ ดรีมไลฟ์พาเรด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"ดรีมไลฟ์พาเรด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -1996,6 +2004,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500162", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500163", /*message*/"ได้รับโบนัสจากบอร์ดของยูกิ เซ็ตสึนะ 15 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500164", /*message*/"ได้รับโบนัสจากบอร์ดของเอ็มม่า เวอร์เด้ 15 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500165", /*message*/"ได้รับโบนัสจากบอร์ดของเท็นโนจิ รินะ 15 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700001", /*message*/"เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700002", /*message*/"เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 30 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700003", /*message*/"เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"Lv.ความสนิท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"เครื่องประดับ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"แคมเปญ");
@@ -2005,6 +2016,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_16", /*message*/"เค�
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_18", /*message*/"ไลฟ์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_19", /*message*/"บอร์ดความสนิท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_2", /*message*/"สคูลไอดอล");
+INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_20", /*message*/"ดรีมไลฟ์พาเรด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_3", /*message*/"เนื้อเรื่อง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_4", /*message*/"บทเสริม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_5", /*message*/"แรงก์ผู้เล่น");

@@ -20,3 +20,9 @@ INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32003, /*page_number*/3, /*title*/"dummy.event_coop_rule_title_3200303", /*image_asset_path*/"e'\");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32003, /*page_number*/4, /*title*/"dummy.event_coop_rule_title_3200304", /*image_asset_path*/"`E*");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32003, /*page_number*/5, /*title*/"dummy.event_coop_rule_title_3200305", /*image_asset_path*/"!Ta");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33001, /*page_number*/1, /*title*/"dummy.event_tower_rule_title_33001_001", /*image_asset_path*/":?7");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33001, /*page_number*/2, /*title*/"dummy.event_tower_rule_title_33001_002", /*image_asset_path*/"]3Z");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33001, /*page_number*/3, /*title*/"dummy.event_tower_rule_title_33001_003", /*image_asset_path*/"^vv");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33001, /*page_number*/4, /*title*/"dummy.event_tower_rule_title_33001_004", /*image_asset_path*/")44");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33001, /*page_number*/5, /*title*/"dummy.event_tower_rule_title_33001_005", /*image_asset_path*/":!Z");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33001, /*page_number*/6, /*title*/"dummy.event_tower_rule_title_33001_006", /*image_asset_path*/"!).");

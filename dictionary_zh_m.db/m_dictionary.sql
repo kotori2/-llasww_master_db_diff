@@ -848,6 +848,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002304", /*message*/"[AZALEA First LOVELIVE! 課題] 完成10次「Torikoriko PLEASE!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002305", /*message*/"[AZALEA First LOVELIVE! 課題] 完成10次「Amazing Travel DNA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002402", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002601", /*message*/"[夢幻遊行演唱會登場紀念！]解鎖1次默契能力表的強化晶格");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002602", /*message*/"[夢幻遊行演唱會登場紀念！]解鎖5次默契能力表的強化晶格");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002603", /*message*/"[夢幻遊行演唱會登場紀念！]遊玩10次夢幻遊行演唱會的LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002604", /*message*/"[夢幻遊行演唱會登場紀念！]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002605", /*message*/"[夢幻遊行演唱會登場紀念！]在夢幻遊行演唱會中回復1名學園偶像的PP");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002606", /*message*/"[夢幻遊行演唱會登場紀念！]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -862,6 +868,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"第5話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"第6話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"第7話");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"試玩活動 夢幻遊行演唱會");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"夢幻遊行演唱會");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");
@@ -1992,6 +2000,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500162", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500163", /*message*/"獲得15次優木雪菜的默契能力表特效獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500164", /*message*/"獲得15次艾瑪‧薇蒂的默契能力表特效獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309500165", /*message*/"獲得15次天王寺璃奈的默契能力表特效獎勵");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700001", /*message*/"在夢幻遊行演唱會中通過10次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700002", /*message*/"在夢幻遊行演唱會中通過30次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700003", /*message*/"在夢幻遊行演唱會中通過100次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"默契Lv.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"飾品");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"特別活動");
@@ -2001,6 +2012,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_16", /*message*/"完成�
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_18", /*message*/"LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_19", /*message*/"默契能力表");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_2", /*message*/"學園偶像");
+INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_20", /*message*/"夢幻遊行演唱會");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_3", /*message*/"劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_4", /*message*/"STAR劇院");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_5", /*message*/"玩家RANK");

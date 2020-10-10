@@ -22,7 +22,6 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0016", /*acb_pack_name*/"
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0017", /*acb_pack_name*/"swdgj3", /*awb_pack_name*/"b73ls3");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0018", /*acb_pack_name*/"7ic2k1", /*awb_pack_name*/"fc0hhe");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0019", /*acb_pack_name*/"wrtnuq", /*awb_pack_name*/"sz78v6");
-INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0023", /*acb_pack_name*/"s77zfx", /*awb_pack_name*/"hpqya5");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0027", /*acb_pack_name*/"gc2w9h", /*awb_pack_name*/"ig7d5v");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0028", /*acb_pack_name*/"t5uavt", /*awb_pack_name*/"obz5dw");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0030", /*acb_pack_name*/"ae66du", /*awb_pack_name*/"7uk1up");
@@ -226,6 +225,8 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"music_2018", /*acb_pack_name*
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"music_2018_SABI", /*acb_pack_name*/"91a930", /*awb_pack_name*/"21e4gt");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"music_2019", /*acb_pack_name*/"kwp8h4", /*awb_pack_name*/"eyhxww");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"music_2019_SABI", /*acb_pack_name*/"fzrhtr", /*awb_pack_name*/"cfg5kd");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"music_2020", /*acb_pack_name*/"y4nesy", /*awb_pack_name*/"f0mf6g");
+INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"music_2020_SABI", /*acb_pack_name*/"9f5t8v", /*awb_pack_name*/"l8z8d7");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"music_2031", /*acb_pack_name*/"kz2jmz", /*awb_pack_name*/"0ergic");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"music_2031_SABI", /*acb_pack_name*/"r1qi36", /*awb_pack_name*/"8tu92c");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"music_2032", /*acb_pack_name*/"8h603s", /*awb_pack_name*/"gqaq7n");

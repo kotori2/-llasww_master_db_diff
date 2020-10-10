@@ -81,6 +81,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_22", /*message*/"はじ
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_23", /*message*/"ユニットピンズ（CYaRon！）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_24", /*message*/"ユニットピンズ（AZALEA）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_25", /*message*/"ユニットピンズ（Guilty Kiss）");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_26", /*message*/"心形腰帶");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_27", /*message*/"幸運草頸鍊");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_28", /*message*/"雪花結晶手環");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_3", /*message*/"音符胸針");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_4", /*message*/"音符鑰匙圈");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_name_5", /*message*/"花朵手鍊");
@@ -1488,6 +1491,846 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40
 發動情境：體力受到消耗時 機率：5%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_40000039_9", /*message*/"下次發動組合技所累積的張力值＋94
 發動情境：體力受到消耗時 機率：5%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_1", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_10", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_11", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_12", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_13", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.4%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_14", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.4%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_15", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_2", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_3", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_4", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_5", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_6", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_7", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_8", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000420_9", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_1", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_10", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.6%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_11", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.6%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_12", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.7%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_13", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.8%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_14", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.8%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_15", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.9%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_16", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_2", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_3", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_4", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_5", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_6", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_7", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.4%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_8", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.4%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000421_9", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_1", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_10", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.8%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_11", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.9%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_12", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_13", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_14", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_15", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_16", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.4%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_17", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_2", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_3", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_4", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_5", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_6", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.4%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_7", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_8", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.6%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000422_9", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.7%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_1", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_10", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_11", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_12", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_13", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.4%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_14", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_15", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.6%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_16", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.7%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_17", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.8%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_18", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_2", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_3", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_4", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_5", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.4%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_6", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_7", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.7%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_8", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.8%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000423_9", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.9%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_1", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_10", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_11", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.6%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_12", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.8%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_13", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_14", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_15", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_16", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3.5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_17", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3.6%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_18", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3.8%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_19", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的4%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_2", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_3", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_4", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_5", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.6%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_6", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.8%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_7", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_8", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000424_9", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_1", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_10", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.8%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_11", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_12", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_13", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3.5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_14", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3.7%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_15", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的3.9%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_16", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的4.1%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_17", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的4.3%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_18", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的4.5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_19", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的4.7%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_2", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_20", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的5%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_3", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.4%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_4", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.6%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_5", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的1.8%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_6", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_7", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.2%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_8", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.4%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000425_9", /*message*/"直到LIVE結束，組合技所累積的張力值＋自己技巧值的2.6%
+發動情境：LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_1", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_10", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.9%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_11", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_12", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.3%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_13", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_14", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.7%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_15", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_2", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_3", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.4%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_4", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_5", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_6", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_7", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_8", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000450_9", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.7%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_1", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_10", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.4%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_11", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_12", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.9%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_13", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_14", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.4%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_15", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.7%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_16", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_2", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_3", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_4", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_5", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_6", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.3%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_7", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_8", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000451_9", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_1", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_10", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_11", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_12", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.4%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_13", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.7%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_14", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_15", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋5.3%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_16", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋5.6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_17", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_2", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.3%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_3", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_4", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.9%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_5", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_6", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_7", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_8", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000452_9", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_1", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_10", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_11", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_12", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_13", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋5.2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_14", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋5.5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_15", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋5.9%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_16", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋6.2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_17", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋6.6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_18", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋7%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_2", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.3%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_3", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.7%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_4", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_5", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.4%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_6", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.7%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_7", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_8", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.4%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000453_9", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_1", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_10", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_11", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_12", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋5.2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_13", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋5.6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_14", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_15", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋6.4%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_16", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋6.8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_17", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋7.2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_18", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋7.6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_19", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_2", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.3%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_3", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.7%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_4", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_5", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_6", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.9%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_7", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.3%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_8", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.7%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000454_9", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_1", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_10", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋5.2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_11", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋5.7%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_12", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋6.2%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_13", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋6.6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_14", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋7.1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_15", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋7.6%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_16", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋8.1%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_17", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋8.5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_18", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋9%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_19", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋9.5%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_2", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.4%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_20", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋10%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_3", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋1.9%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_4", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.4%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_5", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋2.8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_6", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.3%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_7", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋3.8%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_8", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.3%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000455_9", /*message*/"直到LIVE結束，表現時所獲得的基礎張力累積量上限＋4.7%
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_1", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_10", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.2%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_11", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_12", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.9%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_13", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高9.2%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_14", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高9.6%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_15", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高10%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_2", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5.3%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_3", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5.7%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_4", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高6%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_5", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高6.4%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_6", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高6.7%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_7", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高7.1%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_8", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高7.5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000480_9", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高7.8%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_1", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_10", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高9.2%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_11", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高9.6%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_12", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高10.1%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_13", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高10.6%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_14", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高11%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_15", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高11.5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_16", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高12%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_2", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5.4%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_3", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5.9%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_4", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高6.4%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_5", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高6.8%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_6", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高7.3%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_7", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高7.8%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_8", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.2%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000481_9", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.7%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_1", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_10", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高10%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_11", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高10.6%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_12", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高11.1%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_13", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高11.7%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_14", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高12.3%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_15", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高12.8%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_16", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高13.4%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_17", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高14%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_2", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5.5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_3", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高6.1%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_4", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高6.6%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_5", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高7.2%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_6", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高7.8%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_7", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.3%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_8", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.9%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000482_9", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高9.5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_1", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_10", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高10.8%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_11", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高11.4%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_12", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高12.1%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_13", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高12.7%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_14", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高13.4%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_15", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高14%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_16", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高14.7%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_17", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高15.3%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_18", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高16%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_2", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5.6%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_3", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高6.2%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_4", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高6.9%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_5", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高7.5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_6", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.2%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_7", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.8%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_8", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高9.5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000483_9", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高10.1%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_1", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_10", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高11.5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_11", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高12.2%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_12", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高12.9%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_13", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高13.6%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_14", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高14.3%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_15", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高15.1%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_16", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高15.8%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_17", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高16.5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_18", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高17.2%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_19", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高18%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_2", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5.7%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_3", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高6.4%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_4", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高7.1%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_5", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高7.8%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_6", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.6%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_7", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高9.3%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_8", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高10%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000484_9", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高10.7%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_1", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_10", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高12.1%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_11", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高12.8%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_12", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高13.6%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_13", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高14.4%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_14", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高15.2%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_15", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高16%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_16", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高16.8%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_17", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高17.6%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_18", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高18.4%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_19", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高19.2%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_2", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高5.7%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_20", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高20%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_3", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高6.5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_4", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高7.3%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_5", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.1%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_6", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高8.9%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_7", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高9.7%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_8", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高10.5%)
+發動情境：LIVE進行中
+適用對象：自己");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_description_400000485_9", /*message*/"直到LIVE結束，剩餘的體力越多，基礎CRITICAL效果提升幅度越大(最高11.3%)
+發動情境：LIVE進行中
+適用對象：自己");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000001", /*message*/"組合技量表增加量＋(活力)：LIVE進行中");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000002", /*message*/"組合技量表增加量＋(活力)：LIVE進行中");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000003", /*message*/"組合技量表增加量＋(活力)：LIVE進行中");
@@ -1527,6 +2370,24 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000036"
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000037", /*message*/"表現力UP :切換群組時");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000038", /*message*/"組合技量表增加量UP :表現時間開始時");
 INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_40000039", /*message*/"組合技UP :體力消耗時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000420", /*message*/"組合技UP :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000421", /*message*/"組合技UP :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000422", /*message*/"組合技UP :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000423", /*message*/"組合技UP :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000424", /*message*/"組合技UP :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000425", /*message*/"組合技UP :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000450", /*message*/"解鎖張力累積量上限 :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000451", /*message*/"解鎖張力累積量上限 :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000452", /*message*/"解鎖張力累積量上限 :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000453", /*message*/"解鎖張力累積量上限 :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000454", /*message*/"解鎖張力累積量上限 :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000455", /*message*/"解鎖張力累積量上限 :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000480", /*message*/"CRITICAL＋(活力) :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000481", /*message*/"CRITICAL＋(活力) :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000482", /*message*/"CRITICAL＋(活力) :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000483", /*message*/"CRITICAL＋(活力) :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000484", /*message*/"CRITICAL＋(活力) :LIVE進行中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"accessory_passive_skill_name_400000485", /*message*/"CRITICAL＋(活力) :LIVE進行中");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_101", /*message*/"學園偶像祭ID任務");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_401", /*message*/"已完成所有任務。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"achievement_l_402", /*message*/"沒有已完成的任務。");
@@ -7499,6 +8360,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_12", /*message*/"好友"
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_13", /*message*/"遊戲教學");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_14", /*message*/"其他");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_15", /*message*/"大型合作演唱會");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_16", /*message*/"夢幻遊行演唱會");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_2", /*message*/"LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_3", /*message*/"培育學園偶像");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_category_4", /*message*/"編組");
@@ -7569,13 +8431,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_124", /*message*/"<al
 <align=\"center\"><sprite src=\"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_11305\" width=\"1184px\" height=\"520px\"/></align>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_125", /*message*/"可確認更新資訊、系統維護資訊等來自營運團隊的公告事宜。
 由於公告含有遊戲內外相關重要內容，請務必隨時進行確認。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_126", /*message*/"藉由完成課題，可領取道具、稱號等各種報酬。
-
-【課題更新時間】
-每日課題：每天0:00(日本時間)更新。
-每週課題：每週一0:00(日本時間)更新。
-
-請注意，劇情中的LIVE舞台並不在LIVE相關課題的計算範圍內。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_127", /*message*/"可確認目前為止進行過的LIVE履歷及最愛成員的排名。
 在嘉賓設定中，可按各屬性設定參加好友LIVE的學園偶像。
 
@@ -7787,12 +8642,36 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_148", /*message*/"在
 ・學園偶像最高等級上限提升
 　提升學園偶像的最高等級上限。
 　上限解鎖後，透過特訓畫面的「提升等級」按鈕，即可讓學園偶像更加成長。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_149", /*message*/"夢幻遊行演唱會是必須依照順序完成演唱會舞台的活動。
+另外，可能會有多個遊行在夢幻遊行演唱會中同時舉辦。
+屆時請從遊行選擇畫面選擇想參加的遊行。
+
+夢幻遊行演唱會規則
+
+・夢幻遊行演唱會雖然不會消耗LP，但是每名學園偶像可參加活動的次數將會有所限制。
+・可參加的次數將以「PP」來表示，PP顯示的內容為學園偶像在該遊行的使用次數上限值與目前剩餘的值。
+・每次參加活動的舞台時都會消耗1PP。
+・通過的演唱會舞台將無法再度挑戰。
+・在夢幻遊行演唱會中，即使完成LIVE，也不會掉落報酬和獲得玩家經驗值、默契點數。
+
+只有以下時間點才能在夢幻遊行演唱會中獲得報酬。
+・首次完成各個演唱會舞台時，可獲得首次完成報酬。
+・首次完成特定的演唱會舞台時，可獲得舞台完成報酬。
+
+獲得的報酬可在夢幻遊行演唱會專用交換所中，
+用來交換飾品、高級記憶碎片等期間限定道具，或一般可隨時交換的道具。
+
+期間限定道具內容有可能會在下次夢幻遊行演唱會登場時改變。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_15", /*message*/"嘉賓為一起協助LIVE的其他玩家。
 
 當嘉賓為好友時，可使用好友學園偶像的優勢與<color value=\"#ff3494\">經驗技能</color>。
 嘉賓非好友時，則僅可使用嘉賓學園偶像的優勢。
 
 關於優勢和經驗技能的詳細內容，請至「培育學園偶像」的「優勢」、「經驗技能」中確認。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_152", /*message*/"活動特效學園偶像是指在活動中具備有利效果的學園偶像。
+
+在夢幻遊行演唱會中，活動特效學園偶像的PP上限值將會增加。
+每段活動期間的活動特效學園偶像都會有所不同。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_153", /*message*/"道具會依消耗品、集訓、星探券、培育、飾品等分頁以列表方式顯示。
 ※消耗品、集訓和星探券僅會顯示目前持有的道具。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_154", /*message*/"突破型編組為僅以一種群組來遊玩歌曲的隊伍編組。
@@ -7832,6 +8711,64 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_156", /*message*/"玩
 
 關於突破型編組的詳細內容，請至「編組」中的「關於突破型編組」確認。
 關於職務分配編組的詳細內容，請至「編組」中的「關於職務分配編組」確認。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_157", /*message*/"在演唱會舞台中，必須努力累積獲得舞台所設定的目標張力。
+在達成目標張力之前，將無法挑戰下一個舞台。
+
+若挑戰演唱會舞台但未能達成目標張力，所累積的張力將會被繼承下一次挑戰時。
+
+中途退出舞台的話，則不會消耗PP。
+
+如果在舞台進行中遊戲發生強制關閉的情形時，則視同沒有通過舞台，也不會消耗PP。
+
+劇情舞台會在觀賞完劇情後就算通過。
+
+插畫舞台的通過時間點會因有無報酬而異。
+若無報酬的情況，插畫舞台就會在通過前一個演唱會舞台時同時通過。
+若有報酬的情況，插畫舞台就會在顯示插畫後獲得報酬時同時通過。
+
+每個遊行的舞台進度都會被繼承，
+當同一個遊行再度登場時，就可以接續上次的進度繼續遊玩。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_158", /*message*/"PP為在夢幻遊行演唱會中進行演唱會舞台時所需的點數。
+每名學園偶像都設有PP上限，每次挑戰舞台時就會減少。
+當隊伍編組中有PP不足以進行舞台的學園偶像存在時，就無法進行挑戰。
+
+每個活動的PP都會個別管理，
+當同時有多個遊行登場時，每個遊行中可進行舞台的次數會有所不同。
+
+PP可在學園偶像列表及學園偶像詳細畫面中確認。
+畫面中會顯示學園偶像在該遊行的使用次數上限值與目前剩餘的值。
+
+回復PP的方法有以下兩種：
+①完全回復所有學園偶像的PP
+②使用表演能量飲料或虹彩星石個別回復學園偶像的PP
+※以上方法在活動舉辦期間內都有使用次數上限。
+
+活動特效學園偶像將標有PP徽章，
+標有徽章的學園偶像，其分母(上限值)會比其他學園偶像更高。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_159", /*message*/"藉由完成課題，可領取道具、稱號等各種報酬。
+
+【課題更新時間】
+每日課題：每天0:00(日本時間)更新。
+每週課題：每週一0:00(日本時間)更新。
+
+請注意，劇情中的LIVE舞台並不在LIVE相關課題的計算範圍內。
+
+【課題計算方式標準】
+・條件為進行LIVE的課題
+　消耗LP並開始LIVE後即會被計算。
+　請注意，在夢幻遊行演唱會的LIVE途中中斷或退出時則不會被計算。
+
+・條件為通過LIVE的課題
+　完成LIVE後即會被計算。
+　於LIVE途中中斷、退出或體力耗盡為0時則不會被計算。
+
+・條件為於LIVE中使用特技的課題
+　完成LIVE後，該場LIVE中使用特技的次數即會被計算。
+　於LIVE途中中斷、退出或體力耗盡為0時，則該場LIVE中發動特技的次數則不會被計算。
+
+・條件為於LIVE中使用組合技的課題
+　完成LIVE後，該場LIVE中使用組合技的次數即會被計算。
+　於LIVE途中中斷、退出或體力耗盡為0時，則該場LIVE中發動組合技的次數則不會被計算。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_16", /*message*/"維持LIVE所需的能力值。
 在LIVE中，每次處理節奏圖示時體力都會減少。
 請注意，若在表現時間中失敗，體力將會大幅減少。
@@ -8410,7 +9347,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_143", /*message*/"排
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_144", /*message*/"關於連線中斷");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_147", /*message*/"默契能力表");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_148", /*message*/"默契能力表的效果");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_149", /*message*/"關於夢幻遊行演唱會");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_15", /*message*/"嘉賓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_150", /*message*/"關於演唱會舞台進度與遊行進度");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_151", /*message*/"關於PP");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_152", /*message*/"關於活動特效學園偶像");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_154", /*message*/"關於突破型編組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_155", /*message*/"關於職務分配編組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_topc_16", /*message*/"體力");
@@ -8565,6 +9506,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1804", /*message*/"在特訓
 <color value=\"#ff3494\">※有效期限結束後，每5個輝石將會轉換為1個學園偶像光石。無法整除的餘數則會無條件進位成1個。</color>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1900", /*message*/"在特訓中用來解鎖晶格的道具。
 可透過集訓或一般的LIVE獲得。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_19001", /*message*/"可用來在活動禮品交換所內交換各種物品。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1960", /*message*/"在特訓中用來解鎖晶格的道具。
 可透過集訓或每日LIVE獲得。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_20001", /*message*/"可用來在活動禮品交換所內交換各種物品。");
@@ -8587,6 +9529,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21015", /*message*/"每張�
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_2200", /*message*/"可讓AP回復1的道具。
 有機會在完成課題時獲得。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_22001", /*message*/"可用來在活動禮品交換所內交換各種物品。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_24001", /*message*/"可用來回復1PP的道具。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_8000", /*message*/"在特訓中用來解鎖學園偶像的語音及旁支劇情晶格的道具。
 可透過參加一般或每日歌曲的LIVE獲得。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_9000", /*message*/"可進行1次新星挖掘的票券。");
@@ -8763,6 +9706,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_18207", /*message*/"優木�
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_18208", /*message*/"艾瑪‧薇蒂的高級記憶碎片");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_18209", /*message*/"天王寺璃奈的高級記憶碎片");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1900", /*message*/"紅色馬卡龍★1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_19001", /*message*/"遊行獎章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1901", /*message*/"紅色馬卡龍★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1902", /*message*/"紅色馬卡龍★3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1910", /*message*/"藍色馬卡龍★1");
@@ -8805,6 +9749,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21014", /*message*/"Aqours�
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21015", /*message*/"虹咲盛夏水邊之花服裝交換券");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_2200", /*message*/"集訓票券");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_22001", /*message*/"大型合作演唱會獎章");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_24001", /*message*/"表演能量飲料");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_8001", /*message*/"高坂穗乃果的記憶碎片");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_8002", /*message*/"絢瀨繪里的記憶碎片");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_8003", /*message*/"南琴梨的記憶碎片");
@@ -17584,6 +18529,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10400511", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10400512", /*message*/"把天王寺璃奈排在隊伍中央去完成1,000場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10400513", /*message*/"把天王寺璃奈排在隊伍中央去完成5,000場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10500521", /*message*/"初期持有的稱號");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10502441", /*message*/"在夢幻遊行演唱會中通過10次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10502442", /*message*/"在夢幻遊行演唱會中通過30次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10502443", /*message*/"在夢幻遊行演唱會中通過100次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10600011", /*message*/"「New Romantic Sailors」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10600021", /*message*/"「Braveheart Coaster」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10600031", /*message*/"「Amazing Travel DNA」を10回クリアする");
@@ -18569,6 +19517,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10400511", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10400512", /*message*/"最愛天王寺璃奈★★");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10400513", /*message*/"最愛天王寺璃奈★★★");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10500521", /*message*/"ALL STAR新手");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10502441", /*message*/"遊行專家★");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10502442", /*message*/"遊行專家★★");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10502443", /*message*/"遊行專家★★★");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10600011", /*message*/"Guilty Kiss First LOVELIVE!  ~New Romantic Sailors~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10600021", /*message*/"CYaRon！ First LOVELIVE!  ~Braveheart Coaster~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10600031", /*message*/"AZALEA First LOVELIVE!  ~Amazing Travel DNA~");
@@ -32146,6 +33097,9 @@ Composition / Arrangement: Kenta Urashima, Takumi Yamamoto");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2019", /*message*/"Lyrics: NOVECHIKA, Naoki Kubo
 Composition: Naoki Kubo
 Arrangement: Hisashi Nawata");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2020", /*message*/"Lyrics: Kanata Okajima
+Composition: Keisuke Koyama, Shunsuke Harada
+Arrangement: Keisuke Koyama");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2031", /*message*/"Lyrics / Composition / Arrangement：Dummy Dog");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so2032", /*message*/"Lyrics：hot tears
 Composition：Shota Kageyama
@@ -32219,6 +33173,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2016", /*message*/"My Own 
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2017", /*message*/"MELODY");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2018", /*message*/"Koe Tsunagou yo");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2019", /*message*/"Tele Telepathy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2020", /*message*/"Love U my friends");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2031", /*message*/"SUPER NOVA");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2032", /*message*/"Dream Land! Dream World!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so2033", /*message*/"Sing &amp; Smile!!");
@@ -32289,6 +33244,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2016", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2017", /*message*/"めろでぃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2018", /*message*/"こえつなごうよ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2019", /*message*/"てれてれぱしー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2020", /*message*/"らぶゆーまいふれんず");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2031", /*message*/"すーぱーのゔぁ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2032", /*message*/"どりーむらんどどりーむわーるど");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so2033", /*message*/"しんぐあんどすまいる");
@@ -32736,6 +33692,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_17001", /*message*/"
 此處的內容會在每個月1號的0:00(日本時間)重置。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_21001", /*message*/"每張票券可交換1件服裝。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_21007", /*message*/"可用交換券來交換高級記憶碎片。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_33000", /*message*/"可用遊行獎章來交換各種報酬。
+此處的內容會在每個月1號的0:00(日本時間)重置。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_33500", /*message*/"可用遊行獎章來交換各種報酬。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_gacha_point_shiny_piece", /*message*/"可用閃耀碎晶來交換各種報酬。
 此處的內容會在每個月1號的0:00(日本時間)重置。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"trade_description_gacha_point_shiny_quartz", /*message*/"可用閃耀晶鑽來交換各種報酬。

@@ -6,3 +6,4 @@ CREATE TABLE m_tower_period(
   PRIMARY KEY (id),
   FOREIGN KEY (tower_id) REFERENCES m_tower(tower_id)
 );
+INSERT INTO `m_tower_period` VALUES (/*id*/1, /*tower_id*/33001, /*start_at*/1602309600, /*end_at*/1602655200);

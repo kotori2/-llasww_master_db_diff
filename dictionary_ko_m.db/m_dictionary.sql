@@ -670,6 +670,20 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000525", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000526", /*message*/"의상 1벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000527", /*message*/"의상 2벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000528", /*message*/"의상 3벌 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000601", /*message*/"스쿨 아이돌 1명 최대 레벨 달성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000602", /*message*/"스쿨 아이돌 2명 최대 레벨 달성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000603", /*message*/"기간 중, 4회 로그인 보너스 받기");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000604", /*message*/"기간 중, 8회 로그인 보너스 받기");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000605", /*message*/"합숙 10회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000606", /*message*/"합숙 20회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000607", /*message*/"라이브 10회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000608", /*message*/"라이브 25회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000609", /*message*/"라이브 30회 클리어　6/5 15:00 ~ 6/9 3:59");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000610", /*message*/"라이브 30회 클리어　6/9 4:00 ~ 6/12 3:59");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000611", /*message*/"라이브 30회 클리어　6/12 4:00 ~ 6/15 14:59");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000612", /*message*/"의상 1벌 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000613", /*message*/"의상 2벌 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000614", /*message*/"의상 3벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300101", /*message*/"Bokura wa Ima no Naka de 10회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300102", /*message*/"Bokura wa Ima no Naka de 20회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300103", /*message*/"라이브 10회 플레이");
@@ -868,6 +882,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"제5화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"제6화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"제7화");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31006", /*message*/"이벤트 메인");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"사전 이벤트 드림 라이브 퍼레이드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"드림 라이브 퍼레이드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
@@ -2270,6 +2285,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_2", /*message*/"같
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012001_1", /*message*/"이벤트, 한 번 더?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_1", /*message*/"칭찬 배틀!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_2", /*message*/"무도회에도 갈 수 있어!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013002_1", /*message*/"단 하루의 마법");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013002_2", /*message*/"못 만나는 시간");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400022001_1", /*message*/"동경하는 언니?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023001_1", /*message*/"사람들의 미소는 나의 힘");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023001_2", /*message*/"너만의 과일");
@@ -2283,6 +2300,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400052001_1", /*message*/"스
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400053001_1", /*message*/"술래잡기를 마치고");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400053001_2", /*message*/"정의의 사냥꾼");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400062001_1", /*message*/"다시 놀 수 있을 때까지");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400062002_1", /*message*/"넓~은 바다");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063001_1", /*message*/"두 사람의 반짝임");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063001_2", /*message*/"따뜻한 분위기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072001_1", /*message*/"웃으면 복이 와요");
@@ -2301,6 +2319,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401013001_2", /*message*/"나
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401022001_1", /*message*/"별똥별 하모니");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401023001_1", /*message*/"하나되는 소리, 하나되는 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401023001_2", /*message*/"하나되는 마음");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401023002_1", /*message*/"전달하는 기술");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401023002_2", /*message*/"말로 전하는 대신");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401032001_1", /*message*/"다이빙부가 있었으면 좋겠어♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401032002_1", /*message*/"좋아하는 건 참을 수 없어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033001_1", /*message*/"다이빙 어게인");
@@ -2311,6 +2331,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043001_2", /*message*/"대
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043002_1", /*message*/"목표는 쿠로사와 라면집");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043002_2", /*message*/"만족하실 거예요");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052001_1", /*message*/"한 순간의 날개");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052002_1", /*message*/"또 한 쌍의 프린세스");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401053001_1", /*message*/"불가능에 도전?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401053001_2", /*message*/"의상 효과");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401062001_1", /*message*/"칠흑의 날개 후일담");
@@ -2335,11 +2356,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402032002_1", /*message*/"타
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402033001_1", /*message*/"오사카표 빙수");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402033001_2", /*message*/"무지개와 바다의 학교");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402042001_1", /*message*/"목표는 청초한 분위기?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402043001_1", /*message*/"드레스를 입으면");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402043001_2", /*message*/"마음이 놓이는 곳");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402052001_1", /*message*/"새하얀 지도");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402053001_1", /*message*/"기적을 부르는 개그");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402053001_2", /*message*/"상자를 열어도");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402062001_1", /*message*/"사랑을 담은 도시락");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402072001_1", /*message*/"추천하는 과자");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402072002_1", /*message*/"함께 힘을 모아서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402082001_1", /*message*/"스위스에 전하고 싶은 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402092001_1", /*message*/"장식하는 건 즐거워");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402092002_1", /*message*/"장바구니를 지켜라");

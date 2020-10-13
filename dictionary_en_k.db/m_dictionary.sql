@@ -3691,6 +3691,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013001_2",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013001_3", /*message*/"Voltage gained from next SP Skill increases by 31% of own Appeal.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013001_4", /*message*/"Voltage gained from next SP Skill increases by 31.5% of own Appeal.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013001_5", /*message*/"Voltage gained from next SP Skill increases by 32% of own Appeal.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013002_1", /*message*/"Increase Skill Activation % by 3.7% for 5 Notes.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013002_2", /*message*/"Increase Skill Activation % by 3.9% for 5 Notes.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013002_3", /*message*/"Increase Skill Activation % by 4.1% for 5 Notes.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013002_4", /*message*/"Increase Skill Activation % by 4.3% for 5 Notes.
+Affects: Same Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013002_5", /*message*/"Increase Skill Activation % by 4.5% for 5 Notes.
+Affects: Same Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400022001_1", /*message*/"Increase Critical Power by 5% for 5 Notes.
 Affects: Same Strategy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400022001_2", /*message*/"Increase Critical Power by 5.5% for 5 Notes.
@@ -3756,6 +3766,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400062001_2",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400062001_3", /*message*/"Gain 21% of own stamina as a shield.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400062001_4", /*message*/"Gain 24% of own stamina as a shield.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400062001_5", /*message*/"Gain 27% of own stamina as a shield.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400062002_1", /*message*/"Gain 25% of own Appeal as Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400062002_2", /*message*/"Gain 28% of own Appeal as Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400062002_3", /*message*/"Gain 31% of own Appeal as Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400062002_4", /*message*/"Gain 34% of own Appeal as Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400062002_5", /*message*/"Gain 37% of own Appeal as Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400063001_1", /*message*/"Voltage gained from next SP Skill increases by 30% of own Appeal.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400063001_2", /*message*/"Voltage gained from next SP Skill increases by 30.5% of own Appeal.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400063001_3", /*message*/"Voltage gained from next SP Skill increases by 31% of own Appeal.");
@@ -3836,6 +3851,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401023001_4",
 Affects: All");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401023001_5", /*message*/"Increase Appeal by 5.2% for 5 Notes.
 Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401023002_1", /*message*/"Voltage gained from next SP Skill increases by 30% of own Appeal.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401023002_2", /*message*/"Voltage gained from next SP Skill increases by 30.5% of own Appeal.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401023002_3", /*message*/"Voltage gained from next SP Skill increases by 31% of own Appeal.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401023002_4", /*message*/"Voltage gained from next SP Skill increases by 31.5% of own Appeal.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401023002_5", /*message*/"Voltage gained from next SP Skill increases by 32% of own Appeal.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401032001_1", /*message*/"Increase Critical % by 8% for 3 Notes.
 Affects: Same Attribute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401032001_2", /*message*/"Increase Critical % by 8.5% for 3 Notes.
@@ -3881,6 +3901,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052001_2",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052001_3", /*message*/"Reduce Stamina damage by 8% for 10 Notes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052001_4", /*message*/"Reduce Stamina damage by 9% for 10 Notes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052001_5", /*message*/"Reduce Stamina damage by 10% for 10 Notes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052002_1", /*message*/"Increase Critical % by 5% for 10 Notes.
+Affects: Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052002_2", /*message*/"Increase Critical % by 5.5% for 10 Notes.
+Affects: Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052002_3", /*message*/"Increase Critical % by 6% for 10 Notes.
+Affects: Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052002_4", /*message*/"Increase Critical % by 6.5% for 10 Notes.
+Affects: Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401052002_5", /*message*/"Increase Critical % by 7% for 10 Notes.
+Affects: Same Strategy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401053001_1", /*message*/"Gain 17% of own stamina as a shield.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401053001_2", /*message*/"Gain 20% of own stamina as a shield.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401053001_3", /*message*/"Gain 23% of own stamina as a shield.");
@@ -3996,6 +4026,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402042001_2",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402042001_3", /*message*/"Reduce Stamina damage by 8% for 10 Notes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402042001_4", /*message*/"Reduce Stamina damage by 9% for 10 Notes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402042001_5", /*message*/"Reduce Stamina damage by 10% for 10 Notes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402043001_1", /*message*/"Increase Appeal by 7% for 5 Notes.
+Affects: Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402043001_2", /*message*/"Increase Appeal by 7.5% for 5 Notes.
+Affects: Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402043001_3", /*message*/"Increase Appeal by 8% for 5 Notes.
+Affects: Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402043001_4", /*message*/"Increase Appeal by 8.5% for 5 Notes.
+Affects: Same Strategy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402043001_5", /*message*/"Increase Appeal by 9% for 5 Notes.
+Affects: Same Strategy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402052001_1", /*message*/"Gain 5% of max SP as SP Gauge");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402052001_2", /*message*/"Gain 5.5% of max SP as SP Gauge");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402052001_3", /*message*/"Gain 6% of max SP as SP Gauge");
@@ -4021,6 +4061,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402072001_4",
 Affects: Same Year");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402072001_5", /*message*/"SP Gauge gain increases by 3.9% for 5 Notes.
 Affects: Same Year");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402072002_1", /*message*/"Restore 17% of own stamina.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402072002_2", /*message*/"Restore 20% of own stamina.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402072002_3", /*message*/"Restore 23% of own stamina.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402072002_4", /*message*/"Restore 26% of own stamina.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402072002_5", /*message*/"Restore 29% of own stamina.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402082001_1", /*message*/"Increase Skill Activation % by 3.2% for 5 Notes.
 Affects: Same Strategy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402082001_2", /*message*/"Increase Skill Activation % by 3.4% for 5 Notes.
@@ -4307,6 +4352,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_302093001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_302093002", /*message*/"Alice in Veggie-land");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400012001", /*message*/"Let&apos;s Get Started!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400013001", /*message*/"Let&apos;s Enjoy Ourselves!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400013002", /*message*/"Morning Greetings");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400022001", /*message*/"Are You Fired Up?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400023001", /*message*/"A Bitter Invitation");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400032001", /*message*/"All Together Now!");
@@ -4316,6 +4362,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400043001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400052001", /*message*/"Racing Towards Tomorrow");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400053001", /*message*/"I Won&apos;t Let You Get Away");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400062001", /*message*/"Bright Smile");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400062002", /*message*/"Facing the Same Dream");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400063001", /*message*/"Rose Carnival");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400072001", /*message*/"Fate Ties Us Together");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400073001", /*message*/"Power of the Zodiac");
@@ -4328,6 +4375,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401012002", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401013001", /*message*/"I&apos;m Gonna Catch You!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401022001", /*message*/"A Wonderful Tone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401023001", /*message*/"Careful, I May Have Thorns");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401023002", /*message*/"Pride as a Princess");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401032001", /*message*/"Come Over Here!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401032002", /*message*/"To the Next Heartthrob!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401033001", /*message*/"I Won&apos;t Let You Leave Yet");
@@ -4335,6 +4383,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401042001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401043001", /*message*/"Rays of Light from Above");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401043002", /*message*/"Here&apos;s Your Seat!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401052001", /*message*/"I&apos;m in Tip-Top Shape!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401052002", /*message*/"Beyond the Light");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401053001", /*message*/"I Hope These Feelings Stay");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401062001", /*message*/"No Stopping Now!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401072001", /*message*/"Full of Pep, Zura!");
@@ -4352,10 +4401,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402032001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402032002", /*message*/"Dazzling Melody");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402033001", /*message*/"To the Open Seas!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402042001", /*message*/"I&apos;ll Give You the Best Show");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402043001", /*message*/"Our Private Ball");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402052001", /*message*/"Pardon My Leopard!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402053001", /*message*/"Welcome to the Palace");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402062001", /*message*/"Sleepy Time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402072001", /*message*/"Come Join Me!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402072002", /*message*/"Let a Powerful Sound Ring!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402082001", /*message*/"Light Steps");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402092001", /*message*/"Pit-A-Pat, Meow Meow");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402092002", /*message*/"Boppin&apos; Rina Rhythm");
@@ -4451,6 +4502,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"beginnermission_summary_500011", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"beginnermission_summary_500012", /*message*/"Practice school idols");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001002_00", /*message*/"Otonokizaka High School Gate (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001004_00", /*message*/"Otonokizaka High School Clubroom (Afternoon)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001007_00", /*message*/"Otonokizaka High School Classroom (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_002001_00", /*message*/"Homura Bakery Exterior");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_011001_00", /*message*/"Uranohoshi Girls&apos; High School Gate (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_011005_00", /*message*/"Uranohoshi Girls&apos; High School Roof (Afternoon)");
@@ -4862,6 +4914,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400012001", /*message*/"I&ap
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400012001_voice", /*message*/"【SR】[I&apos;ll Load Your Luggage!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400013001", /*message*/"Let&apos;s Enjoy Today to the Fullest!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400013001_voice", /*message*/"【UR】[Let&apos;s Enjoy Today to the Fullest!]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400013002", /*message*/"Could Be a Real Princess");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400013002_voice", /*message*/"【UR】[Could Be a Real Princess]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400022001", /*message*/"Why All of a Sudden...?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400022001_voice", /*message*/"【SR】[Why All of a Sudden...?]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400023001", /*message*/"No, Really! I&apos;m Fine!");
@@ -4880,6 +4934,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400053001", /*message*/"Cran
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400053001_voice", /*message*/"【UR】[Crank It to the Max]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400062001", /*message*/"*Chuckle* Woohoo!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400062001_voice", /*message*/"【SR】[*Chuckle* Woohoo!]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400062002", /*message*/"Don&apos;t Look at Me Like That");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400062002_voice", /*message*/"【SR】[Don&apos;t Look at Me Like That]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400063001", /*message*/"Because...It&apos;s My Birth Flower");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400063001_voice", /*message*/"【UR】[Because...It&apos;s My Birth Flower]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400072001", /*message*/"I&apos;ll Read Your Fortune For You");
@@ -4904,6 +4960,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401022001", /*message*/"Wake
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401022001_voice", /*message*/"【SR】[Wake Up, Chika!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401023001", /*message*/"A Melody We Can Only Create Today");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401023001_voice", /*message*/"【UR】[A Melody We Can Only Create Today]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401023002", /*message*/"I Hope I Can Be More Princess-like");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401023002_voice", /*message*/"【UR】[I Hope I Can Be More Princess-like]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401032001", /*message*/"Come On, Hurry Up!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401032001_voice", /*message*/"【SR】[Come On, Hurry Up!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401032002", /*message*/"Specialty Seaweed Ramen");
@@ -4918,6 +4976,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401043002", /*message*/"One 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401043002_voice", /*message*/"【UR】[One More Push!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401052001", /*message*/"I Can See Over the Horizon!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401052001_voice", /*message*/"【SR】[I Can See Over the Horizon!]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401052002", /*message*/"It&apos;s Almost Done");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401052002_voice", /*message*/"【SR】[It&apos;s Almost Done]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401053001", /*message*/"Owww...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401053001_voice", /*message*/"【UR】[Owww...]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401062001", /*message*/"Heh Heh Heh... Wait For Me, Lili!");
@@ -4952,6 +5012,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402033001", /*message*/"I Ca
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402033001_voice", /*message*/"【UR】[I Cannot Afford to Slip Here!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402042001", /*message*/"Follow Me!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402042001_voice", /*message*/"【SR】[Follow Me!]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402043001", /*message*/"Oh My, I Can&apos;t Bear to Hear That");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402043001_voice", /*message*/"【UR】[Oh My, I Can&apos;t Bear to Hear That]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402052001", /*message*/"A Special Outing");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402052001_voice", /*message*/"【SR】[A Special Outing]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402053001", /*message*/"The Cryptid&apos;ll Be All Over It!");
@@ -4960,6 +5022,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402062001", /*message*/"Sorr
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402062001_voice", /*message*/"【SR】[Sorry I&apos;m Late!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402072001", /*message*/"Please Be Careful!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402072001_voice", /*message*/"【SR】[Please Be Careful!]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402072002", /*message*/"I&apos;ll Protect Your Smile!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402072002_voice", /*message*/"【SR】[I&apos;ll Protect Your Smile!]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402082001", /*message*/"Indescribable Charms");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402082001_voice", /*message*/"【SR】[Indescribable Charms]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_402092001", /*message*/"All Smiles! Decorations");
@@ -5382,6 +5446,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400012001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400012001_voice", /*message*/"【SR】[Snow Halation]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400013001", /*message*/"Welcome to the Party");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400013001_voice", /*message*/"【UR】[Welcome to the Party]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400013002", /*message*/"Noble Princess");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400013002_voice", /*message*/"【UR】[Noble Princess]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400022001", /*message*/"It&apos;s our miraculous time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400022001_voice", /*message*/"【SR】[It&apos;s our miraculous time]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400023001", /*message*/"Sweets Deco");
@@ -5400,6 +5466,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400053001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400053001_voice", /*message*/"【UR】[Hunter Girl of the Forest]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400062001", /*message*/"Bokura no LIVE Kimi to no LIFE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400062001_voice", /*message*/"【SR】[Bokura no LIVE Kimi to no LIFE]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400062002", /*message*/"It&apos;s our miraculous time");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400062002_voice", /*message*/"【SR】[It&apos;s our miraculous time]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400063001", /*message*/"Flower Symphony");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400063001_voice", /*message*/"【UR】[Flower Symphony]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400072001", /*message*/"Bokura no LIVE Kimi to no LIFE");
@@ -5424,6 +5492,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401022001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401022001_voice", /*message*/"【SR】[Kimino Kokorowa Kagayaiterukai?]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401023001", /*message*/"Flower Symphony");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401023001_voice", /*message*/"【UR】[Flower Symphony]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401023002", /*message*/"Noble Princess");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401023002_voice", /*message*/"【UR】[Noble Princess]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401032001", /*message*/"Aozora Jumping Heart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401032001_voice", /*message*/"【SR】[Aozora Jumping Heart]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401032002", /*message*/"Brightest Melody");
@@ -5438,6 +5508,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401043002", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401043002_voice", /*message*/"【UR】[Chinese-Styled Maid&apos;s Passionate Welcome]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401052001", /*message*/"Aozora Jumping Heart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401052001_voice", /*message*/"【SR】[Aozora Jumping Heart]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401052002", /*message*/"Brightest Melody");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401052002_voice", /*message*/"【SR】[Brightest Melody]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401053001", /*message*/"Snow Crystal");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401053001_voice", /*message*/"【UR】[Snow Crystal]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401062001", /*message*/"Aozora Jumping Heart");
@@ -5472,6 +5544,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402033001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402033001_voice", /*message*/"【UR】[Miracle Voyage]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402042001", /*message*/"Rainbow Rose");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402042001_voice", /*message*/"【SR】[Rainbow Rose]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402043001", /*message*/"Noble Princess");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402043001_voice", /*message*/"【UR】[Noble Princess]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402052001", /*message*/"Excited Animal");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402052001_voice", /*message*/"【SR】[Excited Animal]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402053001", /*message*/"The Princess of the Palace");
@@ -5480,6 +5554,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402062001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402062001_voice", /*message*/"【SR】[Excited Animal]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402072001", /*message*/"Rainbow Rose");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402072001_voice", /*message*/"【SR】[Rainbow Rose]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402072002", /*message*/"Marching in Harmony");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402072002_voice", /*message*/"【SR】[Marching in Harmony]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402082001", /*message*/"Exciting Animal");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402082001_voice", /*message*/"【SR】[Exciting Animal]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_402092001", /*message*/"Exciting Animal");
@@ -5690,6 +5766,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_302093001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_302093002", /*message*/"みんなといっしょにひとつのおなべ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400012001", /*message*/"おにもつのせますね～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400013001", /*message*/"きょうはめいっぱいたのしもー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400013002", /*message*/"ほんもののぷりんせすになれそう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400022001", /*message*/"なんなのいきなり");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400023001", /*message*/"いやわたしはほんとうにいいから");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400032001", /*message*/"まほうでなおしてあげるよ");
@@ -5699,6 +5776,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400043001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400052001", /*message*/"どこまでだっていけちゃうにゃ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400053001", /*message*/"ぜんそくりょくでいくにゃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400062001", /*message*/"ふふふやっほー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400062002", /*message*/"そんなかおでわたしのことみないでよ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400063001", /*message*/"わたしのたんじょうかだもの");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400072001", /*message*/"うちがうらなってあげる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400073001", /*message*/"もしかしたらかなうかもしれないよ");
@@ -5711,6 +5789,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401012002", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401013001", /*message*/"けっこううまくない");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401022001", /*message*/"ちかちゃんおきて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401023001", /*message*/"きょうだけしかできないふたりのおと");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401023002", /*message*/"ぷりんせすにちかづけたらいいな");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401032001", /*message*/"ほらはやくはやく");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401032002", /*message*/"わかめらーめんをつくってみたんだ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401033001", /*message*/"もうすこしふかくもぐってみようかな");
@@ -5718,6 +5797,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401042001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401043001", /*message*/"はぐしてさしあげますわ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401043002", /*message*/"もうひとがんばりいたしましょう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401052001", /*message*/"すいへいせんのさきまでみわたせるよ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401052002", /*message*/"もうすぐできるからね～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401053001", /*message*/"いったたた～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401062001", /*message*/"ふっふっふまっててりりー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401072001", /*message*/"いただきまーす");
@@ -5735,10 +5815,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402032001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402032002", /*message*/"たあーーーーーーーっっ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402033001", /*message*/"ここでころぶわけにはいきません");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402042001", /*message*/"わたしについていらっしゃい");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402043001", /*message*/"こまるわそんなふうにいうなんて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402052001", /*message*/"とくべつなおでかけ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402053001", /*message*/"ゆーまもぜったいくいつくよ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402062001", /*message*/"おくれてごめんね～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402072001", /*message*/"きをつけてくださいね");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402072002", /*message*/"わたしがあなたのえがおをまもります");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402082001", /*message*/"ことばにいいあらわせないみりょく");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402092001", /*message*/"にっこりんなかざりつけ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402092002", /*message*/"すべてをせいかくにみきわめてえい");
@@ -5937,6 +6019,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_302093001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_302093002", /*message*/"べじたぶるわんだーらんど");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400012001", /*message*/"すのーはれーしょん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400013001", /*message*/"うぇるかむとぅーざぱーてぃー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400013002", /*message*/"のーぶるぷりんせす");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400022001", /*message*/"それはぼくたちのきせき");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400023001", /*message*/"すうぃーつでこ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400032001", /*message*/"ぼくらのらいぶきみとのらいふ");
@@ -5946,6 +6029,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400043001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400052001", /*message*/"それはぼくたちのきせき");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400053001", /*message*/"もりのはんたーがーる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400062001", /*message*/"ぼくらのらいぶきみとのらいふ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400062002", /*message*/"それはぼくたちのきせき");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400063001", /*message*/"ふらわーしんふぉにー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400072001", /*message*/"ぼくらのらいぶきみとのらいふ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400073001", /*message*/"じぇみにすたーぶらいと");
@@ -5958,6 +6042,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401012002", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401013001", /*message*/"みっどないとうるふ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401022001", /*message*/"きみのこころはかがやいてるかい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401023001", /*message*/"ふらわーしんふぉにー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401023002", /*message*/"のーぶるぷりんせす");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401032001", /*message*/"あおぞらじゃんぴんぐはーと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401032002", /*message*/"ぶらいてすとめろでぃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401033001", /*message*/"りゅうぐうじょうのひめぎみ");
@@ -5965,6 +6050,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401042001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401043001", /*message*/"まじかるふぃーばー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401043002", /*message*/"ねつれつかんげいちゃいなめいど");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401052001", /*message*/"あおぞらじゃんぴんぐはーと");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401052002", /*message*/"ぶらいてすとめろでぃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401053001", /*message*/"すのーくりすたる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401062001", /*message*/"あおぞらじゃんぴんぐはーと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401072001", /*message*/"あおぞらじゃんぴんぐはーと");
@@ -5982,10 +6068,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402032001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402032002", /*message*/"まーちんぐはーもにー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402033001", /*message*/"みらくるぼやーじゅ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402042001", /*message*/"れいんぼーろーず");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402043001", /*message*/"のーぶるぷりんせす");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402052001", /*message*/"わくわくあにまる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402053001", /*message*/"りゅうぐうじょうのひめぎみ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402062001", /*message*/"わくわくあにまる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402072001", /*message*/"れいんぼーろーず");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402072002", /*message*/"まーちんぐはーもにー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402082001", /*message*/"わくわくあにまる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402092001", /*message*/"わくわくあにまる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402092002", /*message*/"まーちんぐはーもにー");
@@ -7705,6 +7793,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30001_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_shop_item_inline_image_31006", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_20006_s\" height=\"24px\" width=\"24px\" offsetY=\"-5px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31001_03", /*message*/"");
@@ -7740,6 +7829,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31005_04", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31005_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31005_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31005_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31006_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31006_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31006_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31006_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31006_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31006_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_blank_31006_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_001", /*message*/"{0:#,0}P");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_002", /*message*/"-P");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_kari_003", /*message*/"{0:#,0}P");
@@ -8133,9 +8229,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3020930016", /*message*/"L
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3020930026", /*message*/"Let&apos;s get all perked up with tomatoes. Rina-chan Board says, &quot;Eager!&quot;");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4000530016", /*message*/"I never lose when it comes to tag. I&apos;ll catch them right away, just wait!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4000630016", /*message*/"You&apos;re enchanted by me? *Giggle* Of course you are.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4010230026", /*message*/"If I could become a little bit more princess-like, I&apos;d be happy.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4010430016", /*message*/"Come here. Let me give you a hug.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4020130016", /*message*/"Almost done! Be patient, okay?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4020330016", /*message*/"Eek! I-I cannot afford to slip here!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4020430016", /*message*/"Can you not say such weird things?
+I&apos;m gonna start blushing.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4020530016", /*message*/"My grandma&apos;s special homemade pickles might become the talk of the town amongst the cryptids!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"giftbox_l_p101", /*message*/"Bonus Pass Purchase Complete");
 INSERT INTO `m_dictionary` VALUES (/*id*/"giftbox_l_p103", /*message*/"Go Accept");
@@ -18464,6 +18563,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100531", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100532", /*message*/"A Title for placing in the Top 90,000 for &quot;Hot Spring Rhapsody&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100533", /*message*/"A Title for placing in the Top 100,000 for &quot;Hot Spring Rhapsody&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100598", /*message*/"&quot;Hot Spring Rhapsody&quot; Participation Prize.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100601", /*message*/"A Title for placing at 1 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100602", /*message*/"A Title for placing at 2 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100603", /*message*/"A Title for placing at 3 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100604", /*message*/"A Title for placing at 4 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100605", /*message*/"A Title for placing at 5 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100606", /*message*/"A Title for placing at 6 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100607", /*message*/"A Title for placing at 7 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100608", /*message*/"A Title for placing at 8 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100609", /*message*/"A Title for placing at 9 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100610", /*message*/"A Title for placing at 10 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100611", /*message*/"A Title for placing in the Top 50 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100612", /*message*/"A Title for placing in the Top 100 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100613", /*message*/"A Title for placing in the Top 300 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100614", /*message*/"A Title for placing in the Top 500 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100615", /*message*/"A Title for placing in the Top 1,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100616", /*message*/"A Title for placing in the Top 2,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100617", /*message*/"A Title for placing in the Top 3,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100618", /*message*/"A Title for placing in the Top 4,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100619", /*message*/"A Title for placing in the Top 5,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100620", /*message*/"A Title for placing in the Top 6,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100621", /*message*/"A Title for placing in the Top 7,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100622", /*message*/"A Title for placing in the Top 8,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100623", /*message*/"A Title for placing in the Top 9,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100624", /*message*/"A Title for placing in the Top 10,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100625", /*message*/"A Title for placing in the Top 20,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100626", /*message*/"A Title for placing in the Top 30,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100627", /*message*/"A Title for placing in the Top 40,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100628", /*message*/"A Title for placing in the Top 50,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100629", /*message*/"A Title for placing in the Top 60,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100630", /*message*/"A Title for placing in the Top 70,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100631", /*message*/"A Title for placing in the Top 80,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100632", /*message*/"A Title for placing in the Top 90,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100633", /*message*/"A Title for placing in the Top 100,000 for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13100698", /*message*/"&quot;Three Princesses&quot; Participation Prize.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200101", /*message*/"A Title for placing at 1 for &quot;Trial Event SIFAS Big Live Show&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200102", /*message*/"A Title for placing at 2 for &quot;Trial Event SIFAS Big Live Show&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_13200103", /*message*/"A Title for placing at 3 for &quot;Trial Event SIFAS Big Live Show&quot;.");
@@ -18701,6 +18834,33 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100524", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100525", /*message*/"A Title for placing in the Top 15,000 in the Voltage Ranking for &quot;Hot Spring Rhapsody&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100526", /*message*/"A Title for placing in the Top 20,000 in the Voltage Ranking for &quot;Hot Spring Rhapsody&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100527", /*message*/"A Title for placing in the Top 25,000 in the Voltage Ranking for &quot;Hot Spring Rhapsody&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100601", /*message*/"A Title for placing at 1 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100602", /*message*/"A Title for placing at 2 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100603", /*message*/"A Title for placing at 3 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100604", /*message*/"A Title for placing at 4 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100605", /*message*/"A Title for placing at 5 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100606", /*message*/"A Title for placing at 6 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100607", /*message*/"A Title for placing at 7 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100608", /*message*/"A Title for placing at 8 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100609", /*message*/"A Title for placing at 9 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100610", /*message*/"A Title for placing at 10 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100611", /*message*/"A Title for placing in the Top 50 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100612", /*message*/"A Title for placing in the Top 100 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100613", /*message*/"A Title for placing in the Top 300 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100614", /*message*/"A Title for placing in the Top 500 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100615", /*message*/"A Title for placing in the Top 1,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100616", /*message*/"A Title for placing in the Top 2,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100617", /*message*/"A Title for placing in the Top 3,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100618", /*message*/"A Title for placing in the Top 4,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100619", /*message*/"A Title for placing in the Top 5,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100620", /*message*/"A Title for placing in the Top 6,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100621", /*message*/"A Title for placing in the Top 7,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100622", /*message*/"A Title for placing in the Top 8,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100623", /*message*/"A Title for placing in the Top 9,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100624", /*message*/"A Title for placing in the Top 10,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100625", /*message*/"A Title for placing in the Top 15,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100626", /*message*/"A Title for placing in the Top 20,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_23100627", /*message*/"A Title for placing in the Top 25,000 in the Voltage Ranking for &quot;Three Princesses&quot;.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100011", /*message*/"Kimino Kokorowa Kagayaiterukai?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100021", /*message*/"It&apos;s our miraculous time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100031", /*message*/"Snow Halation");
@@ -19452,6 +19612,40 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100531", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100532", /*message*/"&quot;Hot Spring Rhapsody&quot; Top 90,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100533", /*message*/"&quot;Hot Spring Rhapsody&quot; Top 100,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100598", /*message*/"Hot Spring Rhapsody Participation Prize");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100601", /*message*/"&quot;Three Princesses&quot; #1 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100602", /*message*/"&quot;Three Princesses&quot; #2 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100603", /*message*/"&quot;Three Princesses&quot; #3 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100604", /*message*/"&quot;Three Princesses&quot; #4 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100605", /*message*/"&quot;Three Princesses&quot; #5 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100606", /*message*/"&quot;Three Princesses&quot; #6 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100607", /*message*/"&quot;Three Princesses&quot; #7 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100608", /*message*/"&quot;Three Princesses&quot; #8 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100609", /*message*/"&quot;Three Princesses&quot; #9 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100610", /*message*/"&quot;Three Princesses&quot; #10 Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100611", /*message*/"&quot;Three Princesses&quot; Top 50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100612", /*message*/"&quot;Three Princesses&quot; Top 100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100613", /*message*/"&quot;Three Princesses&quot; Top 300");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100614", /*message*/"&quot;Three Princesses&quot; Top 500");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100615", /*message*/"&quot;Three Princesses&quot; Top 1,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100616", /*message*/"&quot;Three Princesses&quot; Top 2,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100617", /*message*/"&quot;Three Princesses&quot; Top 3,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100618", /*message*/"&quot;Three Princesses&quot; Top 4,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100619", /*message*/"&quot;Three Princesses&quot; Top 5,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100620", /*message*/"&quot;Three Princesses&quot; Top 6,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100621", /*message*/"&quot;Three Princesses&quot; Top 7,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100622", /*message*/"&quot;Three Princesses&quot; Top 8,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100623", /*message*/"&quot;Three Princesses&quot; Top 9,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100624", /*message*/"&quot;Three Princesses&quot; Top 10,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100625", /*message*/"&quot;Three Princesses&quot; Top 20,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100626", /*message*/"&quot;Three Princesses&quot; Top 30,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100627", /*message*/"&quot;Three Princesses&quot; Top 40,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100628", /*message*/"&quot;Three Princesses&quot; Top 50,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100629", /*message*/"&quot;Three Princesses&quot; Top 60,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100630", /*message*/"&quot;Three Princesses&quot; Top 70,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100631", /*message*/"&quot;Three Princesses&quot; Top 80,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100632", /*message*/"&quot;Three Princesses&quot; Top 90,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100633", /*message*/"&quot;Three Princesses&quot; Top 100,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13100698", /*message*/"Three Princesses Participation Prize");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200101", /*message*/"&quot;Trial Event SIFAS Big Live Show&quot; #1 Ranking Reward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200102", /*message*/"&quot;Trial Event SIFAS Big Live Show&quot; #2 Ranking Reward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_13200103", /*message*/"&quot;Trial Event SIFAS Big Live Show&quot; #3 Ranking Reward");
@@ -19689,6 +19883,33 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100524", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100525", /*message*/"&quot;Hot Spring Rhapsody&quot; Voltage Ranking Top 15,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100526", /*message*/"&quot;Hot Spring Rhapsody&quot; Voltage Ranking Top 20,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100527", /*message*/"&quot;Hot Spring Rhapsody&quot; Voltage Ranking Top 25,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100601", /*message*/"&quot;Three Princesses&quot; #1 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100602", /*message*/"&quot;Three Princesses&quot; #2 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100603", /*message*/"&quot;Three Princesses&quot; #3 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100604", /*message*/"&quot;Three Princesses&quot; #4 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100605", /*message*/"&quot;Three Princesses&quot; #5 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100606", /*message*/"&quot;Three Princesses&quot; #6 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100607", /*message*/"&quot;Three Princesses&quot; #7 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100608", /*message*/"&quot;Three Princesses&quot; #8 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100609", /*message*/"&quot;Three Princesses&quot; #9 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100610", /*message*/"&quot;Three Princesses&quot; #10 Voltage Ranking Reward");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100611", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100612", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100613", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 300");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100614", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 500");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100615", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 1,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100616", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 2,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100617", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 3,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100618", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 4,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100619", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 5,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100620", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 6,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100621", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 7,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100622", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 8,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100623", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 9,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100624", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 10,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100625", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 15,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100626", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 20,000");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_23100627", /*message*/"&quot;Three Princesses&quot; Voltage Ranking Top 25,000");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_expect_year_datetime", /*message*/"{0:HH:mm M/dd}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_group_name_aqours", /*message*/"Aqours");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_group_name_azalea", /*message*/"AZALEA");
@@ -20004,6 +20225,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1001082", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1001083", /*message*/"Costume The Princess of the Palace ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1001092", /*message*/"Costume It&apos;s our miraculous time １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1001093", /*message*/"Costume It&apos;s our miraculous time ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1001102", /*message*/"Costume Noble Princess １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1001103", /*message*/"Costume Noble Princess ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1002032", /*message*/"Costume Fresh Fruits Parlor 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1002033", /*message*/"Costume Fresh Fruits Parlor 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1002042", /*message*/"Costume Eternal Promise 1");
@@ -20080,6 +20303,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1006082", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1006083", /*message*/"Costume Flower Symphony ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1006092", /*message*/"Costume Snow Crystal １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1006093", /*message*/"Costume Snow Crystal ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1006102", /*message*/"Costume It&apos;s our miraculous time １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1006103", /*message*/"Costume It&apos;s our miraculous time ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1007032", /*message*/"Costume Fresh Fruits Parlor 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1007033", /*message*/"Costume Fresh Fruits Parlor 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1007042", /*message*/"Costume Sweet Night Parade 1");
@@ -20163,6 +20388,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102082", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102083", /*message*/"Costume Aozora Jumping Heart ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102092", /*message*/"Costume Brightest Melody １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102093", /*message*/"Costume Brightest Melody ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102102", /*message*/"Costume Noble Princess １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1102103", /*message*/"Costume Noble Princess ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1103032", /*message*/"Costume Happiness Cheerleader 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1103033", /*message*/"Costume Happiness Cheerleader 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1103042", /*message*/"Costume Priestess of the Sea God 1");
@@ -20207,6 +20434,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1105082", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1105083", /*message*/"Costume Aozora Jumping Heart ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1105092", /*message*/"Costume Snow Crystal １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1105093", /*message*/"Costume Snow Crystal ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1105102", /*message*/"Costume Brightest Melody １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1105103", /*message*/"Costume Brightest Melody ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1106032", /*message*/"Costume Happiness Cheerleader 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1106033", /*message*/"Costume Happiness Cheerleader 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1106042", /*message*/"Costume Haunted Princess 1");
@@ -20326,6 +20555,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1204072", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1204073", /*message*/"Costume Celebrity in Blue ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1204082", /*message*/"Costume Marching in Harmony １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1204083", /*message*/"Costume Marching in Harmony ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1204092", /*message*/"Costume Noble Princess １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1204093", /*message*/"Costume Noble Princess ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1205032", /*message*/"Costume Meccha Going!! 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1205033", /*message*/"Costume Meccha Going!! 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1205042", /*message*/"Costume Exciting Animal １");
@@ -20356,6 +20587,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1207062", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1207063", /*message*/"Costume Rainbow Rose ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1207072", /*message*/"Costume Snow Crystal １");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1207073", /*message*/"Costume Snow Crystal ２");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1207082", /*message*/"Costume Marching in Harmony １");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1207083", /*message*/"Costume Marching in Harmony ２");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1208032", /*message*/"Costume Evergreen 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1208033", /*message*/"Costume Evergreen 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1208042", /*message*/"Costume Exciting Animal １");
@@ -25770,7 +26003,7 @@ Affects: Self");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20058505", /*message*/"Increase base Appeal by 7%.
 Affects: Self");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20058601", /*message*/"Voltage gained from next SP Skill increases by 8.6% of own Appeal.
-条件:アピールチャンス(AC)成功時2回だけ発動 確率:100%");
+条件:アピールチャンス(AC)開始時2回だけ発動 確率:100%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20058701", /*message*/"Increase base Technique by 5%.
 Affects: Self");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20058702", /*message*/"Increase base Technique by 5.5%.
@@ -31034,6 +31267,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_descriptio
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31003", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31004", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31005", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"shop_event_exchange_content_description_31006", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_101", /*message*/"Shop");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_103", /*message*/"Purchase Star Gems");
 INSERT INTO `m_dictionary` VALUES (/*id*/"shop_l_104", /*message*/"Purchase Star Gems here.");
@@ -32831,6 +33065,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000130012", /*message*/"Now thi
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000130013", /*message*/"All right, let&apos;s do our best! Whooo!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000130014", /*message*/"Doesn&apos;t just hearing the word &quot;party&quot; get you all excited?! So, what kind of surprises do you like?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000130015", /*message*/"La di da. Eheh, I wish I could write music like Maki can!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000130022", /*message*/"Ooh, I&apos;m so happy! I feel such joy every time I look at my favorite costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000130023", /*message*/"If I were a princess, I&apos;d have to really buckle down on studying... Well, I guess I should be doing that anyway, ahaha...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000130024", /*message*/"Texts and messages are nice, but I definitely wish I could talk to you face to face.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000130025", /*message*/"Ooh! A new bakery opened up! After school, I&apos;m gonna go try it out!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000220012", /*message*/"You look up to me? That kinda makes me blush.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000220013", /*message*/"I get fired up when I wear my costume.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000220014", /*message*/"Have you seen Honoka? Ugh, I look away for one second and she&apos;s gone again.");
@@ -32867,6 +33105,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000620012", /*message*/"Hmm. Co
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000620013", /*message*/"I like the color red. It&apos;s a strong, distinct color. It stands for powerful resolve and passion. It really does come off that way, don&apos;t you think?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000620014", /*message*/"Ever since I joined μ&apos;s, I&apos;ve started thinking idol songs aren&apos;t so bad after all. Don&apos;t ever tell Honoka and the others I said that, though.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000620015", /*message*/"You want me to write a song for you someday? Why would you say that? You&apos;re always on my mind when I compose.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000620022", /*message*/"The tiny hat is my favorite part! It alone is a statement of elegance.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000620023", /*message*/"Maybe I should go to school like this? ...That was a joke.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000620024", /*message*/"You want to support the people who are important to you. I understand those feelings now.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000620025", /*message*/"You&apos;re spacing out. If you&apos;ve got something on your mind, I&apos;ll help you figure it out.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000630012", /*message*/"Having flower petals floating in the bathtub is so relaxing. Why don&apos;t you give it a try?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000630013", /*message*/"You want to hear me play the piano? Well, if you insist... Come to the music room.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000630014", /*message*/"How are you doing in class? Let me know if you don&apos;t understand something and I&apos;ll explain it to you.");
@@ -32915,6 +33157,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010230012", /*message*/"Being s
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010230013", /*message*/"One of the flowers came off my costume. I was just about to go fix it with You. I need to treat my costumes well if I want them to last.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010230014", /*message*/"I wish I could listen to Maki play the piano forever... Oh wait, I should be playing too!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010230015", /*message*/"Karin is so alluring and grown-up. Hang on... Does that mean I look like a kid to her?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010230022", /*message*/"I want to hear your voice. Can I call you?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010230023", /*message*/"Just like I pour my heart into playing the piano, people who make costumes pour their hearts into the clothes. I want to honor that as I wear each piece.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010230024", /*message*/"It&apos;s so frustrating to have feelings that just don&apos;t get through to someone.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010230025", /*message*/"Where are we going today? What would you do if I said...that I&apos;ll go anywhere as long as it&apos;s with you?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010320012", /*message*/"Wanna go diving together sometime?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010320013", /*message*/"You know, it kinda feels like we&apos;re always together these days.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010320014", /*message*/"You want to be with me that badly? I guess the same goes for me, actually.");
@@ -32943,6 +33189,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010520012", /*message*/"The blu
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010520013", /*message*/"Let&apos;s run as fast as we can beneath the never-ending sky!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010520014", /*message*/"I&apos;m so hungry. I know it&apos;s not lunchtime yet, but I&apos;m gonna have a little snack out of my boxed lunch.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010520015", /*message*/"Could you watch my dance practice video with me? I wanna hear what you think as well.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010520022", /*message*/"Hope this makes me beautiful... *Giggle* I&apos;ve got a wish tied up in this outfit.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010520023", /*message*/"I was just looking at photos of us up on stage! I love all of the outfits we&apos;ve worn up until now!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010520024", /*message*/"What are you into lately? Tell me everything, I wanna hear about lots of stuff!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010520025", /*message*/"Give it your best shot! Aye aye!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010530012", /*message*/"Maybe the gods will think I&apos;m a snow fairy when I wear this costume and make it snow for me...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010530013", /*message*/"The fabric of this costume is cool to the touch to match the snow-and-ice theme! Just kidding, it&apos;s not. Wanna have a feel?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4010530014", /*message*/"I don&apos;t know if it&apos;s because I make costumes, but I look more carefully at the fabric and seams when I buy new clothes at shops, now.");
@@ -33011,6 +33261,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020420012", /*message*/"All of 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020420013", /*message*/"This looks like a rainbow hanging in the sky, doesn&apos;t it? Don&apos;t you think it&apos;s the perfect costume for me?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020420014", /*message*/"Kasumi might not look it, but she&apos;s a sweet girl. I hope you&apos;ll talk with her a lot and learn to understand her.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020420015", /*message*/"It must be nice to be able to write songs. If I could express my feelings through music... *Giggle* That&apos;d be just wonderful.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020430012", /*message*/"I thought cute dresses like this didn&apos;t look good on me, but...you said it would. So what do you think?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020430013", /*message*/"It would be so fun to be able to dive inside a painting! I&apos;d like to be a princess in a painting too.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020430014", /*message*/"There&apos;s a café I love to go to lately. Let&apos;s go there together after school.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020430015", /*message*/"Are you tired? Here, lean against me and doze off for a bit, okay?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020520012", /*message*/"*Roar* Be careful, I&apos;m a wild animal right now! Hit me with an awesome pun if you want to pet me!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020520013", /*message*/"Just like other cats, leopards are nimble. They can hop from tree to tree, right? So they&apos;re hard to spot. Get it?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020520014", /*message*/"Dance practice, voice training, being an alternate for all the sports teams... I&apos;m so busy every day, I wish I had another copy of me!");
@@ -33027,6 +33281,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020720012", /*message*/"Come no
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020720013", /*message*/"I&apos;d love to wear this costume after the rain.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020720014", /*message*/"Live shows are so much fun! It&apos;s the kind of environment where anyone can be free.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020720015", /*message*/"Don&apos;t keep your feelings of love locked away. The world is your oyster!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020720022", /*message*/"I am not perfect, which is why I have to make elaborate preparations.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020720023", /*message*/"All done getting ready! Let us make this performance an extra-fulfilling one!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020720024", /*message*/"Should we do some stretches? It&apos;ll refresh your body!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020720025", /*message*/"I feel so relaxed in the clubroom. I guess it&apos;s like...the place where I can most be myself?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020820012", /*message*/"I&apos;ll dance like a wild serow hopping about in the Alps!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020820013", /*message*/"I&apos;m reminded of Switzerland when I wear this costume. I hope everyone is doing well.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4020820014", /*message*/"I&apos;ll treat you to a special sandwich filled with cheese when you&apos;re feeling down.");

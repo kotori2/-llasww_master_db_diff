@@ -26,6 +26,7 @@ INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§r
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§9%>");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§{;");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§<=");
+INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§F]-", /*dependency*/"§OdT");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§gtW", /*dependency*/"§P!g");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§M|", /*dependency*/"§~+");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§M|", /*dependency*/"§y7");

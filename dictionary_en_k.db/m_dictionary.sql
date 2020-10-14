@@ -10453,6 +10453,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20016301", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017101", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives μ&apos;s school idols an advantage. Try to base your formation around μ&apos;s members!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017201", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives μ&apos;s school idols an advantage. Try to base your formation around μ&apos;s members!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017301", /*message*/"[Hint] During Appeal Chances, there will be a special effect which gives μ&apos;s school idols an advantage. Try to base your formation around μ&apos;s members!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20036101", /*message*/"[Hint] During Appeal Chances, your critical rate will increase the more Skill-types you have in your formation. If you are having trouble clearing the song, try re-thinking the balance of Guard-types and Skill-types in your formation.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20036201", /*message*/"[Hint] During Appeal Chances, your critical rate will increase the more Skill-types you have in your formation. If you are having trouble clearing the song, try re-thinking the balance of Guard-types and Skill-types in your formation.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20036301", /*message*/"[Hint] During Appeal Chances, your critical rate will increase the more Skill-types you have in your formation. If you are having trouble clearing the song, try re-thinking the balance of Guard-types and Skill-types in your formation.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037101", /*message*/"[Hint] There will be Trick Notes that boost SP Gauge, so give them some well-timed taps and activate your SP Skill.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037201", /*message*/"[Hint] There will be Trick Notes that boost SP Gauge, so give them some well-timed taps and activate your SP Skill.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037301", /*message*/"[Hint] There will be plenty of Appeal Chances that must be cleared by using your SP Skill, so include SP type school idols in your strategies.");
@@ -11170,6 +11173,12 @@ Affects: Voltage Types");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000347", /*message*/"Skill activation % increases by Gd Type x 10% for 10 notes.
 Condition: On Success
 Affects: Guard Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000352", /*message*/"Increase Appeal by 50% for 20 Notes.
+Condition: On Success
+Affects: Skill Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000353", /*message*/"Increase Appeal by 50% for 10 Notes.
+Condition: On Success
+Affects: Skill Types");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_60000004", /*message*/"20 Stamina Damage
 Condition: Always Activates");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_60000005", /*message*/"80 Stamina Damage
@@ -11334,6 +11343,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000338", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000339", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>Skill Activation % Up (Gd Type)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000346", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>Appeal Up (Vo Type)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000347", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>Skill Activation % Up (Gd Type)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000352", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>Appeal Up 50%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000353", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>Appeal Up 50%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10000000", /*message*/"[Special Effect] No
 
 ");
@@ -13677,6 +13688,39 @@ Affects: μ&apos;s");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20017301_5", /*message*/"[Special Effect] Base Appeal 10% Up
 Time: During Appeal Chance
 Affects: μ&apos;s");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036101_1", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036101_2", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036101_3", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036201_1", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036201_2", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036201_3", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036201_4", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036301_1", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036301_2", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036301_3", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036301_4", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_1", /*message*/"[Special Effect] Base Appeal 30% Up
 Time: During Appeal Chance
 Affects: SP Types");
@@ -16197,6 +16241,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_2", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_3", /*message*/"Gain a total of 152,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_4", /*message*/"Gain a total of 162,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_5", /*message*/"Gain a total of 94,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036101_1", /*message*/"Perform 2 Criticals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036101_2", /*message*/"Gain a total of 25,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036101_3", /*message*/"Gain a total of 10,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036201_1", /*message*/"Gain a total of 39,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036201_2", /*message*/"Perform 4 Criticals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036201_3", /*message*/"Gain a total of 123,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036201_4", /*message*/"Perform 5 Criticals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036301_1", /*message*/"Perform 9 Criticals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036301_2", /*message*/"Gain a total of 155,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036301_3", /*message*/"Gain a total of 209,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036301_4", /*message*/"Perform 9 Criticals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_1", /*message*/"Gain a total of 17,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_2", /*message*/"Gain a total of 5,000 Voltage with SP Skills.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_3", /*message*/"Gain a total of 16,000 Voltage.");
@@ -17690,6 +17745,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 
 You can buy this set up to three times while it is available.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10040_name", /*message*/"μ&apos;s 3rd LoveLive! Set");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10042_desc", /*message*/"ライブキャンディ50が13個もらえるお得なコース♪
+13日間ログインすると合計13個のライブキャンディ50、14日目にはラブカスター(無償)100個がもらえます！
+※コースの有効期限は購入日から21日間です。有効期間を過ぎると、獲得していないアイテムがある場合でもコースは失効いたしますのでご注意ください。
+期間中に一度だけ購入できます");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10042_name", /*message*/"ライブ応援コース");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10043_desc", /*message*/"ラブカスター（有償）が90個入ったお得なセット♪
+おまけで『ハーフアニバーサリー記念♪衣装交換チケット』付き！
+※期間中に最大9回購入できます");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10043_name", /*message*/"初夏のアップデート記念セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10045_desc", /*message*/"This set includes 450 Star Gems (Paid).
 
 As a bonus, you&apos;ll get tickets that can be exchanged for μ&apos;s Summer Splash costumes. You can buy this set up to three times while it is available.");
@@ -31604,6 +31668,8 @@ Composition / Arrangement: Shintaro Mori
 Strings Arrangement: Yoshiaki Fujisawa");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0017", /*message*/"Lyrics: Aki Hata
 Composition / Arrangement: Kazuya Nishioka");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0036", /*message*/"Lyrics: Aki Hata
+Composition / Arrangement: Takahiro Kawata");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0037", /*message*/"Lyrics: Aki Hata
 Composition / Arrangement: Yuugo Sasakura");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0054", /*message*/"Lyrics: Aki Hata
@@ -31744,6 +31810,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0014", /*message*/"Arashi 
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0015", /*message*/"NO EXIT ORION");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0016", /*message*/"Bokura wa Ima no Naka de");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0017", /*message*/"HEART to HEART!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0036", /*message*/"No Brand Girls");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0037", /*message*/"Wonder Zone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0054", /*message*/"Kodoku na Heaven");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0059", /*message*/"Someday of My Life");
@@ -31815,6 +31882,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0014", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0015", /*message*/"のーえぐじっとおりおん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0016", /*message*/"ぼくらはいまのなかで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0017", /*message*/"はーととぅはーと");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0036", /*message*/"のーぶらんどがーるず");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0037", /*message*/"わんだーぞーん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0054", /*message*/"こどくなへぶん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0059", /*message*/"さむでいおぶまいらいふ");

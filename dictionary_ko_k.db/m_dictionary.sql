@@ -10782,6 +10782,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20016301", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017101", /*message*/"[공략 힌트] 어필 찬스 중 μ&apos;s 멤버가 유리한 특수 효과가 있어요. μ&apos;s 멤버를 중심으로 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017201", /*message*/"[공략 힌트] 어필 찬스 중 μ&apos;s 멤버가 유리한 특수 효과가 있어요. μ&apos;s 멤버를 중심으로 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20017301", /*message*/"[공략 힌트] 어필 찬스 중 μ&apos;s 멤버가 유리한 특수 효과가 있어요. μ&apos;s 멤버를 중심으로 편성하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20036101", /*message*/"[공략 힌트] 어필 찬스 중에는 Sk 타입이 많을수록 크리티컬 확률이 증가하는 특수 효과가 있습니다. 라이브 클리어가 어려운 경우, Sk 타입과 Gd 타입의 편성 밸런스도 고려해 보세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20036201", /*message*/"[공략 힌트] 어필 찬스 중에는 Sk 타입이 많을수록 크리티컬 확률이 증가하는 특수 효과가 있습니다. 라이브 클리어가 어려운 경우, Sk 타입과 Gd 타입의 편성 밸런스도 고려해 보세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20036301", /*message*/"[공략 힌트] 어필 찬스 중에는 Sk 타입이 많을수록 크리티컬 확률이 증가하는 특수 효과가 있습니다. 라이브 클리어가 어려운 경우, Sk 타입과 Gd 타입의 편성 밸런스도 고려해 보세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037101", /*message*/"[공략 힌트] SP 게이지가 증가하는 기믹 노트를 실수 없이 처리하여 게이지를 모아서 SP 특기를 발동하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037201", /*message*/"[공략 힌트] SP 게이지가 증가하는 기믹 노트를 실수 없이 처리하여 게이지를 모아서 SP 특기를 발동하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037301", /*message*/"[공략 힌트] SP 특기가 필요한 어필 찬스가 많으니 SP 타입 스쿨 아이돌을 편성한 작전을 준비하세요.");
@@ -11627,6 +11630,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000346", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000347", /*message*/"10 노트 동안 Gd 타입×10%만큼 특기 발동률 증가
 조건: 성공 시
 대상: 가드 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000352", /*message*/"20 노트 동안 어필 50% 증가
+조건: 성공 시
+대상: 스킬 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000353", /*message*/"10 노트 동안 어필 50% 증가
+조건: 성공 시
+대상: 스킬 타입");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_60000004", /*message*/"체력 대미지 20
 조건: 반드시 발동");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_60000005", /*message*/"체력 대미지 80
@@ -11791,6 +11800,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000338", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000339", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>특기 발동률 증가 [Gd 타입]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000346", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>어필 증가 [Vo 타입]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000347", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>특기 발동률 증가 [Gd 타입]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000352", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>어필 증가 50%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000353", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>어필 증가 50%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10000000", /*message*/"[특수 효과] 없음
 
 ");
@@ -14134,6 +14145,39 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20017301_4", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20017301_5", /*message*/"[특수 효과] 기본 어필 10% 증가
 시간: 어필 찬스 중
 대상： μ&apos;s");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036101_1", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036101_2", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036101_3", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036201_1", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036201_2", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036201_3", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036201_4", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036301_1", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036301_2", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036301_3", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20036301_4", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20037101_1", /*message*/"[특수 효과] 기본 어필 30% 증가
 시간: 어필 찬스 중
 대상: SP 타입");
@@ -16654,6 +16698,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_2", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_3", /*message*/"152,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_4", /*message*/"162,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20017301_5", /*message*/"94,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036101_1", /*message*/"2회 크리티컬 판정");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036101_2", /*message*/"25,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036101_3", /*message*/"10,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036201_1", /*message*/"39,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036201_2", /*message*/"4회 크리티컬 판정");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036201_3", /*message*/"123,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036201_4", /*message*/"5회 크리티컬 판정");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036301_1", /*message*/"9회 크리티컬 판정");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036301_2", /*message*/"155,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036301_3", /*message*/"209,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20036301_4", /*message*/"9회 크리티컬 판정");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_1", /*message*/"17,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_2", /*message*/"SP 특기로 5,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20037101_3", /*message*/"16,000 볼티지 획득");
@@ -18191,6 +18246,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 &quot;μ&apos;s 3rd LoveLive! 티셔츠 교환 티켓&quot; 보너스까지!
 ※기간 중 3번 구매할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10040_name", /*message*/"μ&apos;s 메모리얼 세트 〜3rd LoveLive!〜");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10042_desc", /*message*/"ライブキャンディ50が13個もらえるお得なコース♪
+13日間ログインすると合計13個のライブキャンディ50、14日目にはラブカスター(無償)100個がもらえます！
+※コースの有効期限は購入日から21日間です。有効期間を過ぎると、獲得していないアイテムがある場合でもコースは失効いたしますのでご注意ください。
+期間中に一度だけ購入できます");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10042_name", /*message*/"ライブ応援コース");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10043_desc", /*message*/"ラブカスター（有償）が90個入ったお得なセット♪
+おまけで『ハーフアニバーサリー記念♪衣装交換チケット』付き！
+※期間中に最大9回購入できます");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10043_name", /*message*/"初夏のアップデート記念セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10045_desc", /*message*/"러브카스타(유료)가 450개 들어 있는 실속 세트♪
 보너스 &quot;μ&apos;s 서머 스플래시 의상 교환 티켓&quot;까지!
 ※기간 중, 최대 3회 구매 가능");
@@ -32178,6 +32242,8 @@ Composition / Arrangement: Shintaro Mori
 Strings Arrangement: Yoshiaki Fujisawa");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0017", /*message*/"Lyrics: Aki Hata
 Composition / Arrangement: Kazuya Nishioka");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0036", /*message*/"Lyrics: Aki Hata
+Composition / Arrangement: Takahiro Kawata");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0037", /*message*/"Lyrics: Aki Hata
 Composition / Arrangement: Yuugo Sasakura");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0054", /*message*/"Lyrics: Aki Hata
@@ -32318,6 +32384,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0014", /*message*/"Arashi 
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0015", /*message*/"NO EXIT ORION");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0016", /*message*/"Bokura wa Ima no Naka de");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0017", /*message*/"HEART to HEART!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0036", /*message*/"No Brand Girls");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0037", /*message*/"Wonder Zone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0054", /*message*/"Kodoku na Heaven");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0059", /*message*/"Someday of My Life");
@@ -32389,6 +32456,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0014", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0015", /*message*/"のーえぐじっとおりおん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0016", /*message*/"ぼくらはいまのなかで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0017", /*message*/"はーととぅはーと");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0036", /*message*/"のーぶらんどがーるず");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0037", /*message*/"わんだーぞーん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0054", /*message*/"こどくなへぶん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0059", /*message*/"さむでいおぶまいらいふ");

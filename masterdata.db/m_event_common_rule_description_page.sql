@@ -25,4 +25,3 @@ INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33001, /*page_number*/3, /*title*/"dummy.event_tower_rule_title_33001_003", /*image_asset_path*/"^vv");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33001, /*page_number*/4, /*title*/"dummy.event_tower_rule_title_33001_004", /*image_asset_path*/")44");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33001, /*page_number*/5, /*title*/"dummy.event_tower_rule_title_33001_005", /*image_asset_path*/":!Z");
-INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33001, /*page_number*/6, /*title*/"dummy.event_tower_rule_title_33001_006", /*image_asset_path*/"!).");

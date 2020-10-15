@@ -52257,7 +52257,6 @@ INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"rcb20d");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"cbn226");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"aue2bz");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"fa6yo1");
-INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"x95inj");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"azlbyg");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"ssekon");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"a94g0k");

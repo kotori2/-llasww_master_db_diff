@@ -25630,6 +25630,7 @@ INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"p6d8m2");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"vnm9f9");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"8ivop6");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"16uuny");
+INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"glybpt");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"7rfoy9");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"r7p4hp");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"utncs6");

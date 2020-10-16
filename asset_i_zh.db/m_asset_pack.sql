@@ -1909,6 +1909,7 @@ INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"l9eirc");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"wpdy8a");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"yrscge");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"wv4tnk");
+INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"9o9iig");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"xnm14q");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"35spa7");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"h7ju3h");

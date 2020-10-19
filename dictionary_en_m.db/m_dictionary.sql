@@ -2220,6 +2220,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"Imp
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"Bouquet of Kindness");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_1", /*message*/"A Scaredy-Cat&apos;s Way Home");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"Nature&apos;s Grace");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"The Legendary Maid Appears!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"Shopping Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"Like a Lady");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"Power Sweets");
@@ -2284,6 +2285,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"Spe
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"Victory Clothes Acquired!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"In Search of the Perfect Present");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"Dyed a Shade of Kasumin");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"I Wanna Be Spoiled &apos;Cause It&apos;s You");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_2", /*message*/"A Different Me");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"I Love Theater!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"A Precious Time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"Sparkle of the Soul");

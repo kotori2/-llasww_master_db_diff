@@ -2220,6 +2220,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"學
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"溫柔的花束");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_1", /*message*/"心驚膽跳的回家之路");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"翠綠的柔和");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"傳說中的女僕降臨！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"一起買東西♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"像淑女一樣");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"帶來活力的甜點");
@@ -2284,6 +2285,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"慰
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"找到必勝服了！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"尋求最棒的禮物");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"染上小霞霞的色彩♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"因為是你才想撒嬌");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_2", /*message*/"不同於以往的我");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"熱愛演戲！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"寶貴的時光");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"靈魂的光芒");

@@ -2224,6 +2224,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"ส
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"ช่อดอกไม้แห่งความอ่อนโยน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_1", /*message*/"ทางกลับบ้านที่น่าหวาดกลัว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"ความอ่อนโยนของธรรมชาติ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"เมดในตำนานปรากฏตัว!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"ไปซื้อของด้วยกันนะ♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"ดั่งกุลสตรี");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"Power Sweet");
@@ -2289,6 +2290,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"ข
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"ได้ชุดตัวเก่งแล้ว!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"ตามหาสุดยอดของขวัญ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"ย้อมให้เป็นสีของคาสึมิน♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"เพราะเป็นเธอเลยอยากอ้อน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_2", /*message*/"ฉันที่แตกต่างไปจากปกติ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"ฉันรักการแสดง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"ช่วงเวลาแสนสำคัญ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"ประกายแห่งจิตวิญญาณ");

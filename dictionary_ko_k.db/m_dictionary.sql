@@ -22113,6 +22113,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_109_8", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_109_9", /*message*/"　루비의 솔로 라이브는 성황리에 막을 내렸다. 조금 자신감이 생긴 루비는 어떤 결심을 한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_1", /*message*/"　μ&apos;s의 활동을 돕게 된 당신. 동료로 받아 줄지 걱정스럽기만 한데, 부실에서 기다리던 호노카는….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_10", /*message*/"　&quot;모두에게 노래를 전하고 싶어&quot;… 늘 변하지 않는 호노카의 소원. 그 소원을 가슴에 품고 호노카는 솔로 라이브 무대로 향한다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_11", /*message*/"　호노카는 첫 솔로 라이브를 훌륭하게 마쳤다. μ&apos;s 라이브 때와는 다른 모습을 보여 준 호노카를 보고 우미와 코토리도 신선한 느낌을 받았다. 호노카는 자연스럽게 다음 솔로 라이브를 의식하게 되는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_2", /*message*/"　&quot;같은 방향으로 함께 달려가는 동료&quot;. 호노카는 그렇게 말하며 당신을 맞이했다. 오늘도 당신은 오토노키자카 고교를 향해 가는…데 길을 잃고 말았다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_3", /*message*/"　길을 잃은 당신이 도착한 곳은 호노카의 집이었다. 항상 다른 멤버들을 활기차게 이끌어가는 호노카. 하지만 그런 그녀에게도 의외의 일면이 있는 것 같은데…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_1_4", /*message*/"　호노카는 자기가 좋아하는 스쿨 아이돌에 관한 것이 아니면 의욕이 안 나는 듯하다. 하지만 그런 모습도 호노카답다는 생각이 드는데…. 호노카가 무엇을 좋아하는지 알게 된 당신은 한 가지 제안을 한다.");
@@ -22278,6 +22279,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_8", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_9", /*message*/"　당신과 아이와 함께 처음으로 찍은 셀카 사진을 보며 기뻐하는 리나. 셀카 사진을 올린 후 SNS 방문자도 늘어났다. 그리고 SNS가 주목을 받으면서 TV에서도 리나에 대해 다루는데…?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_1", /*message*/"　노래와 춤만으로는 무대가 성립되지 않는다! 그 뒤에서는….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_10", /*message*/"　에리는 자신의 특기인 댄스를 선보이기 위해 연습에 매진한다. 혼자서 무대에 서는 게 약간 불안한 것 같기도 한데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_11", /*message*/"　자기만의 개성을 담은 솔로 라이브를 준비해 온 에리는 드디어 공연 당일을 맞이한다. 이때 당신 외에도 뜨거운 시선으로 무대를 바라보는 사람이 있는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_2", /*message*/"　오토노키자카 고교의 학생회장이기도 한 에리. 당신은 학생회를 견학하게 되는데… 잠깐, 이건 견학이 아니잖아?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_3", /*message*/"　에리 덕분에 부활동 지원도 원활하게 풀리고 있다. 한숨 돌린 당신은 어떤 소리를 듣게 되는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_4", /*message*/"　한밤중의 학교에 울려 퍼진 에리의 비명. 소리도 없이 다가온 그것은 공포인가, 아니면….");
@@ -22288,6 +22290,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_2_9", /*message*/"　아직 이사장님이 솔로 라이브를 승인해 주시지 않았지만, 그래도 준비를 시작해야만 한다. 당신은 에리를 위해 힘을 보태 주기로 한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_1", /*message*/"　μ&apos;s의 활동을 돕게 된 당신은 스쿨 아이돌이 되기 전부터 친하게 지냈던 호노카와 우미, 코토리 세 사람의 이야기를 듣게 된다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_10", /*message*/"　코토리는 솔로 라이브에서 패션쇼를 하기로 했다. 자기가 좋아하는 것으로 관객들에게 기쁨을 선사할 수 있다는 마음에 의욕을 불태운다!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_11", /*message*/"　패션쇼를 하기로 정한 후 솔로 라이브 준비에 속도가 붙었다! 코토리는 정성껏 만든 옷을 입고 무대에 선다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_2", /*message*/"　평소에는 호노카와 우미를 다정하게 도와주는 코토리. 하지만 코토리에게도 절대 타협할 수 없는 무언가가 있는 것 같은데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_3", /*message*/"　μ&apos;s의 의상 제작을 담당하고 있는 코토리. 코토리의 완벽주의를 알게 된 당신은 거리에서 코토리와 우연히 마주치는데… 잠깐, 코토리가 아니라고?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_4", /*message*/"　메이드 카페에서 미나린스키라는 이름으로 아르바이트를 하던 코토리. μ&apos;s와 메이드 일 모두 최선을 다하고 있지만, 의상 때문에 고민이 있는 것 같은데….");
@@ -22298,6 +22301,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_3_9", /*message*/"　멤버들과 활동하는 것이 좋아서 솔로 라이브에서는 무엇을 해야 할지 모르겠다는 코토리. 당신은 코토리가 하고 싶은 것을 찾기로 한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_1", /*message*/"　μ&apos;s를 돕게 된 당신은 우미가 스쿨 아이돌에 대해 어떻게 생각하는지 듣게 된다. 우미에게 스쿨 아이돌이란?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_10", /*message*/"　솔로 라이브에 대한 불안감을 품은 채 우미는 놀이공원을 찾았다. 어느새 마음속 불안감은 옅어져 가고….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_11", /*message*/"　&quot;저도 라이브 퍼포먼스를 통해 즐거운 세계를 보여 드리고 싶어요.&quot; 놀이공원에서 용기를 얻은 우미는 솔로 라이브 무대로 향한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_2", /*message*/"　스쿨 아이돌. 그것은 호노카의 꿈이자 우미의 꿈이기도 했다. μ&apos;s의 곡은 대부분 우미가 작사하고 있다는 이야기를 들은 당신은….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_3", /*message*/"　우미의 집에서 작사하는 모습을 견학하게 된 당신. 우미가 마음을 담아 작사하고 있을 때, 당신은….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_4", /*message*/"　우미가 풍부한 감성으로 작사하는 모습을 보고, 당신은 자신이 우미에게 점차 끌리고 있다는 걸 느낀다. 그러던 어느 날, 우미가 출전하는 궁도 대회에 따라가게 되는데….");
@@ -22308,6 +22312,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_4_9", /*message*/"　아직 홀로 무대에 설 자신이 없다며 불안한 듯 말하는 우미. 이번 일을 계기로 불안을 극복하기를 바라며 당신은 우미를 불러내는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_1", /*message*/"　언제나 기운 넘치는 린. 마키와 하나요와 함께 인사하자♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_10", /*message*/"　린은 관객들이 솔로 라이브를 즐겨 줬으면 한다. 하지만… 즐겁다는 게 어떤 거지?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_11", /*message*/"　&quot;혼자만 즐기는 게 아닌, 관객들과 함께 즐기는 솔로 라이브를 하고 싶어!&quot; 린은 모든 관객에게 나눠줄 수제 마라카스를 만들어 공연장으로 향한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_2", /*message*/"　하나요와 늘 사이좋은 린. 당신은 뭔가 도움이 필요하진 않은지 물어보는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_3", /*message*/"　하나요를 대신해 린을 응원하게 된 당신은….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_4", /*message*/"　하나요의 주먹밥을 먹고 기뻐하는 린. 하지만 어쩐지 쑥스러워하는 것 같은데….");
@@ -22318,6 +22323,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_5_9", /*message*/"　솔로 라이브를 앞두고 열심히 하기로 마음먹은 린. 하지만 어떤 솔로 라이브를 해야 좋을지 고민하는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_1", /*message*/"　μ&apos;s의 활동을 돕게 된 당신은 μ&apos;s에서 작곡을 담당하고 있는 마키와 대화하게 된다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_10", /*message*/"　마키는 솔로 라이브에 오는 사람들에게 행복한 시간을 선사하고 싶다고 한다. 사람들은 어떤 때 행복을 느낄까?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_11", /*message*/"　솔로 라이브로 행복한 시간을 선물하고 싶다는 마키의 마음을 받아들인 당신은, 팬 대표로서 솔로 라이브에서 보고 싶은 내용을 제안한다. 마키는 당신을 믿고 무대로 향하는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_2", /*message*/"　당신에게 도움을 받을 필요를 못 느끼겠다는 마키. 다만 당신을 거부하는 건 아닌 것 같은데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_3", /*message*/"　마키가 앞으로 친해지고 싶다고 말해 주었다. 인간관계는 서툴어도 다정한 사람이다. 그런 그녀와 당신이 음악실에서 만나….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_4", /*message*/"　피아노를 치면서 서로에 관해 이야기를 나눈 두 사람. 피아노를 치는 이유도 왠지 공감이 된다. 마침 당신이 작곡하고 있을 때, 마키가 지나가다가….");
@@ -22328,6 +22334,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_6_9", /*message*/"　혼자만의 라이브. 마키는 솔로 라이브에 무슨 의미가 있는지 고민한다. 이제 조금씩 답이 보이기 시작한 것 같은데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_1", /*message*/"　재미있는 사람이 왔다며 기뻐하는 노조미. 하지만 그 뜻은…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_10", /*message*/"　노조미는 솔로 라이브 준비를 할 때도 자신보다 주변 사람들을 우선한다. 하지만 자신의 솔로 라이브를 기다리는 사람이 있다는 걸 깨닫고….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_11", /*message*/"　&quot;내 솔로 라이브를 기대하는 사람이 있다면….&quot; 겉으로 드러내지는 않았지만, 노조미의 마음속에도 솔로 라이브를 하고 싶다는 소망이 있었다. 당신은 공연 준비를 모두 마치고 신사로 향한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_2", /*message*/"　학생회에서 부회장으로 활동하는 노조미. 노조미가 학교생활에 대해 어떤 생각을 품고 있는지 알게 된다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_3", /*message*/"　노조미의 특기인 점술에서… 뜻밖의 점괘가!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_4", /*message*/"　좋지 않은 점괘가 나왔다. 노조미의 조언을 받아 이 위기에서 벗어나고 싶어!");
@@ -22338,6 +22345,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_7_9", /*message*/"　노조미는 곤란한 일이 생기면 얘기하겠다고 했지만, 좀처럼 당신에게 도움을 청하지 않는다. 당신은 노조미가 다른 멤버를 도와주기보다 본인의 솔로 라이브를 생각해 주길 바라는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_1", /*message*/"　하나요가 무엇보다도 좋아하는 것, 그것은 물론…!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_10", /*message*/"　스쿨 아이돌이 되고 싶어지는 솔로 라이브. 하나요만이 할 수 있는 솔로 라이브를 개최하기 위해 행동에 나선다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_11", /*message*/"　목표는 스쿨 아이돌이 되고 싶다는 생각이 드는 솔로 라이브! 사람들에게 그 마음을 전하고 싶다는 일념으로 하나요는 연습을 거듭했고, 드디어 라이브 당일이 찾아왔다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_2", /*message*/"　매사에 소극적이던 하나요의 손을 잡고 끌어준 것은 린이었다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_3", /*message*/"　아침에 아키하바라를 거닐던 당신은 하나요를 발견한다. 그런데 하나요의 모습이 평소와 다른데?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_4", /*message*/"　오늘은 하나요가 왠지 즐거워 보인다. 그 이유는…?");
@@ -22348,6 +22356,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_8_9", /*message*/"　솔로 라이브를 열심히 하려는 마음, 하지만 잘할 수 있을지 불안한 생각에 하나요의 마음은 흔들린다. 바로 그때 당신은 하나요만이 할 수 있는 솔로 라이브를 생각해 냈다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_1", /*message*/"　μ&apos;s의 부활동을 돕게 된 당신. 그것이 불만인 멤버가 딱 한 명 있는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_10", /*message*/"　니코는 최고로 귀여운 솔로 라이브를 하기로 했다. 그런데 라이브 당일이 다가올수록 슬픈 표정을 지을 때가 많아지는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_11", /*message*/"　언제나 자신감 넘쳐 보이지만, 의외로 섬세한 면도 있다…. 니코는 솔로 라이브를 향해 준비에 준비를 거듭했다. 마침내 찾아온 라이브 당일, 객석에서 공연을 지켜보던 사람이 있었는데…?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_2", /*message*/"　니코에게 스쿨 아이돌을 향한 자신의 마음이 진심이라는 걸 보여주고 싶은 당신. 니코는 의심을 거두지 못하는 눈치인데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_3", /*message*/"　기대에 부응하려 노력하는 당신. 그 열의가 점차 니코에게도 전해지고….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_9_4", /*message*/"　스쿨 아이돌을 좋아하는데 왜 직접 스쿨 아이돌이 되지 않냐고 묻는 니코에게 당신은….");
@@ -22448,6 +22457,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_109_8", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_109_9", /*message*/"9화 자신감을 가지고");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_1", /*message*/"1화 함께 앞을 바라보며");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_10", /*message*/"10화 첫 솔로 라이브!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_11", /*message*/"11화 새로운 세상으로");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_2", /*message*/"2화 도착한 그곳은");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_3", /*message*/"3화 알지 못했던 일면");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_1_4", /*message*/"4화 갓 구운 빵 맛은 즐거운 맛♪");
@@ -22611,6 +22621,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_8", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_9", /*message*/"9화 SNS 작전 대성공!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_1", /*message*/"1화 무대를 실현하기 위해");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_10", /*message*/"10화 나만의 보석 상자");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_11", /*message*/"11화 첫 솔로 라이브!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_2", /*message*/"2화 보람찬 학교생활과 발전을 위해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_3", /*message*/"3화 한밤중, 아무도 없는 학교에서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_4", /*message*/"4화 위험한 예감");
@@ -22621,6 +22632,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_8", /*message*/"8
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_2_9", /*message*/"9화 나를 되돌아보며");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_1", /*message*/"1화 티격태격할수록 사이가 좋다?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_10", /*message*/"10화 기뻐하는 얼굴을 보고 싶어서");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_11", /*message*/"11화 첫 솔로 라이브!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_2", /*message*/"2화 코토리의 완벽주의");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_3", /*message*/"3화 미나린스키와의 만남");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_4", /*message*/"4화 코토리의 고민");
@@ -22631,6 +22643,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_8", /*message*/"8
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_3_9", /*message*/"9화 꿈꿔 왔던 패션쇼");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_1", /*message*/"1화 스쿨 아이돌에 대한 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_10", /*message*/"10화 즐거움을 주는 쪽으로");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_11", /*message*/"11화 첫 솔로 라이브!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_2", /*message*/"2화 μ&apos;s의 작사 담당");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_3", /*message*/"3화 마음을 담아서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_4", /*message*/"4화 궁도 대회");
@@ -22641,6 +22654,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_8", /*message*/"8
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_4_9", /*message*/"9화 놀이공원 데이트?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_1", /*message*/"1화 고양이를 좋아하는 린");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_10", /*message*/"10화 즐겁다는 게 뭘까…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_11", /*message*/"11화 첫 솔로 라이브!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_2", /*message*/"2화 언제나 카요랑 함께!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_3", /*message*/"3화 구원 타자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_4", /*message*/"4화 라면 맛을 모르겠어~");
@@ -22651,6 +22665,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_8", /*message*/"8
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_5_9", /*message*/"9화 관객들에게 즐거운 시간을");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_1", /*message*/"1화 꼭 대답해야 해?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_10", /*message*/"10화 팬 대표!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_11", /*message*/"11화 첫 솔로 라이브!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_2", /*message*/"2화 한 걸음 전진?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_3", /*message*/"3화 두 사람의 피아노");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_4", /*message*/"4화 마키의 채점");
@@ -22661,6 +22676,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_8", /*message*/"8
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_6_9", /*message*/"9화 솔로 라이브를 하는 이유");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_1", /*message*/"1화 파워로 마중하기♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_10", /*message*/"10화 눈을 뜬 아침");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_11", /*message*/"11화 첫 솔로 라이브!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_2", /*message*/"2화 학생회의 업무");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_3", /*message*/"3화 내 점괘가 알려줬어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_4", /*message*/"4화 노조미의 조언?");
@@ -22671,6 +22687,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_8", /*message*/"8
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_7_9", /*message*/"9화 믿음직스러운 너");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_1", /*message*/"1화 스쿨 아이돌이 정말 좋아!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_10", /*message*/"10화 모두의 곁으로");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_11", /*message*/"11화 첫 솔로 라이브!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_2", /*message*/"2화 둘이서 손을 잡고");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_3", /*message*/"3화 하나요, 위기에 빠지다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_4", /*message*/"4화 하나요와 가게 구경하기");
@@ -22681,6 +22698,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_8", /*message*/"8
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_8_9", /*message*/"9화 하나요만의 솔로 라이브");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_1", /*message*/"1화 도우미 따위 필요 없어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_10", /*message*/"10화 혼자만의 솔로 라이브");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_11", /*message*/"11화 첫 솔로 라이브!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_2", /*message*/"2화 진심을 보여줘");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_3", /*message*/"3화 기다려, 니코");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_9_4", /*message*/"4화 니코의 의문");
@@ -36316,6 +36334,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0063", /*message*/"꺅!
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0064", /*message*/"생일 축하해~!
 에헤헤, 네 생일을
 축하할 수 있어서 기뻐♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0066", /*message*/"에리,
+생일 축하해♪
+언제나 우리를
+도와줘서 고마워!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0104", /*message*/"다음 스토리를 보지 않을래?
 어떻게 진행될지 궁금해~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0105", /*message*/"아직 라이브를 더 할 수 있어!
@@ -36468,6 +36490,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0064", /*message*/"해피 
 네 생일을
 이렇게 축하할 수 있어서
 정말 행복해♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0066", /*message*/"어머, 내 생일인 거
+알고 있었어?
+후후, 축하해 줘서 기뻐.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0104", /*message*/"다음 이야기가 궁금해.
 같이 보지 않을래?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0105", /*message*/"실전 연습이 중요해.
@@ -36619,6 +36644,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0064", /*message*/"에헤�
 생일 축하해♡
 네 생일을
 축하할 수 있어서 기뻐.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0066", /*message*/"에리, 생일 축하해!
+에리의 퍼포먼스는
+언제 봐도 황홀해♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0104", /*message*/"다음 스토리를
 읽을 수 있대!
 응? 같이 읽자~");
@@ -36788,6 +36816,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0064", /*message*/"만나�
 당신 생일이니까,
 꼭 직접 축하한다는 말을
 하고 싶었어요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0066", /*message*/"오늘은 에리의 생일이에요.
+다 같이 마음을 담아
+생일 카드를 적었답니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0104", /*message*/"다음 스토리가
 궁금하네요.
 같이 살펴볼까요?");
@@ -36952,6 +36983,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0064", /*message*/"냥냥�
 생일 축하해♪
 에헤헤, 깜짝 놀라게 해 주려고
 기다리고 있었다냥.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0066", /*message*/"에리, 생일 축하한다냥!
+우리가 존경하는
+예쁜 언니다냥.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0104", /*message*/"다음 스토리가
 있대. 읽어 볼까냥?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0105", /*message*/"라이브하고 싶다냥~!
@@ -37102,6 +37136,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0064", /*message*/"생일 
 …다, 당연히
 네 생일이지!
 하여튼 눈치 없긴…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0066", /*message*/"오늘은 에리의 생일이야♪
+강함과 아름다움을 겸비한 에리.
+모두가 너를 사랑해.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0104", /*message*/"스토리를 읽어 보지 않을래?
 새로운 발견이 있을지도 몰라.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0105", /*message*/"슬슬 라이브 하지 않을래?
@@ -37263,6 +37300,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0064", /*message*/"해피 
 우후후,
 네 생일은 성대하게
 축하해야지!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0066", /*message*/"에리치에게는 정말
+많은 도움을 받아서…
+이런 건 너무 딱딱한가?
+에리치, 생일 축하해♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0104", /*message*/"시간 있으면
 스토리를 읽어 봐♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0105", /*message*/"지금이라면 라이브도
@@ -37418,6 +37459,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0064", /*message*/"오늘�
 생일이구나!
 다 같이 많이 많이
 축하해 줄게♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0066", /*message*/"에리, 생일 축하해♪
+에리는 언제나 든든하고
+상냥한 언니야.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0104", /*message*/"스토리를 읽지 않을래?
 나, 어떻게 될지 궁금해…!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0105", /*message*/"라이브 준비가 되면
@@ -37586,6 +37630,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0063", /*message*/"꺅…
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0064", /*message*/"오늘이 무슨 날인지
 알아? 네 생일이니까
 최고로 멋진 하루를 보내야지!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0066", /*message*/"에리, 생일 축하해.
+평소에는 잘 표현하지 않지만…
+언제나 도와줘서 고마워.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0104", /*message*/"스토리가 있는 것 같아♪
 같이 읽자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0105", /*message*/"니코는 라이브를
@@ -37727,6 +37774,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0064", /*message*/"생일 
 이렇게 네 생일을
 축하해 줄 수 있어서
 정말 기뻐.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0066", /*message*/"에리처럼
+멋진 사람이 되려면
+뭘 먹어야 할까?
+물어보면 알려줄까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0104", /*message*/"읽을 수 있는 스토리가
 있는 것 같아!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0105", /*message*/"준비는 완벽해!
@@ -37886,6 +37937,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0064", /*message*/"생일 
 네 응원이
 우리에게 힘이 돼.
 정말 고마워.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0066", /*message*/"에리, 생일 축하해요.
+에리의 눈은 파랗게 갠
+겨울 하늘 같아요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0104", /*message*/"아직 읽지 않은
 스토리가 있는 것 같아.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0105", /*message*/"멋진 라이브를 하자♪");
@@ -38052,6 +38106,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0064", /*message*/"생일 
 행복을 가져다줬어.
 오늘은 내가
 널 행복하게 해 줄게.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0066", /*message*/"에리, 생일 축하해.
+같은 3학년으로서
+침착하게 멤버들을
+통솔하는 모습은
+정말 존경스러워.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0104", /*message*/"아직 읽지 않은
 스토리가 있어.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0105", /*message*/"라이브야!
@@ -38221,6 +38280,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0063", /*message*/"히익,
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0064", /*message*/"생일 축하드려요.
 당신을 만난 건
 제게 더할 나위 없는 행복이에요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0066", /*message*/"에리, 생일 축하드려요.
+저도 당신처럼
+몸도 마음도 아름답게
+가꾸고 싶네요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0104", /*message*/"스토리를 읽어 보는 건
 어떠세요?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0105", /*message*/"저희들의 라이브,
@@ -38373,6 +38436,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0063", /*message*/"아하�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0064", /*message*/"생일 축하해!
 오늘은 Aqours 멤버들과 함께
 성대하게 축하할게!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0066", /*message*/"에리의 생일인데…
+뭘 선물해야 좋아할까?
+…마트료시카 같은 거?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0104", /*message*/"스토리 안 읽을 거면
 내가 읽는다?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0105", /*message*/"지금이라면 어떤 라이브든
@@ -38531,6 +38597,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0063", /*message*/"잠깐,
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0064", /*message*/"사랑하는 리틀 데몬이
 생일을 맞이했구나.
 축배를 들자~!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0066", /*message*/"에리는 지옥에서도
+인기 만점 타락천사가
+될 수 있을 거야.
+이렇게나 예쁜걸!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0104", /*message*/"이야기의 봉인이
 아직 남은 것 같아.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0105", /*message*/"우리가 펼치는 어둠의 무대를
@@ -38685,6 +38755,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0064", /*message*/"생일 
 앞으로도
 네가 행복한 인생을
 보내길 바랄게.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0066", /*message*/"다, 다리도 길고!
+피부도 하얗네요!
+에리는 정말로
+마루랑 같은
+인간 맞나유…?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0104", /*message*/"함께 이야기를 읽어유~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0105", /*message*/"으으으~ 마루는 지금 무척 라이브를 하고 싶어유~!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0106", /*message*/"마루도 특훈해서
@@ -38852,6 +38927,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0064", /*message*/"해피 
 손꼽아 기다렸어.
 자, 버스데이 파티
 시작이야♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0066", /*message*/"에리는 러시아의
+피가 섞였구나.
+마리도 언젠가
+러시아에 가 보고 싶어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0104", /*message*/"렛츠 리드 스토리♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0105", /*message*/"스탠바이 오케이☆
 언제든지 라이브를 할 수 있어♪");
@@ -39012,6 +39091,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0063", /*message*/"간지�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0064", /*message*/"생일 축하해.
 네 응원이 항상
 루비에게 용기를 줘.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0066", /*message*/"으으, 너무 예뻐서
+똑바로 바라볼 수 없어…
+에리, 생일 축하해요…!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0104", /*message*/"스토리…
 안 볼 거야…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0105", /*message*/"라이브,
@@ -39169,6 +39251,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0064", /*message*/"생일 
 네가 태어나서
 나랑 만나게 된 게…
 정말 기뻐.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0066", /*message*/"에리, 생일 축하해요.
+에리랑 같이 가고 싶은
+초콜릿 가게가
+있거든요?!
+지금 같이 어떠세요?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0104", /*message*/"같이 새로운
 스토리를 읽자.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0105", /*message*/"라이브 할 시간이야!
@@ -39339,6 +39426,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0064", /*message*/"오늘 
 카스밍을 응원해 주시는
 선배를 멋지게 축하할
 계획이 있었는데~!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0066", /*message*/"에리 선배,
+생일 축하드려요.
+앗, 아니, 딱히 겁먹은 건
+아니에요!
+카스밍은 나쁜 짓 같은 건
+안 한 걸요?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0104", /*message*/"아직 스토리
 안 읽으셨어요?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0105", /*message*/"선배~
@@ -39527,6 +39620,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0063", /*message*/"무대 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0064", /*message*/"생일 축하해요, 선배!
 앞으로도 계속
 지도 부탁드릴게요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0066", /*message*/"에리, 생일 축하해요.
+에리의 댄스는
+정말 굉장해요!
+무대에서 관객의 마음을
+사로잡는 마력이 있어요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0104", /*message*/"앗, 아직 안 읽은
 이야기가 있어요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0105", /*message*/"선배! 저,
@@ -39689,6 +39787,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0063", /*message*/"하나�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0064", /*message*/"생일 축하해. 너의 한 해가
 멋진 나날이길 바랄게.
 나로 인해서… 말이야♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0066", /*message*/"에리, 생일 축하해.
+맛있는 러시아 음식점을 아는데,
+같이 가 볼래?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0104", /*message*/"스토리를 읽으면
 나에 대해 더 자세히
 알 수 있을 거야.");
@@ -39864,6 +39965,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0064", /*message*/"해피 
 오늘을 최고의 생일로
 만들어 줄게!
 아이만 믿고 따라와~!!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0066", /*message*/"에리, 생일 축하해~!
+친절한 에리한테는
+아이의 애정이 듬뿍
+담긴 어깨 마사지를
+해줄게, 꾹꾹~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0104", /*message*/"아이가 새 스토리를
 읽어 줄까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0105", /*message*/"아이의 라이브,
@@ -40013,6 +40119,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0063", /*message*/"카나�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0064", /*message*/"생일 축하해~! 오늘은 카나타와 함께
 낮잠 자는 Day♪
 무릎베개도 해줄게~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0066", /*message*/"에리, 생일 축하해~
+에리처럼 뭐든지
+야무지게 잘하는 사람을
+본받는 게 좋다는 건
+나도 잘 알고 있어.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0104", /*message*/"아직 읽지 않은
 이야기가 있나 봐~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0105", /*message*/"야호~ 카나타랑 같이
@@ -40188,6 +40299,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0063", /*message*/"이건 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0064", /*message*/"생일 축하해요!
 당신을 만난 기적에
 최고로 감사해요…!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0066", /*message*/"에리, 생일 축하해요!
+에리의 댄스는
+가슴에 너무 와닿아서
+정말 좋아요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0104", /*message*/"아직 읽지 않은
 이야기가 있어요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0105", /*message*/"라이브를 더 하러 가요!");
@@ -40361,6 +40476,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0064", /*message*/"해피 
 마음 같아선
 서프라이즈 파티를
 해 주고 싶었는데…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0066", /*message*/"해피 버스데이, 에리!
+에리는 어떤 일이든
+진지하게 임하지만,
+틈틈이 쉬는 것도 잊지 마.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0104", /*message*/"아직 읽지 않은
 이야기가 있어~
 읽어 보자.");
@@ -40515,6 +40634,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0064", /*message*/"저기,
 난 너를 만나고 나서
 더 자주 웃게 됐어.
 그러니까 고마워.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0066", /*message*/"에리, 생일 축하해요.
+몸매도 늘씬하고
+댄스 실력이
+정말 뛰어나서
+너무 멋져요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0104", /*message*/"읽지 않은 이야기가 있나 봐?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0105", /*message*/"라이브 할래?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0106", /*message*/"특훈 하고 싶어.

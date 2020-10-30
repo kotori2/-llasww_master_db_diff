@@ -945,7 +945,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"บทที่ 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"บทที่ 7");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31006", /*message*/"TOP อีเวนต์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"พรีอีเวนต์ ดรีมไลฟ์พาเรด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"ดรีมไลฟ์พาเรด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
@@ -2223,6 +2222,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_1", /*message*/"ป
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_2", /*message*/"สิ่งที่ปรากฏขึ้นมาในใจนั้นคือ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_1", /*message*/"เพราะอยู่กับเธอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_2", /*message*/"หนักแน่นและสง่างาม!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053001_1", /*message*/"ไปเดตที่สวนสนุกล่ะเมี้ยว~!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053001_2", /*message*/"คอลเลกชันลับของริน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063001_1", /*message*/"ดูแลมากิจังอย่างใกล้ชิด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063001_2", /*message*/"ใจไม่อาจซื่อตรง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200083001_1", /*message*/"เพลงที่ร้องด้วยกันกับเธอ");
@@ -2230,6 +2231,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200083001_2", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200093001_1", /*message*/"ด้วยกันสองคน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200093001_2", /*message*/"ไอดอลอันดับหนึ่ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201012001_1", /*message*/"คุณพนักงานทากามิ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_1", /*message*/"เวทมนตร์ของท้องทะเล");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_2", /*message*/"อยากเจอจัง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"เดตสีน้ำทะเล☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_2", /*message*/"ความวางใจที่เปียกโชก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"วันหยุดที่แสนงดงามของท่านนางฟ้าตกสวรรค์");
@@ -2314,6 +2317,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_2", /*message*/"ช
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082001_1", /*message*/"ปลายทางของภาพในความคิด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_1", /*message*/"มาทำให้เป็นสเตจที่ไชนี่กันเถอะ♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"Dance Dance!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092001_1", /*message*/"สัญญาเมื่อฤดูร้อนครั้งนั้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"ชวนเดตเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"อายจนจะตายอยู่แล้ว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"เพื่อนลับๆ");
@@ -2335,6 +2339,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"ด
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"จะดึงดูดเธอไว้ไม่ให้ละสายตาไปไหนเลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"แค่มอนจะเท่านั้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"ความหมายของอัลบั้มรูป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"การนวดแสนสุข");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"ชุดที่ทำให้ง่วงนอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"จับมือไว้แล้วไปด้วยกัน");

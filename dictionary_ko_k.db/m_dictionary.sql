@@ -37109,12 +37109,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0018", /*message*/"교복�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0019", /*message*/"오토노키자카 고교는
 학년별로 리본 색깔이
 달라. 알고 있었어?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0038", /*message*/"예술의 계절이래.
-에헤헤, 난 우미에게
-일본 무용을 배워 볼까 해.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0039", /*message*/"10월이 되니까
-꽤 선선해졌네~
-같이 러닝이라도 할까♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0040", /*message*/"춥다~
+그래도 연습할 때는 
+추위를 전혀 모르겠어!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0041", /*message*/"날씨가 추워지니까
+아침에 못 일어나겠어…
+네가 다정하게 깨워 주면
+좋겠다…");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0044", /*message*/"오늘은 쪽지 시험이
 없기를…");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0045", /*message*/"수업이 끝나면
@@ -37164,9 +37165,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0063", /*message*/"꺅!
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0064", /*message*/"생일 축하해~!
 에헤헤, 네 생일을
 축하할 수 있어서 기뻐♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0096", /*message*/"Trick or Treat!
-과자를 안 주면…
-장난을 잔뜩 칠 테다♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0069", /*message*/"냥냥냥~♪
+린, 생일 축하해♪
+린이랑 더 많이 
+노래하고 싶어♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0104", /*message*/"다음 스토리를 보지 않을래?
 어떻게 진행될지 궁금해~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0105", /*message*/"아직 라이브를 더 할 수 있어!
@@ -37254,12 +37256,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0019", /*message*/"교복�
 어느 학교 학생인지 금방 알 수 있어.
 …그러니까 어디 가서
 이상한 짓 하지 말렴.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0038", /*message*/"학업에 스포츠에 예술까지.
-가을에는 많은 것을
-흡수하고 싶어♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0039", /*message*/"가을에는 공원을 산책하고 싶어져.
-…네가 함께 걸어 준다면
-최고일 텐데.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0040", /*message*/"추워?
+오늘은 따뜻한 욕조에서
+피로를 풀자♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0041", /*message*/"가을에는 왠지 모르게
+생각에 잠기게 돼.
+네 생각을 하는
+시간이 많아.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0044", /*message*/"보람찬 하루를 시작하기 위해서
 아침에 마음을 다잡자♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0045", /*message*/"오늘 학교 끝나고 같이
@@ -37319,8 +37322,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0064", /*message*/"해피 
 네 생일을
 이렇게 축하할 수 있어서
 정말 행복해♡");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0096", /*message*/"Trick or Treat♪
-과자를 주면 장난 안 치고 넘어가 줄게.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0069", /*message*/"린, 생일 축하해!
+난 천진난만한 린의 미소가 정말 좋아♪♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0104", /*message*/"다음 이야기가 궁금해.
 같이 보지 않을래?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0105", /*message*/"실전 연습이 중요해.
@@ -37407,13 +37410,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0018", /*message*/"평소�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0019", /*message*/"오토노키자카의 교복은 
 블레이저라 단정한 
 분위기가 마음에 들어.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0038", /*message*/"가을은 수확의 계절!
-우후후, 하나요에게
-배운 거야♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0039", /*message*/"가을은 어딘가
-쓸쓸한 기분이 들어.
-네가 곁에 있어 주면
-좋겠어…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0040", /*message*/"퐁당 쇼콜라를
+만들어 왔어.
+따뜻하고 진한
+초콜릿을 음미해 봐♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0041", /*message*/"몸을 차게 두면 감기 걸려.
+코토리가 따뜻하게
+해 줄게요~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0044", /*message*/"쉬는 시간에는 코토리를
 만나러 와 주면 좋겠다♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0045", /*message*/"오늘은 너랑 같이
@@ -37472,10 +37475,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0064", /*message*/"에헤�
 생일 축하해♡
 네 생일을
 축하할 수 있어서 기뻐.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0096", /*message*/"과자를 주지 않으면
-코토리가 아침까지
-장난쳐 버릴 테다~
-후후, 무서웠어?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0069", /*message*/"린, 생일 축하해!
+귀엽고 깜찍한 린,
+정말 좋아해♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0104", /*message*/"다음 스토리를
 읽을 수 있대!
 응? 같이 읽자~");
@@ -37573,11 +37575,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0019", /*message*/"이 교
 차분한 분위기에
 학업에 방해되지도
 않으니까요.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0038", /*message*/"가을이 되면 하나요는 항상
-활짝 웃고 다녀요.
-햅쌀의 계절이네요.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0039", /*message*/"여자의 마음과 가을 하늘은 변덕스럽다고 하지만…
-제 마음은 언제나 한결같답니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0040", /*message*/"다음 휴일에는 단풍놀이를
+하러 가요.
+아름다운 풍경과 등산을
+즐길 수 있다니 너무 좋네요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0041", /*message*/"후후.
+추워서 당신 코끝이
+조금 빨개졌어요…
+귀여워요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0044", /*message*/"수업을 더 잘 이해하기
 위해서도 예습하는 습관을
 들이는 게 좋아요.");
@@ -37645,10 +37650,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0064", /*message*/"만나�
 당신 생일이니까,
 꼭 직접 축하한다는 말을
 하고 싶었어요.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0096", /*message*/"저기, 과자를
-안 드리면…
-저도 장난을
-당하는 건가요?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0069", /*message*/"냥냥냥~♪
+…흠흠.
+오늘은 린의 생일이랍니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0104", /*message*/"다음 스토리가
 궁금하네요.
 같이 살펴볼까요?");
@@ -37747,13 +37751,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0018", /*message*/"학교 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0019", /*message*/"달리면 교복 치마가
 팔랑거리잖아?
 그거 꽤 좋아해♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0038", /*message*/"카요가 햅쌀로
-주먹밥을 만들어 주거든!
-요새는 매일 주먹밥을
-먹는다냥♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0039", /*message*/"스포츠의 가을이다냥!
-준비 운동하고 너랑
-같이 운동하고 싶다냥~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0040", /*message*/"호~ 에헤헤,
+입김이 하얗게 나오는 거
+재미있지 않아?
+자꾸 하게 된다냥♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0041", /*message*/"조금 추우니까…
+너한테 찰싹
+달라붙어도 돼?
+에헤헤, 따뜻하다냥♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0044", /*message*/"아직 졸려?
 그럼 린이랑 같이 운동장을
 달리자! 그럼 잠이 
@@ -37813,8 +37818,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0064", /*message*/"냥냥�
 생일 축하해♪
 에헤헤, 깜짝 놀라게 해 주려고
 기다리고 있었다냥.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0096", /*message*/"어흥~! 과자를 주면 린이
-부비부비해 주겠다냥☆");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0069", /*message*/"오늘은 린의 생일이야!
+모두와 함께 있는 
+것만으로도 너~무 행복한
+생일이다냥♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0104", /*message*/"다음 스토리가
 있대. 읽어 볼까냥?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0105", /*message*/"라이브하고 싶다냥~!
@@ -37909,12 +37916,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0018", /*message*/"모든 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0019", /*message*/"교복은 스쿨 아이돌의
 의상은 아니지만…
 추억은 가득 담겨 있어.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0038", /*message*/"가을 하면… 예술의 계절이지♪
-너도 음악과 미술을 즐겨 봐.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0039", /*message*/"너, 그렇게 얇게 입고 
-다녀도 괜찮아?
-내 스톨을 빌려줄 테니까…
-감기 안 걸리게 조심해.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0040", /*message*/"요즘 추워졌어.
+그 대신 머릿속은
+맑아지는 것 같아.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0041", /*message*/"낙엽 흩날리는 거리를
+너와 함께 걷는 게 좋아.
+…오늘도 나랑 같이
+집에 갈 거지?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0044", /*message*/"오늘 일정은 어떻게 돼?
 아침에 미리
 확인해 두는 게 좋아.");
@@ -37965,9 +37973,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0064", /*message*/"생일 
 …다, 당연히
 네 생일이지!
 하여튼 눈치 없긴…");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0096", /*message*/"Trick or Treat♪
-후후, 과자를 줘도
-장난쳐 버릴 거야.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0069", /*message*/"린, 평소처럼 부실에서
+기다리고 있을게.
+후후, 오늘은 네
+생일 파티를 열 거니까♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0104", /*message*/"스토리를 읽어 보지 않을래?
 새로운 발견이 있을지도 몰라.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0105", /*message*/"슬슬 라이브 하지 않을래?
@@ -38064,13 +38073,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0018", /*message*/"오토�
 동료란 게 느껴져♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0019", /*message*/"교복을 입고 무대에 오르는 것도 좋아해.
 스쿨 아이돌만의 특권이니까♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0038", /*message*/"가을 하면 예술의 가을,
-운동의 가을, 주물주물의 가을…
-응? 내가 뭐 이상한
-말이라도 했어?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0039", /*message*/"어? 주물주물의 가을을
-기대한 거야? 
-아하하, 너 진짜 웃긴다~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0040", /*message*/"요새 날씨가 꽤
+쌀쌀해졌네.
+부실에 코타츠를
+놓았으면 좋겠다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0041", /*message*/"날씨가 추워도 마음은 따뜻해♪
+후후, 네 덕분이야.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0044", /*message*/"오늘도 좋은 하루를
 보낼 수 있기를 바라.
 내가 응원할게♪");
@@ -38129,9 +38137,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0064", /*message*/"해피 
 우후후,
 네 생일은 성대하게
 축하해야지!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0096", /*message*/"Trick or Treat♪
-주물주물 당하고 싶은 
-녀석은 게 없느냐~!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0069", /*message*/"에너지가 넘치고
+섬세한 면까지 있는 린.
+난 네가… 정말 좋아♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0104", /*message*/"시간 있으면
 스토리를 읽어 봐♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0105", /*message*/"지금이라면 라이브도
@@ -38219,11 +38227,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0018", /*message*/"교복�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0019", /*message*/"오토노키자카 고교의 교복은
 블레이저 스타일이고, 학년별로
 리본 색깔이 다른 게 특징이야!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0038", /*message*/"미안, 지금 뭐 좀
-생각하느라… 햅쌀… 햅쌀…");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0039", /*message*/"하아… 밥 맛있다♡
-너랑 같이 먹으니까
-더 맛있어♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0040", /*message*/"뭐어? 몸이 차가워?
+그럼 우리 서로
+몸을 꼭 붙일까?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0041", /*message*/"이제 곧 한 해가
+끝난다고 생각하니
+조금 섭섭하네.
+그래도 네가 있으니까…♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0044", /*message*/"아침밥을 든든하게
 먹어야 기운이 나지.
 주먹밥을 먹고
@@ -38287,10 +38297,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0064", /*message*/"오늘�
 생일이구나!
 다 같이 많이 많이
 축하해 줄게♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0096", /*message*/"과자를 안 주면 장난칠… 
-뭐어?! 내가 장난을
-당하는 거야?!
-누가 좀 살려줘~!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0069", /*message*/"린, 생일 축하해.
+몇 번을 말해도
+부족할 정도로…
+정말 좋아하는 린♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0104", /*message*/"스토리를 읽지 않을래?
 나, 어떻게 될지 궁금해…!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0105", /*message*/"라이브 준비가 되면
@@ -38388,14 +38398,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0019", /*message*/"핑크�
 니코가 아끼는 거야♪
 보송보송하고 사랑스러운 게
 꼭 니코 같아!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0038", /*message*/"훗,
-식욕의 가을은 한물갔어!
-요즘 대세는
-스쿨 아이돌의 가을,
-야자와의 가을이지니코♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0039", /*message*/"밤이 싸더라♪
-밤밥을 지어서
-네 도시락을 만들어야지~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0040", /*message*/"가을은 어딘가
+서글픈 기분이 들어…
+니코의 브로마이드를
+줄 테니까,
+이거 보고 힘내.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0041", /*message*/"은행나무 잎이 금빛으로
+물들었어♪
+자, 둘이서 천천히
+걸어가자.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0044", /*message*/"좋은 아침♪
 오늘도 니코를 만나서
 좋았지♡");
@@ -38459,9 +38470,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0063", /*message*/"꺅…
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0064", /*message*/"오늘이 무슨 날인지
 알아? 네 생일이니까
 최고로 멋진 하루를 보내야지!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0096", /*message*/"꺄아! 니코는 연약해서
-귀신이 무서워요오…
-뭐야, 그런 눈으로 보지 마!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0069", /*message*/"니코는 네 귀여운 점을 잔뜩 알아.
+린, 생일 축하해♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0104", /*message*/"스토리가 있는 것 같아♪
 같이 읽자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0105", /*message*/"니코는 라이브를
@@ -38552,10 +38562,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0018", /*message*/"우라 
 스카프 색이 달라~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0019", /*message*/"우리 학교 교복 귀엽지♪
 꽤 인기 있어.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0038", /*message*/"긴팔은 아직 좀 덥네… 반팔 꺼내야지.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0039", /*message*/"밥이 맛있는 가을이야~!
-좋아하는 너랑 같이 먹으면
-더욱더 맛있게 느껴져♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0040", /*message*/"날이 선선해졌네.
+배 내놓고 자지 않도록
+조심해야겠다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0041", /*message*/"내 눈이 단풍잎 색이라고…?
+와~ 그, 그렇게 표현한 건
+네가 처음이야~!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0044", /*message*/"밤늦게까지 안 자고 있으면
 언니들한테 혼난단 말이지~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0045", /*message*/"네가 웃으면
@@ -38603,9 +38615,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0064", /*message*/"생일 
 이렇게 네 생일을
 축하해 줄 수 있어서
 정말 기뻐.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0096", /*message*/"할로윈이라 호박을 사 왔어~
-호박 조림을 만들까?
-크로켓 해 먹을까?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0069", /*message*/"린, 생일 축하한다냥~♡
+에헤헤, 린처럼 해 봤어♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0104", /*message*/"읽을 수 있는 스토리가
 있는 것 같아!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0105", /*message*/"준비는 완벽해!
@@ -38705,13 +38716,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0019", /*message*/"이 빨
 마음에 들어.
 하지만 학년이 올라가면
 색이 바뀐단 말이지.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0038", /*message*/"가을 하면…
-음~ 예술의 계절이지.
-오랜만에 그림을
-그리러 갈까.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0039", /*message*/"새 스웨터를
-꺼내 입어 봤어.
-우후후, 어울려?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0040", /*message*/"치카 가방에 귤이
+들어 있던데…
+저건 점심때 먹을 후식?
+아니면 그냥 간식…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0041", /*message*/"부쩍 쌀쌀해졌으니
+춥지 않게 옷을
+잘 챙겨 입어.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0044", /*message*/"아침은 먹었어?
 하루를 시작하려면
 든든하게 먹어야지.");
@@ -38765,10 +38776,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0064", /*message*/"생일 
 네 응원이
 우리에게 힘이 돼.
 정말 고마워.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0096", /*message*/"이번 할로윈에는
-뭘 만들까?
-호박…
-호박 푸딩을 만들자!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0069", /*message*/"린, 생일 축하해.
+…아니!
+처, 천만에, 냥~!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0104", /*message*/"아직 읽지 않은
 스토리가 있는 것 같아.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0105", /*message*/"멋진 라이브를 하자♪");
@@ -38867,14 +38877,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0019", /*message*/"바닷�
 하는 생각도
 들었지만…
 아마 상관없겠지.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0038", /*message*/"이제 아침저녁에는 꽤 서늘해.
-요즘 같은 날씨가 제일
-쾌적한 것 같아.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0039", /*message*/"아, 비늘구름이다.
-예뻐라…
-응? 아니야? 
-조개구름이라고?
-에이~ 비늘이지, 비늘~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0040", /*message*/"이 시기에는 부실에 귤이
+잔뜩 쌓여 있단 말이지.
+치카가 가져오는 걸까?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0041", /*message*/"푸른 바다가 빛나는 여름도,
+산이 화사하게 물드는 가을도
+너와 함께 보내서 기뻐.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0044", /*message*/"아침에 일어나면 바다를 향해
 아침 인사를 하곤 해.
 그러면 파도 소리로 대답해 줘.");
@@ -38935,10 +38943,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0064", /*message*/"생일 
 행복을 가져다줬어.
 오늘은 내가
 널 행복하게 해 줄게.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0096", /*message*/"Trick or Hug!
-과자를 주지 않으면
-허그할 거야~♪
-줘도 허그할 거구~♪♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0069", /*message*/"린, 생선 못 먹어?
+미안…
+생일 선물이
+말린 생선이거든…");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0104", /*message*/"아직 읽지 않은
 스토리가 있어.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0105", /*message*/"라이브야!
@@ -39040,15 +39048,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0019", /*message*/"입학 
 새로웠던 교복도
 3년이나 입으니
 낡긴 했네요…");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0038", /*message*/"여름보다 식욕이 돋는 건
-이해하지만,
-방심하면 금세
-살이 쪄 버릴 거예요!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0039", /*message*/"기온이 꽤 많이
-떨어졌네요.
-환절기에는
-건강을 해치기 쉬우니
-몸조심하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0040", /*message*/"나무들의 빛깔이
+아름다운 계절이에요.
+오늘은 조금…
+멀리 돌아 갈까요?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0041", /*message*/"잠깐 얘기나 좀 할까요?
+가을밤은 기니까요…");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0044", /*message*/"늦잠은 용납 못 해요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0045", /*message*/"머리를 묶는 건 어떠냐고요?
 글쎄요, 그다지…
@@ -39108,9 +39113,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0063", /*message*/"히익,
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0064", /*message*/"생일 축하드려요.
 당신을 만난 건
 제게 더할 나위 없는 행복이에요.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0096", /*message*/"축제라고 해서
-너무 요란하고 화려한
-가장은 하면 안 돼요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0069", /*message*/"린, 생일 축하드려요.
+당신의 활력이 μ’s에
+기운을 불어넣고 있나 보네요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0104", /*message*/"스토리를 읽어 보는 건
 어떠세요?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0105", /*message*/"저희들의 라이브,
@@ -39210,14 +39215,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0019", /*message*/"우라 
 하복과 동복의 스카프를
 매는 방법이 달라.
 3학년은 똑같지만.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0038", /*message*/"꽤 선선해졌네.
-이 시기와 봄은
-운동하기 딱 좋아♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0039", /*message*/"꼬옥~
-으으, 오늘은 따뜻할 줄
-알고 얇게 입었는데
-생각보다 추워서…
-넌 따뜻하니까…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0040", /*message*/"귤이 제철이네~!
+우리 집에서도 귤을
+쌓이고 있어.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0041", /*message*/"오~ 산이 군데군데
+빨개지기 시작했어!
+좀 더 물이 들면
+단풍놀이하러 갈까♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0044", /*message*/"오늘 하루도
 전속력 전진으로
 힘내자~!");
@@ -39263,9 +39267,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0063", /*message*/"아하�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0064", /*message*/"생일 축하해!
 오늘은 Aqours 멤버들과 함께
 성대하게 축하할게!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0096", /*message*/"Trick or treat☆
-유령들과 함께
-할로윈 파티를 하자♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0069", /*message*/"린도 운동을
+좋아하는구나.
+하이 다이빙은 어때?
+관심 없어?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0104", /*message*/"스토리 안 읽을 거면
 내가 읽는다?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0105", /*message*/"지금이라면 어떤 라이브든
@@ -39357,12 +39362,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0019", /*message*/"사실 
 어디냐고…? 꺅!
 뭐, 뭐 하는 거야!
 들추지 마!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0038", /*message*/"가을의 일곱 가지 풀…?
-봄의 일곱 가지 풀처럼
-죽 끓여 먹는 거야?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0039", /*message*/"어둠이 내리면
-요하네를 잃어버릴지도 몰라.
-눈을 떼지 마.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0040", /*message*/"부실에 바구니 한가득
+귤이 있더라.
+나 말고 다른 애들은
+맛있게 먹으니까
+소외감이 들어.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0041", /*message*/"기온이 꽤 떨어졌어.
+요하네를 두고 감기에 걸려
+쉬기라도 하면 가만 안 둘 거야.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0044", /*message*/"스쿨 아이돌 같은
 경망스러운 짓은
 이 요하네에게
@@ -39424,10 +39431,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0063", /*message*/"잠깐,
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0064", /*message*/"사랑하는 리틀 데몬이
 생일을 맞이했구나.
 축배를 들자~!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0096", /*message*/"거리에 코스프레한 사람들이
-넘쳐나네… 오늘만큼은
-타락천사 의상을 입고도
-당당히 돌아다닐 수 있겠어♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0069", /*message*/"요하네가 사역마를 부린다면 당연히 고양이지.
+그러니까 린,
+요하네의 사역마가
+되지 않겠느냥?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0104", /*message*/"이야기의 봉인이
 아직 남은 것 같아.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0105", /*message*/"우리가 펼치는 어둠의 무대를
@@ -39526,15 +39533,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0019", /*message*/"2학년
 마루한테 어울릴까?
 스카프 색깔만 달라져도
 인상이 많이 바뀔 텐데…");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0038", /*message*/"봄뿐만 아니라
-가을에도 일곱 풀이 있어.
-다만 가을에는 먹지 않고
-눈으로 즐긴대.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0039", /*message*/"팥떡이 맛있네유~♡
-어라?
-후후후, 입가에
-팥 묻었어.
-봄이랑 거꾸로야♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0040", /*message*/"예쁜 저녁노을을 보면
+저절로 빠져들게 돼유.
+하늘도 바다도 산도, 이 계절에는
+모두 단풍 색이 되네.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0041", /*message*/"너랑 마루랑 똑같이
+볼이 새빨개♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0044", /*message*/"먼 파도 소리를 들으며
 좋아하는 책을 읽고
 차를 마시고.
@@ -39582,10 +39586,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0064", /*message*/"생일 
 앞으로도
 네가 행복한 인생을
 보내길 바랄게.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0096", /*message*/"할로윈은
-호박 과자를 잔뜩
-먹을 수 있는 날이에유~♪
-어, 아니야?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0069", /*message*/"린, 생일 축하해.
+마루도 린처럼
+날렵해지고 싶다…");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0104", /*message*/"함께 이야기를 읽어유~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0105", /*message*/"으으으~ 마루는 지금 무척 라이브를 하고 싶어유~!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0106", /*message*/"마루도 특훈해서
@@ -39687,13 +39690,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0019", /*message*/"이제 
 이걸 보면
 그땐 참 어렸지~☆
 하는 생각이 드네♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0038", /*message*/"가을 해는… 뭐더라?
-뭐라고 뭐라고 하던데?
-아잉~ 기억이 안 나!
-궁금해 죽겠어!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0039", /*message*/"네 입술은
-사과처럼 빨갛네.
-키스도 사과 맛일까?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0040", /*message*/"기모노를 입은 아이들이
+종종 눈에 띄어.
+마치 인형 같아서
+정말 큐트해♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0041", /*message*/"날씨가 쌀쌀해져서
+옷도 포근포근 푹신푹신해.
+껴안으면 참 기분 좋아♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0044", /*message*/"끄응.
 마리가 쇼핑을 하려고
 하면 다이아랑 카난이
@@ -39753,10 +39756,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0064", /*message*/"해피 
 손꼽아 기다렸어.
 자, 버스데이 파티
 시작이야♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0096", /*message*/"얘들아…
-지금까지 숨겨왔지만, 사실…
-마리는 귀신이었어…!
-…농담이야~♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0069", /*message*/"해피 버스데이, 린♪
+우후후, 키도 작고 눈도 초롱초롱해서 아기 고양이 같아!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0104", /*message*/"렛츠 리드 스토리♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0105", /*message*/"스탠바이 오케이☆
 언제든지 라이브를 할 수 있어♪");
@@ -39863,12 +39864,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0019", /*message*/"언니�
 더 많이 났다면…
 언니 교복을 물려받아
 입었을지도 모르겠네.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0038", /*message*/"오늘의 도시락은 밤밥이야♪
-달콤한 밤과 깨소금의 간이
-딱 맞아서… 더 먹고 싶다아.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0039", /*message*/"가을은 금방 어두워지니까
-너랑 같이 오래 못 있어…
-너무 아쉽다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0040", /*message*/"시치고산 때는 기모노가
+무겁고 답답하고,
+화장한 것도 부끄러워서…
+빨리 벗고 싶다!
+라는 생각밖에 없었어.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0041", /*message*/"언제나 네가 루비를
+따뜻하게 해 주니까,
+오늘은 루비가 널
+따뜻하게 해 줄게.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0044", /*message*/"매일 댄스 연습과 근력 트레이닝을 하니까, 루비도 조금은 튼튼해졌을까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0045", /*message*/"사실 네 앞에서
 귀여운 의상을 입는 게
@@ -39917,10 +39921,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0063", /*message*/"간지�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0064", /*message*/"생일 축하해.
 네 응원이 항상
 루비에게 용기를 줘.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0096", /*message*/"길을 걷고 있었는데
-유령 코스프레를 한
-아이들이 쫓아왔어…
-너무 무서웠어…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0069", /*message*/"린처럼 다정한 고양이라면
+루비도 겁먹지 않고
+쓰다듬을 수 있을 것 같아♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0104", /*message*/"스토리…
 안 볼 거야…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0105", /*message*/"라이브,
@@ -40007,12 +40010,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0018", /*message*/"교복�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0019", /*message*/"스쿨 아이돌이지만
 학생의 본분인 공부도
 열심히 해야 해!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0038", /*message*/"독서의 계절, 운동의 계절…
-가을에는 하고 싶은 게
-많아서 즐거워!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0039", /*message*/"가을 달은 참 아름다워…
-밤길을 밝게 비춰주는 게…
-마치 너 같아.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0040", /*message*/"가을 하면…
+토란 전골 파티지!
+…어? 유치원 때 안 했어?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0041", /*message*/"추워~ 어, 그렇게 
+얇게 입으면 감기 걸려.
+장갑 한 짝 빌려줄게.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0044", /*message*/"좋은 아침이야!
 새로운 하루가 시작됐어.
 오늘도 함께 힘내자!");
@@ -40078,10 +40081,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0064", /*message*/"생일 
 네가 태어나서
 나랑 만나게 된 게…
 정말 기뻐.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0096", /*message*/"네가 트릭 오어 트리트라고
-말하면, 과자도 주고
-장난도 쳐 달라고
-할지도 몰라.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0069", /*message*/"린이 알려준 라면이
+정말 맛있었어.
+오늘은 내가 추천하는
+가게를 알려줄게.
+생일 축하해, 린!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0104", /*message*/"같이 새로운
 스토리를 읽자.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0105", /*message*/"라이브 할 시간이야!
@@ -40168,14 +40172,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0018", /*message*/"목표�
 스쿨 아이돌!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0019", /*message*/"쿠페빵 드실래요?
 아니면 뭐 좀 넣을까요?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0038", /*message*/"길고 긴 가을밤…
-밤이 긴 건 왠지 싫어요.
-딱히 귀신이 무섭다거나
-그런 건 아니고요?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0039", /*message*/"흩날리는 낙엽…
-가을의 카스밍도 
-봄에 못지않게
-귀엽죠? 빙글빙글~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0040", /*message*/"교실에서 밖을 바라보면
+낙엽이 빙글빙글 춤을 추는데…
+감상에 젖은 카스밍도…
+귀여운 것 같아요…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0041", /*message*/"밤밥의 대항마로 밤 맛 쿠페빵을 만들어 봤어요!
+드셔 보세요☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0044", /*message*/"오늘도 하루가 시작됐네요!
 힘내서 갈게요~!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0045", /*message*/"선배, 카스밍이 이불에서
@@ -40252,10 +40254,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0064", /*message*/"오늘 
 카스밍을 응원해 주시는
 선배를 멋지게 축하할
 계획이 있었는데~!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0096", /*message*/"마치 카스밍을 위해
-존재하는 날 같네요!
-당장 선배한테
-장난쳐야겠어요~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0069", /*message*/"린, 생일 축하해~!
+카스밍도 린처럼
+말끝을 독특하게 하고 싶은데,
+뭐가 좋을까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0104", /*message*/"아직 스토리
 안 읽으셨어요?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0105", /*message*/"선배~
@@ -40365,14 +40367,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0019", /*message*/"어머,
 말려 올라갔다고요?
 어디죠?!
 어느 부분이죠~?!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0038", /*message*/"흐아암… 아흐…
-새로 받은 대본을
-읽다 보니 잠이 모자라서…
-가을은 밤이 길어서 무서워요.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0039", /*message*/"선배, 같이 디저트
-먹으러 가실래요?
-역 근처에 새로운
-가게가 생겼거든요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0040", /*message*/"연극 아이디어를
+내야 하는데…
+선배, 뭔가 조언 좀
+해 주세요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0041", /*message*/"으으, 가을이
+운동의 계절이란 말은
+누가 처음 꺼낸 걸까요…
+소프트볼은 잘 못하니까
+같이 연습해 주세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0044", /*message*/"좋은 아침이에요.
 오늘도 멋진 하루로
 만들어 봐요.");
@@ -40444,10 +40447,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0063", /*message*/"무대 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0064", /*message*/"생일 축하해요, 선배!
 앞으로도 계속
 지도 부탁드릴게요!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0096", /*message*/"할로윈 코스프레요…?
-평소에 연극에서도
-다양한 분장을 하니까
-그렇게 관심은 없네요…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0069", /*message*/"린, 생일 축하해요.
+저도 린처럼 운동신경이
+좋았다면… 구기 종목은
+아무리 노력해도
+못 하겠어요… 으으…");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0104", /*message*/"앗, 아직 안 읽은
 이야기가 있어요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0105", /*message*/"선배! 저,
@@ -40544,13 +40548,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0018", /*message*/"음~ �
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0019", /*message*/"어울려? 그건 말이지,
 나한테 어울리도록
 살짝 손을 봤기 때문이야.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0038", /*message*/"가을의 즐거움 하면
-모닥불… 군고구마…
-아니, 이게 아니라!
-다, 당연히 독서지!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0039", /*message*/"가을은 나들이의 계절!
-그러니까 가끔은 한숨 돌리러 가자.
-음~ 등산 같은 거라든가…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0040", /*message*/"낙엽으로 책갈피를
+만들어 봤어.
+가을 느낌이 물씬 풍기지 않아?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0041", /*message*/"공기가 맑아진 걸까?
+밤하늘에 별이 잘 보이네…
+너도 여기서 같이 볼래?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0044", /*message*/"아직 졸리겠지만
 조금만 힘내자.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0045", /*message*/"어젯밤에 늦게 자서
@@ -40610,10 +40613,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0063", /*message*/"하나�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0064", /*message*/"생일 축하해. 너의 한 해가
 멋진 나날이길 바랄게.
 나로 인해서… 말이야♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0096", /*message*/"Trick and trick!
-왜 장난만 치냐고?
-난 과자보다 달콤한
-바디니까 괜찮아.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0069", /*message*/"린, 생일 축하해.
+늘 행복이 가득한 비결을
+가르쳐 주지 않을래?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0104", /*message*/"스토리를 읽으면
 나에 대해 더 자세히
 알 수 있을 거야.");
@@ -40706,12 +40708,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0018", /*message*/"교복�
 생각하는 게 너~무 즐거워!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0019", /*message*/"스쿨 아이돌의 세계를
 교복으로 정복한다!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0038", /*message*/"스포츠의 계절이라… 음~
-왠지 몸이 근질거리는데!
-스쿨 아이돌 운동회를 하자!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0039", /*message*/"헤헤헤… 군고구마 사 버렸어. 
-자, 나랑 반반 먹자.
-이제 우린 공범이야~!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0040", /*message*/"낙엽을 보면 쓸쓸한 느낌이 들어…
+저 마지막 잎새가
+떨어졌을 때… 군고구마를 구울
+모닥불의 준비가 끝나…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0041", /*message*/"날씨가 추워졌네~
+이럴 때는 찰싹!
+달라붙는 게 최고!
+차알싹~!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0044", /*message*/"안녕! 
 아이는 아침부터 기분 최고!
 너도 같이 최고하자!");
@@ -40789,9 +40793,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0064", /*message*/"해피 
 오늘을 최고의 생일로
 만들어 줄게!
 아이만 믿고 따라와~!!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0096", /*message*/"Trick or treat!
-나는 트릭도 트리트도
-둘 다 좋아해~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0069", /*message*/"린, 생일 축하~!
+좋았어, 지금부터 아이랑
+라면 데이트다! 레츠 고♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0104", /*message*/"아이가 새 스토리를
 읽어 줄까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0105", /*message*/"아이의 라이브,
@@ -40879,11 +40883,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0018", /*message*/"아침�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0019", /*message*/"교복 재킷을
 이불 대신 덮는
 생활의 지혜야.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0038", /*message*/"엠마가 만든 간식이
-너무 너무 맛있어서…");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0039", /*message*/"부실에 솜이불을 뒀더니
-세츠나한테 혼났어…
-카나타 위로해 주세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0040", /*message*/"저 마지막 잎새가
+떨어지면…
+나는 잠이 들 거야… 쿠울.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0041", /*message*/"추워… 같이 자자~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0044", /*message*/"앗… 된장국 냄새…
 좋은 아침입니다…");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0045", /*message*/"다시 잠들지 않게
@@ -40941,8 +40944,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0063", /*message*/"카나�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0064", /*message*/"생일 축하해~! 오늘은 카나타와 함께
 낮잠 자는 Day♪
 무릎베개도 해줄게~");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0096", /*message*/"Trick or sleep?
-못 고르겠어~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0069", /*message*/"린, 생일 축하해~!
+카나타도 린처럼
+옆돌기 같은 거
+해 보고 싶은데,
+가르쳐 줄래?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0104", /*message*/"아직 읽지 않은
 이야기가 있나 봐~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0105", /*message*/"야호~ 카나타랑 같이
@@ -41035,15 +41041,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0018", /*message*/"스쿨 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0019", /*message*/"유키 세츠나는
 언제 어느 때라도
 스쿨 아이돌이랍니다!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0038", /*message*/"긴 가을밤에 듣는 음악은
-각별하답니다. 언젠가
-오케스트라 연주와 함께
-라이브를 해 보고 싶어요!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0039", /*message*/"결실의 계절이네요!
-저와 당신의 
-스쿨 아이돌 활동도
-열매를 맺을 수
-있으면 좋겠어요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0040", /*message*/"문화제 준비 때문에
+다들 바쁘지만,
+사람들이 즐거워하는
+모습을 보면
+저도 힘이 나요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0041", /*message*/"가을은 문화의 계절이니,
+박물관이나 미술관을
+방문해 보려고 해요.
+당신의 소감도 궁금한데
+같이 가실래요?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0044", /*message*/"안녕하세요!
 오전에도 힘내 봐요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0045", /*message*/"어라? 어딘가 
@@ -41118,11 +41125,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0063", /*message*/"이건 
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0064", /*message*/"생일 축하해요!
 당신을 만난 기적에
 최고로 감사해요…!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0096", /*message*/"으~음…
-과자도 장난도
-둘 다 안 되니까…
-Idol or idol은
-어떤가요?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0069", /*message*/"린, 생일 축하해요.
+기회가 되면 운동 신경이
+좋은 린과 함께
+새로운 체력 단련 메뉴를
+고안해 보고 싶어요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0104", /*message*/"아직 읽지 않은
 이야기가 있어요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0105", /*message*/"라이브를 더 하러 가요!");
@@ -41226,13 +41233,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0018", /*message*/"일본 
 귀여워서 좋아♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0019", /*message*/"…또 사이즈가
 작아졌나?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0038", /*message*/"난 만화랑 애니메이션으로
-일본어 공부를 하고 있어.
-세츠나가 좋은 작품을
-소개해 주거든.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0039", /*message*/"이 시기에는 조금 외롭지만…
-내 곁에 늘 네가 있어 주니까
-금방 기운이 나~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0040", /*message*/"날씨가 추워졌네~
+이럴 때는 치즈 퐁뒤로
+몸도 마음도 따끈따끈하게!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0041", /*message*/"겨울에는 따뜻한 방에서
+자수를 놓으며
+시간을 보내곤 해.
+너한테도 뭔가
+만들어 주고 싶다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0044", /*message*/"안녕!
 오늘도 열심히 하자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0045", /*message*/"좋은 아침!
@@ -41296,9 +41304,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0064", /*message*/"해피 
 마음 같아선
 서프라이즈 파티를
 해 주고 싶었는데…");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0096", /*message*/"해피 할로윈!
-과자는 잔뜩
-준비했으니까 걱정 마!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0069", /*message*/"해피 버스데이, 린!
+린을 보고 있으면
+동생들 생각이 나.
+머리… 쓰다듬도 돼?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0104", /*message*/"아직 읽지 않은
 이야기가 있어~
 읽어 보자.");
@@ -41384,15 +41393,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0018", /*message*/"조금�
 모습이 됐을까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0019", /*message*/"리나 보드
 [방긋♪]");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0038", /*message*/"가을은 예술의 계절…
-리나 보드도 잘 그려 져.
-응원해 주는 모두에게 
-전할 마음을 담아서 그려.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0039", /*message*/"어렸을 때 단풍이 물든 산으로
-소풍 갔던 게 생각났어.
-지금 너랑 같이 가면
-그때와는 또 다른
-풍경이 보일까…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0040", /*message*/"다람쥐는 도토리를
+묻은 곳을 잊어버린대.
+그게 자라서
+커다란 나무가 되고.
+그나저나 내 밤 만주 어디 뒀더라…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0041", /*message*/"엠마가 군고구마
+만든다고 했어.
+얼른 가자.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0044", /*message*/"수업 시간에는 집중.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0045", /*message*/"졸려 보여…
 눈꺼풀에 눈 그릴래?");
@@ -41453,8 +41461,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0064", /*message*/"저기,
 난 너를 만나고 나서
 더 자주 웃게 됐어.
 그러니까 고마워.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0096", /*message*/"Trick or treat…!
-장난치는 거, 꽤 좋아해.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0069", /*message*/"린, 생일 축하해.
+린의 기세를
+따라갈 수 있게
+열심히 노력할 거야.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0104", /*message*/"읽지 않은 이야기가 있나 봐?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0105", /*message*/"라이브 할래?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0106", /*message*/"특훈 하고 싶어.

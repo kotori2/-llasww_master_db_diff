@@ -927,6 +927,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002603", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002604", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002605", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 드림 라이브 퍼레이드에서 스쿨 아이돌 1명의 PP를 회복");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002606", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002701", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 스토리 4장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002702", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 스토리 14장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002703", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 스토리 16장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002801", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002802", /*message*/"[빅 라이브 과제] NO EXIT ORION 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002803", /*message*/"[빅 라이브 과제] Aozora Jumping Heart 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002804", /*message*/"[빅 라이브 과제] Yume e no Ippo 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -1075,6 +1082,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800009", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800010", /*message*/"스토리 13장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800011", /*message*/"스토리 14장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800012", /*message*/"스토리 15장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800013", /*message*/"스토리 16장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"인연 에피소드 1화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"인연 에피소드 5화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"인연 에피소드 10화 보기");
@@ -1313,6 +1321,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400214", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400215", /*message*/"GALAXY HidE and SeeK 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400216", /*message*/"GALAXY HidE and SeeK 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400217", /*message*/"GALAXY HidE and SeeK 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400218", /*message*/"No Brand Girls 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400219", /*message*/"No Brand Girls 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400220", /*message*/"No Brand Girls 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400221", /*message*/"Kinmirai Happy End 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400222", /*message*/"Kinmirai Happy End 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400223", /*message*/"Kinmirai Happy End 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -2475,6 +2489,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_13", /*
 니지가사키의 인지도를 높이자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_14", /*message*/"맞추어지는 퍼즐 조각!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_15", /*message*/"우리 모두의 꿈을 위해 · 전편");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_16", /*message*/"우리 모두의 꿈을 위해 · 후편");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_2", /*message*/"기회를 잡아라!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_3", /*message*/"only our shine · 전편");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine · 후편");
@@ -2490,6 +2505,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_12", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_13", /*message*/"제13장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_14", /*message*/"제14장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_15", /*message*/"제15장");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_16", /*message*/"제16장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_2", /*message*/"제2장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_3", /*message*/"제3장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"제4장");
@@ -2560,6 +2576,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_7", /*message*/"　홈페이지에 신청한 1,000명의 자원봉사자를 맞이할 예정이었지만, 실제로 설명회에 온 사람은 100명도 채 되지 않았다. 평소에 자주 자원봉사 활동을 하는 시오리코가 우려하던 일이 벌어진 것이다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_8", /*message*/"　자원봉사자 설명회에 목표했던 인원이 오지 않았지만, 상심할 여유는 없다. 동호회 멤버들은 계속해서 노력하자고 말하면서도 충격을 감추지 못한다. 그중에서 가장 책임을 느끼는 당신을 보며 아유무의 불안감은 커져만 가는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_15_9", /*message*/"　동호회 멤버들도 자원봉사자 모집 일을 혼자 끌어안는 당신을 걱정한다. 아유무는 시오리코에게 상의해 메시지를 적은 노트를 선물하기로 했다. 한편 호노카와 치카도 당신 소식을 듣고 걱정하고 있었다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_16_1", /*message*/"　자원봉사자를 모으기 위해 필사적으로 노력하는 당신과 바쁜 당신을 걱정하는 아유무의 마음이 엇갈린다. 자원봉사자가 생각대로 모이지 않는 가운데, 당신은 오랜만에 부실을 찾는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_16_10", /*message*/"　아유무와 당신은 서로 솔직한 마음을 털어놓고 화해하고, 동호회 멤버들도 합류해서 다시 한번 스쿨 아이돌 페스티벌 개최를 향해 도전하기로 한다. &apos;Yume e no Ippo&apos;에 담은 모두의 마음은 과연 사람들에게 전해질까…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_16_2", /*message*/"　동호회 멤버들로부터 좀 더 의지해 달라는 말을 듣고, 당신은 주변을 살피지 못했다는 걸 깨닫는다. 그날 부실에 오지 않은 아유무에게도 그 마음을 전하기로 한다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_16_3", /*message*/"　아유무는 당신과 싸운 속상함에 학교까지 쉬게 되었다. 아유무를 걱정한 시오리코는 기분전환 삼아 아유무를 데리고 외출한다. 한편 당신도 아유무와 어떻게 화해하면 좋을지 고민하고 있다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_16_4", /*message*/"　동호회 멤버들과 당신은 μ&apos;s, Aqours와 함께 어떻게 자원봉사자를 모을지 다시 한번 생각한다. 그리고 말다툼한 날 이후로 아유무를 만나지 못한 당신은 학교에서 시오리코를 만나는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_16_5", /*message*/"　시오리코와 약속한 날이 다가오지만 자원봉사자는 좀처럼 모이지 않는다. 자원봉사자 모집이 얼마나 어려운지 새삼 깨닫지만, 이제 시간이 없다. 더 잘했어야 한다며 낙담한 당신은….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_16_6", /*message*/"　동호회 멤버들이 걱정하는 가운데 혼자 부실에 남은 당신은, 아유무가 선물하려 했던 노트에 적힌 메시지를 읽고 비로소 아유무의 마음을 깨닫는다. 한편 부활동을 나가지 않던 아유무는….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_16_7", /*message*/"　부활동에 나가지 않아도 스쿨 아이돌이 신경 쓰이는 아유무는, 많은 사람이 당신의 노력을 알아주지 않는다는 것을 알고 충격을 받는다. 그리고 함께 노력해 온 멤버들을 떠올리며 스쿨 아이돌 페스티벌을 성공시키고 싶다는 마음을 자각하는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_16_8", /*message*/"　아유무는 시오리코에게 동호회 멤버들이 자원봉사자 1,000명 모집을 이미 포기했다는 말을 들었다. 시오리코는 포기할 수 없다는 아유무의 각오를 듣고, 동영상 사이트를 통해 아유무의 마음을 전 세계에 전하자고 제안한다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_16_9", /*message*/"　아유무는 생방송을 통해 스쿨 아이돌에 대한 마음, 스쿨 아이돌 페스티벌에 대한 마음, 당신을 생각하는 마음을 솔직히 호소한다. 그리고 생방송을 본 당신은….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_1_10", /*message*/"　카린이 합류하고, 니지가사키 학원 스쿨 아이돌 동호회가 지향할 스타일도 가닥이 잡혔다!
 이어서 옛 부원이자 가장 눈에 띄던 세츠나를 찾아봤지만, 어디 있는지 아무도 모른다는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_1_1a", /*message*/"　당신은 오다이바에 있는 니지가사키 학원에 재학 중인 고등학교 2학년. 
@@ -2825,6 +2851,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_7", /*message*/"드리우는 암운?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_8", /*message*/"조마조마, 안절부절");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_15_9", /*message*/"뜻밖의 제안");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_1", /*message*/"강한 의지와 부족한 배려");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_10", /*message*/"함께 나아가는 한 걸음!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_2", /*message*/"마음은 다른 곳에");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_3", /*message*/"우리가 도와줄게!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_4", /*message*/"밀려오는 낙담");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_5", /*message*/"뒤늦은 후회");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_6", /*message*/"깨달은 진심, 포기하기 싫은 꿈");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_7", /*message*/"for you");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_8", /*message*/"메시지를 보낸 사람은…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_9", /*message*/"마음은 하나!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_10", /*message*/"다시 한번 시작이야!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_1a", /*message*/"스쿨 아이돌을 응원하고 싶어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_1b", /*message*/"스쿨 아이돌을 응원하고 싶어!");

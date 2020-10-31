@@ -21,3 +21,4 @@ INSERT INTO `m_story_main_chapter` VALUES (/*id*/12, /*title*/"m.story_main_chap
 INSERT INTO `m_story_main_chapter` VALUES (/*id*/13, /*title*/"m.story_main_chapter_title_13", /*description*/"m.story_main_chapter_description_13", /*thumbnail_asset_path*/"N'y", /*background_asset_path*/"[n");
 INSERT INTO `m_story_main_chapter` VALUES (/*id*/14, /*title*/"m.story_main_chapter_title_14", /*description*/"m.story_main_chapter_description_14", /*thumbnail_asset_path*/".rE", /*background_asset_path*/"Yz");
 INSERT INTO `m_story_main_chapter` VALUES (/*id*/15, /*title*/"m.story_main_chapter_title_15", /*description*/"m.story_main_chapter_description_15", /*thumbnail_asset_path*/"UMJ", /*background_asset_path*/"LT");
+INSERT INTO `m_story_main_chapter` VALUES (/*id*/16, /*title*/"m.story_main_chapter_title_16", /*description*/"m.story_main_chapter_description_16", /*thumbnail_asset_path*/"uli", /*background_asset_path*/"'\");

@@ -30,6 +30,11 @@ INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"NoW", /*dependency*
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"NoW", /*dependency*/"§Vr");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"NoW", /*dependency*/"§Vf");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"NoW", /*dependency*/"§{;");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"Q|%", /*dependency*/"§gn");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"Q|%", /*dependency*/"§j^");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"Q|%", /*dependency*/"§Vr");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"Q|%", /*dependency*/"§Vf");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"Q|%", /*dependency*/"§{;");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"T6", /*dependency*/"§gn");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"T6", /*dependency*/"§j^");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"T6", /*dependency*/"§Vr");
@@ -264,6 +269,11 @@ INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"L|d", /*dependency*
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"L|d", /*dependency*/"§j^");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"L|d", /*dependency*/"§Vr");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"L|d", /*dependency*/"§Vf");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"Z!w", /*dependency*/"§gn");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"Z!w", /*dependency*/"§_3");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"Z!w", /*dependency*/"§j^");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"Z!w", /*dependency*/"§Vr");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"Z!w", /*dependency*/"§Vf");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"3w(", /*dependency*/"§gn");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"3w(", /*dependency*/"§_3");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"3w(", /*dependency*/"§j^");
@@ -440,6 +450,10 @@ INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"@M3", /*dependency*
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"@M3", /*dependency*/"§j^");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"@M3", /*dependency*/"§Vr");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"@M3", /*dependency*/"§Vf");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"ma\"", /*dependency*/"§gn");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"ma\"", /*dependency*/"§j^");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"ma\"", /*dependency*/"§Vr");
+INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"ma\"", /*dependency*/"§Vf");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"DTj", /*dependency*/"§gn");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"DTj", /*dependency*/"§j^");
 INSERT INTO `stage_effect_dependency` VALUES (/*asset_path*/"DTj", /*dependency*/"§Vr");

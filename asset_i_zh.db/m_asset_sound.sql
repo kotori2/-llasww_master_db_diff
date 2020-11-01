@@ -22,7 +22,6 @@ INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0016", /*acb_pack_name*/"
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0017", /*acb_pack_name*/"swdgj3", /*awb_pack_name*/"b73ls3");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0018", /*acb_pack_name*/"7ic2k1", /*awb_pack_name*/"fc0hhe");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0019", /*acb_pack_name*/"wrtnuq", /*awb_pack_name*/"sz78v6");
-INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0023", /*acb_pack_name*/"s77zfx", /*awb_pack_name*/"hpqya5");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0027", /*acb_pack_name*/"gc2w9h", /*awb_pack_name*/"ig7d5v");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0028", /*acb_pack_name*/"t5uavt", /*awb_pack_name*/"obz5dw");
 INSERT INTO `m_asset_sound` VALUES (/*sheet_name*/"bgm_0030", /*acb_pack_name*/"ae66du", /*awb_pack_name*/"7uk1up");

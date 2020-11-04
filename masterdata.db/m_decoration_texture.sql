@@ -510,6 +510,8 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/12002/tex_banner_notice_s_12002", /*path*/"%kc");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00048/tex_banner_notice_l_00048", /*path*/"6,<");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00048/tex_banner_notice_s_00048", /*path*/"?S-");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Mining/31007/tex_banner_notice_l_31007", /*path*/"ph*");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Mining/31007/tex_banner_notice_s_31007", /*path*/"NTQ");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10045/tex_banner_notice_l_10045", /*path*/"8ey");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10045/tex_banner_notice_s_10045", /*path*/"<Nb");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/Birthday/0101/tex_banner_notice_birthday_l_0101", /*path*/"FF@");
@@ -552,6 +554,8 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gach
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/220202/tex_banner_notice_s_220202", /*path*/"rp]");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/220207/tex_banner_notice_l_220207", /*path*/"!PN");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/220207/tex_banner_notice_s_220207", /*path*/"9')");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00052/tex_banner_notice_s_00052", /*path*/"BEm");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00052/tex_banner_notice_l_00052", /*path*/"Co(");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70008/tex_banner_notice_l_70008", /*path*/"))m");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70008/tex_banner_notice_s_70008", /*path*/"zn=");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/Birthday/0002/tex_banner_notice_birthday_s_0002_2", /*path*/"~%z");

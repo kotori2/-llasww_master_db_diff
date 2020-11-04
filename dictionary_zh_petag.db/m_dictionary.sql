@@ -171,6 +171,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_role_1_empty", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_role_2_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_role_2\" height=\"40px\" width=\"40px\" offsetY=\"-11px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_role_3_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_role_3\" height=\"40px\" width=\"40px\" offsetY=\"-11px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_role_4_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_role_4\" height=\"40px\" width=\"40px\" offsetY=\"-11px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_skill_01_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_skill_01\" margin-right=\"2px\" offsety=\"-5px\" height=\"24px\" width=\"24px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_skill_02_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_skill_02\" margin-right=\"2px\" offsety=\"-5px\" height=\"24px\" width=\"24px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_skill_03_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_skill_03\" margin-right=\"2px\" offsety=\"-5px\" height=\"24px\" width=\"24px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_trade_white_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_trade_02\" height=\"40px\" width=\"40px\" offsety=\"-9px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_item_1000_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1000_s\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_item_1000_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1000_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");

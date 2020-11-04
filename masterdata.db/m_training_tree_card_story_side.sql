@@ -366,3 +366,12 @@ INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/502061001, /*
 INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/502071001, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/520710011);
 INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/502081001, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/520810011);
 INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/502091001, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/520910011);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/400083002, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/400830021);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/400083002, /*training_content_type*/9, /*training_content_no*/1, /*story_side_m_id*/400830022);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/401032003, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/410320031);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/401063001, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/410630011);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/401063001, /*training_content_type*/9, /*training_content_no*/1, /*story_side_m_id*/410630012);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/402063001, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/420630011);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/402063001, /*training_content_type*/9, /*training_content_no*/1, /*story_side_m_id*/420630012);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/400022002, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/400220021);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/402012002, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/420120021);

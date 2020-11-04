@@ -301,3 +301,6 @@ INSERT INTO `m_petag` VALUES (/*petag_id*/299, /*petag*/"petag.petag_store_name_
 INSERT INTO `m_petag` VALUES (/*petag_id*/300, /*petag*/"petag.petag_store_name_empty_android");
 INSERT INTO `m_petag` VALUES (/*petag_id*/301, /*petag*/"petag.petag_c_positive_start");
 INSERT INTO `m_petag` VALUES (/*petag_id*/302, /*petag*/"petag.petag_c_positive_close");
+INSERT INTO `m_petag` VALUES (/*petag_id*/303, /*petag*/"petag.petag_icon_skill_01_empty");
+INSERT INTO `m_petag` VALUES (/*petag_id*/304, /*petag*/"petag.petag_icon_skill_02_empty");
+INSERT INTO `m_petag` VALUES (/*petag_id*/305, /*petag*/"petag.petag_icon_skill_03_empty");

@@ -180,6 +180,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000121", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000122", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000123", /*message*/"Collect your login bonus.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000124", /*message*/"Clear all daily Goals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000125", /*message*/"Play &quot;KOWAREYASUKI&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000126", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000127", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"Gain 900 event points.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"Clear a Live Show: x5");

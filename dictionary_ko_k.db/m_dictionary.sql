@@ -11092,6 +11092,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20037301", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015101", /*message*/"[공략 힌트] 어필 찬스 중 Aqours가 유리한 특수 효과가 있어요. Aqours 멤버를 중심으로 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015201", /*message*/"[공략 힌트] 어필 찬스 중 Aqours가 유리한 특수 효과가 있어요. Aqours 멤버를 중심으로 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21015301", /*message*/"[공략 힌트] 어필 찬스 중 Aqours가 유리한 특수 효과가 있어요. Aqours 멤버를 중심으로 편성하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21046101", /*message*/"[공략 힌트] 체력 대미지가 크니 주의하세요. Gd 타입을 많이 편성할수록 체력 회복 기믹 노트가 등장합니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21046201", /*message*/"[공략 힌트] 체력 대미지가 매우 크니 주의하세요.  Gd 타입을 많이 편성할수록 체력 회복 기믹 노트가 등장합니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_21046301", /*message*/"[공략 힌트] 체력 대미지가 매우 크니 주의하세요.  Gd 타입을 많이 편성할수록 체력 회복 기믹 노트가 등장합니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_30001101", /*message*/"[공략 힌트] 조작에 익숙해지세요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_30001102", /*message*/"[공략 힌트] 2번째 어필 찬스에서 SP 특기를 발동할 수 있게 게이지를 모으세요. 볼티지가
 부족할 때는 능력치가 높은 스쿨 아이돌을 SP 특기 대상 스쿨 아이돌에 편성하세요.");
@@ -11952,6 +11955,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000352", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000353", /*message*/"10 노트 동안 어필 50% 증가
 조건: 성공 시
 대상: 스킬 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000358", /*message*/"Gd 타입 수 ×  1,500 체력 회복
+조건: 성공 시");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000359", /*message*/"Gd 타입 수 ×  3,000 체력 회복
+조건: 성공 시");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000361", /*message*/"Gd 타입 수 ×  1,000 체력 회복
+조건: 성공 시");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_60000004", /*message*/"체력 대미지 20
 조건: 반드시 발동");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_60000005", /*message*/"체력 대미지 80
@@ -12119,6 +12128,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000346", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000347", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>특기 발동률 증가 [Gd 타입]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000352", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>어필 증가 50%");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000353", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>어필 증가 50%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000358", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1003\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>체력 회복 [Gd 타입]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000359", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1003\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>체력 회복 [Gd 타입]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000361", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1003\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>체력 회복 [Gd 타입]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10000000", /*message*/"[특수 효과] 없음
 
 ");
@@ -14642,6 +14654,48 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21015301_3", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21015301_4", /*message*/"[특수 효과] 기본 어필 10% 증가
 시간: 어필 찬스 중
 대상： Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046101_1", /*message*/"[특수 효과] 없음
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046101_2", /*message*/"[특수 효과] 기본 어필 5% 감소
+시간: 어필 찬스 중
+대상: 가드 타입 외 모두");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046101_3", /*message*/"[특수 효과] 최대 체력의 15%만큼 체력 회복
+시간: 어필 찬스 목표달성 시
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046101_4", /*message*/"[특수 효과] 없음
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046201_1", /*message*/"[특수 효과] 없음
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046201_2", /*message*/"[특수 효과] 최대 체력의 15%만큼 체력 회복
+시간: 어필 찬스 목표달성 시
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046201_3", /*message*/"[특수 효과] 기본 어필 15% 감소
+시간: 어필 찬스 중
+대상: 가드 타입 외 모두");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046201_4", /*message*/"[특수 효과] 없음
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046301_1", /*message*/"[특수 효과] 없음
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046301_2", /*message*/"[특수 효과] 최대 체력의 15%만큼 체력 회복
+시간: 어필 찬스 목표달성 시
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046301_3", /*message*/"[특수 효과] 기본 어필 50% 감소
+시간: 어필 찬스 중
+대상: 가드 타입 외 모두");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046301_4", /*message*/"[특수 효과] 없음
+
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046301_5", /*message*/"[특수 효과] 기본 어필 50% 감소
+시간: 어필 찬스 중
+대상: 가드 타입 외 모두");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_21046301_6", /*message*/"[특수 효과] 최대 체력의 15%만큼 체력 회복
+시간: 어필 찬스 목표달성 시
+");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_30000000", /*message*/"[특수 효과] 없음
 
 ");
@@ -17210,6 +17264,20 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015301_1", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015301_2", /*message*/"SP 특기로 70,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015301_3", /*message*/"127,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21015301_4", /*message*/"155,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046101_1", /*message*/"5,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046101_2", /*message*/"9,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046101_3", /*message*/"SP 특기로 7,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046101_4", /*message*/"6,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046201_1", /*message*/"32,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046201_2", /*message*/"SP 특기로 18,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046201_3", /*message*/"18,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046201_4", /*message*/"48,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046301_1", /*message*/"73,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046301_2", /*message*/"SP 특기로 37,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046301_3", /*message*/"56,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046301_4", /*message*/"163,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046301_5", /*message*/"88,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_21046301_6", /*message*/"SP 특기로 37,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_30001102_1", /*message*/"7,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_30001102_2", /*message*/"SP 특기로 8,400 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_30001103_1", /*message*/"SP 특기로 12,000 볼티지 획득");
@@ -33290,6 +33358,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so1042", /*message*/"Ly
 Composition / Arrangement: Ryota Fujii");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so1044", /*message*/"Lyrics: Aki Hata
 Composition / Arrangement: Yoshinobu Takeichi");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so1046", /*message*/"Lyrics: Aki Hata
+Composition / Arrangement: Takashi Saeki");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so1059", /*message*/"Lyrics: Aki Hata
 Composition / Arrangement: EFFY (FirstCall)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so1062", /*message*/"Lyrics: Aki Hata
@@ -33398,6 +33468,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1014", /*message*/"KOKORO 
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1015", /*message*/"Brightest Melody");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1042", /*message*/"Kinmirai Happy End");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1044", /*message*/"GALAXY HidE and SeeK");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1046", /*message*/"KOWAREYASUKI");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1059", /*message*/"One More Sunshine Story");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1062", /*message*/"Oyasuminasan!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so1064", /*message*/"in this unstable world");
@@ -33471,6 +33542,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so1014", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so1015", /*message*/"ぶらいてすとめろでぃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so1042", /*message*/"きんみらいはっぴーえんど");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so1044", /*message*/"ぎゃらくしーはいどあんどしーく");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so1046", /*message*/"こわれやすき");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so1059", /*message*/"わんもあさんしゃいんすとーりー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so1062", /*message*/"おやすみなさん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so1064", /*message*/"いんでぃすあんすていぶるわーるど");

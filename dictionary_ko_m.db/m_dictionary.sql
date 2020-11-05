@@ -180,6 +180,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000121", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000122", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000123", /*message*/"로그인 보너스 받기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000124", /*message*/"일일 과제 모두 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000125", /*message*/"KOWAREYASUKI 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000126", /*message*/"라이브 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000127", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Bokura wa Ima no Naka de 1회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"이벤트 포인트 900 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"라이브 5회 클리어");

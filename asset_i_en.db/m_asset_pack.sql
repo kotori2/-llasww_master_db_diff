@@ -24040,7 +24040,6 @@ INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"wy8yow");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"30xbll");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"uqyy2s");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"qmxy6c");
-INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"d2nsz2");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"culbed");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"aonslf");
 INSERT INTO `m_asset_pack` VALUES (/*pack_name*/"4olo4i");

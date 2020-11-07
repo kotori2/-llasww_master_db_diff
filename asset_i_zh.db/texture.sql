@@ -5442,6 +5442,10 @@ INSERT INTO `texture` VALUES (/*asset_path*/"m4j", /*pack_name*/"583qqd", /*head
 INSERT INTO `texture` VALUES (/*asset_path*/"-c4", /*pack_name*/"583qqd", /*head*/2311125, /*size*/241578, /*key1*/1598253762, /*key2*/1472121498);
 INSERT INTO `texture` VALUES (/*asset_path*/"B5A", /*pack_name*/"583qqd", /*head*/2552703, /*size*/50950, /*key1*/-13633375, /*key2*/-1454629612);
 INSERT INTO `texture` VALUES (/*asset_path*/"cDz", /*pack_name*/"2m1wxn", /*head*/815395, /*size*/9373, /*key1*/1301696833, /*key2*/1541592782);
+INSERT INTO `texture` VALUES (/*asset_path*/">x_", /*pack_name*/"wd71gb", /*head*/0, /*size*/64919, /*key1*/-644795347, /*key2*/614870528);
+INSERT INTO `texture` VALUES (/*asset_path*/"GAQ", /*pack_name*/"7olbfa", /*head*/58911, /*size*/265350, /*key1*/1072407250, /*key2*/1807857558);
+INSERT INTO `texture` VALUES (/*asset_path*/":el", /*pack_name*/"wd71gb", /*head*/64919, /*size*/139947, /*key1*/-1372872793, /*key2*/27275068);
+INSERT INTO `texture` VALUES (/*asset_path*/"=Qa", /*pack_name*/"wd71gb", /*head*/204866, /*size*/147065, /*key1*/-1345422781, /*key2*/849294426);
 INSERT INTO `texture` VALUES (/*asset_path*/"\on", /*pack_name*/"583qqd", /*head*/2603653, /*size*/246342, /*key1*/-2026565948, /*key2*/127598324);
 INSERT INTO `texture` VALUES (/*asset_path*/"6n-", /*pack_name*/"583qqd", /*head*/2849995, /*size*/50305, /*key1*/-680751514, /*key2*/-97657346);
 INSERT INTO `texture` VALUES (/*asset_path*/"2iL", /*pack_name*/"j3naz1", /*head*/158048, /*size*/7117, /*key1*/-1658120385, /*key2*/-1398291088);

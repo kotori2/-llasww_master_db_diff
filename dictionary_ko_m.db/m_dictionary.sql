@@ -2319,6 +2319,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_2", /*message*/"라
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"니코는 니코!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"설레는 구두 소리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"의상 제작 포인트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"미소를 보고 싶어서");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_2", /*message*/"마음 빼앗기도록");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"무엇이든 다 알고 있지!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"추억의 사진");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"내 손은 약손~♪");
@@ -2384,6 +2386,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"앨
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"최고의 안마");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"잠이 오는 옷");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"손과 손을 마주 잡고");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"내가 가장 사랑하는 것☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"얼음으로 맺은 인연");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"열혈 MC");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082001_1", /*message*/"빵 천국");

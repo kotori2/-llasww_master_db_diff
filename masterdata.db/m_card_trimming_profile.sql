@@ -550,3 +550,7 @@ INSERT INTO `m_card_trimming_profile` VALUES (/*card_m_id*/400022002, /*appearan
 INSERT INTO `m_card_trimming_profile` VALUES (/*card_m_id*/400022002, /*appearance_type*/2, /*offset_x*/0, /*offset_y*/0, /*rotation*/0, /*scale*/10000);
 INSERT INTO `m_card_trimming_profile` VALUES (/*card_m_id*/402012002, /*appearance_type*/1, /*offset_x*/0, /*offset_y*/0, /*rotation*/0, /*scale*/10000);
 INSERT INTO `m_card_trimming_profile` VALUES (/*card_m_id*/402012002, /*appearance_type*/2, /*offset_x*/911376, /*offset_y*/0, /*rotation*/0, /*scale*/10000);
+INSERT INTO `m_card_trimming_profile` VALUES (/*card_m_id*/300063002, /*appearance_type*/1, /*offset_x*/465152, /*offset_y*/0, /*rotation*/0, /*scale*/10000);
+INSERT INTO `m_card_trimming_profile` VALUES (/*card_m_id*/300063002, /*appearance_type*/2, /*offset_x*/1388910, /*offset_y*/0, /*rotation*/0, /*scale*/10000);
+INSERT INTO `m_card_trimming_profile` VALUES (/*card_m_id*/302072002, /*appearance_type*/1, /*offset_x*/113050, /*offset_y*/0, /*rotation*/0, /*scale*/10000);
+INSERT INTO `m_card_trimming_profile` VALUES (/*card_m_id*/302072002, /*appearance_type*/2, /*offset_x*/-355416, /*offset_y*/0, /*rotation*/0, /*scale*/10000);

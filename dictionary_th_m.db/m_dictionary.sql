@@ -2324,6 +2324,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_2", /*message*/"พ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"นิโกะจังก็คือนิโกะจัง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"เสียงรองเท้าที่ทำให้ใจเต้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"สิ่งสำคัญในการทำชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"เพราะอยากเห็นรอยยิ้มไงล่ะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_2", /*message*/"ทำให้หลงใหล");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"มองทุกอย่างทะลุปรุโปร่ง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"รูปแห่งความทรงจำ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"ความเจ็บปวดเอ๋ยจงหายไป~♪");
@@ -2389,6 +2391,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"ค
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"การนวดแสนสุข");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"ชุดที่ทำให้ง่วงนอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"จับมือไว้แล้วไปด้วยกัน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"สิ่งที่ฉันรัก☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"สายสัมพันธ์แห่งน้ำแข็ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"MC เลือดร้อน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082001_1", /*message*/"สรวงสวรรค์ขนมปัง");

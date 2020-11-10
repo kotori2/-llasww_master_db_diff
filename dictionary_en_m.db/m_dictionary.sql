@@ -2319,6 +2319,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_2", /*message*/"Ram
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"Nico Is Nico!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"Fluttering Footsteps");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"Tips for Costume-Making");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"I Wanna See Your Smile");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_2", /*message*/"Let Me Captivate You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"All Is Revealed to Me!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"A Keepsake Photo");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"Pain, Pain, Go Away!");
@@ -2384,6 +2386,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"The
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"Massage from Paradise");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"Sleepy Clothes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"Hand in Hand");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"Something I Love");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"Ice Bonds");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"Passionate MC");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082001_1", /*message*/"Bread Heaven");

@@ -958,6 +958,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002603", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002604", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002605", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 드림 라이브 퍼레이드에서 스쿨 아이돌 1명의 PP를 회복");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002606", /*message*/"[드림 라이브 퍼레이드 개최 기념!] 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002607", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002608", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002609", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002701", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 스토리 4장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002702", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 스토리 14장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002703", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 스토리 16장 클리어");

@@ -119,3 +119,4 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_002", /*m
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_003", /*message*/"Event Rules 3/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_004", /*message*/"Event Rules 4/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_005", /*message*/"Event Rules 5/6");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_006", /*message*/"Event Rules 6/6");

@@ -958,6 +958,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002603", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002604", /*message*/"Dream Live Parade Opening Commemoration! Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002605", /*message*/"Dream Live Parade Opening Commemoration! Restore school idols&apos; PP in a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002606", /*message*/"Dream Live Parade Opening Commemoration! Do a Team Restoration for a Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002607", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002608", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002609", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002701", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Finish Story Chapter 4.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002702", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Finish Story Chapter 14.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002703", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Finish Story Chapter 16.");

@@ -958,6 +958,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002603", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002604", /*message*/"[夢幻遊行演唱會登場紀念！]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002605", /*message*/"[夢幻遊行演唱會登場紀念！]在夢幻遊行演唱會中回復1名學園偶像的PP");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002606", /*message*/"[夢幻遊行演唱會登場紀念！]在夢幻遊行演唱會中使用1次全員回復PP功能");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002607", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002608", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002609", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002701", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 觀賞完第4章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002702", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 觀賞完第14章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002703", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 觀賞完第16章劇情");

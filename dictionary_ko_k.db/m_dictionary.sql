@@ -23125,6 +23125,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_14", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_15", /*message*/"　아유무의 간호를 받고 기운을 차린 당신. 그런데 이번에는 아유무가…?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_16", /*message*/"　아유무의 팬클럽에 가입하고 싶어 하는 사람이 점점 늘고 있다! 그 상황을 본 아유무는…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_17", /*message*/"　아유무와 당신은 아유무를 응원하는 사람들이 더 기뻐할 만한 일을 하기 위해 다음 이벤트 내용을 생각하기 시작했다. 어느 날 아유무가 당신에게 전화를 걸어 오는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_18", /*message*/"　당신과 함께 쇼핑하러 가고 싶었지만 몇 차례 거절당한 아유무는 당신이 무엇에 열중하는지 몰라 답답해한다. 동호회 멤버들에게 이 이야기를 했더니….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_2", /*message*/"　점심시간이 되어 식당으로 이동한 당신과 아유무. 아유무는 직접 싼 도시락을 가져왔는데, 당신은 그 도시락에 담긴 정성과 색색의 반찬을 보고 감탄한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_3", /*message*/"　집에 가는 전철에서 당신은 아유무와 자신이 같은 부에 들어간 건 이번이 처음이란 걸 깨닫는다. 이를 기뻐하는 당신에게 아유무도 기쁜 표정으로….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_4", /*message*/"　어느 날 방과 후, 당신은 부실에서 활동 내용을 기록하고 있었다. 평소에 어떤 내용을 적느냐고 묻는 아유무에게 당신은 적은 내용을 읽어준다.");
@@ -23142,6 +23143,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_14", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_15", /*message*/"　카스밍 팬클럽의 쿠페빵 기획은 대성공! 하지만 카스밍은 &apos;카스밍 팬클럽&apos;의 치명적인 결점을 깨닫고 마는데…?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_16", /*message*/"　연습을 마친 동호회 멤버들은 집에 갈 준비를 하는데, 카스미는 볼일이 있어 남겠다고 한다. 그 이유는…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_17", /*message*/"　동호회 멤버들의 활동은 순탄하게 진행되고, 팬클럽 회원 수도 꾸준히 늘고 있다. 그러는 가운데 카스미의 팬클럽은….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_18", /*message*/"　다른 동호회 멤버들과 달리 카스미의 팬클럽 회원 수가 늘어나지 않는다. 카스미는 전혀 신경 안 쓴다고 했지만….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_2", /*message*/"　커다란 가방을 끌어안고 부실에 나타난 카스미. 가방에는 대체 무엇이 들어 있을까? 카스미는 신나는 표정으로 가방 안에 들어 있던 것을 책상에 늘어놓는다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_3", /*message*/"　주말에 학교에서 열리는 오픈 캠퍼스에서 부활동 소개에 스쿨 아이돌 동호회도 참가하게 되었다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_4", /*message*/"　임시 센터 투표 마감일. 자신의 장점인 귀여움과 치밀한 전략을 믿고 자신만만한 카스미. 센터로 뽑히는 사람은 과연 누구일까…?!");
@@ -23159,6 +23161,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_14", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_15", /*message*/"　시즈쿠가 평소의 고마움을 담아 당신을 에스코트해서 놀러 가고 싶은 곳이 있다고 한다. 과연 어떤 하루가 될까…?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_16", /*message*/"　당신은 최근 들어 시즈쿠의 표현력이 한층 더 늘었다는 것을 눈치챈다. 시즈쿠에게 그 얘기를 했더니, 시즈쿠는 최근 뭔가에 열중인 덕분이라고 대답한다. 시즈쿠가 푹 빠져 있는 게 뭘까…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_17", /*message*/"　시즈쿠가 좋아하는 극단의 팬클럽처럼, 시즈쿠를 응원하는 사람들을 위해 팬클럽을 만들기로 했다. 팬클럽을 통해서 팬들에게 시즈쿠만의 보답을 하고 싶다는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_18", /*message*/"　시즈쿠는 팬클럽에서 무엇을 해야 할지 고민했지만, 시즈쿠 자신이 무엇을 하면 즐거울지 그것부터 생각해 보기로 한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_2", /*message*/"　연극을 좋아하는 시즈쿠는 직접 연극 설정을 상상하는 것도 좋아한다고. 그 능력은 어렸을 때부터 이미 발휘되고 있었던 모양인데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_3", /*message*/"　어느 날, 당신은 시즈쿠에게 연기 연습 상대가 되어 달라는 부탁을 받는다. 아무래도 대사 중에 막히는 부분이 있는 것 같은데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_4", /*message*/"　두고 온 물건을 찾으러 부실을 찾은 당신은 안에서 기묘한 동작을 하는 시즈쿠를 만난다. 시즈쿠에게 무슨 일이 있었던 것일까?!");
@@ -23176,6 +23179,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_14", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_15", /*message*/"　카린과 동물원 데이트를 하게 된 당신. 동물원에 가는 목적은 바로… 판다!!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_16", /*message*/"　스쿨 아이돌 활동에도, 아마추어 모델 일에도 진지하게 임하는 카린. 당신은 그런 카린에게 팬클럽을 만들자고 제안했지만….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_17", /*message*/"　카린은 팬클럽에 대해 안 좋은 기억이 있는 듯하다. 아마추어 모델 시절 팬클럽을 만들었을 때 너무 열을 올려서한 적이 있었다고 하는데, 대체 무슨 뜻일까…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_18", /*message*/"　카린은 예전에 아마추어 모델끼리 팬클럽을 만들었지만, 동료들과의 온도차로 인해 실패한 경험이 있다고 한다. 카린은 그 경험 때문에 &quot;적당히&quot; 하고 싶다는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_2", /*message*/"　카린이 당신을 찾고 있었다며 말을 걸었다. 그 이유는 바로 데이트 신청…?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_3", /*message*/"　매일같이 방과 후에 남아 연습하는 카린을 걱정하는 당신. 하지만 카린의 마음을 듣고 나서는….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_4", /*message*/"　스쿨 아이돌을 시작한 뒤로 하루하루가 보람차다고 말하는 카린을 보고, 당신은 더 열심히 서포트할 것을 결심한다. 그러던 어느 날, 카린이 퍼포먼스에 대해 상의할 게 있다는데….");
@@ -23193,6 +23197,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_14", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_15", /*message*/"　&apos;천둥이 무섭다&apos;는 아이의 새로운 일면을 알게 된 당신. 또 스쿨 아이돌 라이브를 보러 가자고 했지만, 아이에게는 선약이 있는 모양이다….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_16", /*message*/"　주말에 무엇을 할지 고민하는 당신에게 아이가 데이트를 신청했다! 아이가 그날 하루 에스코트를 해 주겠다고 한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_17", /*message*/"　&quot;즐거운 것&quot;을 찾는 것이 아이의 사명이라고 한다. 그런 아이가 생각해 낸 게임이란…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_18", /*message*/"　미사토가 웃어 준 것이 개그에 빠지게 된 계기라는 말을 듣고, 당신은 아이의 다정함을 느꼈다. 어느 날, 아이가 부활동에 오지 않은 이유를 듣고 동호회 멤버들은 걱정이 된 나머지….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_2", /*message*/"　선후배를 불문하고 친구가 많은 아이. 그런 아이가 자기 친구들을 초대해 동호회를 홍보하는 노래방 파티를 연다는데?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_3", /*message*/"　아이 주변에는 사람이 자연스럽게 모여들어 항상 활기가 있다. 어느 날, 당신은 아이, 리나와 함께 점심을 먹게 되었다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_4", /*message*/"　아이는 할머니 손에 자랐고, 언니를 잘 따른다. 당신은 아이의 붙임성이 좋은 건 두 사람의 영향이 아닐까 생각하게 된다. 그 언니가 말했다는 &apos;와와 관계&apos;란…?");
@@ -23210,6 +23215,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_14", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_15", /*message*/"　카나타, 하루카와 함께 우치우라에 낚시를 하러 가게 된 당신. 치카와 카난도 합류하는데…?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_16", /*message*/"　당신이 점심시간에 부실에 갔더니 카나타가 먼저 와 있었다. 먹음직스러운 카나타의 도시락은 직접 만든 것이라고 한다. 그 도시락 반찬은….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_17", /*message*/"　카나타는 팬클럽 만들기를 귀찮아했지만, 당신은 라이브 때 말고도 카나타가 하고 싶은 일을 할 수 있다고 설득해 무사히 카나타의 팬클럽을 설립했다! 그런 카나타가 팬클럽에서 하고 싶은 일이란…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_18", /*message*/"　카나타가 팬클럽에서 하고 싶은 세 가지 이벤트 중 하나는 새근새근 숙면 방송이었다! 과연 그 방송의 결과는…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_2", /*message*/"　부활동에 늦지 말라고 카나타에게 당부하고자 카나타의 반을 찾아간 당신. 그러나 카나타의 모습이 보이지 않는다. 어디로 간 걸까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_3", /*message*/"　부활동 중, 열심히 작사를 하는 당신에게 카나타가 다가왔다. 동생 하루카를 정말 좋아하는 카나타는 당신에게 자기가 동생을 얼마나 사랑하는지 말한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_4", /*message*/"　점심시간에 학교 식당에서 카나타가 당신을 찾아왔다. 도시락을 너무 많이 싸 왔으니 먹어 달라고 하는데.");
@@ -23228,6 +23234,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_14", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_15", /*message*/"　세츠나, 리코와 함께 좋아하는 것에 대해 이야기꽃을 피운 후 어느 날, 부실에서 보드게임을 즐기던 당신. 세츠나의 &apos;사랑&apos;은 게임에서도 예외가 아니었다….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_16", /*message*/"　세츠나는 스쿨 아이돌 활동뿐만 아니라 취미 생활도 보람차게 하고 있다. 어느 날, 부실에 있는 세츠나가 왠지 기분이 좋아 보이는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_17", /*message*/"　세츠나는 팬이 보낸 편지를 읽고 기대에 부응하기 위해 더욱더 노력할 것을 다짐한다. 그런 세츠나에게 당신은 어떤 제안을 한다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_18", /*message*/"　세츠나는 자신의 마음을 더 넓은 세상에 전하기 위해 팬클럽은 만들지 않기로 했다. 세츠나는 보다 많은 사람에게 자기 마음을 전하기 위해 생각해 둔 게 있다고 한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_2", /*message*/"　&apos;세츠나&apos;로서도 &apos;나나&apos;로서도 열심히 노력하는 세츠나를 존경하는 당신. 하지만 가끔 힘들 때도 있는 것 같다. 어느 날, 세츠나로부터 부활동을 쉬겠다는 연락이 왔다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_3", /*message*/"　세츠나는 부모님 몰래 스쿨 아이돌 활동을 하고 있었다. 그런 세츠나가 스쿨 아이돌과 비슷한 정도로 &apos;좋아하는 것&apos;이 있다고 하는데…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_4", /*message*/"　애니메이션과 만화를 좋아하는 세츠나. 그래서 당신은 세츠나가 읽고 싶은 만화책이 있는 집으로 세츠나를 초대하기로 했다.");
@@ -23246,6 +23253,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_15", /*me
 어느 날, 부실에서 세츠나가 엠마를 위로하고 있는데… 엠마에게 무슨 일이 생긴 걸까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_16", /*message*/"　당신과 엠마는 엠마가 동경하는 스쿨 아이돌의 실마리를 찾아다니다 집에 가던 중, 기모노를 입을 수 있는 사진관을 발견하고 들어가 보기로 한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_17", /*message*/"　엠마는 우연히 발견한 사진관에서 아름다운 기모노를 입게 되어 기분이 좋아 보인다. 그때 찍은 사진을 보면서 이야기를 나누던 중, 엠마가 놀라운 한마디를 던지는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_18", /*message*/"　엠마는 얼마 전 기모노를 입었던 사진관에서 기모노 모델 일을 시작했다고 한다. 사방이 기모노로 가득해서 기쁘다는 엠마의 이야기를 듣고, 당신은 엠마가 일하는 모습을 보러 사진관을 찾았다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_2", /*message*/"　어렸을 때 동영상에서 본 스쿨 아이돌을 동경하여, 본인도 스쿨 아이돌이 되기 위해 일본으로 유학을 왔다고 하는 엠마. 엠마에게 스위스에서의 생활을 물어봤더니….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_3", /*message*/"　언젠가 스위스에서도 라이브를 하자고 약속한 엠마와 당신. 어느 날, 동호회 멤버들이 모여 각자 어떤 스쿨 아이돌이 되고 싶은지 이야기하게 되었다. 그때 엠마는….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_4", /*message*/"　스쿨 아이돌 활동을 하면서 자기가 어떤 스쿨 아이돌이 되고 싶은지 탐색해 보기로 한 엠마. 그러던 어느 날, 엠마네 집에서 다음 이벤트를 위한 회의를 하게 된다.");
@@ -23263,6 +23271,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_14", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_15", /*message*/"　리나는 방과 후 교내에 있는 아기 고양이를 보살펴 주고 있었다. 이를 알게 된 동호회 멤버들은 다 같이 고양이를 돌보기로 했다. 그러던 어느 날, 리나가 황급히 부실로 뛰어 들어오는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_16", /*message*/"　무사히 니지가사키 식구가 된 한펜. 교내에서도 인기가 많은 한펜은 학교 사람들 모두의 아이돌이 되어 있었다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_17", /*message*/"　팬들과 더욱 끈끈히 이어지기 위해 리나의 팬클럽을 만들었다! 리나는 이미 팬클럽에서 하고 싶은 일이 있는 듯한데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_18", /*message*/"　리나가 하고 싶었던 것은 &apos;팬클럽 창단식&apos;이었다. 리나는 누구나 환하게 웃을 수 있는 팬클럽으로 이어가겠다며 의욕을 내비쳤지만, 조금 신경 쓰이는 일이 있는 모양이다….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_2", /*message*/"　리나 보드 덕분에 주변 사람과 연결점을 가지게 된 리나. 리나는 더 많은 사람과 이어지고 싶다고 하는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_3", /*message*/"　리나를 데리고 스쿨 아이돌 라이브를 보러 온 당신. 수많은 사람이 스쿨 아이돌을 보기 위해 모인 광경을 보고 리나는 크게 놀라는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_4", /*message*/"　라이브에서 수많은 사람과 한마음이 되기 위해 매일 연습에 힘쓰는 리나. 그러나 라이브를 하는 데 중대한 문제가 있다는 것이 드러났다. 그것은 바로….");
@@ -23478,6 +23487,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_15", /*message*/"15화 추억의 사과");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_16", /*message*/"16화 이건 꿈이 아닐까?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_17", /*message*/"17화 엇갈림");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_18", /*message*/"18화 지울 수 없는 답답함");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_2", /*message*/"2화 소꿉친구의 손맛");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_3", /*message*/"3화 같이 있고 싶어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_4", /*message*/"4화 공백의 비전");
@@ -23495,6 +23505,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_15", /*message*/"15화 팬클럽 이름으로 차별화해라!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_16", /*message*/"16화 카스미의 일과");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_17", /*message*/"17화 전혀 신경 안 써요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_18", /*message*/"18화 물어볼 필요도 없지만요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_2", /*message*/"2화 악마의 쿠페빵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_3", /*message*/"3화 센터 투표!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_4", /*message*/"4화 운명의 날");
@@ -23512,6 +23523,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_15", /*message*/"15화 그것만으로도 기뻐");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_16", /*message*/"16화 극단에 푹 빠졌어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_17", /*message*/"17화 나만이 할 수 있는");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_18", /*message*/"18화 팬들과 공유하고 싶은 것");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_2", /*message*/"2화 폭발하는 공상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_3", /*message*/"3화 부끄러움을 버려야 해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_4", /*message*/"4화 구기 대회를 앞두고");
@@ -23529,6 +23541,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_15", /*message*/"15화 목적은 판다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_16", /*message*/"16화 팬클럽?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_17", /*message*/"17화 괴로운 기억");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_18", /*message*/"18화 재미있는데?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_2", /*message*/"2화 카린의 일상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_3", /*message*/"3화 앞을 보고 더 높은 곳을 향해");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_4", /*message*/"4화 누구에게도 지지 않는 것");
@@ -23546,6 +23559,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_15", /*message*/"15화 퍼펙트 걸!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_16", /*message*/"16화 나의 사명!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_17", /*message*/"17화 격돌! 개그 배틀");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_18", /*message*/"18화 아이가 병원에?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_2", /*message*/"2화 빈틈은 없어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_3", /*message*/"3화 자랑스러운 도시락!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_4", /*message*/"4화 와와 관계!");
@@ -23563,6 +23577,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_15", /*message*/"15화 레츠 피싱");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_16", /*message*/"16화 팬클럽을 만들어 볼래?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_17", /*message*/"17화 카나타 숙면 클럽");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_18", /*message*/"18화 새근새근 대성공!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_2", /*message*/"2화 카나타의 사정");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_3", /*message*/"3화 동생이 정말 좋아");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_4", /*message*/"4화 뜻밖의 특기");
@@ -23580,6 +23595,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_15", /*message*/"15화 너무 복잡해");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_16", /*message*/"16화 행복을 준 사람");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_17", /*message*/"17화 내가 바라는 세상");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_18", /*message*/"18화 당신의 목소리에 답하고 싶어요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_2", /*message*/"2화 지키고 싶은 세계");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_3", /*message*/"3화 또 다른 좋아하는 것!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_4", /*message*/"4화 &apos;세츠나&apos;의 이유");
@@ -23597,6 +23613,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_15", /*message*/"15화 동경하는 그 사람");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_16", /*message*/"16화 입어 보고 싶었어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_17", /*message*/"17화 내가 가게 마스코트?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_18", /*message*/"18화 갑작스레 맞닥뜨린 운명");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_2", /*message*/"2화 비밀 데이트♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_3", /*message*/"3화 내가 되고 싶은 것…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_4", /*message*/"4화 가정 방문!");
@@ -23614,6 +23631,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_15", /*message*/"15화 협상가 리나!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_16", /*message*/"16화 리나의 팬클럽");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_17", /*message*/"17화 팬클럽 창단식");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_18", /*message*/"18화 그 사람이 없어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_2", /*message*/"2화 사람과 사람 사이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_3", /*message*/"3화 스쿨 아이돌의 힘");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_4", /*message*/"4화 대위기 발생");
@@ -33701,6 +33719,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_11", /*message*/"11화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_12", /*message*/"12화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_13", /*message*/"13화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_15", /*message*/"15화");
+INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_18", /*message*/"18화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_2", /*message*/"2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_3", /*message*/"3화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_4", /*message*/"4화");

@@ -6,3 +6,4 @@ CREATE TABLE m_tower_bonus_group(
   FOREIGN KEY (tower_period_id) REFERENCES m_tower_period(id)
 );
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/1, /*bonus_target_member_group*/3, /*value*/1);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/2, /*bonus_target_member_group*/1, /*value*/1);

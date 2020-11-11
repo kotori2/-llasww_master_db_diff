@@ -23611,6 +23611,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_16", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_17", /*message*/"為了帶給步夢的粉絲們更多歡樂，
 你和步夢開始構思下次活動的內容。
 某一天，你接到步夢打來的電話……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_18", /*message*/"步夢好幾次約你出門購物
+卻都被你拒絕了。
+不知道你正在忙什麼事的步夢，
+因此感到焦慮不已……
+她將這件事和同好會成員們
+商量之後……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_201_2", /*message*/"你和步夢在午休時間一起到學校餐
 廳去吃飯。步夢帶了親手製作的便
 當來，而當你看到那些精緻又鮮豔
@@ -23674,6 +23680,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_17", /*me
 粉絲俱樂部的會員人數也穩定成長中。
 在這種情況下，
 霞的粉絲俱樂部卻……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_18", /*message*/"相較於同好會的其他成員，
+霞的粉絲俱樂部會員人數並沒有增加。
+雖然霞說自己完全不在意，但是……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_202_2", /*message*/"霞扛了一個很大的包包到社團教室
 來。裡面到底裝了什麼呢？霞一臉
 開心地將袋子裡的東西擺到桌上。");
@@ -23742,6 +23751,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_17", /*me
 對於一直替自己加油打氣的粉絲們，
 雫想回饋一份她的專屬回禮，
 但是……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_18", /*message*/"雫煩惱著該在粉絲俱樂部辦什麼活動。
+於是她重頭開始思考，
+自己在粉絲俱樂部做什麼事
+才會感到開心。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_203_2", /*message*/"非常喜歡演戲的雫，似乎也很喜歡
 自己設定故事背景及角色等等，而
 且還從小時候就開始運用這份想像
@@ -23810,6 +23823,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_17", /*me
 據說是因為過去她以讀者模特兒的身分
 成立粉絲俱樂部時，投入了過多的熱情。
 這究竟是什麼意思呢……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_18", /*message*/"果林在過去曾因為和
+其他讀者模特兒的觀感不同，
+而在經營粉絲俱樂部時遭遇挫折。
+因為這個經驗，
+讓果林認為凡事都該「適度就好」，
+不過……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_204_2", /*message*/"果林一直在找你，所以一看到你就把
 你叫住了。只是沒想到果林居然是要
 找你去約會……！？");
@@ -23872,6 +23891,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_16", /*me
 愛表示會當你一整天的護花使者。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_17", /*message*/"愛說尋找「有趣的事物」就是她的使命。
 而這樣的愛所想到的遊戲是……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_18", /*message*/"你聽說愛之所以會迷上冷笑話，
+契機是由於想要逗美里笑，
+這使你感受到愛的溫柔。
+某天愛沒有來參加社團活動，
+同好會成員們得知原因後都十分擔心……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_205_2", /*message*/"不管在哪個年級都有很多朋友的愛，
 突然呼朋引伴地辦了一場同好會的卡
 拉OK獻唱活動！？");
@@ -23940,6 +23964,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_17", /*me
 也會實現她的任性要求後，
 終於成功說服她成立了粉絲俱樂部！
 而彼方想在粉絲俱樂部做的事情是……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_18", /*message*/"彼方想透過粉絲俱樂部做三件事，
+其中一件竟然是呼呼大睡直播！？
+究竟這場直播的結果會是……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_206_2", /*message*/"為了不讓彼方晚到社團的你來到了她
 的班上，沒想到卻沒看到人。彼方到
 底跑到哪裡去了呢？");
@@ -24011,6 +24038,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_17", /*me
 回應粉絲們的期待。
 面對這樣的雪菜，
 你提出了某個建議……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_18", /*message*/"因為想將自己的想法發揚光大，
+雪菜決定不成立粉絲俱樂部。
+為了向更多人傳達自己的理想，
+雪菜有了一個想法。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_207_2", /*message*/"雖然你很欽佩雪菜能同時把「雪菜」
 和「菜菜」這兩種身分扮演好，不過
 這兩者似乎還是會有無法兼顧的時
@@ -24081,6 +24112,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_17", /*me
 艾瑪似乎覺得很開心。
 你們一邊看著當時拍的照片一邊聊天，
 結果艾瑪說出了驚人的話……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_18", /*message*/"艾瑪開始在之前穿過和服的
+照相館幫忙當和服模特兒。
+被最喜歡的和服給包圍，
+似乎令艾瑪很開心。
+你聽說這件事之後，
+便前往照相館找艾瑪探班。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_208_2", /*message*/"原來艾瑪是因為小時候看到了學園
 偶像的影片才萌生想當學園偶像的
 念頭，也因此來到了日本留學。
@@ -24150,6 +24187,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_17", /*me
 璃奈決定成立粉絲俱樂部！
 而璃奈似乎已經有一件
 想在粉絲俱樂部做的事……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_18", /*message*/"璃奈想做的事情原來是
+舉辦「粉絲俱樂部成立大會」。
+璃奈卯足幹勁，
+希望建立一個能讓大家永遠
+露出笑容的粉絲俱樂部，
+但她似乎也有些在意的事……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_description_209_2", /*message*/"璃奈在開始使用璃奈板之後，跟周遭
 的人就變得比較有聯繫了。而璃奈本
 身也想跟更多人有交流的機會……");
@@ -24581,6 +24624,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_15", /*message*/"第15話 回憶中的蘋果");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_16", /*message*/"第16話 為什麼是我？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_17", /*message*/"第17話 擦肩而過");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_18", /*message*/"第18話 心煩不已");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_2", /*message*/"第2話 熟悉的味道");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_3", /*message*/"第3話 想跟你在一起");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_201_4", /*message*/"第4話 尚未決定的未來");
@@ -24598,6 +24642,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_15", /*message*/"第15話 以粉絲俱樂部之名分出高下！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_16", /*message*/"第16話 霞每天的功課");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_17", /*message*/"第17話 小霞霞一點都不放在心上！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_18", /*message*/"第18話 這種事還用問嗎！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_2", /*message*/"第2話 邪惡的餐包");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_3", /*message*/"第3話 主唱投票！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_202_4", /*message*/"第4話 決定命運的日子");
@@ -24615,6 +24660,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_15", /*message*/"第15話 這樣就夠令人開心了");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_16", /*message*/"第16話 熱衷於歌劇團！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_17", /*message*/"第17話 我的專屬回禮");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_18", /*message*/"第18話 想和大家分享的事");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_2", /*message*/"第2話 想像力全開");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_3", /*message*/"第3話 捨棄羞恥心！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_203_4", /*message*/"第4話 為球技大賽而努力");
@@ -24632,6 +24678,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_15", /*message*/"第15話 熊貓，我們來了！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_16", /*message*/"第16話 粉絲俱樂部？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_17", /*message*/"第17話 苦澀的回憶");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_18", /*message*/"第18話 挺有意思的嘛");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_2", /*message*/"第2話 果林的日常生活");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_3", /*message*/"第3話 朝著更高遠的目標前進");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_204_4", /*message*/"第4話 不輸給任何人的武器");
@@ -24649,6 +24696,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_15", /*message*/"第15話 完美女孩！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_16", /*message*/"第16話 我的使命！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_17", /*message*/"第17話 激戰！冷笑話大賽");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_18", /*message*/"第18話 小愛去了醫院？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_2", /*message*/"第2話 絕不放過任何宣傳機會！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_3", /*message*/"第3話 自豪的便當！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_205_4", /*message*/"第4話 這就是所謂的「雙耶」！");
@@ -24666,6 +24714,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_15", /*message*/"第15話 來去釣魚！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_16", /*message*/"第16話 要不要成立粉絲俱樂部？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_17", /*message*/"第17話 小彼方呼呼大睡俱樂部");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_18", /*message*/"第18話 呼呼大睡圓滿成功！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_2", /*message*/"第2話 彼方的苦衷");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_3", /*message*/"第3話 最喜歡妹妹");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_206_4", /*message*/"第4話 意外的專長");
@@ -24683,6 +24732,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_15", /*message*/"第15話 塞入太多設定了啦");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_16", /*message*/"第16話 帶來幸福的人");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_17", /*message*/"第17話 我所期望的世界");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_18", /*message*/"第18話 想回應你的聲音！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_2", /*message*/"第2話 想守護的世界");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_3", /*message*/"第3話 另一個「喜歡」！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_207_4", /*message*/"第4話 「雪菜」的由來");
@@ -24700,6 +24750,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_15", /*message*/"第15話 憧憬的人");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_16", /*message*/"第16話 憧憬的和服！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_17", /*message*/"第17話 我是招牌女店員！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_18", /*message*/"第18話 突如其來的命運");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_2", /*message*/"第2話 祕密約會♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_3", /*message*/"第3話 我想成為……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_208_4", /*message*/"第4話 來到艾瑪的房間！");
@@ -24717,6 +24768,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_14", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_15", /*message*/"第15話 談判者璃奈！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_16", /*message*/"第16話 小璃奈粉絲俱樂部");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_17", /*message*/"第17話 粉絲俱樂部成立大會");
+INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_18", /*message*/"第18話 那個人不在");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_2", /*message*/"第2話 與周遭有所聯繫");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_3", /*message*/"第3話 學園偶像的力量");
 INSERT INTO `m_dictionary` VALUES (/*id*/"member_story_title_209_4", /*message*/"第4話 遇到超級危機");
@@ -34807,6 +34859,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_11", /*message*/"第11話"
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_12", /*message*/"第12話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_13", /*message*/"第13話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_15", /*message*/"第15話");
+INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_18", /*message*/"第18話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_3", /*message*/"第3話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"still_title_4", /*message*/"第4話");

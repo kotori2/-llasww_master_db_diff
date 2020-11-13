@@ -277,6 +277,7 @@ INSERT INTO `navi_motion` VALUES (/*asset_path*/"c(|", /*pack_name*/"mjfm37", /*
 INSERT INTO `navi_motion` VALUES (/*asset_path*/"Xf", /*pack_name*/"yb4r5s", /*head*/0, /*size*/74932, /*key1*/625193828, /*key2*/-1326015315);
 INSERT INTO `navi_motion` VALUES (/*asset_path*/"0+l", /*pack_name*/"n6p6hs", /*head*/4537034, /*size*/83250, /*key1*/-860415815, /*key2*/1624197568);
 INSERT INTO `navi_motion` VALUES (/*asset_path*/"SA<", /*pack_name*/"n6p6hs", /*head*/4620284, /*size*/107487, /*key1*/388976932, /*key2*/-1246575160);
+INSERT INTO `navi_motion` VALUES (/*asset_path*/"+u]", /*pack_name*/"8ulbd6", /*head*/0, /*size*/69233, /*key1*/1606669323, /*key2*/1271688247);
 INSERT INTO `navi_motion` VALUES (/*asset_path*/"hm", /*pack_name*/"ysg7zc", /*head*/5429842, /*size*/59113, /*key1*/793731079, /*key2*/840299349);
 INSERT INTO `navi_motion` VALUES (/*asset_path*/"G4", /*pack_name*/"sggw8p", /*head*/0, /*size*/97362, /*key1*/-429692309, /*key2*/1804784321);
 INSERT INTO `navi_motion` VALUES (/*asset_path*/"b}\", /*pack_name*/"ysg7zc", /*head*/5488955, /*size*/65580, /*key1*/-934122678, /*key2*/-1156229941);

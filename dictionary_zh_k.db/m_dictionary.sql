@@ -38659,8 +38659,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0063", /*message*/"啊！�
 我也要搔你癢囉～♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0064", /*message*/"祝你生日快樂～～！
 耶嘿嘿，能幫你慶生真開心♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0088", /*message*/"小璃奈，生日快樂♪
-我好想跟小璃奈多聊聊呢～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0104", /*message*/"不看看接下來的劇情嗎？
 真好奇之後的發展～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0105", /*message*/"還可以再舉行演唱會喔！
@@ -38799,9 +38797,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0063", /*message*/"啊！
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0064", /*message*/"生日快樂♪
 能像這樣幫你慶生，
 我覺得非常幸福♡");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0088", /*message*/"璃奈，生日快樂♪
-如果能漸漸了解你，
-我會很開心的。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0104", /*message*/"真好奇故事的後續，
 要不要一起去看看？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0105", /*message*/"實踐練習是很重要的。
@@ -38938,9 +38933,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0063", /*message*/"哇！�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0064", /*message*/"嘿嘿……
 生日快樂♡
 能幫你慶生真開心。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0088", /*message*/"小璃奈，生日快樂♪
-琴梨有感受到
-小璃奈溫柔的心喔♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0104", /*message*/"好像能看劇情的後續了！
 好嘛，一起去看看～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0105", /*message*/"好想辦演唱會喔～
@@ -39077,8 +39069,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0063", /*message*/"該不�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0064", /*message*/"能遇到你真好……！
 因為今天是你的生日，
 無論如何我都想當面祝福你。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0088", /*message*/"今天是璃奈的生日。
-大家一起舉起板子來慶祝♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0104", /*message*/"真想知道劇情的後續。
 要不要一起去看看？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0105", /*message*/"為了發揮
@@ -39216,10 +39206,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0063", /*message*/"喵～�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0064", /*message*/"喵喵喵～生日快樂♪
 耶嘿嘿，因為想嚇你一跳，
 就在這裡等你了喵。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0088", /*message*/"小璃奈，生日快樂♡
-除了板子的表情之外，
-你本人也是
-非常可愛的女孩子喵。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0104", /*message*/"聽說有後續的劇情喔，
 要不要看看喵？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0105", /*message*/"好想參加演唱會喵～！
@@ -39354,9 +39340,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0063", /*message*/"你這�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0064", /*message*/"生日快樂。
 ……當、當然是在跟你說啊！
 真遲鈍……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0088", /*message*/"璃奈，生日快樂♪
-我很喜歡看璃奈板豐富
-的表情變化呢。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0104", /*message*/"要不要去看看劇情？
 說不定會有新發現喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0105", /*message*/"差不多該開演唱會了吧？
@@ -39499,9 +39482,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0063", /*message*/"哇！
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0064", /*message*/"生日快樂♪
 呵呵，可要盛大慶祝
 你的生日才行！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0088", /*message*/"璃璃，生日快樂！
-真希望有機會能一起練習，
-一定會很好玩的♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0104", /*message*/"如果有空的話，
 就去看看劇情吧♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0105", /*message*/"現在似乎可以辦演唱會了，
@@ -39643,9 +39623,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0062", /*message*/"嗶啊�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0063", /*message*/"哇，怎麼了嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0064", /*message*/"今天是你的生日對吧！
 大家一起熱鬧慶祝吧♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0088", /*message*/"小璃奈，生日快樂♪
-我也不太擅長站在群眾面前，
-可能和小璃奈有點像……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0104", /*message*/"要不要去看看劇情？
 我很好奇……！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0105", /*message*/"完成演唱會準備後
@@ -39789,9 +39766,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0063", /*message*/"什麼�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0064", /*message*/"你猜猜今天是什麼日子？
 因為是你的生日，
 一定要度過最棒的一天才行！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0088", /*message*/"璃奈，生日快樂♪
-日香做了小香香式微笑的
-璃奈板來喔♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0104", /*message*/"好像有新劇情♪
 一起去看吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0105", /*message*/"日香還想舉辦
@@ -39915,9 +39889,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0063", /*message*/"哇～�
 那裡很癢～快住手～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0064", /*message*/"生日快樂！
 能像這樣幫你慶生真開心。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0088", /*message*/"希望小璃奈將來
-會願意讓我看見真面目……
-真想跟小璃奈變得更親近♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0104", /*message*/"好像有新劇情可以看喔！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0105", /*message*/"準備萬全！
 來辦演唱會吧♪");
@@ -40046,9 +40017,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0063", /*message*/"呵呵�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0064", /*message*/"生日快樂。
 你的支持就是我們的力量。
 真的很感謝你。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0088", /*message*/"小璃奈，生日快樂。
-啊，變成笑臉了。
-呵呵，幸好有讓你開心♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0104", /*message*/"似乎還有沒看過的劇情喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0105", /*message*/"一起開場精彩的演唱會吧♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0106", /*message*/"我想去特訓！
@@ -40202,10 +40170,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0063", /*message*/"很癢�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0064", /*message*/"生日快樂。
 你替我帶來了許多的幸福，
 今天換我帶給你幸福喔。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0088", /*message*/"小璃奈，生日快樂。
-希望將來能不用隔著璃奈板，
-直接對著璃奈的臉
-說生日快樂。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0104", /*message*/"還有沒看過的劇情喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0105", /*message*/"有演唱會！
 好興奮喔♪");
@@ -40353,9 +40317,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0063", /*message*/"嘻，�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0064", /*message*/"生日快樂。
 沒有比遇見你
 更幸福的事了。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0088", /*message*/"璃奈學妹，生日快樂。
-請璃奈學妹拿下璃奈板……
-應該不行吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0104", /*message*/"不妨去觀看劇情吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0105", /*message*/"我們的演唱會
 可要打起精神上場！");
@@ -40493,10 +40454,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0063", /*message*/"哈哈�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0064", /*message*/"生日快樂！
 今天會跟Aqours的所有人
 一起幫你盛大慶祝喔！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0088", /*message*/"小璃奈是靠璃奈板
-一一變換表情的吧？
-小璃奈隨身攜帶
-幾種表情呢？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0104", /*message*/"再不去看劇情的話，
 我就要先看囉。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0105", /*message*/"現在覺得無論什麼樣的演唱會
@@ -40651,11 +40608,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0063", /*message*/"等等�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0064", /*message*/"親愛的小惡魔
 迎接了生日的到來，
 快準備舉杯慶祝吧～！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0088", /*message*/"璃奈，你戴了
-很厲害的面具呢。
-但是！
-在夜羽大人的魔眼下，
-那個面具就如同玻璃一樣喔！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0104", /*message*/"似乎還有故事的
 封印沒解開喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0105", /*message*/"吾等編織的黑暗舞台，
@@ -40807,9 +40759,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0063", /*message*/"哇～�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0064", /*message*/"生日快樂。
 希望你往後也過著
 很幸福的人生。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0088", /*message*/"小璃奈，生日快樂。
-禮物是小丸推薦的小說的啦♪
-希望你看得開心。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0104", /*message*/"一起來看故事的啦～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0105", /*message*/"嗚嗚嗚～
 小丸現在非常想開
@@ -40969,12 +40918,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0064", /*message*/"Happy B
 鞠莉一直在等這一天到來喔。
 來，Birthday party
 要開始囉♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0088", /*message*/"璃奈～
-你長得那麼可愛，
-為什麼要遮起來？
-咦？
-什麼時候看到臉的？
-就是從縫隙瞄到的啊☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0104", /*message*/"Let&apos;s reading story♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0105", /*message*/"Stand by OK☆
 隨時都能進行LIVE喔♪");
@@ -41131,8 +41074,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0063", /*message*/"好癢�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0064", /*message*/"生日快樂。
 你的支持是帶給露比
 勇氣的原動力喔。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0088", /*message*/"小璃奈，生日快樂。
-露比想跟小璃奈多聊聊喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0104", /*message*/"不去看……
 劇情嗎……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0105", /*message*/"演唱會就拜託你
@@ -41283,9 +41224,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0064", /*message*/"生日�
 你能誕生到世上，
 跟我相遇……
 我真的非常高興。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0088", /*message*/"小璃奈，生日快樂。
-小璃奈的心情
-都有確實傳達給我們喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0104", /*message*/"一起看看新劇情吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0105", /*message*/"有演唱會喔！
 一起過去吧！");
@@ -41439,9 +41377,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0064", /*message*/"今天�
 虧小霞霞想了很棒的企劃，
 要送給一直支持
 小霞霞的前輩耶～！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0088", /*message*/"璃奈子，生日快樂～！
-也讓小霞霞幫忙畫
-璃奈子的板子吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0104", /*message*/"還有沒看過的劇情嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0105", /*message*/"前輩～
 去開演唱會吧！");
@@ -41612,10 +41547,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0063", /*message*/"為了�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0064", /*message*/"生日快樂，前輩！
 往後還要請前輩
 繼續指導了！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0088", /*message*/"璃奈同學，生日快樂。
-從璃奈同學嬌小身體裡
-湧出的力量，
-總是讓我覺得很耀眼喔！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0104", /*message*/"啊，
 還有沒看過的故事！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0105", /*message*/"前輩，
@@ -41766,9 +41697,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0063", /*message*/"我一�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0064", /*message*/"生日快樂。
 希望你能度過很棒的一年……
 在我的影響下♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0088", /*message*/"小璃奈，生日快樂。
-快讓大家看看小璃奈
-可愛的臉蛋吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0104", /*message*/"如果你去看劇情，
 就能更了解我喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0105", /*message*/"要開演唱會了！
@@ -41934,9 +41862,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0064", /*message*/"生日�
 今天要讓你度過
 最棒的生日！
 跟愛姐來吧～！！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0088", /*message*/"璃奈奈，生日快樂！
-來，快來吃奶奶要愛姐
-帶來的牡丹餅吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0104", /*message*/"愛姐來念新劇情給你聽吧？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0105", /*message*/"你想看愛姐的演唱會對吧？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0106", /*message*/"愛姐想看看更多
@@ -42077,10 +42002,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0064", /*message*/"生日�
 今天是跟小彼方
 睡一整天午覺的日子♪
 小彼方的膝蓋借你躺～");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0088", /*message*/"小璃奈生日快樂～
-小彼方做了
-璃奈板：「睡覺覺」
-你要用喔～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0104", /*message*/"好像還有沒看過的故事喔～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0105", /*message*/"耶～
 跟小彼方去開演唱會吧！");
@@ -42231,10 +42152,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0063", /*message*/"這該�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0064", /*message*/"生日快樂！
 對於讓我們相遇的這個奇蹟，
 我要獻上最高級的感謝……！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0088", /*message*/"璃奈學妹，生日快樂。
-把這個裝在璃奈板上面
-應該會很可愛……
-不介意的話請用看看吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0104", /*message*/"還有沒看過的故事喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0105", /*message*/"再開更多演唱會吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0106", /*message*/"為了讓大家看到
@@ -42383,10 +42300,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0063", /*message*/"你搔�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0064", /*message*/"生日快樂！
 其實我原本想辦個
 生日驚喜派對的。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0088", /*message*/"生日快樂，小璃奈！
-我就是忍不住
-把你當成妹妹看待，
-想緊緊抱著你呢……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0104", /*message*/"還有沒看過的故事喔～
 快去看看吧。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0105", /*message*/"聽說可以開演唱會喔！");
@@ -42531,10 +42444,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0064", /*message*/"那個�
 自從認識你，
 我就變得很常笑，
 所以要跟你說謝謝。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0088", /*message*/"今天是我的生日……
-我可能是第一次
-收到這麼多祝福……
-我好高興，謝謝。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0104", /*message*/"還有沒看過的劇情喔。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0105", /*message*/"要開演唱會嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0106", /*message*/"我想去特訓。

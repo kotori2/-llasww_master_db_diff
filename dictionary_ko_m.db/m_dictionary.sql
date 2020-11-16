@@ -1014,6 +1014,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002907", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002908", /*message*/"[Aqours 6th ライブ記念課題] 쿠니키다 하나마루을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002909", /*message*/"[Aqours 6th ライブ記念課題] 오하라 마리을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002910", /*message*/"[Aqours 6th ライブ記念課題] 쿠로사와 루비을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003001", /*message*/"[無敵級*ビリーバー発売記念！] Mutekikyu Believer 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003002", /*message*/"[無敵級*ビリーバー発売記念！] 나카스 카스미이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

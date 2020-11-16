@@ -1014,6 +1014,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002907", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002908", /*message*/"[Aqours 6th ライブ記念課題] Clear a Live Show with Hanamaru Kunikida in Show Formation: x5　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002909", /*message*/"[Aqours 6th ライブ記念課題] Clear a Live Show with Mari Ohara in Show Formation: x5　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002910", /*message*/"[Aqours 6th ライブ記念課題] Clear a Live Show with Ruby Kurosawa in Show Formation: x5　Skip Tickets cannot be used.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003001", /*message*/"[無敵級*ビリーバー発売記念！] Clear &quot;Mutekikyu Believer&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003002", /*message*/"[無敵級*ビリーバー発売記念！] Use an SP Skill including Kasumi Nakasu 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

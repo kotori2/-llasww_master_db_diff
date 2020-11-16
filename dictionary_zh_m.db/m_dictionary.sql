@@ -1014,6 +1014,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002907", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002908", /*message*/"[Aqours 6th ライブ記念課題] 以編入國木田花丸的隊伍完成5場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002909", /*message*/"[Aqours 6th ライブ記念課題] 以編入小原鞠莉的隊伍完成5場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002910", /*message*/"[Aqours 6th ライブ記念課題] 以編入黑澤露比的隊伍完成5場LIVE　※跳略券不適用");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003001", /*message*/"[無敵級*ビリーバー発売記念！] 完成10次「Mutekikyu Believer」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003002", /*message*/"[無敵級*ビリーバー発売記念！] 使用20次發動成員包含中須霞的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

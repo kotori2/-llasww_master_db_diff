@@ -10414,6 +10414,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000273", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000274", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Elegant attribute school idols will fall by 10%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000275", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Elegant attribute school idols will fall by 20%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000294", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Smile attribute school idols will fall by 20%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000310", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Natural attribute school idols will fall by 5%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000311", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Natural attribute school idols will fall by 10%.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000312", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Natural attribute school idols will fall by 20%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000000", /*message*/"[Show Specialty] No Tricks");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000024", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Natural attribute school idols will fall by 10%.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000032", /*message*/"[Show Specialty] During the Live Show, Appeal of non-Active attribute school idols will fall by 5%.");
@@ -10873,6 +10876,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12032301", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12033101", /*message*/"[Hint] There will be Appeal Chances that last longer than usual, so watch out for stamina damage. Try to base your formation around Smile members.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12033201", /*message*/"[Hint] There will be Appeal Chances that last longer than usual, so watch out for stamina damage. Try to base your formation around Smile members.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12033301", /*message*/"[Hint] There will be Appeal Chances that last longer than usual, so watch out for stamina damage. Try to base your formation around Smile members.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12039101", /*message*/"[Hint] This Live Show contains special effects that only benefit Skill- and Voltage-type school idols, so try to base your formation around them.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12039201", /*message*/"[Hint] This Live Show contains special effects that only benefit Skill- and Voltage-type school idols, so try to base your formation around them.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12039301", /*message*/"[Hint] This Live Show contains special effects that only benefit Skill- and Voltage-type school idols, so try to base your formation around them.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20003101", /*message*/"[Hint] Try making a formation of school idols with types that work well with the show&apos;s Trick Notes and Appeal Chances special effects.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20003201", /*message*/"[Hint] Try making a formation of school idols with types that work well with the show&apos;s Trick Notes and Appeal Chances special effects.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20003301", /*message*/"[Hint] Try making a formation of school idols with types that work well with the show&apos;s Trick Notes and Appeal Chances special effects.");
@@ -11618,6 +11624,9 @@ Affects: Voltage Types");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000339", /*message*/"Skill activation % increases by Gd Type x 10% for 20 notes.
 Condition: On Success
 Affects: Guard Types");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000341", /*message*/"Critical % increases by Sk Type x 10% for 10 notes.
+Condition: On Success
+Affects: Skill Types");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000346", /*message*/"Gain Vo Type x 5% more Appeal for 10 notes.
 Condition: On Success
 Affects: Voltage Types");
@@ -11799,6 +11808,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000336", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000337", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1011\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>SP Skill Voltage Up");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000338", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>Appeal Up (Vo Type)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000339", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>Skill Activation % Up (Gd Type)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000341", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1009\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>Critical % Up (Sk Type)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000346", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>Appeal Up (Vo Type)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000347", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>Skill Activation % Up (Gd Type)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000352", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>Appeal Up 50%");
@@ -14068,6 +14078,42 @@ Time: On Appeal Chance start
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12033301_4", /*message*/"[Special Effect] Base SP Gauge Gain 20% Up
 Time: During Appeal Chance
 Affects: Smile Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039101_1", /*message*/"[Special Effect] Base Skill Activation Rate 20% Up
+Time: During Appeal Chance
+Affects: Natural Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039101_2", /*message*/"[Special Effect] 6,000 Shield Points Gained
+Time: On Appeal Chance start
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039101_3", /*message*/"[Special Effect] Base Skill Activation Rate 20% Up
+Time: During Appeal Chance
+Affects: Natural Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_1", /*message*/"[Special Effect] Base Skill Activation Rate 20% Up
+Time: During Appeal Chance
+Affects: Natural Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_2", /*message*/"[Special Effect] 6,000 Shield Points Gained
+Time: On Appeal Chance start
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_3", /*message*/"[Special Effect] Base Skill Activation Rate 20% Up
+Time: During Appeal Chance
+Affects: Natural Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_4", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_1", /*message*/"[Special Effect] Base Skill Activation Rate 20% Up
+Time: During Appeal Chance
+Affects: Natural Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_2", /*message*/"[Special Effect] 30,000 Shield Points Gained
+Time: On Appeal Chance start
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_3", /*message*/"[Special Effect] Base Skill Activation Rate 20% Up
+Time: During Appeal Chance
+Affects: Natural Attribute");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_4", /*message*/"[Special Effect] 30,000 Shield Points Gained
+Time: On Appeal Chance start
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_5", /*message*/"[Special Effect] Sk Type x 10% Base Critical % Up
+Time: During Appeal Chance
+Affects: All");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20003101_1", /*message*/"[Special Effect] Base SP Gauge Gain 50% Up
 Time: During Appeal Chance
 Affects: SP Types");
@@ -16885,6 +16931,18 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_1", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_2", /*message*/"Gain a total of 154,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_3", /*message*/"Gain a total of 61,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_4", /*message*/"Gain a total of 154,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039101_1", /*message*/"Gain a total of 40,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039101_2", /*message*/"Perform 5 Criticals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039101_3", /*message*/"Gain a total of 45,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_1", /*message*/"Gain a total of 118,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_2", /*message*/"Gain a total of 150,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_3", /*message*/"Gain a total of 157,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_4", /*message*/"Perform 7 Criticals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_1", /*message*/"Gain a total of 224,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_2", /*message*/"Gain a total of 406,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_3", /*message*/"Perform 6 Criticals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_4", /*message*/"Gain a total of 458,000 Voltage.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_5", /*message*/"Perform 12 Criticals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20003101_1", /*message*/"Gain a total of 5,000 Voltage with SP Skills.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20003101_2", /*message*/"Gain a total of 7,000 Voltage.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20003101_3", /*message*/"Gain a total of 13,000 Voltage.");

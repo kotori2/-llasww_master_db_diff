@@ -1018,6 +1018,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002907", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002908", /*message*/"[Aqours 6th ライブ記念課題] จัดคุนิคิดะ ฮานามารุเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002909", /*message*/"[Aqours 6th ライブ記念課題] จัดโอฮาระ มาริเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002910", /*message*/"[Aqours 6th ライブ記念課題] จัดคุโรซาวะ รูบี้เข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003001", /*message*/"[無敵級*ビリーバー発売記念！] เคลียร์ &quot;Mutekikyu Believer&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003002", /*message*/"[無敵級*ビリーバー発売記念！] ใช้ท่าพิเศษ SP ที่มีนากาสึ คาสึมิ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

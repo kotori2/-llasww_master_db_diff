@@ -10678,6 +10678,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000273", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000274", /*message*/"【LIVE特徴】 LIVE中，Elegant屬性以外的表現力10%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000275", /*message*/"【LIVE特徴】 LIVE中，Elegant屬性以外的表現力20%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000294", /*message*/"【LIVE特徴】 LIVE中，Smile屬性以外的表現力20%DOWN");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000310", /*message*/"【LIVE特徴】 LIVE中，Natural屬性以外的表現力5%DOWN");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000311", /*message*/"【LIVE特徴】 LIVE中，Natural屬性以外的表現力10%DOWN");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000312", /*message*/"【LIVE特徴】 LIVE中，Natural屬性以外的表現力20%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000000", /*message*/"【LIVE特徴】 無特效");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000024", /*message*/"【LIVE特徴】 LIVE中，Natural屬性以外的表現力10%DOWN");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000032", /*message*/"【LIVE特徴】 LIVE中，Active屬性以外的表現力5%DOWN");
@@ -11287,6 +11290,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12033201", /*message*
 編組時建議以Smile屬性的學園偶像為主。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12033301", /*message*/"【攻略提示】某些表現時間的持續時間很長，建議多加注意體力的消耗。
 編組時建議以Smile屬性的學園偶像為主。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12039101", /*message*/"【攻略提示】由於會出現有利於技能型和張力型的特效，因此編組時建議以技能型和張力型的學園偶像為主。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12039201", /*message*/"【攻略提示】由於會出現有利於技能型和張力型的特效，因此編組時建議以技能型和張力型的學園偶像為主。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12039301", /*message*/"【攻略提示】由於會出現有利於技能型和張力型的特效，因此編組時建議以技能型和張力型的學園偶像為主。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20003101", /*message*/"【攻略提示】配合特效節奏圖示或表現時間的特殊效果，建議編組有利類型的學園偶像。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20003201", /*message*/"【攻略提示】配合特效節奏圖示或表現時間的特殊效果，建議編組有利類型的學園偶像。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20003301", /*message*/"【攻略提示】配合特效節奏圖示或表現時間的特殊效果，建議編組有利類型的學園偶像。");
@@ -12219,6 +12225,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000338", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000339", /*message*/"持續20個節奏圖示，強化型×10%的特技發動機率UP
 條件：成功時
 適用對象：強化型");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000341", /*message*/"持續10個節奏圖示，技能型×10%的CRITICAL機率UP
+條件：成功時
+適用對象：技能型");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000346", /*message*/"持續10個節奏圖示，張力型×5%的表現力UP
 條件：成功時
 適用對象：張力型");
@@ -12400,6 +12409,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000336", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000337", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1011\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>組合技張力UP");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000338", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>表現力UP【張力型】");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000339", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>特技發動機率UP【強化型】");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000341", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1009\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>CRITICAL機率UP【技能型】");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000346", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>表現力UP【張力型】");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000347", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>特技發動機率UP【強化型】");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000352", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>表現力50%UP");
@@ -14669,6 +14679,42 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12033301_3", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12033301_4", /*message*/"【特殊效果】基礎組合技量表增加量20%UP
 時間：表現時間中
 適用對象：Smile屬性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039101_1", /*message*/"【特殊效果】基礎特技發動機率20%UP
+時間：表現時間中
+適用對象：Natural屬性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039101_2", /*message*/"【特殊效果】獲得6,000的防護效果
+時間：表現時間開始時
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039101_3", /*message*/"【特殊效果】基礎特技發動機率20%UP
+時間：表現時間中
+適用對象：Natural屬性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_1", /*message*/"【特殊效果】基礎特技發動機率20%UP
+時間：表現時間中
+適用對象：Natural屬性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_2", /*message*/"【特殊效果】獲得6,000的防護效果
+時間：表現時間開始時
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_3", /*message*/"【特殊效果】基礎特技發動機率20%UP
+時間：表現時間中
+適用對象：Natural屬性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_4", /*message*/"【特殊效果】技能型×10%的基礎CRITICAL機率UP
+時間：表現時間中
+適用對象：全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_1", /*message*/"【特殊效果】基礎特技發動機率20%UP
+時間：表現時間中
+適用對象：Natural屬性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_2", /*message*/"【特殊效果】獲得30,000的防護效果
+時間：表現時間開始時
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_3", /*message*/"【特殊效果】基礎特技發動機率20%UP
+時間：表現時間中
+適用對象：Natural屬性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_4", /*message*/"【特殊效果】獲得30,000的防護效果
+時間：表現時間開始時
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_5", /*message*/"【特殊效果】技能型×10%的基礎CRITICAL機率UP
+時間：表現時間中
+適用對象：全員");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20003101_1", /*message*/"【特殊效果】基礎組合技量表增加量50%UP
 時間：表現時間中
 適用對象：組合技型");
@@ -17486,6 +17532,18 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_1", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_2", /*message*/"累積合計154,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_3", /*message*/"累積合計61,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_4", /*message*/"累積合計154,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039101_1", /*message*/"累積合計40,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039101_2", /*message*/"出現5次CRITICAL判定");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039101_3", /*message*/"累積合計45,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_1", /*message*/"累積合計118,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_2", /*message*/"累積合計150,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_3", /*message*/"累積合計157,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_4", /*message*/"出現7次CRITICAL判定");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_1", /*message*/"累積合計224,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_2", /*message*/"累積合計406,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_3", /*message*/"出現6次CRITICAL判定");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_4", /*message*/"累積合計458,000的張力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_5", /*message*/"出現12次CRITICAL判定");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20003101_1", /*message*/"使用組合技來累積合計5,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20003101_2", /*message*/"累積合計7,000的張力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20003101_3", /*message*/"累積合計13,000的張力");

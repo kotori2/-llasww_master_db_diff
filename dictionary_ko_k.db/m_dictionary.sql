@@ -10632,6 +10632,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000273", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000274", /*message*/"[라이브 특징]  라이브 시, 엘리건트 속성 제외, 어필 10% 감소");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000275", /*message*/"[라이브 특징]  라이브 시, 엘리건트 속성 제외, 어필 20% 감소");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000294", /*message*/"[라이브 특징]  라이브 시, 스마일 속성 제외, 어필 20% 감소");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000310", /*message*/"[라이브 특징]  라이브 시, 내추럴 속성 제외, 어필 5% 감소");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000311", /*message*/"[라이브 특징]  라이브 시, 내추럴 속성 제외, 어필 10% 감소");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_1000312", /*message*/"[라이브 특징]  라이브 시, 내추럴 속성 제외, 어필 20% 감소");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000000", /*message*/"[라이브 특징]  기믹 없음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000024", /*message*/"[라이브 특징]  라이브 시, 내추럴 속성 제외, 어필 10% 감소");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_difficulty_3000032", /*message*/"[라이브 특징]  라이브 시, 액티브 속성 제외, 어필 5% 감소");
@@ -11200,6 +11203,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12032301", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12033101", /*message*/"[공략 힌트] 지속 시간이 긴 어필 찬스가 있으니 체력 대미지에 주의하세요. 스마일 속성 스쿨 아이돌을 중심으로 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12033201", /*message*/"[공략 힌트] 지속 시간이 긴 어필 찬스가 있으니 체력 대미지에 주의하세요. 스마일 속성 스쿨 아이돌을 중심으로 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12033301", /*message*/"[공략 힌트] 지속 시간이 긴 어필 찬스가 있으니 체력 대미지에 주의하세요. 스마일 속성 스쿨 아이돌을 중심으로 편성하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12039101", /*message*/"[공략 힌트] 스킬 타입과 볼티지 타입에 유리한 기믹이 있습니다. 스킬 타입과 볼티지 타입의 스쿨 아이돌을 중심으로 편성하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12039201", /*message*/"[공략 힌트] 스킬 타입과 볼티지 타입에 유리한 기믹이 있습니다. 스킬 타입과 볼티지 타입의 스쿨 아이돌을 중심으로 편성하세요.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12039301", /*message*/"[공략 힌트] 스킬 타입과 볼티지 타입에 유리한 기믹이 있습니다. 스킬 타입과 볼티지 타입의 스쿨 아이돌을 중심으로 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20003101", /*message*/"[공략 힌트] 기믹 노트와 어필 찬스의 특수 효과에 맞춰 유리한 타입의 스쿨 아이돌을 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20003201", /*message*/"[공략 힌트] 기믹 노트와 어필 찬스의 특수 효과에 맞춰 유리한 타입의 스쿨 아이돌을 편성하세요.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20003301", /*message*/"[공략 힌트] 기믹 노트와 어필 찬스의 특수 효과에 맞춰 유리한 타입의 스쿨 아이돌을 편성하세요.");
@@ -12079,6 +12085,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000338", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000339", /*message*/"20 노트 동안 Gd 타입×10%만큼 특기 발동률 증가
 조건: 성공 시
 대상: 가드 타입");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000341", /*message*/"10 노트 동안 Sk 타입×10%만큼 크리티컬 확률 증가
+조건: 성공 시
+대상: 스킬 타입");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_desc_50000346", /*message*/"10 노트 동안 Vo 타입×5%만큼 어필 증가
 조건: 성공 시
 대상: 볼티지 타입");
@@ -12260,6 +12269,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000336", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000337", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1011\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>SP 특기 볼티지 증가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000338", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>어필 증가 [Vo 타입]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000339", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>특기 발동률 증가 [Gd 타입]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000341", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1009\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>크리티컬 확률 증가 [Sk 타입]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000346", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>어필 증가 [Vo 타입]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000347", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>특기 발동률 증가 [Gd 타입]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_notes_name_50000352", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1007\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>어필 증가 50%");
@@ -14529,6 +14539,42 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12033301_3", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12033301_4", /*message*/"[특수 효과] 기본 SP 게이지 획득량 20% 증가
 시간: 어필 찬스 중
 대상: 스마일 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039101_1", /*message*/"[특수 효과] 기본 특기 발동률 20% 증가
+시간: 어필 찬스 중
+대상: 내추럴 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039101_2", /*message*/"[특수 효과] 실드 6,000 획득
+시간: 어필 찬스 시작과 동시
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039101_3", /*message*/"[특수 효과] 기본 특기 발동률 20% 증가
+시간: 어필 찬스 중
+대상: 내추럴 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_1", /*message*/"[특수 효과] 기본 특기 발동률 20% 증가
+시간: 어필 찬스 중
+대상: 내추럴 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_2", /*message*/"[특수 효과] 실드 6,000 획득
+시간: 어필 찬스 시작과 동시
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_3", /*message*/"[특수 효과] 기본 특기 발동률 20% 증가
+시간: 어필 찬스 중
+대상: 내추럴 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039201_4", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_1", /*message*/"[특수 효과] 기본 특기 발동률 20% 증가
+시간: 어필 찬스 중
+대상: 내추럴 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_2", /*message*/"[특수 효과] 실드 30,000 획득
+시간: 어필 찬스 시작과 동시
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_3", /*message*/"[특수 효과] 기본 특기 발동률 20% 증가
+시간: 어필 찬스 중
+대상: 내추럴 속성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_4", /*message*/"[특수 효과] 실드 30,000 획득
+시간: 어필 찬스 시작과 동시
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12039301_5", /*message*/"[특수 효과] Sk 타입 수 × 10%만큼 기본 크리티컬 확률 증가
+시간: 어필 찬스 중
+대상: 전원");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20003101_1", /*message*/"[특수 효과] 기본 SP 게이지 획득량 50% 증가
 시간: 어필 찬스 중
 대상: SP 타입");
@@ -17346,6 +17392,18 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_1", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_2", /*message*/"154,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_3", /*message*/"61,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12033301_4", /*message*/"154,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039101_1", /*message*/"40,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039101_2", /*message*/"5회 크리티컬 판정");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039101_3", /*message*/"45,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_1", /*message*/"118,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_2", /*message*/"150,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_3", /*message*/"157,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039201_4", /*message*/"7회 크리티컬 판정");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_1", /*message*/"224,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_2", /*message*/"406,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_3", /*message*/"6회 크리티컬 판정");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_4", /*message*/"458,000 볼티지 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12039301_5", /*message*/"12회 크리티컬 판정");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20003101_1", /*message*/"SP 특기로 5,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20003101_2", /*message*/"7,000 볼티지 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20003101_3", /*message*/"13,000 볼티지 획득");

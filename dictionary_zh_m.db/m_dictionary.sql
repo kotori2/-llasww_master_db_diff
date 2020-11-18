@@ -2325,6 +2325,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200093001_2", /*message*/"第
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201012001_1", /*message*/"旅館女侍高海同學");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_1", /*message*/"大海的魔法");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_2", /*message*/"好想見到你們！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_1", /*message*/"黛雅學姐的個人推薦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"展現可愛風采！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"海洋風情的約會☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_2", /*message*/"淋濕也不用擔心");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"墮天使大人的優雅假日");
@@ -2336,6 +2338,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201083001_2", /*message*/"Let
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201092001_1", /*message*/"最佳材料");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093001_1", /*message*/"滿懷心意");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093001_2", /*message*/"夢幻糖果");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_1", /*message*/"與你徜徉在花海之中");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_2", /*message*/"到哪裡都要在一起");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_1", /*message*/"最棒的夜晚");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_2", /*message*/"你想被我處罰嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053001_1", /*message*/"在夜幕的籠罩下");
@@ -2380,6 +2384,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"在
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"吃醋啦？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"飄飄然的心情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"私底下努力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092002_1", /*message*/"矢澤上菜");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"愛心日香便當♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"兩人的微笑旅程♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"你喜歡哪裡？");
@@ -2396,6 +2401,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042002_1", /*message*/"微
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_1", /*message*/"你的願望是？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_2", /*message*/"可愛就是可愛！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"真讓人安心！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052002_1", /*message*/"可愛的她");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301053001_1", /*message*/"熱愛水的心");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301053001_2", /*message*/"最喜歡的設計");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062001_1", /*message*/"白色的背後");

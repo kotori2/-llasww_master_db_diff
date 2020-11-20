@@ -17,3 +17,4 @@ CREATE TABLE m_live_override_member_mapping(
   FOREIGN KEY (suit_master_id) REFERENCES m_suit(id),
   FOREIGN KEY (suit_non_playable_master_id) REFERENCES m_suit_non_playable(id)
 );
+INSERT INTO `m_live_override_member_mapping` VALUES (/*mapping_id*/12034, /*position*/10, /*member_master_id*/"", /*member_non_playable_master_id*/210, /*is_center*/0, /*card_position*/10, /*suit_master_id*/"", /*suit_non_playable_master_id*/102103001, /*x_2d*/6000, /*y_2d*/1000, /*z_2d*/1000);

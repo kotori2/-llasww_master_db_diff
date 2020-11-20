@@ -1020,6 +1020,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002909", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002910", /*message*/"[Aqours 6th ライブ記念課題] จัดคุโรซาวะ รูบี้เข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003001", /*message*/"[無敵級*ビリーバー発売記念！] เคลียร์ &quot;Mutekikyu Believer&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003002", /*message*/"[無敵級*ビリーバー発売記念！] ใช้ท่าพิเศษ SP ที่มีนากาสึ คาสึมิ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003101", /*message*/"[LoveLive! Sunshine!! Takami Chika First Solo Concert Album発売記念] เคลียร์ &quot;Aozora Jumping Heart&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003102", /*message*/"[LoveLive! Sunshine!! Takami Chika First Solo Concert Album発売記念] ใช้ท่าพิเศษ SP ที่มีทากามิ จิกะ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003201", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003202", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Snow Halation&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003203", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;KOKORO Magic &quot;A to Z&quot;&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003204", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Diamond&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -1169,6 +1175,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800010", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800011", /*message*/"เคลียร์สตอรี่ 14 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800012", /*message*/"เคลียร์สตอรี่ 15 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800013", /*message*/"เคลียร์สตอรี่ 16 บท");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800014", /*message*/"เคลียร์สตอรี่ 17 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 1 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 5 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 10 ตอน");
@@ -1413,6 +1420,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400220", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400221", /*message*/"เคลียร์ &quot;Kinmirai Happy End&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400222", /*message*/"เคลียร์ &quot;Kinmirai Happy End&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400223", /*message*/"เคลียร์ &quot;Kinmirai Happy End&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400224", /*message*/"เคลียร์ &quot;KOWAREYASUKI&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400225", /*message*/"เคลียร์ &quot;KOWAREYASUKI&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400226", /*message*/"เคลียร์ &quot;KOWAREYASUKI&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400227", /*message*/"เคลียร์ &quot;TOKIMEKI Runners Chapter 17 Ver.&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400228", /*message*/"เคลียร์ &quot;TOKIMEKI Runners Chapter 17 Ver.&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400229", /*message*/"เคลียร์ &quot;TOKIMEKI Runners Chapter 17 Ver.&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");
@@ -2604,6 +2617,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_13", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_14", /*message*/"ชิ้นส่วนจิ๊กซอว์ที่เริ่มรวมเข้าด้วยกัน!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_15", /*message*/"เพื่อความฝันของทุกคน -ตอนแรก-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_16", /*message*/"เพื่อความฝันของทุกคน -ตอนจบ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_17", /*message*/"School Idol Festival!!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_2", /*message*/"คว้าโอกาสไว้!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_3", /*message*/"only our shine・ตอนแรก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine・ตอนจบ");
@@ -2620,6 +2634,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_13", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_14", /*message*/"บทที่ 14");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_15", /*message*/"บทที่ 15");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_16", /*message*/"บทที่ 16");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_17", /*message*/"บทที่ 17");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_3", /*message*/"บทที่ 3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"บทที่ 4");
@@ -3066,6 +3081,71 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_16_9", /*message*/"
 ความรู้สึกที่มีต่อคุณ อายูมุบอกความรู้สึก
 ทั้งหมดในตอนนี้แบบตรงๆ ผ่านทาง
 ไลฟ์สด และเมื่อได้ดูไลฟ์นั้น คุณก็...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_17_1", /*message*/"ผลจากการไลฟ์สดของอายูมุ
+ในที่สุดก็มีคนมาร่วมเป็น
+อาสาสมัครจนครบ 1,000 คน
+และวันพรุ่งนี้ก็เป็นวันงาน 
+School Idol Festival รู้ตัวอีกที
+สมาชิกในชมรมก็ขึ้นไปรวมตัวกัน
+บนดาดฟ้าเสียแล้ว...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_17_10", /*message*/"หลังจากได้เสียงเชียร์จากเหล่า
+สมาชิก ในที่สุดชิโอริโกะก็กลาย
+เป็นพวกพ้องสคูลไอดอล! 
+และเมื่อสิ้นสุดช่วงอังกอร์ของ
+ทั้ง 28 คน งาน School Idol Festival ก็ได้เวลาปิดม่านลง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_17_2", /*message*/"สมาชิกชมรมสคูลไอดอล
+ต่างตั้งตารอวันพรุ่งนี้พร้อมกับ
+นึกถึงความทรงจำมากมาย
+ที่เคยเกิดขึ้นในชมรม และแล้ว
+ก็ถึงวันงาน School Idol 
+Festival การแสดงเปิดงาน
+กำลังจะเริ่มขึ้น...!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_17_3", /*message*/"หลังจากส่งทั้ง 27 คนออกจาก
+ห้องแต่งตัวขึ้นไปสู่เวทีเพื่อ
+แสดงเปิดงาน คุณที่กำลัง
+เฝ้ามองเวทีก็ถาม ชิโอริโกะที่
+ยืนอยู่ข้างๆ เกี่ยวกับคาโอรุโกะ
+ที่เพิ่งพบกันเมื่อครู่...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_17_4", /*message*/"หลังทุกคนในฮอลพูดสโลแกน
+ของงานพร้อมกัน ม่านของงาน School Idol Festival ก็เปิดขึ้น
+กิจกรรมแรกก็คือ &quot;ศึกตัดสิน
+อันดับ 1 ในด้านต่างๆ ของ
+สคูลไอดอล&quot; ซึ่งมีคานันกับ
+ไดยะเป็นพิธีกร มันคือกิจกรรม
+แบบไหนกันนะ...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_17_5", /*message*/"การแข่ง &quot;การประชันเต้น&quot; และ 
+&quot;ประชันความใจนิ่ง&quot; เป็นไป
+อย่างดุเดือด ศึกนี้สร้างรอยยิ้ม
+ที่สดใสให้กับทั้งฝ่ายแพ้ ชนะ
+และเสมอ ต่อไปเป็นการแสดง
+ของ Aqours บ้างแล้ว!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_17_6", /*message*/"พวกโฮโนกะได้ดูการแสดง
+ของ Aqours และสัมผัสถึง
+ความยอดเยี่ยมในการแสดง
+เหล่านั้นอีกครั้ง ทุกคนต่าง
+เชียร์อย่างสุดกำลังเพื่อไม่ให้
+แพ้ Aqours และแล้วก็ถึงเวลา
+มื้อกลางวัน!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_17_7", /*message*/"อาหารที่จิกะ มาริ และคานาตะ
+คิดค้นขึ้นเองอร่อยมาก มุม
+ขายอาหารในงาน School Idol 
+Festival ก็ประสบความสำเร็จ
+อย่างงดงาม! ส่วนกิจกรรม
+ถัดไปคือ &quot;การแข่งพรีเซนต์
+สคูลไอดอล&quot;!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_17_8", /*message*/"การแข่งพรีเซนต์สคูลไอดอล
+คือการแข่งที่ต่างฝ่ายต้องบอก
+เล่าถึงความรักที่ตัวเองมีต่อ
+สคูลไอดอล ขณะที่อีเวนต์กำลัง
+ดำเนินไปด้วยดี เซ็ตสึนะก็มาหา
+ชิโอริโกะที่ดูแลงานอยู่
+เบื้องหลัง...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_17_9", /*message*/"ที่แท้คาโอรุโกะซึ่งเป็นหนึ่งใน
+สมาชิกริเริ่มจัดงาน School Idol 
+Festival เป็นพี่สาวแท้ๆ ของ
+ชิโอริโกะ และงาน School
+Idol Festival ก็ดำเนินมาถึง
+ช่วงสุดท้ายแล้ว!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_1_10", /*message*/"พอได้คารินมาร่วมด้วย ชมรมสคูลไอดอล
 โรงเรียนนิจิกะซากิก็เป็นรูปเป็นร่างขึ้น! 
 แต่กลับยังตามหาเซ็ตสึนะซึ่งเป็นสมาชิกเก่า
@@ -3620,6 +3700,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_7", /*message*/"for you");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_8", /*message*/"ข้อความจาก...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_16_9", /*message*/"ความรู้สึกมีหนึ่งเดียว!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_17_1", /*message*/"ค่ำคืนที่ไม่อาจทนรอ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_17_10", /*message*/"เพื่อนใหม่และการเดินทางครั้งใหม่!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_17_2", /*message*/"เอาล่ะ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_17_3", /*message*/"จงมารวมกัน! ความฝันของทุกคน!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_17_4", /*message*/"ศึกตัดสินอันดับ 1 ในด้านต่างๆ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_17_5", /*message*/"Aqours SHOW TIME!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_17_6", /*message*/"มื้อกลางวันแสนสนุก");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_17_7", /*message*/"แข่งพรีเซนต์สคูลไอดอล!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_17_8", /*message*/"พบพานอดีตอีกครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_17_9", /*message*/"ร่วมกันสานฝันไปด้วยกันเถอะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_10", /*message*/"เริ่มสตาร์ตใหม่อีกครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_1a", /*message*/"อยากคอยเชียร์สคูลไอดอล!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_1b", /*message*/"อยากคอยเชียร์สคูลไอดอล!");

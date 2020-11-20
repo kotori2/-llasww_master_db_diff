@@ -2875,6 +2875,13 @@ INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"lNK", /*dependency*
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"lNK", /*dependency*/"§j^");
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"lNK", /*dependency*/"§Vr");
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"lNK", /*dependency*/"§M|");
+INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"{~\"", /*dependency*/"^/)");
+INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"{~\"", /*dependency*/"$EZ");
+INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"{~\"", /*dependency*/"sgs");
+INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"{~\"", /*dependency*/"§~+");
+INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"{~\"", /*dependency*/"§y7");
+INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"{~\"", /*dependency*/"§Vr");
+INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"{~\"", /*dependency*/"§M|");
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"dI", /*dependency*/"ID");
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"dI", /*dependency*/"wS");
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"dI", /*dependency*/"§~+");

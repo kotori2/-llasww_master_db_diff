@@ -20079,6 +20079,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 ・虹彩星石(付費)×300
 ※期間內限購一次。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10058_name", /*message*/"學園偶像祭AS天使套組");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10059_desc", /*message*/"內含2張UR特等星探券的超值套組♪
+※期間內限購一次。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10059_name", /*message*/"UR雙重套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10060_desc", /*message*/"慶祝2020學園偶像祭感謝祭舉辦！內含最多16張普通星探券的超值定期禮盒♪
 
 訂購期間登入6天，共計可獲得6張普通星探券，而第7天還能獲得10張普通星探券！

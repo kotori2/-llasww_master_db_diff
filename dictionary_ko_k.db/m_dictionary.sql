@@ -19936,6 +19936,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 ・러브카스타(유료) x300
 ※기간 중, 1회 한정 구매 가능");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10058_name", /*message*/"스쿠스타 엔젤 세트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10059_desc", /*message*/"프리미엄 UR 확정 스카우트 티켓이 2장 포함된 실속 세트♪
+※기간 중, 1회 한정 구매 가능");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10059_name", /*message*/"UR 확정! 더블 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10060_desc", /*message*/"2020 스쿠페스 감사제 개최 기념!
 최대 16장의 일반 스카우트 티켓을 받을 수 있는 실속 코스♪
 6일간 매일 로그인하면 일반 스카우트 티켓을 합계 6장,

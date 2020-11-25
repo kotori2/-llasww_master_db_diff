@@ -1455,6 +1455,7 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2018
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10038/tex_banner_notice_s_10038", /*path*/".YY");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20188/tex_banner_notice_s_20188", /*path*/"boZ");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10058/tex_banner_notice_s_10058", /*path*/"_H!");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10059/tex_banner_notice_s_10059", /*path*/"%R1");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10060/tex_banner_notice_s_10060", /*path*/"SAP");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_icon_ch0210", /*path*/"P=f");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Member/tex_sd_ch0210_dr0003_01", /*path*/"I8{");

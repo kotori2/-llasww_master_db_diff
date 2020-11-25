@@ -19430,6 +19430,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 
 You can only buy this once while available.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10058_name", /*message*/"All Stars Angel Set");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10059_desc", /*message*/"This bargain set contains two Premium UR Scouting Tickets!
+
+You can only buy this once while available.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10059_name", /*message*/"Double UR Set");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10060_desc", /*message*/"Celebrate the SIF Fan Festival with this special bonus pass! Log in for 6 days for a total of 6 Normal Scouting Tickets. On the 7th day, you get 10 Normal Scouting Tickets!
 
 The pass is effective for 17 days from the day of purchase. When this period ends, you will lose any unclaimed items.");

@@ -10269,6 +10269,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1400", /*message*/"能讓設
 有機會在完成課題時獲得。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_14001", /*message*/"可在道具交換所使用的獎章。
 有機會在完成一般或每日LIVE及課題時獲得。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1401", /*message*/"能讓設為領隊的學園偶像100%習得
+稀有經驗技能的集訓道具。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1500", /*message*/"提升稀有道具掉落機率的集訓道具。
 有機會在完成課題時獲得。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15001", /*message*/"可以讓獲得的活動集點變多的道具。
@@ -10329,6 +10331,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21005", /*message*/"每張�
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21007", /*message*/"可用來在交換所內交換μ&apos;s的高級記憶碎片。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21008", /*message*/"可用來在交換所內交換Aqours的高級記憶碎片。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21009", /*message*/"可用來在交換所內交換虹咲的高級記憶碎片。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21011", /*message*/"進め！夏合宿キャンペーン期間中に合宿から獲得できる交換専用アイテム");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21013", /*message*/"每張可交換1件μ&apos;s盛夏水邊之花服裝的票券。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21014", /*message*/"每張可交換1件Aqours盛夏水邊之花服裝的票券。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21015", /*message*/"每張可交換1件虹咲盛夏水邊之花服裝的票券。");
@@ -10473,6 +10476,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1400", /*message*/"經驗技
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_14001", /*message*/"學園偶像獎章★1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_14002", /*message*/"學園偶像獎章★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_14003", /*message*/"學園偶像獎章★3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1401", /*message*/"經驗技能胸章★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1500", /*message*/"幸運護身符★1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15001", /*message*/"應援手燈A");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15002", /*message*/"觀光旅遊書");
@@ -10561,6 +10565,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21005", /*message*/"μ&apos;
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21007", /*message*/"μ&apos;s高級記憶碎片交換券");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21008", /*message*/"Aqours高級記憶碎片交換券");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21009", /*message*/"虹咲高級記憶碎片交換券");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21011", /*message*/"星形の貝殻");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21013", /*message*/"μ&apos;s盛夏水邊之花服裝交換券");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21014", /*message*/"Aqours盛夏水邊之花服裝交換券");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21015", /*message*/"虹咲盛夏水邊之花服裝交換券");
@@ -10630,6 +10635,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_story_member_descrption", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_story_member_name", /*message*/"{0}的默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_suit_descrption", /*message*/"{0}的服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_thumb_title_1400", /*message*/"★1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_thumb_title_1401", /*message*/"★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_thumb_title_1500", /*message*/"★1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_unit_accessory", /*message*/"x{0:#,0}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_unit_accessory_level_up_item", /*message*/"{0:#,0}個");
@@ -20071,6 +20077,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 附贈「Aqours盛夏水邊之花服裝交換券」！
 ※期間內最多可購買3次。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10047_name", /*message*/"AqoursALL STARS盛夏套組");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10050_desc", /*message*/"ラブカスター（有償）が120個入ったお得なセット♪
+おまけで『ひらめきバッヂ★2』付き！
+※期間中に最大5回購入できます     ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10050_name", /*message*/"進め！夏合宿セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10058_desc", /*message*/"內含多種星探券和虹彩星石的特別套組♪
 ・μ&apos;sUR特等星探券×1
 ・AqoursUR特等星探券×1

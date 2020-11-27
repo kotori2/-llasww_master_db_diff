@@ -10222,6 +10222,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1400", /*message*/"리더가
 과제를 달성하면 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_14001", /*message*/"아이템 교환소에서 사용하는 메달.
 일반 / 데일리 라이브 및 과제를 달성하면 획득할 수 있습니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1401", /*message*/"리더가 아이디어 스킬을 반드시 획득하게 되는 합숙 아이템.
+과제를 달성하면 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1500", /*message*/"레어 아이템 획득 확률을 올리는 합숙 아이템.
 과제를 달성하면 획득할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15001", /*message*/"이벤트 포인트를 획득량을 늘려 주는 아이템.
@@ -10283,6 +10285,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21005", /*message*/"1장당 
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21007", /*message*/"교환소에서 μ&apos;s의 하이 메모리와 교환할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21008", /*message*/"교환소에서 Aqours의 하이 메모리와 교환할 수 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21009", /*message*/"교환소에서 니지가사키의 하이 메모리와 교환할 수 있습니다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21011", /*message*/"進め！夏合宿キャンペーン期間中に合宿から獲得できる交換専用アイテム");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21013", /*message*/"1장당 μ&apos;s 서머 스플래시 의상 1벌로 교환할 수 있는 티켓.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21014", /*message*/"1장당 Aqours 서머 스플래시 의상 1벌로 교환할 수 있는 티켓.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21015", /*message*/"1장당 니지가사키 서머 스플래시 의상 1벌로 교환할 수 있는 티켓.");
@@ -10427,6 +10430,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1400", /*message*/"아이디
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_14001", /*message*/"스쿨 아이돌 메달★1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_14002", /*message*/"스쿨 아이돌 메달★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_14003", /*message*/"스쿨 아이돌 메달★3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1401", /*message*/"아이디어 배지★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1500", /*message*/"행운의 부적★1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15001", /*message*/"응원 블레이드 A");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15002", /*message*/"관광 안내 책자");
@@ -10515,6 +10519,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21005", /*message*/"μ&apos;
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21007", /*message*/"μ&apos;s 하이 메모리 교환 티켓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21008", /*message*/"Aqours 하이 메모리 교환 티켓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21009", /*message*/"니지가사키 하이 메모리 교환 티켓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21011", /*message*/"星形の貝殻");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21013", /*message*/"μ&apos;s 서머 스플래시 의상 교환 티켓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21014", /*message*/"Aqours 서머 스플래시 의상 교환 티켓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21015", /*message*/"니지가사키 서머 스플래시 의상 교환 티켓");
@@ -10584,6 +10589,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_story_member_descrption", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_story_member_name", /*message*/"{0}의 인연 에피소드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_suit_descrption", /*message*/"{0}의 의상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_thumb_title_1400", /*message*/"★1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_thumb_title_1401", /*message*/"★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_thumb_title_1500", /*message*/"★1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_unit_accessory", /*message*/"x{0:#,0}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_unit_accessory_level_up_item", /*message*/"{0:#,0}개");
@@ -19928,6 +19934,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 보너스 &quot;Aqours 서머 스플래시 의상 교환 티켓&quot;까지!
 ※기간 중, 최대 3회 구매 가능");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10047_name", /*message*/"Aqours 스쿠스타 서머 세트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10050_desc", /*message*/"ラブカスター（有償）が120個入ったお得なセット♪
+おまけで『ひらめきバッヂ★2』付き！
+※期間中に最大5回購入できます     ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10050_name", /*message*/"進め！夏合宿セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10058_desc", /*message*/"다양한 스카우트 티켓과 러브카스타가 포함된 특별 세트♪
 ・프리미엄 μ&apos;s UR 확정 스카우트 티켓 x1
 ・프리미엄 Aqours UR 확정 스카우트 티켓 x1

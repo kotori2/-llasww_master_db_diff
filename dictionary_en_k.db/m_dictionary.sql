@@ -10009,6 +10009,7 @@ You can obtain them during Training.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1400", /*message*/"A Training item that guarantees your leader will discover an Insight Skill.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_14001", /*message*/"A Medal used at the Item Exchange.
 You can obtain them from normal or daily Live Shows and completing Goals.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1401", /*message*/"A Training item that guarantees your leader will discover a rare Insight Skill.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_1500", /*message*/"A Training item that increases the drop rate of rare items.
 You can obtain these when you complete Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_15001", /*message*/"An item that increases the event points you obtain.
@@ -10068,6 +10069,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21005", /*message*/"One of t
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21007", /*message*/"This ticket can be exchanged for a μ&apos;s Memento Piece in the Item Exchange.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21008", /*message*/"This ticket can be exchanged for an Aqours Memento Piece in the Item Exchange.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21009", /*message*/"This ticket can be exchanged for a Nijigasaki Memento Piece in the Item Exchange.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21011", /*message*/"進め！夏合宿キャンペーン期間中に合宿から獲得できる交換専用アイテム");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21013", /*message*/"This ticket can be exchanged for a single μ&apos;s Summer Splash costume.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21014", /*message*/"This ticket can be exchanged for a single Aqours Summer Splash costume.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_desc_21015", /*message*/"This ticket can be exchanged for a single Nijigasaki Summer Splash costume.");
@@ -10212,6 +10214,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1400", /*message*/"Insight P
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_14001", /*message*/"School Idol Medal ★1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_14002", /*message*/"School Idol Medal ★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_14003", /*message*/"School Idol Medal ★3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1401", /*message*/"Insight Pin ★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_1500", /*message*/"Lucky Charm ★1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15001", /*message*/"Cheer Light A");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_15002", /*message*/"Travel Guide");
@@ -10300,6 +10303,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21005", /*message*/"μ&apos;
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21007", /*message*/"μ&apos;s Memento Piece Exchange Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21008", /*message*/"Aqours Memento Piece Exchange Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21009", /*message*/"Nijigasaki Memento Piece Exchange Ticket");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21011", /*message*/"星形の貝殻");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21013", /*message*/"μ&apos;s Summer Splash Costume Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21014", /*message*/"Aqours Summer Splash Costume Ticket");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_name_21015", /*message*/"Nijigasaki Summer Splash Costume Ticket");
@@ -10369,6 +10373,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"item_story_member_descrption", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_story_member_name", /*message*/"{0}&apos;s Bond Episode");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_suit_descrption", /*message*/"Costume for {0}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_thumb_title_1400", /*message*/"★1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"item_thumb_title_1401", /*message*/"★2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_thumb_title_1500", /*message*/"★1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_unit_accessory", /*message*/"x{0:#,0}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"item_unit_accessory_level_up_item", /*message*/"x{0:#,0}");
@@ -19420,6 +19425,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_1
 
 As a bonus, you&apos;ll get tickets that can be exchanged for Aqours Summer Splash costumes. You can buy this set up to three times while it is available.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10047_name", /*message*/"Aqours All Stars Summer Set");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10050_desc", /*message*/"ラブカスター（有償）が120個入ったお得なセット♪
+おまけで『ひらめきバッヂ★2』付き！
+※期間中に最大5回購入できます     ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10050_name", /*message*/"進め！夏合宿セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10058_desc", /*message*/"This special set contains a variety of scouting tickets as well as Star Gems!
 
 - Premium μ&apos;s UR Scouting Ticket x1

@@ -2465,6 +2465,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"남
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092002_1", /*message*/"쿠킹 야자와");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"러브 니코 도시락♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"둘이 방긋 전철 여행♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301012001_1", /*message*/"예쁘게 찍어 줘♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"넌 어떤 점이 좋아?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"사자 괴수 치카치!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"신발 던지기 놀이를 하자");
@@ -2501,6 +2502,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"비
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012002_1", /*message*/"미드나이트 걸즈 토크");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_1", /*message*/"쌀 한 톨에도 사랑을 담아서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_2", /*message*/"비밀 메이드");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013002_1", /*message*/"수영장과 튜브의 추억");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013002_2", /*message*/"Present for you");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"특제 빵을 선물하자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"승리의 옷 GET!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"최고의 선물을 찾아");

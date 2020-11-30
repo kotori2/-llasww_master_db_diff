@@ -2465,6 +2465,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"Sec
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092002_1", /*message*/"Cooking Yazawa");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"Nico&apos;s Lovely Lunch Box");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"Smiling Travels Together");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301012001_1", /*message*/"Make Me Look Cute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"What&apos;s Your Favorite?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"Lion Monster Chika-chi!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"Let&apos;s Fling Our Shoes");
@@ -2501,6 +2502,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"Sec
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012002_1", /*message*/"Midnight Girl Talk");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_1", /*message*/"Pouring Love Into Every Grain of Rice");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_2", /*message*/"Secret Maid");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013002_1", /*message*/"Memories of Pools and Inner Tubes");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013002_2", /*message*/"Present for You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"Special Bread Rolls For All!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"Victory Clothes Acquired!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"In Search of the Perfect Present");

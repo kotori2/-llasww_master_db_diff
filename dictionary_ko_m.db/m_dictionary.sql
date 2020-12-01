@@ -1056,6 +1056,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003204", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003304", /*message*/"육성 응원! Ketsui no Hikari 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003305", /*message*/"육성 응원! 미후네 시오리코을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003306", /*message*/"육성 응원! 미후네 시오리코 인연 보드의 강화 칸을 15회 오픈");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003401", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Margaret 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003402", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 나카스 카스미을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003403", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Fire Bird 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003404", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 아사카 카린을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -1463,6 +1467,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400229", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400230", /*message*/"Ketsui no Hikari 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400231", /*message*/"Ketsui no Hikari 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400232", /*message*/"Ketsui no Hikari 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400233", /*message*/"Margaret 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400234", /*message*/"Margaret 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400235", /*message*/"Margaret 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400236", /*message*/"Fire Bird 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400237", /*message*/"Fire Bird 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400238", /*message*/"Fire Bird 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");

@@ -132,3 +132,4 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_002", /*m
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_003", /*message*/"이벤트 이용 방법 3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_004", /*message*/"이벤트 이용 방법 4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_005", /*message*/"이벤트 이용 방법 5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_006", /*message*/"이벤트 이용 방법 6");

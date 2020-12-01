@@ -1060,6 +1060,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003204", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003304", /*message*/"[ฝึกพิเศษ!] เคลียร์ &quot;Ketsui no Hikari&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003305", /*message*/"[ฝึกพิเศษ!] จัดมิฟุเนะ ชิโอริโกะเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003306", /*message*/"[ฝึกพิเศษ!] ปลดช่องเสริมพลังในบอร์ดความสนิทของมิฟุเนะ ชิโอริโกะ 15 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003401", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] เคลียร์ &quot;Margaret&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003402", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] จัดนากาสึ คาสึมิเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003403", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] เคลียร์ &quot;Fire Bird&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003404", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] จัดอาซากะ คารินเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -1467,6 +1471,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400229", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400230", /*message*/"เคลียร์ &quot;Ketsui no Hikari&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400231", /*message*/"เคลียร์ &quot;Ketsui no Hikari&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400232", /*message*/"เคลียร์ &quot;Ketsui no Hikari&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400233", /*message*/"เคลียร์ &quot;Margaret&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400234", /*message*/"เคลียร์ &quot;Margaret&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400235", /*message*/"เคลียร์ &quot;Margaret&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400236", /*message*/"เคลียร์ &quot;Fire Bird&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400237", /*message*/"เคลียร์ &quot;Fire Bird&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400238", /*message*/"เคลียร์ &quot;Fire Bird&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

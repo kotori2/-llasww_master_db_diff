@@ -1056,6 +1056,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003204", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003304", /*message*/"Practice Support: Clear &quot;Ketsui no Hikari&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003305", /*message*/"Practice Support: Clear a Live Show with Shioriko Mifune in Show Formation: x5　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003306", /*message*/"Practice Support: Unlock booster tiles on Shioriko Mifune&apos;s Board: x15");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003401", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Clear &quot;Margaret&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003402", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Clear a Live Show with Kasumi Nakasu in Show Formation: x5　Skip Tickets cannot be used.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003403", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Clear &quot;Fire Bird&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003404", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Clear a Live Show with Karin Asaka in Show Formation: x5　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -1463,6 +1467,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400229", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400230", /*message*/"Clear &quot;Ketsui no Hikari&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400231", /*message*/"Clear &quot;Ketsui no Hikari&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400232", /*message*/"Clear &quot;Ketsui no Hikari&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400233", /*message*/"Clear &quot;Margaret&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400234", /*message*/"Clear &quot;Margaret&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400235", /*message*/"Clear &quot;Margaret&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400236", /*message*/"Clear &quot;Fire Bird&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400237", /*message*/"Clear &quot;Fire Bird&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400238", /*message*/"Clear &quot;Fire Bird&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

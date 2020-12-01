@@ -1056,6 +1056,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003204", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003304", /*message*/"[培育聲援！] 完成10次「Ketsui no Hikari」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003305", /*message*/"[培育聲援！] 以編入三船栞子的隊伍完成5場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003306", /*message*/"[培育聲援！] 解鎖15次三船栞子默契能力表的強化晶格");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003401", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 完成10次「Margaret」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003402", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 以編入中須霞的隊伍完成5場LIVE　※跳略券不適用");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003403", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 完成10次「Fire Bird」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003404", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 以編入朝香果林的隊伍完成5場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -1463,6 +1467,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400229", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400230", /*message*/"完成10次「Ketsui no Hikari」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400231", /*message*/"完成50次「Ketsui no Hikari」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400232", /*message*/"完成100次「Ketsui no Hikari」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400233", /*message*/"完成10次「Margaret」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400234", /*message*/"完成50次「Margaret」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400235", /*message*/"完成100次「Margaret」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400236", /*message*/"完成10次「Fire Bird」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400237", /*message*/"完成50次「Fire Bird」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400238", /*message*/"完成100次「Fire Bird」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

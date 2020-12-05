@@ -191,6 +191,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000132", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000133", /*message*/"เล่น &quot;LOVELESS WORLD&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000134", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000135", /*message*/"ซ้อม 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000136", /*message*/"เล่น &quot;LOVELESS WORLD&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000137", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000138", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000139", /*message*/"ซ้อม 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000140", /*message*/"รับล็อกอินโบนัส");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"เล่น &quot;Bokura wa Ima no Naka de&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");

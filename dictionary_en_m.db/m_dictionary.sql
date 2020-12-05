@@ -191,6 +191,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000132", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000133", /*message*/"Play &quot;LOVELESS WORLD&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000134", /*message*/"Clear a Live Show: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000135", /*message*/"Perform Training a total of 2 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000136", /*message*/"Play &quot;LOVELESS WORLD&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000137", /*message*/"Gain 900 event points.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000138", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000139", /*message*/"Perform Training a total of 2 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000140", /*message*/"Collect your login bonus.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"Gain 900 event points.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"Clear a Live Show: x5");

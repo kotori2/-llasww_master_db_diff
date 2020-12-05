@@ -191,6 +191,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000132", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000133", /*message*/"遊玩1次「LOVELESS WORLD」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000134", /*message*/"完成5場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000135", /*message*/"進行2次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000136", /*message*/"遊玩1次「LOVELESS WORLD」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000137", /*message*/"獲得900點活動集點");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000138", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000139", /*message*/"進行2次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000140", /*message*/"領取登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"遊玩1次「Bokura wa Ima no Naka de」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"獲得900點活動集點");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"完成5場LIVE");

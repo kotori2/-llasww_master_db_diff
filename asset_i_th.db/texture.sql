@@ -5166,6 +5166,10 @@ INSERT INTO `texture` VALUES (/*asset_path*/"v\"p", /*pack_name*/"jnskz4", /*hea
 INSERT INTO `texture` VALUES (/*asset_path*/"w|S", /*pack_name*/"jnskz4", /*head*/182899, /*size*/42450, /*key1*/-1738287967, /*key2*/-972714701);
 INSERT INTO `texture` VALUES (/*asset_path*/"V>\"", /*pack_name*/"0cripa", /*head*/0, /*size*/215333, /*key1*/-55628514, /*key2*/-166660737);
 INSERT INTO `texture` VALUES (/*asset_path*/"W%O", /*pack_name*/"0cripa", /*head*/215333, /*size*/42622, /*key1*/1085158457, /*key2*/1690990791);
+INSERT INTO `texture` VALUES (/*asset_path*/",a\"", /*pack_name*/"vogvum", /*head*/0, /*size*/161150, /*key1*/-3219124, /*key2*/-113122258);
+INSERT INTO `texture` VALUES (/*asset_path*/"#;k", /*pack_name*/"vogvum", /*head*/161150, /*size*/36763, /*key1*/-521159278, /*key2*/1281160002);
+INSERT INTO `texture` VALUES (/*asset_path*/",B4", /*pack_name*/"vogvum", /*head*/197913, /*size*/213864, /*key1*/228597804, /*key2*/-1857395326);
+INSERT INTO `texture` VALUES (/*asset_path*/"}'x", /*pack_name*/"vogvum", /*head*/411777, /*size*/43045, /*key1*/1816068656, /*key2*/-1563611116);
 INSERT INTO `texture` VALUES (/*asset_path*/"-]Z", /*pack_name*/"2v67sa", /*head*/24420, /*size*/106139, /*key1*/-1720572146, /*key2*/1604290070);
 INSERT INTO `texture` VALUES (/*asset_path*/"_v+", /*pack_name*/"2v67sa", /*head*/130559, /*size*/28980, /*key1*/-1842282122, /*key2*/807217467);
 INSERT INTO `texture` VALUES (/*asset_path*/"_F<", /*pack_name*/"ejz0ox", /*head*/0, /*size*/25753, /*key1*/1865638928, /*key2*/-1668698220);
@@ -6030,6 +6034,8 @@ INSERT INTO `texture` VALUES (/*asset_path*/"%@@", /*pack_name*/"9x86ym", /*head
 INSERT INTO `texture` VALUES (/*asset_path*/"(,5", /*pack_name*/"9x86ym", /*head*/432545, /*size*/175294, /*key1*/-1006703412, /*key2*/-365485327);
 INSERT INTO `texture` VALUES (/*asset_path*/"MgV", /*pack_name*/"33ozdy", /*head*/0, /*size*/274173, /*key1*/-665561579, /*key2*/1333528312);
 INSERT INTO `texture` VALUES (/*asset_path*/"9H-", /*pack_name*/"33ozdy", /*head*/274173, /*size*/50276, /*key1*/-736642064, /*key2*/1865434650);
+INSERT INTO `texture` VALUES (/*asset_path*/"]L'", /*pack_name*/"vogvum", /*head*/454822, /*size*/6477, /*key1*/263128952, /*key2*/-953406179);
+INSERT INTO `texture` VALUES (/*asset_path*/"\"3r", /*pack_name*/"vogvum", /*head*/461299, /*size*/51502, /*key1*/817597188, /*key2*/663678607);
 INSERT INTO `texture` VALUES (/*asset_path*/"41Z", /*pack_name*/"qu96ss", /*head*/545679, /*size*/7684, /*key1*/-320989204, /*key2*/601840515);
 INSERT INTO `texture` VALUES (/*asset_path*/"%$2", /*pack_name*/"qu96ss", /*head*/942407, /*size*/257389, /*key1*/-858955748, /*key2*/13556015);
 INSERT INTO `texture` VALUES (/*asset_path*/"W7F", /*pack_name*/"qu96ss", /*head*/1199796, /*size*/42469, /*key1*/-1967419463, /*key2*/61529472);

@@ -765,3 +765,9 @@ INSERT INTO `m_accessory_grade_up` VALUES (/*accessory_master_id*/303116, /*grad
 INSERT INTO `m_accessory_grade_up` VALUES (/*accessory_master_id*/303116, /*grade*/3, /*max_level*/25, /*accessory_passive_skill_1_master_id*/"", /*accessory_passive_skill_2_master_id*/"");
 INSERT INTO `m_accessory_grade_up` VALUES (/*accessory_master_id*/303116, /*grade*/4, /*max_level*/30, /*accessory_passive_skill_1_master_id*/"", /*accessory_passive_skill_2_master_id*/"");
 INSERT INTO `m_accessory_grade_up` VALUES (/*accessory_master_id*/303116, /*grade*/5, /*max_level*/40, /*accessory_passive_skill_1_master_id*/"", /*accessory_passive_skill_2_master_id*/"");
+INSERT INTO `m_accessory_grade_up` VALUES (/*accessory_master_id*/303212, /*grade*/0, /*max_level*/10, /*accessory_passive_skill_1_master_id*/40000052, /*accessory_passive_skill_2_master_id*/"");
+INSERT INTO `m_accessory_grade_up` VALUES (/*accessory_master_id*/303212, /*grade*/1, /*max_level*/15, /*accessory_passive_skill_1_master_id*/"", /*accessory_passive_skill_2_master_id*/"");
+INSERT INTO `m_accessory_grade_up` VALUES (/*accessory_master_id*/303212, /*grade*/2, /*max_level*/20, /*accessory_passive_skill_1_master_id*/"", /*accessory_passive_skill_2_master_id*/"");
+INSERT INTO `m_accessory_grade_up` VALUES (/*accessory_master_id*/303212, /*grade*/3, /*max_level*/25, /*accessory_passive_skill_1_master_id*/"", /*accessory_passive_skill_2_master_id*/"");
+INSERT INTO `m_accessory_grade_up` VALUES (/*accessory_master_id*/303212, /*grade*/4, /*max_level*/30, /*accessory_passive_skill_1_master_id*/"", /*accessory_passive_skill_2_master_id*/"");
+INSERT INTO `m_accessory_grade_up` VALUES (/*accessory_master_id*/303212, /*grade*/5, /*max_level*/40, /*accessory_passive_skill_1_master_id*/"", /*accessory_passive_skill_2_master_id*/"");

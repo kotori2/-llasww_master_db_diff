@@ -1486,6 +1486,7 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20190/tex_banner_gacha_sticker_20190", /*path*/"=v;");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20191/tex_banner_gacha_sticker_20191", /*path*/"r5(");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Event/Marathon/30014/tex_banner_notice_s_30014", /*path*/"_0t");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_20009_s", /*path*/"ZB'");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20210/tex_banner_gacha_sticker_20210", /*path*/"Ea;");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20211/tex_banner_gacha_sticker_20211", /*path*/"zb`");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32006/tex_event_logo_32006", /*path*/"R2c");

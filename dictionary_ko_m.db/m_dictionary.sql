@@ -208,6 +208,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000137", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000138", /*message*/"라이브 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000139", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000140", /*message*/"로그인 보너스 받기");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000141", /*message*/"Donna Tokimo Zutto 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000142", /*message*/"라이브 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000143", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000149", /*message*/"멤버스 챌린지의 데일리 과제를 모두 클리어하기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Bokura wa Ima no Naka de 1회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"이벤트 포인트 900 획득");

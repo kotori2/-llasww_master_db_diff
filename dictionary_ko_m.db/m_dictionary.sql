@@ -2616,6 +2616,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"추
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072003_1", /*message*/"무녀의 춤");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"내 손은 약손~♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"눈을 감아!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_1", /*message*/"토끼 패닉");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_2", /*message*/"카메라 렌즈 너머의 설렘");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"애정 듬뿍 주먹밥");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"도서실에서는 조용히");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"알파카에게 질투?");
@@ -2677,6 +2679,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042002_1", /*message*/"물
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"눈은 마음의 거울");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"시선을 사로잡겠어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"몬자야키 비법");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052002_1", /*message*/"아이는 인기 많은 아이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"앨범의 의미");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"최고의 안마");

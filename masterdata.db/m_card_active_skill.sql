@@ -1557,3 +1557,13 @@ INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/401062002, /*skill_l
 INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/401062002, /*skill_level*/3, /*name*/"k.active_skill_name_401062002", /*active_skill_master_id*/10030703);
 INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/401062002, /*skill_level*/4, /*name*/"k.active_skill_name_401062002", /*active_skill_master_id*/10030704);
 INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/401062002, /*skill_level*/5, /*name*/"k.active_skill_name_401062002", /*active_skill_master_id*/10030705);
+INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/300073002, /*skill_level*/1, /*name*/"k.active_skill_name_300073002", /*active_skill_master_id*/10030801);
+INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/300073002, /*skill_level*/2, /*name*/"k.active_skill_name_300073002", /*active_skill_master_id*/10030802);
+INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/300073002, /*skill_level*/3, /*name*/"k.active_skill_name_300073002", /*active_skill_master_id*/10030803);
+INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/300073002, /*skill_level*/4, /*name*/"k.active_skill_name_300073002", /*active_skill_master_id*/10030804);
+INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/300073002, /*skill_level*/5, /*name*/"k.active_skill_name_300073002", /*active_skill_master_id*/10030805);
+INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/302052002, /*skill_level*/1, /*name*/"k.active_skill_name_302052002", /*active_skill_master_id*/10030901);
+INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/302052002, /*skill_level*/2, /*name*/"k.active_skill_name_302052002", /*active_skill_master_id*/10030902);
+INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/302052002, /*skill_level*/3, /*name*/"k.active_skill_name_302052002", /*active_skill_master_id*/10030903);
+INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/302052002, /*skill_level*/4, /*name*/"k.active_skill_name_302052002", /*active_skill_master_id*/10030904);
+INSERT INTO `m_card_active_skill` VALUES (/*card_master_id*/302052002, /*skill_level*/5, /*name*/"k.active_skill_name_302052002", /*active_skill_master_id*/10030905);

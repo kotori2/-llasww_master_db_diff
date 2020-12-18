@@ -2611,6 +2611,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"紀
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072003_1", /*message*/"巫女舞");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"痛痛～飛走了～♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"閉上眼睛！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_1", /*message*/"兔子大騷動");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_2", /*message*/"隔著相機的心動");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"充滿愛心的飯糰");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"在圖書館請保持安靜");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"吃醋啦？");
@@ -2672,6 +2674,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042002_1", /*message*/"不
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"眼睛比嘴巴更會說話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"讓你的視線離不開我");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"因為是文字燒");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052002_1", /*message*/"搶手的愛");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"相簿的意義");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"極樂按摩");

@@ -324,6 +324,12 @@ INSERT INTO `m_petag` VALUES (/*petag_id*/318, /*petag*/"petag.petag_subscriptio
 INSERT INTO `m_petag` VALUES (/*petag_id*/319, /*petag*/"petag.petag_icon_gacha_ticket_9032_empty");
 INSERT INTO `m_petag` VALUES (/*petag_id*/320, /*petag*/"petag.petag_icon_gacha_ticket_9032_32_empty");
 INSERT INTO `m_petag` VALUES (/*petag_id*/321, /*petag*/"petag.petag_icon_gacha_ticket_9032_28_empty");
+INSERT INTO `m_petag` VALUES (/*petag_id*/322, /*petag*/"petag.petag_icon_gacha_ticket_9033_empty");
+INSERT INTO `m_petag` VALUES (/*petag_id*/323, /*petag*/"petag.petag_icon_gacha_ticket_9033_32_empty");
+INSERT INTO `m_petag` VALUES (/*petag_id*/324, /*petag*/"petag.petag_icon_gacha_ticket_9033_28_empty");
+INSERT INTO `m_petag` VALUES (/*petag_id*/325, /*petag*/"petag.petag_icon_gacha_ticket_9034_empty");
+INSERT INTO `m_petag` VALUES (/*petag_id*/326, /*petag*/"petag.petag_icon_gacha_ticket_9034_32_empty");
+INSERT INTO `m_petag` VALUES (/*petag_id*/327, /*petag*/"petag.petag_icon_gacha_ticket_9034_28_empty");
 INSERT INTO `m_petag` VALUES (/*petag_id*/1303, /*petag*/"petag.petag_icon_skill_01_empty");
 INSERT INTO `m_petag` VALUES (/*petag_id*/1304, /*petag*/"petag.petag_icon_skill_02_empty");
 INSERT INTO `m_petag` VALUES (/*petag_id*/1305, /*petag*/"petag.petag_icon_skill_03_empty");

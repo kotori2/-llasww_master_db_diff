@@ -2623,6 +2623,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"ร
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072003_1", /*message*/"การร่ายรำของมิโกะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"ความเจ็บปวดเอ๋ยจงหายไป~♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"หลับตาสิ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_1", /*message*/"กระต่ายรุม");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_2", /*message*/"ความตื่นเต้นผ่านเลนส์กล้อง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"ข้าวปั้นเปี่ยมรัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"ช่วยเงียบในห้องสมุดด้วยจ้ะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"หวงเหรอ?");
@@ -2684,6 +2686,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042002_1", /*message*/"น
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"ดวงตาคือหน้าต่างของหัวใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"จะดึงดูดเธอไว้ไม่ให้ละสายตาไปไหนเลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"แค่มอนจะเท่านั้น");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052002_1", /*message*/"ไอที่ถูกดึงตัว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"ความหมายของอัลบั้มรูป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"การนวดแสนสุข");

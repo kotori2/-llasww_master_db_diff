@@ -2611,6 +2611,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"A K
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072003_1", /*message*/"Priestess Dance");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"Pain, Pain, Go Away!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"Close Your Eyes!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_1", /*message*/"Rabbit Riot");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_2", /*message*/"Racing Hearts through the Camera Lens");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"Rice Balls Filled with Love");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"Quiet in the Library");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"Jealous?");
@@ -2672,6 +2674,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042002_1", /*message*/"Can
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"Eyes Are the Window to the Soul");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"Your Eyes Are Glued to Me");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"You&apos;d Batter Be Kidding");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052002_1", /*message*/"All Eyes Vying for Ai");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreams are Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"The Truth of My Photo Album");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"Massage from Paradise");

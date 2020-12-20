@@ -1095,6 +1095,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002207", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002208", /*message*/"[A song for You! You? You!! リリースイベント] 以編入東條希的隊伍完成5場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002209", /*message*/"[A song for You! You? You!! リリースイベント] 以編入小泉花陽的隊伍完成5場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002210", /*message*/"[A song for You! You? You!! リリースイベント] 以編入矢澤日香的隊伍完成5場LIVE　※跳略券不適用");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002211", /*message*/"[CD發行紀念]完成1次「A song for You! You? You!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002212", /*message*/"[CD發行紀念]完成2次「A song for You! You? You!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002213", /*message*/"[CD發行紀念]完成3次「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002301", /*message*/"[AZALEA First LOVELIVE! 課題] 使用20次發動成員包含松浦果南的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002302", /*message*/"[AZALEA First LOVELIVE! 課題] 使用20次發動成員包含黑澤黛雅的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002303", /*message*/"[AZALEA First LOVELIVE! 課題] 使用20次發動成員包含國木田花丸的組合技");

@@ -1106,6 +1106,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002207", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002208", /*message*/"[A song for You! You? You!! リリースイベント] จัดโทโจ โนโซมิเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002209", /*message*/"[A song for You! You? You!! リリースイベント] จัดโคอิสึมิ ฮานาโยะเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002210", /*message*/"[A song for You! You? You!! リリースイベント] จัดยาซาวะ นิโกะเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002211", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;A song for You! You? You!!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002212", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;A song for You! You? You!!&quot; 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002213", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;A song for You! You? You!!&quot; 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002301", /*message*/"[AZALEA First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีมัตสึอุระ คานัน 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002302", /*message*/"[AZALEA First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีคุโรซาวะ ไดยะ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002303", /*message*/"[AZALEA First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีคุนิคิดะ ฮานามารุ 20 ครั้ง");

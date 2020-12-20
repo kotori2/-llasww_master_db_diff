@@ -1100,6 +1100,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002207", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002208", /*message*/"[A song for You! You? You!! リリースイベント] 토죠 노조미을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002209", /*message*/"[A song for You! You? You!! リリースイベント] 코이즈미 하나요을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002210", /*message*/"[A song for You! You? You!! リリースイベント] 야자와 니코을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002211", /*message*/"[CD 발매 기념] A song for You! You? You!! 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002212", /*message*/"[CD 발매 기념] A song for You! You? You!! 2회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002213", /*message*/"[CD 발매 기념] A song for You! You? You!! 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002301", /*message*/"[AZALEA First LOVELIVE! 課題] 마츠우라 카난이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002302", /*message*/"[AZALEA First LOVELIVE! 課題] 쿠로사와 다이아이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002303", /*message*/"[AZALEA First LOVELIVE! 課題] 쿠니키다 하나마루이/가 포함된 SP 특기 20회 사용");

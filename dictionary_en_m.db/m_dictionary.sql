@@ -1095,6 +1095,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002207", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002208", /*message*/"[A song for You! You? You!! リリースイベント] Clear a Live Show with Nozomi Tojo in Show Formation: x5　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002209", /*message*/"[A song for You! You? You!! リリースイベント] Clear a Live Show with Hanayo Koizumi in Show Formation: x5　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002210", /*message*/"[A song for You! You? You!! リリースイベント] Clear a Live Show with Nico Yazawa in Show Formation: x5　Skip Tickets cannot be used.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002211", /*message*/"[CD Release Celebration] Clear &quot;A song for You! You? You!!&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002212", /*message*/"[CD Release Celebration] Clear &quot;A song for You! You? You!!&quot;: x2");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002213", /*message*/"[CD Release Celebration] Clear &quot;A song for You! You? You!!&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002301", /*message*/"[AZALEA First LOVELIVE! 課題] Use an SP Skill including Kanan Matsuura 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002302", /*message*/"[AZALEA First LOVELIVE! 課題] Use an SP Skill including Dia Kurosawa 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002303", /*message*/"[AZALEA First LOVELIVE! 課題] Use an SP Skill including Hanamaru Kunikida 20 times.");

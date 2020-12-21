@@ -1174,6 +1174,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003901", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003902", /*message*/"[SBL Goal] Clear &quot;Bokura wa Ima no Naka de&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003903", /*message*/"[SBL Goal] Clear &quot;Mirai no Bokura wa Shitteru yo&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003904", /*message*/"[SBL Goal] Clear &quot;TOKIMEKI Runners Chapter 17 Ver.&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004301", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004302", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004303", /*message*/"[Dream Live Parade Goals] Restore school idols&apos; PP in a Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004304", /*message*/"[Dream Live Parade Goals] Restore school idols&apos; PP in a Dream Live Parade: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004305", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004306", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004307", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -1191,6 +1198,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31009", /*message*/"Rebel-ish Makeover");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"Trial Event: Dream Live Parade");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"Dream Live Parade");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002", /*message*/"Dream Live Parade: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002_000", /*message*/"Dream Live Parade: Aqours");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");

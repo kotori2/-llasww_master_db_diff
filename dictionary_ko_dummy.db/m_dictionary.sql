@@ -16,6 +16,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035034_00", /*message*/"스케이
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035037_00", /*message*/"이즈하코네 철도 승강장(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035055_00", /*message*/"중화요리점");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035062_00", /*message*/"장난감 가게 앞(맑은 낮)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"가을 강가(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"이벤트 이용 방법 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200103", /*message*/"이벤트 이용 방법 3");
@@ -137,6 +138,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30014_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30014_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30014_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30014_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_1", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_2", /*message*/"이벤트 이용 방법 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_3", /*message*/"이벤트 이용 방법 3");

@@ -12350,6 +12350,9 @@ INSERT INTO `navi_timeline_dependency` VALUES (/*asset_path*/"FuJ", /*dependency
 INSERT INTO `navi_timeline_dependency` VALUES (/*asset_path*/"FuJ", /*dependency*/"Uc");
 INSERT INTO `navi_timeline_dependency` VALUES (/*asset_path*/"FuJ", /*dependency*/"Kz~");
 INSERT INTO `navi_timeline_dependency` VALUES (/*asset_path*/"FuJ", /*dependency*/"gs[");
+INSERT INTO `navi_timeline_dependency` VALUES (/*asset_path*/"oBJ", /*dependency*/"Uc");
+INSERT INTO `navi_timeline_dependency` VALUES (/*asset_path*/"oBJ", /*dependency*/"Kz~");
+INSERT INTO `navi_timeline_dependency` VALUES (/*asset_path*/"oBJ", /*dependency*/"}ru");
 INSERT INTO `navi_timeline_dependency` VALUES (/*asset_path*/"F3Y", /*dependency*/"2&");
 INSERT INTO `navi_timeline_dependency` VALUES (/*asset_path*/"F3Y", /*dependency*/"QvW");
 INSERT INTO `navi_timeline_dependency` VALUES (/*asset_path*/"k>k", /*dependency*/"gTm");

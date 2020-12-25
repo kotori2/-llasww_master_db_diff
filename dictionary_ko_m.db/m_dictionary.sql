@@ -211,6 +211,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000140", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000141", /*message*/"Donna Tokimo Zutto 1회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000142", /*message*/"라이브 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000143", /*message*/"합숙 2회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000144", /*message*/"Donna Tokimo Zutto 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000145", /*message*/"이벤트 포인트 900 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000146", /*message*/"라이브 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000147", /*message*/"합숙 2회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000148", /*message*/"로그인 보너스 받기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000149", /*message*/"멤버스 챌린지의 데일리 과제를 모두 클리어하기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Bokura wa Ima no Naka de 1회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"이벤트 포인트 900 획득");
@@ -1212,6 +1217,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003903", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003904", /*message*/"[빅 라이브 과제] TOKIMEKI Runners Chapter 17 Ver. 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004101", /*message*/"[Sakurauchi Riko First Solo Concert Album発売記念] Wake up, Challenger!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004102", /*message*/"[Sakurauchi Riko First Solo Concert Album発売記念] 사쿠라우치 리코이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004201", /*message*/"[Kurosawa Ruby First Solo Concert Album発売記念] SKY JOURNEY 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004202", /*message*/"[Kurosawa Ruby First Solo Concert Album発売記念] 쿠로사와 루비이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004301", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004302", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004303", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 스쿨 아이돌 1명의 PP를 회복");

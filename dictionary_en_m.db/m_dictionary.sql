@@ -206,6 +206,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000140", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000141", /*message*/"Play &quot;Donna Tokimo Zutto&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000142", /*message*/"Clear a Live Show: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000143", /*message*/"Perform Training a total of 2 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000144", /*message*/"Play &quot;Donna Tokimo Zutto&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000145", /*message*/"Gain 900 event points.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000146", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000147", /*message*/"Perform Training a total of 2 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000148", /*message*/"Collect your login bonus.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000149", /*message*/"Clear all daily Member Challenge Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"Gain 900 event points.");
@@ -1207,6 +1212,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003903", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003904", /*message*/"[SBL Goal] Clear &quot;TOKIMEKI Runners Chapter 17 Ver.&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004101", /*message*/"[Sakurauchi Riko First Solo Concert Album発売記念] Clear &quot;Wake up, Challenger!!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004102", /*message*/"[Sakurauchi Riko First Solo Concert Album発売記念] Use an SP Skill including Riko Sakurauchi 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004201", /*message*/"[Kurosawa Ruby First Solo Concert Album発売記念] Clear &quot;SKY JOURNEY&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004202", /*message*/"[Kurosawa Ruby First Solo Concert Album発売記念] Use an SP Skill including Ruby Kurosawa 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004301", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004302", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004303", /*message*/"[Dream Live Parade Goals] Restore school idols&apos; PP in a Dream Live Parade: x1");

@@ -213,6 +213,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000140", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000141", /*message*/"เล่น &quot;Donna Tokimo Zutto&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000142", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000143", /*message*/"ซ้อม 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000144", /*message*/"เล่น &quot;Donna Tokimo Zutto&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000145", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000146", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000147", /*message*/"ซ้อม 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000148", /*message*/"รับล็อกอินโบนัส");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000149", /*message*/"เคลียร์เมมเบอร์ชาเลนจ์ในการบ้านประจำวันทั้งหมด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"เล่น &quot;Bokura wa Ima no Naka de&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
@@ -1218,6 +1223,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003903", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003904", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;TOKIMEKI Runners Chapter 17 Ver.&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004101", /*message*/"[Sakurauchi Riko First Solo Concert Album発売記念] เคลียร์ &quot;Wake up, Challenger!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004102", /*message*/"[Sakurauchi Riko First Solo Concert Album発売記念] ใช้ท่าพิเศษ SP ที่มีซากุระอุจิ ริโกะ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004201", /*message*/"[Kurosawa Ruby First Solo Concert Album発売記念] เคลียร์ &quot;SKY JOURNEY&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004202", /*message*/"[Kurosawa Ruby First Solo Concert Album発売記念] ใช้ท่าพิเศษ SP ที่มีคุโรซาวะ รูบี้ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004301", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004302", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004303", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ของสคูลไอดอล 1 คน ในดรีมไลฟ์พาเรด");

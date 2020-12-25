@@ -206,6 +206,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000140", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000141", /*message*/"遊玩1次「Donna Tokimo Zutto」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000142", /*message*/"完成5場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000143", /*message*/"進行2次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000144", /*message*/"遊玩1次「Donna Tokimo Zutto」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000145", /*message*/"獲得900點活動集點");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000146", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000147", /*message*/"進行2次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000148", /*message*/"領取登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000149", /*message*/"完成所有會員挑戰課題中的每日課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"遊玩1次「Bokura wa Ima no Naka de」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"獲得900點活動集點");
@@ -1207,6 +1212,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003903", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003904", /*message*/"[大型合作演唱會課題]完成10次「TOKIMEKI Runners Chapter 17 Ver.」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004101", /*message*/"[Sakurauchi Riko First Solo Concert Album発売記念] 完成10次「Wake up, Challenger!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004102", /*message*/"[Sakurauchi Riko First Solo Concert Album発売記念] 使用20次發動成員包含櫻內梨子的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004201", /*message*/"[Kurosawa Ruby First Solo Concert Album発売記念] 完成10次「SKY JOURNEY」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004202", /*message*/"[Kurosawa Ruby First Solo Concert Album発売記念] 使用20次發動成員包含黑澤露比的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004301", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004302", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004303", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中回復1名學園偶像的PP");

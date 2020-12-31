@@ -47,6 +47,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200602", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200603", /*message*/"이벤트 이용 방법 3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200604", /*message*/"이벤트 이용 방법 4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200605", /*message*/"이벤트 이용 방법 5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200701", /*message*/"이벤트 이용 방법 1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200702", /*message*/"이벤트 이용 방법 2");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200703", /*message*/"이벤트 이용 방법 3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200704", /*message*/"이벤트 이용 방법 4");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200705", /*message*/"이벤트 이용 방법 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_03", /*message*/"");

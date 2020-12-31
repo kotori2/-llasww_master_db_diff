@@ -94,3 +94,4 @@ INSERT INTO `stage_dependency` VALUES (/*asset_path*/"/;S", /*dependency*/"§j^"
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"/;S", /*dependency*/"§Vr");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"/;S", /*dependency*/"§?{:");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"/;S", /*dependency*/"§{;");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"@\G", /*dependency*/"§{;");

@@ -172,3 +172,4 @@ INSERT INTO `m_help_detail` VALUES (/*id*/163, /*help_category_id*/17, /*display
 INSERT INTO `m_help_detail` VALUES (/*id*/164, /*help_category_id*/17, /*display_order*/3, /*topic*/"k.help_detail_topc_173", /*text*/"k.help_detail_text_173");
 INSERT INTO `m_help_detail` VALUES (/*id*/165, /*help_category_id*/17, /*display_order*/2, /*topic*/"k.help_detail_topc_174", /*text*/"k.help_detail_text_174");
 INSERT INTO `m_help_detail` VALUES (/*id*/166, /*help_category_id*/17, /*display_order*/1, /*topic*/"k.help_detail_topc_175", /*text*/"k.help_detail_text_175");
+INSERT INTO `m_help_detail` VALUES (/*id*/167, /*help_category_id*/15, /*display_order*/3, /*topic*/"k.help_detail_topc_142", /*text*/"k.help_detail_text_213");

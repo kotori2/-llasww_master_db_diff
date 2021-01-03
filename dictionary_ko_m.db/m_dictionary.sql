@@ -1258,6 +1258,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004502", /*message*/"[빅 라이브 과제] Yume no Tobira 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004503", /*message*/"[빅 라이브 과제] MIRACLE WAVE 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004504", /*message*/"[빅 라이브 과제] Ketsui no Hikari 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004701", /*message*/"[AqoursクロニクルBOX発売記念課題！] Kimino Kokorowa Kagayaiterukai? 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004702", /*message*/"[AqoursクロニクルBOX発売記念課題！] Koini Naritai AQUARIUM 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004703", /*message*/"[AqoursクロニクルBOX発売記念課題！] HAPPY PARTY TRAIN 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

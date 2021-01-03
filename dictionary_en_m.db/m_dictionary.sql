@@ -1253,6 +1253,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004502", /*message*/"[SBL Goal] Clear &quot;Yume no Tobira&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004503", /*message*/"[SBL Goal] Clear &quot;MIRACLE WAVE&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004504", /*message*/"[SBL Goal] Clear &quot;Ketsui no Hikari&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004701", /*message*/"[AqoursクロニクルBOX発売記念課題！] Clear &quot;Kimino Kokorowa Kagayaiterukai?&quot;: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004702", /*message*/"[AqoursクロニクルBOX発売記念課題！] Clear &quot;Koini Naritai AQUARIUM&quot;: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004703", /*message*/"[AqoursクロニクルBOX発売記念課題！] Clear &quot;HAPPY PARTY TRAIN&quot;: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

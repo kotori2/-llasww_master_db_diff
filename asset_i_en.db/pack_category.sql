@@ -10,8 +10,8 @@ INSERT INTO `pack_category` VALUES (/*pack_name*/"rm5ywf", /*category*/6, /*file
 INSERT INTO `pack_category` VALUES (/*pack_name*/"rm5ywf", /*category*/7, /*file_size*/1764544);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"0th5xu", /*category*/6, /*file_size*/481078);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"0th5xu", /*category*/7, /*file_size*/9898304);
-INSERT INTO `pack_category` VALUES (/*pack_name*/"kbdtoi", /*category*/6, /*file_size*/8763639);
-INSERT INTO `pack_category` VALUES (/*pack_name*/"kbdtoi", /*category*/7, /*file_size*/706304);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"b5qjoh", /*category*/6, /*file_size*/3680241);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"b5qjoh", /*category*/7, /*file_size*/706304);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"zpvwiu", /*category*/6, /*file_size*/9460680);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"zpvwiu", /*category*/7, /*file_size*/728896);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"f7o55t", /*category*/6, /*file_size*/7175200);

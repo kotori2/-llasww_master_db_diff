@@ -6629,7 +6629,6 @@ INSERT INTO `texture` VALUES (/*asset_path*/"$}!", /*pack_name*/"f5kutg", /*head
 INSERT INTO `texture` VALUES (/*asset_path*/"-/9", /*pack_name*/"0m6gis", /*head*/964657, /*size*/40019, /*key1*/-342855683, /*key2*/-1158044585);
 INSERT INTO `texture` VALUES (/*asset_path*/")vF", /*pack_name*/"gtfs1c", /*head*/1730423, /*size*/356312, /*key1*/-1739768442, /*key2*/-1297660774);
 INSERT INTO `texture` VALUES (/*asset_path*/"HjX", /*pack_name*/"0m6gis", /*head*/1004676, /*size*/58880, /*key1*/2052185072, /*key2*/-554186686);
-INSERT INTO `texture` VALUES (/*asset_path*/"gS]", /*pack_name*/"iukied", /*head*/1718294, /*size*/7243, /*key1*/1366381521, /*key2*/-669971539);
 INSERT INTO `texture` VALUES (/*asset_path*/"69`", /*pack_name*/"iukied", /*head*/1725537, /*size*/70995, /*key1*/1635206512, /*key2*/-142668800);
 INSERT INTO `texture` VALUES (/*asset_path*/"BD-", /*pack_name*/"72bmoy", /*head*/2835041, /*size*/211681, /*key1*/-1947322305, /*key2*/1421378416);
 INSERT INTO `texture` VALUES (/*asset_path*/"nn*", /*pack_name*/"iukied", /*head*/1796532, /*size*/239741, /*key1*/2138412614, /*key2*/1857110549);

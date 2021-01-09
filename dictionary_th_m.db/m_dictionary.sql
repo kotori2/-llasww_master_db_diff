@@ -2702,6 +2702,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"โ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"บ้านของฉันคือวังมังกร!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"สิ่งที่สำคัญในสภานักเรียน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"ช่อดอกไม้แห่งความอ่อนโยน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"น้ำตารสเปรี้ยว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_1", /*message*/"ทางกลับบ้านที่น่าหวาดกลัว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"ความอ่อนโยนของธรรมชาติ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"เมดในตำนานปรากฏตัว!");
@@ -2772,6 +2773,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"Dan
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092001_1", /*message*/"สัญญาเมื่อฤดูร้อนครั้งนั้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"ชวนเดตเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"อายจนจะตายอยู่แล้ว");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_1", /*message*/"เจ้าของรอยยิ้มที่เปล่งประกายคือใครกัน?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_2", /*message*/"อยู่ด้วยกันมากกว่านี้อีกเนอะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"เพื่อนลับๆ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012002_1", /*message*/"Midnight Girl&apos;s Talk");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_1", /*message*/"ใส่ความรักลงข้าวทุกเม็ด");

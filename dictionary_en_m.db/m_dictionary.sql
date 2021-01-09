@@ -2691,6 +2691,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"Ani
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"My Home is an Undersea Palace?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"Important to the Student Council");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"Bouquet of Kindness");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"Sour Tears");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_1", /*message*/"A Scaredy-Cat&apos;s Way Home");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"Nature&apos;s Grace");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"The Legendary Maid Appears!");
@@ -2760,6 +2761,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"Dan
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092001_1", /*message*/"Our Summer Promise");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"A Date?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"Too Embarrassed to Live");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_1", /*message*/"Whose Dazzling Smile is That?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_2", /*message*/"More and More, Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"Secret Friend");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012002_1", /*message*/"Midnight Girl Talk");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_1", /*message*/"Pouring Love Into Every Grain of Rice");

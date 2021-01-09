@@ -2691,6 +2691,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"動
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"我家就是龍宮城！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"學生會的要務");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"溫柔的花束");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"酸酸的淚水");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_1", /*message*/"心驚膽跳的回家之路");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"翠綠的柔和");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"傳說中的女僕降臨！");
@@ -2760,6 +2761,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"Dan
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092001_1", /*message*/"那個夏天的約定");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"約會的邀約？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"羞死人了");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_1", /*message*/"耀眼奪目的笑容是屬於誰的？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_2", /*message*/"再大聲一點！讓我們一起唱！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"秘密朋友");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012002_1", /*message*/"深夜女孩私房話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_1", /*message*/"每一粒米都是愛");

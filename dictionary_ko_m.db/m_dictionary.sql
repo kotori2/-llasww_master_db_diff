@@ -2696,6 +2696,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"동
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"우리 집이 용궁?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"학생회의 중요한 역할");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"다정함이 담긴 꽃다발");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"시큼한 눈물");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_1", /*message*/"겁쟁이의 귀갓길");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"초록의 다정함");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"전설의 메이드 강림!");
@@ -2765,6 +2766,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"댄
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092001_1", /*message*/"그 여름의 약속");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"데이트 신청?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"부끄러워 죽겠어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_1", /*message*/"반짝반짝 빛나는 미소는 누구의 것?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_2", /*message*/"더 크게, 다 함께!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"비밀 친구");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012002_1", /*message*/"미드나이트 걸즈 토크");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_1", /*message*/"쌀 한 톨에도 사랑을 담아서");

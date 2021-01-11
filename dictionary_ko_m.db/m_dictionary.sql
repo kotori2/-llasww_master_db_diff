@@ -1257,6 +1257,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004304", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004305", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004306", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004307", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004308", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004309", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004310", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004501", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004502", /*message*/"[빅 라이브 과제] Yume no Tobira 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004503", /*message*/"[빅 라이브 과제] MIRACLE WAVE 10회 클리어");
@@ -1264,6 +1267,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004701", /*message*/"[AqoursクロニクルBOX発売記念課題！] Kimino Kokorowa Kagayaiterukai? 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004702", /*message*/"[AqoursクロニクルBOX発売記念課題！] Koini Naritai AQUARIUM 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004703", /*message*/"[AqoursクロニクルBOX発売記念課題！] HAPPY PARTY TRAIN 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004901", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004902", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004903", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -1283,6 +1289,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"드림 라이브 퍼레이드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002", /*message*/"드림 라이브 퍼레이드 Aqours");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002_000", /*message*/"드림 라이브 퍼레이드 Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003", /*message*/"드림 라이브 퍼레이드 니지가사키");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003_000", /*message*/"드림 라이브 퍼레이드 니지가사키");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");

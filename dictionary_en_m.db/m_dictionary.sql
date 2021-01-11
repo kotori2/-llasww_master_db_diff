@@ -1252,6 +1252,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004304", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004305", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004306", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004307", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004308", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004309", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004310", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004501", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004502", /*message*/"[SBL Goal] Clear &quot;Yume no Tobira&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004503", /*message*/"[SBL Goal] Clear &quot;MIRACLE WAVE&quot;: x10");
@@ -1259,6 +1262,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004701", /*message*/"[AqoursクロニクルBOX発売記念課題！] Clear &quot;Kimino Kokorowa Kagayaiterukai?&quot;: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004702", /*message*/"[AqoursクロニクルBOX発売記念課題！] Clear &quot;Koini Naritai AQUARIUM&quot;: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004703", /*message*/"[AqoursクロニクルBOX発売記念課題！] Clear &quot;HAPPY PARTY TRAIN&quot;: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004901", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004902", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004903", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -1278,6 +1284,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"Dream Live Parade");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002", /*message*/"Dream Live Parade: Aqours");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002_000", /*message*/"Dream Live Parade: Aqours");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003", /*message*/"Dream Live Parade: Nijigasaki");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003_000", /*message*/"Dream Live Parade: Nijigasaki");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");

@@ -1263,6 +1263,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004304", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004305", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004306", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004307", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004308", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004309", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004310", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004501", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004502", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Yume no Tobira&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004503", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;MIRACLE WAVE&quot; 10 ครั้ง");
@@ -1270,6 +1273,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004701", /*message*/"[AqoursクロニクルBOX発売記念課題！] เคลียร์ &quot;Kimino Kokorowa Kagayaiterukai?&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004702", /*message*/"[AqoursクロニクルBOX発売記念課題！] เคลียร์ &quot;Koini Naritai AQUARIUM&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004703", /*message*/"[AqoursクロニクルBOX発売記念課題！] เคลียร์ &quot;HAPPY PARTY TRAIN&quot; 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004901", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004902", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004903", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -1289,6 +1295,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"ดรีมไลฟ์พาเรด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002", /*message*/"ดรีมไลฟ์พาเรด ~Aqours~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002_000", /*message*/"ดรีมไลฟ์พาเรด ~Aqours~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003", /*message*/"ดรีมไลฟ์พาเรด ~นิจิกาคุ~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003_000", /*message*/"ดรีมไลฟ์พาเรด ~นิจิกาคุ~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");

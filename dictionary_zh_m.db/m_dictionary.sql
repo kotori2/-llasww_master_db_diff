@@ -1252,6 +1252,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004304", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004305", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004306", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004307", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004308", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004309", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004310", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004501", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004502", /*message*/"[大型合作演唱會課題]完成10次「Yume no Tobira」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004503", /*message*/"[大型合作演唱會課題]完成10次「MIRACLE WAVE」");
@@ -1259,6 +1262,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004701", /*message*/"[AqoursクロニクルBOX発売記念課題！] 完成5次「Kimino Kokorowa Kagayaiterukai?」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004702", /*message*/"[AqoursクロニクルBOX発売記念課題！] 完成5次「Koini Naritai AQUARIUM」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004703", /*message*/"[AqoursクロニクルBOX発売記念課題！] 完成5次「HAPPY PARTY TRAIN」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004901", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004902", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004903", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -1278,6 +1284,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"夢幻遊行演唱會");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002", /*message*/"夢幻遊行演唱會～Aqours～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002_000", /*message*/"夢幻遊行演唱會～Aqours～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003", /*message*/"夢幻遊行演唱會～虹咲～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003_000", /*message*/"夢幻遊行演唱會～虹咲～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");

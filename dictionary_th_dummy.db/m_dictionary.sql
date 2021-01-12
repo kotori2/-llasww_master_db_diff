@@ -164,7 +164,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_006", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_1", /*message*/"กติกาอีเวนต์ 1/3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_2", /*message*/"กติกาอีเวนต์ 2/3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_3", /*message*/"กติกาอีเวนต์ 3/3");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_006", /*message*/"กติกาอีเวนต์ 6/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_001", /*message*/"กติกาอีเวนต์ 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_002", /*message*/"กติกาอีเวนต์ 2/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_003", /*message*/"กติกาอีเวนต์ 3/6");

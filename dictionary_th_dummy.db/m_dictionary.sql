@@ -3,6 +3,7 @@ CREATE TABLE m_dictionary(
   message TEXT NOT NULL,
   PRIMARY KEY (id)
 );
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_013002_00", /*message*/"โรงเรียนสตรีอุระโนะโฮชิ หน้าป้ายรถเมล์ไปโรงเรียน (ตอนเช้า)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"หอประชุมโรงเรียนนิจิกะซากิ (ปิดไฟ・กลางคืน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_035003_00", /*message*/"สตูดิโอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011003_00", /*message*/"โรงเรียนสตรีอุระโนะโฮชิ ดาดฟ้า (กลางคืน : ดูดาว)");
@@ -150,6 +151,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message*/"กติกาอีเวนต์ 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"กติกาอีเวนต์ 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"กติกาอีเวนต์ 2/6");

@@ -1,0 +1,57 @@
+CREATE TABLE m_common_se(
+  id INTEGER NOT NULL,
+  path TEXT NOT NULL,
+  PRIMARY KEY (id)
+);
+INSERT INTO `m_common_se` VALUES (/*id*/1, /*path*/"se_010_0001");
+INSERT INTO `m_common_se` VALUES (/*id*/2, /*path*/"se_010_0002");
+INSERT INTO `m_common_se` VALUES (/*id*/3, /*path*/"se_010_0003");
+INSERT INTO `m_common_se` VALUES (/*id*/4, /*path*/"se_010_0004");
+INSERT INTO `m_common_se` VALUES (/*id*/5, /*path*/"se_010_0005");
+INSERT INTO `m_common_se` VALUES (/*id*/6, /*path*/"se_010_0006");
+INSERT INTO `m_common_se` VALUES (/*id*/7, /*path*/"se_010_0007");
+INSERT INTO `m_common_se` VALUES (/*id*/8, /*path*/"se_010_0008");
+INSERT INTO `m_common_se` VALUES (/*id*/9, /*path*/"se_010_0009");
+INSERT INTO `m_common_se` VALUES (/*id*/10, /*path*/"se_010_0010");
+INSERT INTO `m_common_se` VALUES (/*id*/11, /*path*/"se_010_0011");
+INSERT INTO `m_common_se` VALUES (/*id*/12, /*path*/"se_010_0012");
+INSERT INTO `m_common_se` VALUES (/*id*/13, /*path*/"se_010_0013");
+INSERT INTO `m_common_se` VALUES (/*id*/14, /*path*/"se_010_0014");
+INSERT INTO `m_common_se` VALUES (/*id*/15, /*path*/"se_010_0015");
+INSERT INTO `m_common_se` VALUES (/*id*/16, /*path*/"se_010_0016");
+INSERT INTO `m_common_se` VALUES (/*id*/17, /*path*/"se_010_0017");
+INSERT INTO `m_common_se` VALUES (/*id*/18, /*path*/"se_010_0018");
+INSERT INTO `m_common_se` VALUES (/*id*/19, /*path*/"se_010_0019");
+INSERT INTO `m_common_se` VALUES (/*id*/20, /*path*/"se_010_0020");
+INSERT INTO `m_common_se` VALUES (/*id*/21, /*path*/"se_010_0021");
+INSERT INTO `m_common_se` VALUES (/*id*/22, /*path*/"se_010_0022");
+INSERT INTO `m_common_se` VALUES (/*id*/25, /*path*/"se_010_0025");
+INSERT INTO `m_common_se` VALUES (/*id*/26, /*path*/"se_010_0026");
+INSERT INTO `m_common_se` VALUES (/*id*/27, /*path*/"se_010_0027");
+INSERT INTO `m_common_se` VALUES (/*id*/28, /*path*/"se_010_0028");
+INSERT INTO `m_common_se` VALUES (/*id*/29, /*path*/"se_010_0029");
+INSERT INTO `m_common_se` VALUES (/*id*/30, /*path*/"se_010_0030");
+INSERT INTO `m_common_se` VALUES (/*id*/31, /*path*/"se_010_0031");
+INSERT INTO `m_common_se` VALUES (/*id*/33, /*path*/"se_010_0033");
+INSERT INTO `m_common_se` VALUES (/*id*/34, /*path*/"se_010_0034");
+INSERT INTO `m_common_se` VALUES (/*id*/35, /*path*/"se_010_0035");
+INSERT INTO `m_common_se` VALUES (/*id*/36, /*path*/"se_010_0036");
+INSERT INTO `m_common_se` VALUES (/*id*/37, /*path*/"se_010_0037");
+INSERT INTO `m_common_se` VALUES (/*id*/38, /*path*/"se_010_0038");
+INSERT INTO `m_common_se` VALUES (/*id*/39, /*path*/"se_010_0039");
+INSERT INTO `m_common_se` VALUES (/*id*/40, /*path*/"se_010_0040");
+INSERT INTO `m_common_se` VALUES (/*id*/41, /*path*/"se_010_0041");
+INSERT INTO `m_common_se` VALUES (/*id*/42, /*path*/"se_010_0042");
+INSERT INTO `m_common_se` VALUES (/*id*/43, /*path*/"se_010_0043");
+INSERT INTO `m_common_se` VALUES (/*id*/44, /*path*/"se_010_0044");
+INSERT INTO `m_common_se` VALUES (/*id*/45, /*path*/"se_010_0045");
+INSERT INTO `m_common_se` VALUES (/*id*/46, /*path*/"se_010_0046");
+INSERT INTO `m_common_se` VALUES (/*id*/47, /*path*/"se_010_0047");
+INSERT INTO `m_common_se` VALUES (/*id*/48, /*path*/"se_010_0048");
+INSERT INTO `m_common_se` VALUES (/*id*/49, /*path*/"se_010_0049");
+INSERT INTO `m_common_se` VALUES (/*id*/50, /*path*/"se_010_0050");
+INSERT INTO `m_common_se` VALUES (/*id*/51, /*path*/"se_010_0069");
+INSERT INTO `m_common_se` VALUES (/*id*/52, /*path*/"se_140_0003");
+INSERT INTO `m_common_se` VALUES (/*id*/53, /*path*/"se_160_0005");
+INSERT INTO `m_common_se` VALUES (/*id*/54, /*path*/"se_010_0070");
+INSERT INTO `m_common_se` VALUES (/*id*/55, /*path*/"se_010_0101");

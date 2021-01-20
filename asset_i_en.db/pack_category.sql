@@ -4,16 +4,16 @@ CREATE TABLE pack_category(
   file_size INTEGER NOT NULL,
   PRIMARY KEY (pack_name, category)
 );
-INSERT INTO `pack_category` VALUES (/*pack_name*/"ibv9u8", /*category*/6, /*file_size*/6213529);
-INSERT INTO `pack_category` VALUES (/*pack_name*/"ibv9u8", /*category*/7, /*file_size*/3919200);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"9ojr6u", /*category*/6, /*file_size*/9032891);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"9ojr6u", /*category*/7, /*file_size*/827744);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"065uza", /*category*/6, /*file_size*/9831673);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"065uza", /*category*/7, /*file_size*/630432);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"3t4k8r", /*category*/6, /*file_size*/8491802);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"3t4k8r", /*category*/7, /*file_size*/733632);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"qtrzxo", /*category*/6, /*file_size*/6180080);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"qtrzxo", /*category*/7, /*file_size*/4287424);
-INSERT INTO `pack_category` VALUES (/*pack_name*/"2wi802", /*category*/6, /*file_size*/2366683);
-INSERT INTO `pack_category` VALUES (/*pack_name*/"2wi802", /*category*/7, /*file_size*/7633088);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"wtmqqu", /*category*/6, /*file_size*/9362963);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"wtmqqu", /*category*/7, /*file_size*/750720);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"qmwntu", /*category*/6, /*file_size*/9091161);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"qmwntu", /*category*/7, /*file_size*/1322592);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"ropz1j", /*category*/6, /*file_size*/8524702);
@@ -28,6 +28,8 @@ INSERT INTO `pack_category` VALUES (/*pack_name*/"d1ydxj", /*category*/6, /*file
 INSERT INTO `pack_category` VALUES (/*pack_name*/"d1ydxj", /*category*/7, /*file_size*/7880832);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"6jjg7l", /*category*/6, /*file_size*/5865011);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"6jjg7l", /*category*/7, /*file_size*/1625056);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"mhy690", /*category*/6, /*file_size*/9679263);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"mhy690", /*category*/7, /*file_size*/744160);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"y3f6je", /*category*/6, /*file_size*/4348810);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"y3f6je", /*category*/7, /*file_size*/5992608);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"zpvwiu", /*category*/6, /*file_size*/9460680);
@@ -40,6 +42,8 @@ INSERT INTO `pack_category` VALUES (/*pack_name*/"kfadyo", /*category*/6, /*file
 INSERT INTO `pack_category` VALUES (/*pack_name*/"kfadyo", /*category*/7, /*file_size*/7447264);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"ql9105", /*category*/6, /*file_size*/9603591);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"ql9105", /*category*/7, /*file_size*/838784);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"q8gvea", /*category*/6, /*file_size*/9605682);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"q8gvea", /*category*/7, /*file_size*/706304);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"0th5xu", /*category*/6, /*file_size*/481078);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"0th5xu", /*category*/7, /*file_size*/9898304);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"h8jqyg", /*category*/6, /*file_size*/7714761);
@@ -56,10 +60,6 @@ INSERT INTO `pack_category` VALUES (/*pack_name*/"5v2rsm", /*category*/6, /*file
 INSERT INTO `pack_category` VALUES (/*pack_name*/"5v2rsm", /*category*/7, /*file_size*/1441024);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"xv28dj", /*category*/6, /*file_size*/8445683);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"xv28dj", /*category*/7, /*file_size*/2030560);
-INSERT INTO `pack_category` VALUES (/*pack_name*/"uvnvrx", /*category*/6, /*file_size*/9532108);
-INSERT INTO `pack_category` VALUES (/*pack_name*/"uvnvrx", /*category*/7, /*file_size*/750720);
-INSERT INTO `pack_category` VALUES (/*pack_name*/"t2h4op", /*category*/6, /*file_size*/8845721);
-INSERT INTO `pack_category` VALUES (/*pack_name*/"t2h4op", /*category*/7, /*file_size*/706304);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"buozrv", /*category*/6, /*file_size*/4998706);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"buozrv", /*category*/7, /*file_size*/5437984);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"9h1lhy", /*category*/6, /*file_size*/6456110);
@@ -68,5 +68,9 @@ INSERT INTO `pack_category` VALUES (/*pack_name*/"p25jlm", /*category*/6, /*file
 INSERT INTO `pack_category` VALUES (/*pack_name*/"p25jlm", /*category*/7, /*file_size*/720320);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"ya1wz0", /*category*/6, /*file_size*/3780992);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"ya1wz0", /*category*/7, /*file_size*/6555104);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"i2i0nt", /*category*/6, /*file_size*/3260339);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"i2i0nt", /*category*/7, /*file_size*/7002656);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"abtqb8", /*category*/6, /*file_size*/6056633);
+INSERT INTO `pack_category` VALUES (/*pack_name*/"abtqb8", /*category*/7, /*file_size*/3175040);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"g837fh", /*category*/6, /*file_size*/403111);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"g837fh", /*category*/7, /*file_size*/7133824);

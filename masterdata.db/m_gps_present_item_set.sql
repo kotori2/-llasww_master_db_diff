@@ -12,3 +12,4 @@ INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/5
 INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50004, /*content_type*/17, /*content_id*/1301, /*content_amount*/2);
 INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50005, /*content_type*/17, /*content_id*/1301, /*content_amount*/2);
 INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50006, /*content_type*/17, /*content_id*/1301, /*content_amount*/2);
+INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50008, /*content_type*/21, /*content_id*/21018, /*content_amount*/1);

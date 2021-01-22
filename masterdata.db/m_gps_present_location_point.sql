@@ -16,3 +16,4 @@ INSERT INTO `m_gps_present_location_point` VALUES (/*id*/50003, /*gps_present_ca
 INSERT INTO `m_gps_present_location_point` VALUES (/*id*/50004, /*gps_present_campaign_master_id*/50004, /*latitude*/35.895081, /*longitude*/139.6285432, /*radius*/400, /*start_at*/1579273200, /*end_at*/"");
 INSERT INTO `m_gps_present_location_point` VALUES (/*id*/50005, /*gps_present_campaign_master_id*/50005, /*latitude*/35.66602, /*longitude*/139.524748, /*radius*/400, /*start_at*/1581087600, /*end_at*/"");
 INSERT INTO `m_gps_present_location_point` VALUES (/*id*/50006, /*gps_present_campaign_master_id*/50006, /*latitude*/33.889436, /*longitude*/130.885479, /*radius*/400, /*start_at*/1582124400, /*end_at*/"");
+INSERT INTO `m_gps_present_location_point` VALUES (/*id*/50008, /*gps_present_campaign_master_id*/50008, /*latitude*/35.628997, /*longitude*/139.7757575, /*radius*/400, /*start_at*/1604242800, /*end_at*/"");

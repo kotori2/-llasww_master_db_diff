@@ -3356,7 +3356,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_7_5", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_7_6", /*message*/"　하라주쿠에 놀러 간 것을 부러워하는 카스미, 아유무, 엠마와 함께 파자마 파티. 함께 식사한 후 본격적으로 시작된 파자마 파티에서 엠마의 추억이 담긴 동영상을 보고, 아유무와 함께했던 어릴 적 이야기를 카스미가 부러워하는 등 평온한 시간을 보낸다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_7_7", /*message*/"　카린의 제안으로 세츠나의 비밀을 밝혀내기로 한 당신과 시즈쿠. 세츠나의 비밀은… 좋아하는 애니메이션 감상!
 처음에는 어이없다는 반응을 보인 카린과 시즈쿠도, 세츠나의 뜨거운 열변에 끌려 &apos;사랑&apos;의 힘을 느꼈다!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_7_8", /*message*/"　니지가사키 멤버들과 함꼐하는 시간을 늘려 멤버들을 훨씬 잘 알게 된 당신.
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_7_8", /*message*/"　니지가사키 멤버들과 함께하는 시간을 늘려 멤버들을 훨씬 잘 알게 된 당신.
 모두와 함께, 모두의 이야기를 들으며, 니지가사키를 위한 곡을 만든다. 
 주위에 있는 멤버들도 즐겁워 보이는데.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_7_9", /*message*/"　완성된 곡을 들려주자, 멤버들은 각자 공감하며 자기 노래라는 느낌을 받은 듯하다.

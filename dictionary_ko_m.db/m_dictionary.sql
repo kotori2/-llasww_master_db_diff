@@ -1282,6 +1282,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003901", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003902", /*message*/"[빅 라이브 과제] Bokura wa Ima no Naka de 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003903", /*message*/"[빅 라이브 과제] Mirai no Bokura wa Shitteru yo 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003904", /*message*/"[빅 라이브 과제] TOKIMEKI Runners Chapter 17 Ver. 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004001", /*message*/"[Just Believe!!!発売記念！] Just Believe!!! 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004002", /*message*/"[Just Believe!!!発売記念！] Just Believe!!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004101", /*message*/"[Sakurauchi Riko First Solo Concert Album発売記念] Wake up, Challenger!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004102", /*message*/"[Sakurauchi Riko First Solo Concert Album発売記念] 사쿠라우치 리코이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004201", /*message*/"[Kurosawa Ruby First Solo Concert Album発売記念] SKY JOURNEY 10회 클리어");
@@ -1306,6 +1308,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004901", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004902", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004903", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005101", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005102", /*message*/"[빅 라이브 과제] PSYCHIC FIRE 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005103", /*message*/"[빅 라이브 과제] Wake up, Challenger!! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005104", /*message*/"[빅 라이브 과제] Just Believe!!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -1465,6 +1471,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800013", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800014", /*message*/"스토리 17장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800015", /*message*/"스토리 18장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800016", /*message*/"스토리 19장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800017", /*message*/"스토리 20장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"인연 에피소드 1화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"인연 에피소드 5화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"인연 에피소드 10화 보기");
@@ -1757,6 +1764,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400268", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400269", /*message*/"MITAIKEN HORIZON 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400270", /*message*/"MITAIKEN HORIZON 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400271", /*message*/"MITAIKEN HORIZON 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400311", /*message*/"Happy Maker! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400312", /*message*/"Happy Maker! 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400313", /*message*/"Happy Maker! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400314", /*message*/"Landing action Yeah!! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400315", /*message*/"Landing action Yeah!! 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400316", /*message*/"Landing action Yeah!! 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -3059,6 +3072,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_17", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_18", /*message*/"비밀 특훈을 하자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_19", /*message*/"좀비 대소동");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_2", /*message*/"기회를 잡아라!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_20", /*message*/"스쿨 아이돌 동호회 VS 스쿨 아이돌부?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_3", /*message*/"only our shine · 전편");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine · 후편");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"μ&apos;s의 비밀을 찾아라!");
@@ -3078,6 +3092,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_17", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_18", /*message*/"제18장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_19", /*message*/"제19장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_2", /*message*/"제2장");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_20", /*message*/"제20장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_3", /*message*/"제3장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"제4장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"제5장");
@@ -3087,6 +3102,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_8", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_9", /*message*/"제9장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_description_99991", /*message*/"두근두근 신나는 무인도 합동 합숙!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_1", /*message*/"첫 번째 시즌");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_2", /*message*/"두 번째 시즌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99991", /*message*/"인터미션");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_10_1", /*message*/"　학생회장 선거에서 패한 세츠나는 크게 상심했지만, 멤버들에게 속내를 털어놓고 동호회로 돌아왔다. 그렇게 새 출발을 다짐하는 멤버들 앞에 갑자기 시오리코가 나타나 &apos;스쿨 아이돌 동호회 폐부&apos;를 통보하는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_10_10", /*message*/"　드디어 중간고사가 끝났다! 다들 긴장이 풀렸지만, 아이의 제안으로 복습까지 확실하게 마쳤다. 그리고 마침내 찾아온 운명의 날. 과연 멤버들은 동호회 활동을 이어갈 수 있을까…?!");
@@ -3212,6 +3228,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_1_8", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_1_9", /*message*/"　옛 부원인 카나타와 엠마도 돌아와 희망이 보이기 시작한 동호회 멤버들.
 다음 영입 대상은 아마추어 모델로 대활약 중인 카린!
 카린에게는 절대 타협할 수 없는 무언가가 있다고 하는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_10", /*message*/"　함께 힘을 모아 게릴라 라이브를 개최했지만, 스쿨 아이돌부가 동시에 긴급 라이브를 여는 바람에 관객들은 대부분 그쪽으로 가 버렸다. 그래도 남아 준 사람들을 위해, 더 열심히 하자!! 그렇게 다짐한 찰나….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_1a", /*message*/"　보람찼던(?) 합숙을 마치고 매일 연습에 매진하면서도, 당신이 없는 나날에 외로움이 더해 가던 멤버들. 이제 드디어 당신이 돌아오고, 곧장 학교로 향한 당신이 본 무대는…?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_1b", /*message*/"　강당에서 진행된 퍼포먼스에 압도된 당신. 그리고 그 무대에는 당신이 처음 보는 사람이 서 있다. 저 사람은 대체 누구일까…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_2", /*message*/"　강당에서 라이브를 하던 사람들은 스쿨 아이돌부?! 당신이 없는 사이에 뭔가 큰일이 생긴 것 같다. &quot;이건 전쟁이에요!&quot; 분노하는 카스미에게 이끌려 간 곳에서 충격적인 사실을 듣게 되는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_3", /*message*/"　홍콩에서 와서 순식간에 스쿨 아이돌부를 세웠다는 란쥬는 놀랍게도 이사장님의 딸이었다. 그 지위를 이용해 동호회에 활동 금지 명령을 내리고, 심지어 아이와 카린은 란쥬에게 영입되어 스쿨 아이돌부로 이적까지! 업계 프로의 지원을 받는다는 스쿨 아이돌부와 동호회, 어느 쪽이 좋은 거야?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_4", /*message*/"　적어도 활동은 하고 싶다는 마음에 부로 넘어간 아이와 카린. 그리고 설령 활동을 못 하더라도 동호회에 있고 싶다는 멤버들. 서로의 이야기는 평행선을 달린다. 당신은 란쥬에게 대화를 요청하러 가는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_5", /*message*/"　란쥬와 대화하러 간 당신은 란쥬가 설립했다는 스쿨 아이돌부의 훌륭한 설비를 보고 놀라워했다. 심지어 설비만이 아니라 세계적인 인기곡을 쏟아내고 있는 미아까지 데려왔다고 하는데…. 압도적인 차이를 실감하고 동호회 멤버들을 위한 환경은 어느 쪽일지 고민하게 된 당신은….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_6", /*message*/"　시오리코에게 란쥬가 그렇게 나쁜 사람은 아니라는 말을 듣고 점점 더 고민에 빠진 당신. 진정으로 동호회 멤버들을 위한 결정은 무엇일까? 그렇게 고민하던 중 μ&apos;s와 Aqours 멤버들을 만나고 오랜만에 미소를 되찾는다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_7", /*message*/"　니지가사키에서 활동을 금지당했다는 이야기를 하자 &quot;우리랑 같이 연습하면 돼!&quot;라며 오토노키자카에 불러 준 호노카. 그 제안을 받아들여 오랜만에 마음껏 연습한 니지가사키 멤버들은 스쿨 아이돌부를 타도하겠다고 다짐하는데?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_8", /*message*/"　스쿨 아이돌부를 타도하기 위해 게릴라 라이브를 감행하기로 한 동호회 멤버들. 하지만 게릴라 라이브도 사람이 모이지 않아서야 소용이 없다. 감시위원회의 눈을 피해 사람을 모을 방법은…?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_9", /*message*/"　게릴라 라이브가 열린다는 소문을 몰래 퍼뜨리는 데 성공한 동호회 멤버들. 이제 드디어 라이브를 할 수 있다!! 일단 사람들에게 보여줄 수만 있으면 동호회의 퍼포먼스에 빠져들 거야!! 손꼽아 기다리던 라이브에 떨리는 가슴을 주체할 수 없다!!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_2_1", /*message*/"　유우키 세츠나의 정체는 놀랍게도 학생회장이었다!
 당신을 포함해 총 열 명이 모여 정식으로 새 출발을 하게 된 니지가사키 학원 스쿨 아이돌 동호회.
 다음 목표를 향해 한 걸음씩 꾸준히 전진!");
@@ -3506,6 +3533,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_6", /*message*/"아
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_7", /*message*/"다 함께 도전하자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_8", /*message*/"혼자가 아니야");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_9", /*message*/"각자가 빛날 수 있도록");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_10", /*message*/"시즈쿠의 결심");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_1a", /*message*/"다녀왔어, 얘들아!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_1b", /*message*/"패닉?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_2", /*message*/"특급 태풍 상륙!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_3", /*message*/"엇갈리는 마음");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_4", /*message*/"쇼 타임!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_5", /*message*/"걸림돌이 되고 싶지 않아");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_6", /*message*/"마음이 편해지는 곳");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_7", /*message*/"μ&apos;s와 함께!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_8", /*message*/"비밀 작전 회의!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_9", /*message*/"GO! GO! 게릴라 라이브!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_2_1", /*message*/"메인 스테이지를 목표로");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_2_10a", /*message*/"꿈에 그리던 메인 스테이지로!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_2_10b", /*message*/"꿈에 그리던 메인 스테이지로!");

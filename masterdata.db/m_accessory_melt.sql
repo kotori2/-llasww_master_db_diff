@@ -767,3 +767,9 @@ INSERT INTO `m_accessory_melt` VALUES (/*accessory_master_id*/303212, /*grade*/2
 INSERT INTO `m_accessory_melt` VALUES (/*accessory_master_id*/303212, /*grade*/3, /*accessory_melt_group_master_id*/213);
 INSERT INTO `m_accessory_melt` VALUES (/*accessory_master_id*/303212, /*grade*/4, /*accessory_melt_group_master_id*/214);
 INSERT INTO `m_accessory_melt` VALUES (/*accessory_master_id*/303212, /*grade*/5, /*accessory_melt_group_master_id*/215);
+INSERT INTO `m_accessory_melt` VALUES (/*accessory_master_id*/303411, /*grade*/0, /*accessory_melt_group_master_id*/110);
+INSERT INTO `m_accessory_melt` VALUES (/*accessory_master_id*/303411, /*grade*/1, /*accessory_melt_group_master_id*/111);
+INSERT INTO `m_accessory_melt` VALUES (/*accessory_master_id*/303411, /*grade*/2, /*accessory_melt_group_master_id*/112);
+INSERT INTO `m_accessory_melt` VALUES (/*accessory_master_id*/303411, /*grade*/3, /*accessory_melt_group_master_id*/113);
+INSERT INTO `m_accessory_melt` VALUES (/*accessory_master_id*/303411, /*grade*/4, /*accessory_melt_group_master_id*/114);
+INSERT INTO `m_accessory_melt` VALUES (/*accessory_master_id*/303411, /*grade*/5, /*accessory_melt_group_master_id*/115);

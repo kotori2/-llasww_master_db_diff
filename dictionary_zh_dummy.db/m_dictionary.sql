@@ -8,6 +8,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"虹咲學
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_035003_00", /*message*/"攝影棚");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011003_00", /*message*/"浦之星女學院　屋頂（夜晚：觀測星象）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033008_01", /*message*/"門前仲町(雨天)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033009_00", /*message*/"噴水廣場(東京都內：晴朗白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033011_01", /*message*/"台場的海岸(晴朗傍晚)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035008_00", /*message*/"公園(小)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"天文館(含極光)");

@@ -776,3 +776,9 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Tutorial/te
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_10502", /*path*/"i-X");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_15502", /*path*/"&;I");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_15503", /*path*/"pPc");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Mining/31011/tex_banner_notice_l_31011", /*path*/"m?Z");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Mining/31011/tex_banner_notice_s_31011", /*path*/"Fd>");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20253/tex_banner_notice_l_20253", /*path*/"W{R");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20253/tex_banner_notice_s_20253", /*path*/";vH");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20254/tex_banner_notice_l_20254", /*path*/"|dY");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20254/tex_banner_notice_s_20254", /*path*/"Q6Q");

@@ -8,6 +8,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"Nijigasak
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_035003_00", /*message*/"Studio");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011003_00", /*message*/"Uranohoshi Girls&apos; High School Roof (Night: Stargazing)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033008_01", /*message*/"Monzen-nakacho (Rainy)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033009_00", /*message*/"Fountain Plaza (Tokyo) (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033011_01", /*message*/"Odaiba Seaside (Clear Night)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035008_00", /*message*/"Small Park");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"Planetarium (with Northern Lights)");

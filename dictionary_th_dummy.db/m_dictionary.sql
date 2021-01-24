@@ -8,6 +8,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"หอป
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_035003_00", /*message*/"สตูดิโอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011003_00", /*message*/"โรงเรียนสตรีอุระโนะโฮชิ ดาดฟ้า (กลางคืน : ดูดาว)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033008_01", /*message*/"ย่านมนเซนนากะโจ (ฝนตก)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033009_00", /*message*/"ลานน้ำพุ (ในเมือง) (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033011_01", /*message*/"ชายหาดที่โอไดบะ (ตอนเย็น)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035008_00", /*message*/"สวนสาธารณะ (เล็ก)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"ท้องฟ้าจำลอง (มีออโรร่า)");

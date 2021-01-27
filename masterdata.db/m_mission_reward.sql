@@ -3273,6 +3273,9 @@ INSERT INTO `m_mission_reward` VALUES (/*mission_id*/100000161, /*display_order*
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/100000162, /*display_order*/1, /*content_type*/27, /*content_id*/15015, /*content_amount*/5);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/100000163, /*display_order*/1, /*content_type*/28, /*content_id*/16001, /*content_amount*/3);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/100000164, /*display_order*/1, /*content_type*/27, /*content_id*/15015, /*content_amount*/3);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/100000165, /*display_order*/1, /*content_type*/28, /*content_id*/16001, /*content_amount*/5);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/100000166, /*display_order*/1, /*content_type*/17, /*content_id*/1300, /*content_amount*/1);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/100000167, /*display_order*/1, /*content_type*/28, /*content_id*/16001, /*content_amount*/3);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/305000136, /*display_order*/1, /*content_type*/6, /*content_id*/1400, /*content_amount*/1);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/305000137, /*display_order*/1, /*content_type*/6, /*content_id*/1400, /*content_amount*/1);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/305000138, /*display_order*/1, /*content_type*/6, /*content_id*/1400, /*content_amount*/1);

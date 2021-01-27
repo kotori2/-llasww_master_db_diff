@@ -225,6 +225,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000161", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000162", /*message*/"라이브 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000163", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000164", /*message*/"로그인 보너스 받기");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000165", /*message*/"Love U my friends 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000166", /*message*/"라이브 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000167", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Bokura wa Ima no Naka de 1회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"이벤트 포인트 900 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"라이브 5회 클리어");

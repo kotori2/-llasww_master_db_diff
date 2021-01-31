@@ -2800,6 +2800,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_2", /*message*/"I W
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_1", /*message*/"A Meal to Heal the Soul");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_2", /*message*/"Ramen Power!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"Nico Is Nico!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062002_1", /*message*/"I&apos;m Always Me");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"Fluttering Footsteps");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"Tips for Costume-Making");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"I Wanna See Your Smile");
@@ -2822,6 +2823,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"Smi
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301012001_1", /*message*/"Make Me Look Cute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"What&apos;s Your Favorite?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"Lion Monster Chika-chi!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_1", /*message*/"Tempting Warm Bed");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"Sharing My Happiness");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"Let&apos;s Fling Our Shoes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"A Secret Garden?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"A Quiet Passion");

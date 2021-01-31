@@ -2805,6 +2805,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_2", /*message*/"귀
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_1", /*message*/"마음이 든든한 식사");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_2", /*message*/"라면 파워!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"니코는 니코!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062002_1", /*message*/"언제나 나답게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"설레는 구두 소리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"의상 제작 포인트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"미소를 보고 싶어서");
@@ -2827,6 +2828,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"둘
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301012001_1", /*message*/"예쁘게 찍어 줘♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"넌 어떤 점이 좋아?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"사자 괴수 치카치!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_1", /*message*/"따끈따끈한 이불의 유혹");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"행복을 나눠줄게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"신발 던지기 놀이를 하자");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"비밀의 화원?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"조용한 열정");

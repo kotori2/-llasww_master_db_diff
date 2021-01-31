@@ -2812,6 +2812,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_2", /*message*/"อ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_1", /*message*/"อาหารที่เติมเต็มจิตใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_2", /*message*/"พลังแห่งราเม็ง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"นิโกะจังก็คือนิโกะจัง!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062002_1", /*message*/"ไม่ว่าเมื่อไหร่ก็ต้องทำให้สมกับเป็นฉัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"เสียงรองเท้าที่ทำให้ใจเต้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"สิ่งสำคัญในการทำชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"เพราะอยากเห็นรอยยิ้มไงล่ะ");
@@ -2834,6 +2835,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"ท
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301012001_1", /*message*/"ถ่ายให้น่ารักๆ เลยนะ♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"เธอชอบตรงไหนเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"สัตว์ประหลาดสิงโตจิกัจจิ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_1", /*message*/"การเชิญชวนของฟูกอุ่นๆ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"แบ่งปันความสุข");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"มาเล่นโยนรองเท้ากันเถอะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"สวนดอกไม้แห่งความลับ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"ความเร่าร้อนที่สงบเงียบ");

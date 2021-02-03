@@ -3,7 +3,7 @@ CREATE TABLE m_dictionary(
   message TEXT NOT NULL,
   PRIMARY KEY (id)
 );
-INSERT INTO `m_dictionary` VALUES (/*id*/"apple_act_on_specified_commercial_transactions", /*message*/"﻿特定商取引法に基づく表示
+INSERT INTO `m_dictionary` VALUES (/*id*/"apple_act_on_specified_commercial_transactions", /*message*/"特定商取引法に基づく表示
 
 販売業者
         名称：ＫＬａｂ株式会社
@@ -474,7 +474,7 @@ If you have any questions about these Terms, please contact KLab to email addres
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"apple_eea_update_overview", /*message*/"【GDPR対応 更新履歴】Apple
 ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"apple_payment_services_act", /*message*/"﻿資金決済法に基づく表示
+INSERT INTO `m_dictionary` VALUES (/*id*/"apple_payment_services_act", /*message*/"資金決済法に基づく表示
 
 発行事業者
         名称：ＫＬａｂ株式会社

@@ -67,3 +67,9 @@ INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33003, /*page_number*/4, /*title*/"dummy.event_tower_rule_title_004", /*image_asset_path*/")44");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33003, /*page_number*/5, /*title*/"dummy.event_tower_rule_title_005", /*image_asset_path*/":!Z");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33003, /*page_number*/6, /*title*/"dummy.event_tower_rule_title_006", /*image_asset_path*/"!).");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33004, /*page_number*/1, /*title*/"dummy.event_tower_rule_title_001", /*image_asset_path*/":?7");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33004, /*page_number*/2, /*title*/"dummy.event_tower_rule_title_002", /*image_asset_path*/"]3Z");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33004, /*page_number*/3, /*title*/"dummy.event_tower_rule_title_003", /*image_asset_path*/"^vv");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33004, /*page_number*/4, /*title*/"dummy.event_tower_rule_title_004", /*image_asset_path*/")44");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33004, /*page_number*/5, /*title*/"dummy.event_tower_rule_title_005", /*image_asset_path*/":!Z");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33004, /*page_number*/6, /*title*/"dummy.event_tower_rule_title_006", /*image_asset_path*/"BgL");

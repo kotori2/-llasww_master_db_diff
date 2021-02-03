@@ -11,6 +11,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033008_01", /*message*/"Monzen-na
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033009_00", /*message*/"Fountain Plaza (Tokyo) (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033011_01", /*message*/"Odaiba Seaside (Clear Night)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035008_00", /*message*/"Small Park");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035016_00", /*message*/"Amusement Park (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"Planetarium (with Northern Lights)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035031_01", /*message*/"Field (Flower Meadow) (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035032_00", /*message*/"Old Town Street A (Afternoon)");

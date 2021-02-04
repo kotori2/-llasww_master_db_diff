@@ -1375,6 +1375,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005104", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005301", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005302", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005303", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005401", /*message*/"[挿入歌シングル第一弾発売記念課題！]  遊玩5次LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005402", /*message*/"[挿入歌シングル第一弾発売記念課題！]  遊玩10次LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

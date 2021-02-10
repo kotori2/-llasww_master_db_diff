@@ -2817,6 +2817,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201083001_2", /*message*/"Let
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201092001_1", /*message*/"Best Material");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093001_1", /*message*/"เต็มไปด้วยความรู้สึก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093001_2", /*message*/"Dreaming Candy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_1", /*message*/"พิเศษอยู่เสมอ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_2", /*message*/"เจ้าสาวของเธอเท่านั้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_1", /*message*/"คุณหนูผู้อยากได้รับความรัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_2", /*message*/"สายตาของคนขี้อาย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_1", /*message*/"กับเธอในทุ่งดอกไม้");
@@ -2833,8 +2835,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_1", /*message*/"ด
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_2", /*message*/"มาเต้นด้วยกันเถอะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_1", /*message*/"เป็นตัวของตัวเองเมื่ออยู่กับเธอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"ตอนนี้และที่ผ่านมา");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_1", /*message*/"พยายามสุดความสามารถเท่านั้นค่ะ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_2", /*message*/"ค่ำคืนที่ฉันเป็นฝ่ายควบคุม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012001_1", /*message*/"คุณสมบัติของลีดเดอร์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"มาสนุกกับดินแดนแห่งความฝัน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"ตุ๊กตาหิมะที่น่ารักที่สุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"โฮโนกะกับสัตว์น้อยใหญ่");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"บ้านของฉันคือวังมังกร!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"สิ่งที่สำคัญในสภานักเรียน");
@@ -2952,6 +2957,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082003_1", /*message*/"ห
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_1", /*message*/"มีความสุขด้วยกันทุกคน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_2", /*message*/"หนูน้อยหมวกแดงจอมกินเก่ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092001_1", /*message*/"ประชุมรินะจังบอร์ด!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092002_1", /*message*/"ไว้ใจอลันได้เลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"เล่น VR ในห้องชมรม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"Electronic Idol");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"ใบหน้าที่แท้จริงด้านหลังบอร์ด");

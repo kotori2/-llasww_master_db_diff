@@ -130,6 +130,7 @@ INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/201073001, /*vo
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/201083001, /*voice*/"vo_ca_2010830016", /*serif*/"k.gacha_vo_ca_2010830016", /*sign_movie_asset_path*/"}:+");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/201092001, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/201093001, /*voice*/"vo_ca_2010930016", /*serif*/"k.gacha_vo_ca_2010930016", /*sign_movie_asset_path*/"HVF");
+INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/202013001, /*voice*/"vo_ca_2020130016", /*serif*/"k.gacha_vo_ca_2020130016", /*sign_movie_asset_path*/"#.u");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/202023001, /*voice*/"vo_ca_2020230016", /*serif*/"k.gacha_vo_ca_2020230016", /*sign_movie_asset_path*/"!JJ");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/202033001, /*voice*/"vo_ca_2020330016", /*serif*/"k.gacha_vo_ca_2020330016", /*sign_movie_asset_path*/"ZpL");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/202043001, /*voice*/"vo_ca_2020430016", /*serif*/"k.gacha_vo_ca_2020430016", /*sign_movie_asset_path*/"-Nb");
@@ -138,8 +139,10 @@ INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/202063001, /*vo
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/202073001, /*voice*/"vo_ca_2020730016", /*serif*/"k.gacha_vo_ca_2020730016", /*sign_movie_asset_path*/"L\;");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/202083001, /*voice*/"vo_ca_2020830016", /*serif*/"k.gacha_vo_ca_2020830016", /*sign_movie_asset_path*/"EWP");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/202093001, /*voice*/"vo_ca_2020930016", /*serif*/"k.gacha_vo_ca_2020930016", /*sign_movie_asset_path*/"/R9");
+INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/202103001, /*voice*/"vo_ca_2021030016", /*serif*/"k.gacha_vo_ca_2021030016", /*sign_movie_asset_path*/"GM:");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/300012001, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/300012002, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
+INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/300012003, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/300013001, /*voice*/"vo_ca_3000130016", /*serif*/"k.gacha_vo_ca_3000130016", /*sign_movie_asset_path*/"uPV");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/300022001, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/300022002, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
@@ -223,6 +226,7 @@ INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/302082002, /*vo
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/302082003, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/302083001, /*voice*/"vo_ca_3020830016", /*serif*/"k.gacha_vo_ca_3020830016", /*sign_movie_asset_path*/"EWP");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/302092001, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
+INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/302092002, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/302093001, /*voice*/"vo_ca_3020930016", /*serif*/"k.gacha_vo_ca_3020930016", /*sign_movie_asset_path*/"/R9");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/302093002, /*voice*/"vo_ca_3020930026", /*serif*/"k.gacha_vo_ca_3020930026", /*sign_movie_asset_path*/"/R9");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400012001, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");

@@ -2806,6 +2806,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201083001_2", /*message*/"Let
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201092001_1", /*message*/"The Best Materials");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093001_1", /*message*/"Made with Love");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093001_2", /*message*/"Dreaming of Candy");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_1", /*message*/"You&apos;ll Always Be Special");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_2", /*message*/"A Bride Just for You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_1", /*message*/"A Lady Wants to Be Loved");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_2", /*message*/"Shy Gaze");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_1", /*message*/"In a Field of Flowers with You");
@@ -2822,8 +2824,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_1", /*message*/"Flo
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_2", /*message*/"Let&apos;s Dance Together");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_1", /*message*/"All Natural with You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"The Past and Present");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_1", /*message*/"Diligence Is the Only Way!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_2", /*message*/"The Night of My Domination");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012001_1", /*message*/"What Makes a Leader");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"Let&apos;s Enjoy the Land of Dreams");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"The Cutest Snowman!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"Animals and Honoka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"My Home is an Undersea Palace?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"Important to the Student Council");
@@ -2940,6 +2945,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082003_1", /*message*/"Rai
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_1", /*message*/"A Happy Ending for Everyone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_2", /*message*/"Gluttonous Little Red Riding Hood");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092001_1", /*message*/"Rina-chan Board Meeting!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092002_1", /*message*/"Leave It to Alan");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"VR Games at Home");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"Electronic Idol");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"The Smile Behind the Board");

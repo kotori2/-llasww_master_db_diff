@@ -1658,7 +1658,7 @@ INSERT INTO `static_text` VALUES (/*textid*/114249122976885164, /*guid*/"fc57341
 INSERT INTO `static_text` VALUES (/*textid*/3289911473774423292, /*guid*/"fcd14720579f46c46b95a0ab12591a8d", /*message*/"COMPLETE");
 INSERT INTO `static_text` VALUES (/*textid*/1242707226757362441, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Partner");
 INSERT INTO `static_text` VALUES (/*textid*/1324219495, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Scout");
-INSERT INTO `static_text` VALUES (/*textid*/1408111559, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Can be unlocked in practice.");
+INSERT INTO `static_text` VALUES (/*textid*/1408111559, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Practice to unlock.");
 INSERT INTO `static_text` VALUES (/*textid*/1440427774, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Animation");
 INSERT INTO `static_text` VALUES (/*textid*/1456647450, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Expand");
 INSERT INTO `static_text` VALUES (/*textid*/1574523086, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Practice");
@@ -1668,7 +1668,7 @@ INSERT INTO `static_text` VALUES (/*textid*/227496248, /*guid*/"ffa12999f1a45824
 INSERT INTO `static_text` VALUES (/*textid*/3243276473054825364, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"The green &quot;+&quot; marks parameter bonuses from Abilities when at max level with all Limit Increases and Practice tiles unlocked.");
 INSERT INTO `static_text` VALUES (/*textid*/3976717274519842653, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Side Episode 1");
 INSERT INTO `static_text` VALUES (/*textid*/503936115, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Side Episode 1");
-INSERT INTO `static_text` VALUES (/*textid*/51821278, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Can be unlocked in practice.");
+INSERT INTO `static_text` VALUES (/*textid*/51821278, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Practice to unlock.");
 INSERT INTO `static_text` VALUES (/*textid*/647705978, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Partner");
 INSERT INTO `static_text` VALUES (/*textid*/7214063058899410928, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Toggle");
 INSERT INTO `static_text` VALUES (/*textid*/806706674, /*guid*/"ffa12999f1a458249a0d79a0ef897a8f", /*message*/"Costume

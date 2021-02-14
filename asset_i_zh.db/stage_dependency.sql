@@ -44,6 +44,8 @@ INSERT INTO `stage_dependency` VALUES (/*asset_path*/"N{", /*dependency*/"§j^")
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"N{", /*dependency*/"§{;");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"Eo", /*dependency*/"§v(U");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"Eo", /*dependency*/"§{;");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"YXy", /*dependency*/"§v(U");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"YXy", /*dependency*/"§{;");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"MG", /*dependency*/"§v(U");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"MG", /*dependency*/"§j^");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"MG", /*dependency*/"§{;");
@@ -94,6 +96,18 @@ INSERT INTO `stage_dependency` VALUES (/*asset_path*/"/;S", /*dependency*/"§j^"
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"/;S", /*dependency*/"§Vr");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"/;S", /*dependency*/"§?{:");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"/;S", /*dependency*/"§{;");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"]!#", /*dependency*/"§j^");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"]!#", /*dependency*/"§{;");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"4/r", /*dependency*/"§j^");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"4/r", /*dependency*/"§{;");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"CG6", /*dependency*/"§j^");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"CG6", /*dependency*/"§{;");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"fq~", /*dependency*/"§j^");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"fq~", /*dependency*/"§{;");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"/BR", /*dependency*/"§j^");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"/BR", /*dependency*/"§{;");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"l;Y", /*dependency*/"§j^");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"l;Y", /*dependency*/"§{;");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"7Wt", /*dependency*/"§j^");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"7Wt", /*dependency*/"§{;");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"@\G", /*dependency*/"§{;");

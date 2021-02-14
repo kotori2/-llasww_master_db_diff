@@ -32,3 +32,6 @@ INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320070003, /*event_id*/32
 INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320080001, /*event_id*/32008, /*target_value*/15000, /*content_type*/21, /*content_id*/22001, /*content_amount*/500);
 INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320080002, /*event_id*/32008, /*target_value*/30000, /*content_type*/21, /*content_id*/22001, /*content_amount*/1000);
 INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320080003, /*event_id*/32008, /*target_value*/45000, /*content_type*/21, /*content_id*/22001, /*content_amount*/1500);
+INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320090001, /*event_id*/32009, /*target_value*/15000, /*content_type*/21, /*content_id*/22001, /*content_amount*/500);
+INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320090002, /*event_id*/32009, /*target_value*/30000, /*content_type*/21, /*content_id*/22001, /*content_amount*/1000);
+INSERT INTO `m_coop_event_global_reward` VALUES (/*id*/320090003, /*event_id*/32009, /*target_value*/45000, /*content_type*/21, /*content_id*/22001, /*content_amount*/1500);

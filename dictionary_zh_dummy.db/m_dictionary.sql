@@ -5,6 +5,7 @@ CREATE TABLE m_dictionary(
 );
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_013002_00", /*message*/"浦之星女學院 上下學路段公車站前(晴朗早晨)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"虹咲學園 禮堂(熄燈後的夜晚)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_022012_01", /*message*/"雪菜的房間(聖誕風：白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_035003_00", /*message*/"攝影棚");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011003_00", /*message*/"浦之星女學院　屋頂（夜晚：觀測星象）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033008_01", /*message*/"門前仲町(雨天)");
@@ -60,6 +61,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200802", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200803", /*message*/"活動規則 3/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200804", /*message*/"活動規則 4/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200805", /*message*/"活動規則 5/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200901", /*message*/"活動規則 1/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200902", /*message*/"活動規則 2/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200903", /*message*/"活動規則 3/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200904", /*message*/"活動規則 4/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200905", /*message*/"活動規則 5/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_03", /*message*/"");
@@ -165,6 +171,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message*/"活動規則 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"活動規則 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"活動規則 2/6");

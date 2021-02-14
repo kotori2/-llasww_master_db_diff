@@ -40,6 +40,7 @@ INSERT INTO `m_custom_background` VALUES (/*id*/301400100, /*background_id*/3014
 INSERT INTO `m_custom_background` VALUES (/*id*/301500400, /*background_id*/301500400, /*name*/"k.bg03_015004_00", /*thumbnail_asset_path*/"Qdx", /*release_route*/2, /*release_value*/0, /*display_order*/11);
 INSERT INTO `m_custom_background` VALUES (/*id*/302101000, /*background_id*/302101000, /*name*/"k.bg02_021010_00", /*thumbnail_asset_path*/"(}n", /*release_route*/2, /*release_value*/0, /*display_order*/25);
 INSERT INTO `m_custom_background` VALUES (/*id*/302101500, /*background_id*/302101500, /*name*/"k.bg02_021015_00", /*thumbnail_asset_path*/"wlv", /*release_route*/2, /*release_value*/0, /*display_order*/31);
+INSERT INTO `m_custom_background` VALUES (/*id*/302201201, /*background_id*/302201201, /*name*/"dummy.bg02_022012_01", /*thumbnail_asset_path*/"mv,", /*release_route*/2, /*release_value*/0, /*display_order*/41);
 INSERT INTO `m_custom_background` VALUES (/*id*/303300200, /*background_id*/303300200, /*name*/"k.bg03_033002_00", /*thumbnail_asset_path*/"~+\"", /*release_route*/2, /*release_value*/0, /*display_order*/12);
 INSERT INTO `m_custom_background` VALUES (/*id*/303300400, /*background_id*/303300400, /*name*/"k.bg03_033004_00", /*thumbnail_asset_path*/"0h", /*release_route*/2, /*release_value*/0, /*display_order*/7);
 INSERT INTO `m_custom_background` VALUES (/*id*/303300700, /*background_id*/303300700, /*name*/"k.bg03_033007_00", /*thumbnail_asset_path*/"Mk(", /*release_route*/2, /*release_value*/0, /*display_order*/23);

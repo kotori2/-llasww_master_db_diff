@@ -31,6 +31,7 @@ INSERT INTO `shader` VALUES (/*asset_path*/"§.5", /*pack_name*/"3j5x1b", /*head
 INSERT INTO `shader` VALUES (/*asset_path*/"§F]-", /*pack_name*/"1fdya2", /*head*/0, /*size*/1051, /*key1*/-890786434, /*key2*/1788829563);
 INSERT INTO `shader` VALUES (/*asset_path*/"§gtW", /*pack_name*/"u0uoo9", /*head*/0, /*size*/1027, /*key1*/1965667787, /*key2*/-202162512);
 INSERT INTO `shader` VALUES (/*asset_path*/"§3Go", /*pack_name*/"4x8qs9", /*head*/0, /*size*/1034, /*key1*/1071876588, /*key2*/878306554);
+INSERT INTO `shader` VALUES (/*asset_path*/"§D#e", /*pack_name*/"awuk96", /*head*/0, /*size*/1032, /*key1*/1418146203, /*key2*/-1783290766);
 INSERT INTO `shader` VALUES (/*asset_path*/"§z]6", /*pack_name*/"6s3x6d", /*head*/0, /*size*/1025, /*key1*/-1200806558, /*key2*/-1724241239);
 INSERT INTO `shader` VALUES (/*asset_path*/"§;{w", /*pack_name*/"3j5x1b", /*head*/88593, /*size*/6599, /*key1*/-1876891374, /*key2*/1566972283);
 INSERT INTO `shader` VALUES (/*asset_path*/"§rk", /*pack_name*/"yecrbc", /*head*/269443, /*size*/6328, /*key1*/-854090874, /*key2*/-1805270127);
@@ -44,6 +45,7 @@ INSERT INTO `shader` VALUES (/*asset_path*/"§r?", /*pack_name*/"u6rpmf", /*head
 INSERT INTO `shader` VALUES (/*asset_path*/"§OdT", /*pack_name*/"epr14w", /*head*/0, /*size*/7717, /*key1*/-307643455, /*key2*/-646051546);
 INSERT INTO `shader` VALUES (/*asset_path*/"§P!g", /*pack_name*/"u0uoo9", /*head*/1027, /*size*/7051, /*key1*/-1466682385, /*key2*/1366767956);
 INSERT INTO `shader` VALUES (/*asset_path*/"§pnO", /*pack_name*/"4x8qs9", /*head*/1034, /*size*/7959, /*key1*/-337640616, /*key2*/1528369919);
+INSERT INTO `shader` VALUES (/*asset_path*/"§G]_", /*pack_name*/"awuk96", /*head*/1032, /*size*/7948, /*key1*/-1009378593, /*key2*/1567953121);
 INSERT INTO `shader` VALUES (/*asset_path*/"§7X@", /*pack_name*/"6s3x6d", /*head*/1025, /*size*/7047, /*key1*/-408772864, /*key2*/1287494888);
 INSERT INTO `shader` VALUES (/*asset_path*/"§9%>", /*pack_name*/"yecrbc", /*head*/307652, /*size*/6208, /*key1*/-1900917376, /*key2*/1292439261);
 INSERT INTO `shader` VALUES (/*asset_path*/"§fR=", /*pack_name*/"3j5x1b", /*head*/115046, /*size*/7089, /*key1*/-280849909, /*key2*/603744094);

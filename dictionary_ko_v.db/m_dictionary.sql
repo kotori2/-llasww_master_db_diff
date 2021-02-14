@@ -10,3 +10,4 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50004", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50005", /*message*/"Guilty Kiss First LOVELIVE!おでかけプレゼント");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50006", /*message*/"CYaRon！ First LOVELIVE!おでかけプレゼント");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50008", /*message*/"ニジガクODAIBAゲーマーズTシャツおでかけプレゼント  part2");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50009", /*message*/"ニジガクODAIBAゲーマーズTシャツおでかけプレゼント  part3");

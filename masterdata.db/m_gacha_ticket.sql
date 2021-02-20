@@ -1,0 +1,42 @@
+CREATE TABLE m_gacha_ticket(
+  id INTEGER NOT NULL,
+  ticket_type INTEGER NOT NULL,
+  name TEXT NOT NULL,
+  description TEXT NOT NULL,
+  thumbnail_asset_path TEXT NOT NULL,
+  item_list_category_type INTEGER NOT NULL,
+  transition_gacha_m_id INTEGER NOT NULL,
+  banner_image_asset_path TEXT,
+  display_order INTEGER NOT NULL,
+  PRIMARY KEY (id),
+  FOREIGN KEY (transition_gacha_m_id) REFERENCES m_gacha(id)
+);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9000, /*ticket_type*/1, /*name*/"k.item_name_9000", /*description*/"k.item_desc_9000", /*thumbnail_asset_path*/"QZ", /*item_list_category_type*/5, /*transition_gacha_m_id*/20009, /*banner_image_asset_path*/"lc?", /*display_order*/1);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9001, /*ticket_type*/2, /*name*/"k.item_name_9001", /*description*/"k.item_desc_9001", /*thumbnail_asset_path*/"k5", /*item_list_category_type*/6, /*transition_gacha_m_id*/20082, /*banner_image_asset_path*/"\I<", /*display_order*/2);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9002, /*ticket_type*/1, /*name*/"k.item_name_9002", /*description*/"k.item_desc_9002", /*thumbnail_asset_path*/"|9", /*item_list_category_type*/5, /*transition_gacha_m_id*/20016, /*banner_image_asset_path*/"hV3", /*display_order*/3);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9003, /*ticket_type*/2, /*name*/"k.item_name_9003", /*description*/"k.item_desc_9003", /*thumbnail_asset_path*/"j2", /*item_list_category_type*/5, /*transition_gacha_m_id*/20008, /*banner_image_asset_path*/"$aC", /*display_order*/4);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9004, /*ticket_type*/2, /*name*/"k.item_name_9004", /*description*/"k.item_desc_9004", /*thumbnail_asset_path*/"DK", /*item_list_category_type*/5, /*transition_gacha_m_id*/999999, /*banner_image_asset_path*/"", /*display_order*/5);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9005, /*ticket_type*/2, /*name*/"k.item_name_9005", /*description*/"k.item_desc_9005", /*thumbnail_asset_path*/"~f", /*item_list_category_type*/6, /*transition_gacha_m_id*/20010, /*banner_image_asset_path*/":`]", /*display_order*/6);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9006, /*ticket_type*/2, /*name*/"k.item_name_9006", /*description*/"k.item_desc_9006", /*thumbnail_asset_path*/"<3", /*item_list_category_type*/5, /*transition_gacha_m_id*/20003, /*banner_image_asset_path*/"V,g", /*display_order*/7);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9007, /*ticket_type*/2, /*name*/"k.item_name_9007", /*description*/"k.item_desc_9007", /*thumbnail_asset_path*/"s\"", /*item_list_category_type*/5, /*transition_gacha_m_id*/999999, /*banner_image_asset_path*/"", /*display_order*/8);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9008, /*ticket_type*/2, /*name*/"k.item_name_9008", /*description*/"k.item_desc_9008", /*thumbnail_asset_path*/"7Q", /*item_list_category_type*/6, /*transition_gacha_m_id*/20011, /*banner_image_asset_path*/"rlD", /*display_order*/9);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9009, /*ticket_type*/2, /*name*/"k.item_name_9009", /*description*/"k.item_desc_9009", /*thumbnail_asset_path*/"9_", /*item_list_category_type*/5, /*transition_gacha_m_id*/20004, /*banner_image_asset_path*/"RB\"", /*display_order*/10);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9010, /*ticket_type*/2, /*name*/"k.item_name_9010", /*description*/"k.item_desc_9010", /*thumbnail_asset_path*/"O@", /*item_list_category_type*/5, /*transition_gacha_m_id*/999999, /*banner_image_asset_path*/"", /*display_order*/11);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9011, /*ticket_type*/2, /*name*/"k.item_name_9011", /*description*/"k.item_desc_9011", /*thumbnail_asset_path*/"XT", /*item_list_category_type*/6, /*transition_gacha_m_id*/999999, /*banner_image_asset_path*/"", /*display_order*/12);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9012, /*ticket_type*/1, /*name*/"k.item_name_9012", /*description*/"k.item_desc_9012", /*thumbnail_asset_path*/"Jw", /*item_list_category_type*/5, /*transition_gacha_m_id*/20005, /*banner_image_asset_path*/",Og", /*display_order*/13);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9013, /*ticket_type*/1, /*name*/"k.item_name_9013", /*description*/"k.item_desc_9013", /*thumbnail_asset_path*/"(P", /*item_list_category_type*/5, /*transition_gacha_m_id*/20006, /*banner_image_asset_path*/"4;J", /*display_order*/14);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9014, /*ticket_type*/1, /*name*/"k.item_name_9014", /*description*/"k.item_desc_9014", /*thumbnail_asset_path*/"Bu", /*item_list_category_type*/5, /*transition_gacha_m_id*/20007, /*banner_image_asset_path*/"BN#", /*display_order*/15);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9015, /*ticket_type*/1, /*name*/"k.item_name_9015", /*description*/"k.item_desc_9015", /*thumbnail_asset_path*/"vKy", /*item_list_category_type*/5, /*transition_gacha_m_id*/20014, /*banner_image_asset_path*/"<1F", /*display_order*/16);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9018, /*ticket_type*/1, /*name*/"k.item_name_9018", /*description*/"k.item_desc_9018", /*thumbnail_asset_path*/"l_v", /*item_list_category_type*/5, /*transition_gacha_m_id*/120003, /*banner_image_asset_path*/":<Z", /*display_order*/24);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9020, /*ticket_type*/1, /*name*/"k.item_name_9020", /*description*/"k.item_desc_9020", /*thumbnail_asset_path*/"]$2", /*item_list_category_type*/5, /*transition_gacha_m_id*/20265, /*banner_image_asset_path*/"IEr", /*display_order*/25);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9021, /*ticket_type*/2, /*name*/"k.item_name_9021", /*description*/"k.item_desc_9021", /*thumbnail_asset_path*/">~p", /*item_list_category_type*/5, /*transition_gacha_m_id*/20056, /*banner_image_asset_path*/"+~w", /*display_order*/17);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9022, /*ticket_type*/2, /*name*/"k.item_name_9022", /*description*/"k.item_desc_9022", /*thumbnail_asset_path*/";O|", /*item_list_category_type*/5, /*transition_gacha_m_id*/20057, /*banner_image_asset_path*/"Hi7", /*display_order*/18);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9023, /*ticket_type*/2, /*name*/"k.item_name_9023", /*description*/"k.item_desc_9023", /*thumbnail_asset_path*/"+<(", /*item_list_category_type*/5, /*transition_gacha_m_id*/20058, /*banner_image_asset_path*/"cd{", /*display_order*/19);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9024, /*ticket_type*/2, /*name*/"k.item_name_9024", /*description*/"k.item_desc_9024", /*thumbnail_asset_path*/"~v:", /*item_list_category_type*/5, /*transition_gacha_m_id*/20068, /*banner_image_asset_path*/"@_c", /*display_order*/20);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9025, /*ticket_type*/2, /*name*/"k.item_name_9025", /*description*/"k.item_desc_9025", /*thumbnail_asset_path*/"4oC", /*item_list_category_type*/5, /*transition_gacha_m_id*/20069, /*banner_image_asset_path*/"P8u", /*display_order*/21);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9026, /*ticket_type*/1, /*name*/"k.item_name_9026", /*description*/"k.item_desc_9026", /*thumbnail_asset_path*/"gOy", /*item_list_category_type*/6, /*transition_gacha_m_id*/20098, /*banner_image_asset_path*/"JZW", /*display_order*/22);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9027, /*ticket_type*/1, /*name*/"k.item_name_9027", /*description*/"k.item_desc_9027", /*thumbnail_asset_path*/"pcY", /*item_list_category_type*/6, /*transition_gacha_m_id*/20111, /*banner_image_asset_path*/"PxT", /*display_order*/23);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9028, /*ticket_type*/1, /*name*/"k.item_name_9028", /*description*/"k.item_desc_9028", /*thumbnail_asset_path*/"y9L", /*item_list_category_type*/6, /*transition_gacha_m_id*/20174, /*banner_image_asset_path*/"+%F", /*display_order*/24);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9031, /*ticket_type*/1, /*name*/"k.item_name_9031", /*description*/"k.item_desc_9031", /*thumbnail_asset_path*/"VrP", /*item_list_category_type*/6, /*transition_gacha_m_id*/20250, /*banner_image_asset_path*/"|ei", /*display_order*/28);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9032, /*ticket_type*/2, /*name*/"k.item_name_9032", /*description*/"k.item_desc_9032", /*thumbnail_asset_path*/"|5n", /*item_list_category_type*/5, /*transition_gacha_m_id*/120251, /*banner_image_asset_path*/":;2", /*display_order*/29);
+INSERT INTO `m_gacha_ticket` VALUES (/*id*/9033, /*ticket_type*/1, /*name*/"k.item_name_9033", /*description*/"k.item_desc_9033", /*thumbnail_asset_path*/"F&V", /*item_list_category_type*/5, /*transition_gacha_m_id*/20312, /*banner_image_asset_path*/"+'V", /*display_order*/30);

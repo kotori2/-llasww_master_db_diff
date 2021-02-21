@@ -2927,6 +2927,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"ค
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092002_1", /*message*/"เข้าครัวยาซาวะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"ข้าวกล่องเลิฟนิโกะ♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"ท่องเที่ยวด้วยรอยยิ้มสองต่อสอง♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093002_1", /*message*/"ตอนหนาวๆ ก็ต้อง...เนอะ?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093002_2", /*message*/"ภูตหิมะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301012001_1", /*message*/"ถ่ายให้น่ารักๆ เลยนะ♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"เธอชอบตรงไหนเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"สัตว์ประหลาดสิงโตจิกัจจิ!");
@@ -2941,6 +2943,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"ท
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"ผ่อนคลายทั้งร่างกายและจิตใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042001_1", /*message*/"คนที่เข้าใจกันมากที่สุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042002_1", /*message*/"รอยยิ้มเป็นสิ่งสำคัญ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042003_1", /*message*/"จากนี้ไปก็อยู่ด้วยกัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_1", /*message*/"เรื่องที่อธิษฐาน?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_2", /*message*/"น่ารักก็คือน่ารัก!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"อุ่นใจ!");

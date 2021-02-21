@@ -2915,6 +2915,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"Sec
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092002_1", /*message*/"Cooking Yazawa");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"Nico&apos;s Lovely Lunch Box");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"Smiling Travels Together");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093002_1", /*message*/"When It&apos;s Cold, Okay?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093002_2", /*message*/"Snow Fairy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301012001_1", /*message*/"Make Me Look Cute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"What&apos;s Your Favorite?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"Lion Monster Chika-chi!");
@@ -2929,6 +2931,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"Fas
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"Relaxing the Mind and Body");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042001_1", /*message*/"Who Understands Me Most");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042002_1", /*message*/"Smiles Are Important!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042003_1", /*message*/"Together, Now and Always");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_1", /*message*/"What&apos;s Your Wish?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_2", /*message*/"Cute Is Cute!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"Reassuring!");

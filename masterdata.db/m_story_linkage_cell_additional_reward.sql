@@ -8,3 +8,4 @@ CREATE TABLE m_story_linkage_cell_additional_reward(
   FOREIGN KEY (story_linkage_cell_master_id) REFERENCES m_story_linkage_cell(id)
 );
 INSERT INTO `m_story_linkage_cell_additional_reward` VALUES (/*story_linkage_cell_master_id*/9000001, /*content_type*/3, /*content_id*/402013001, /*content_amount*/1, /*display_order*/1);
+INSERT INTO `m_story_linkage_cell_additional_reward` VALUES (/*story_linkage_cell_master_id*/9000002, /*content_type*/3, /*content_id*/302023001, /*content_amount*/1, /*display_order*/1);

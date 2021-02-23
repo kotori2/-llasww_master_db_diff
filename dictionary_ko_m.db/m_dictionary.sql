@@ -3221,13 +3221,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_index_title_8", /*message*/"제8
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_index_title_9", /*message*/"제9화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_additional_rewards", /*message*/"스페셜 클리어 보상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_1", /*message*/"우에하라 아유무 신규 의상 획득 특훈 세트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_2", /*message*/"나카스 카스미 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"획득한 아이템을 사용해 <color value=\"#ffa800\">특훈</color>을 하면
 신규 의상 획득, 스쿨 아이돌 각성 등이 가능합니다");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"특훈 아이템 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_900001", /*message*/"TV 애니메이션 방영 기념 특별 스토리입니다! 애니메이션의 내용과 연관된 스토리를 즐겨보세요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /*message*/"TV 애니메이션 &quot;러브라이브! 니지가사키 학원 스쿨 아이돌 동호회&quot; 연동 스토리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"　소꿉친구인 아유무와 당신은 어느 날, 거리를 걷다 옛날 일을 떠올리는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"　어느 날, 일등으로 부실에 온 카스미. 홀로 부실에 있으니 외롭게 동호회를 지키던 시절이 떠올랐다….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"어떤 추억도….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"믿고 기다릴 거야!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"모두 함께 이뤄가는 이야기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"새 학생회장의 어려운 요구!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"스쿠페스를 위해!

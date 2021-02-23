@@ -3216,6 +3216,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_index_title_8", /*message*/"第8
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_index_title_9", /*message*/"第9話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_additional_rewards", /*message*/"特別通過報酬");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_1", /*message*/"上原步夢 新服裝解鎖特訓套組");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_2", /*message*/"中須霞 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"使用獲得的道具來進行<color value=\"#ffa800\">特訓</color>，
 即可獲得新服裝、使學園偶像覺醒等。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"獲得特訓道具");
@@ -3224,7 +3225,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"你和步夢是兒時玩伴。
 某天你們走在路上時，
 想起了往事……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"某天，霞第一個來到社團教室。
+獨自待在社團教室裡時，
+讓她回想起那段孤身一人
+守護著同好會的往事……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"無論是什麼樣的回憶都……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"相信並等待！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"大家合力實現夢想");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"新學生會長出的刁難課題！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"目標學園偶像祭！

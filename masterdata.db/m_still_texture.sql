@@ -91,6 +91,11 @@ INSERT INTO `m_still_texture` VALUES (/*still_master_id*/301021301, /*display_or
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/301041301, /*display_order*/1, /*still_asset_path*/";.b");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/301071301, /*display_order*/1, /*still_asset_path*/"ge:");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/301071301, /*display_order*/2, /*still_asset_path*/"7D{");
+INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300031401, /*display_order*/1, /*still_asset_path*/"kV<");
+INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300061401, /*display_order*/1, /*still_asset_path*/"2Ej");
+INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300081401, /*display_order*/1, /*still_asset_path*/"Lqo");
+INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300081401, /*display_order*/2, /*still_asset_path*/"3yC");
+INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300091401, /*display_order*/1, /*still_asset_path*/"T4F");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1010101, /*display_order*/1, /*still_asset_path*/"Mb\");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1010301, /*display_order*/1, /*still_asset_path*/"}Q'");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1011001, /*display_order*/1, /*still_asset_path*/"/u|");

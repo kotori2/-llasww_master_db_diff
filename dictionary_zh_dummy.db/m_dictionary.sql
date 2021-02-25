@@ -21,6 +21,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035037_00", /*message*/"伊豆箱
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035055_00", /*message*/"中華餐館");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035062_00", /*message*/"玩具店入口處(晴朗白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"秋季河畔(晴朗白天)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"夜景環繞的派對會場");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"活動規則 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"活動規則 2/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200103", /*message*/"活動規則 3/5");

@@ -4,7 +4,7 @@ CREATE TABLE m_asset_package(
   pack_num INTEGER NOT NULL,
   PRIMARY KEY (package_key)
 );
-INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"2a42be11269be86f6b3e9031ad2c7507116f6c60", /*pack_num*/8496);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"ab037515236b951c1a927f82e80efa6ccebf7ff4", /*pack_num*/8497);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0108/mes_0108_02", /*version*/"e7f1821db4b1093bab4ffd564f3f2930c50bba6d", /*pack_num*/30);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:MS/007/ms_007_08", /*version*/"9b0e95baea513d0ff80b67b5e01b78c9b2e97ae2", /*pack_num*/29);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"love:207_10", /*version*/"b8ec838ffd988f5cfc668b8007462ff623f94a2c", /*pack_num*/35);

@@ -231,6 +231,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000172", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000173", /*message*/"Play &quot;Jingle Bells ga Tomaranai&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000174", /*message*/"Clear a Live Show: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000175", /*message*/"Perform Training a total of 2 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000176", /*message*/"Play &quot;Jingle Bells ga Tomaranai&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000177", /*message*/"Gain 900 event points.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000178", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000179", /*message*/"Perform Training a total of 2 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000180", /*message*/"Collect your login bonus.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"Gain 900 event points.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"Clear a Live Show: x5");
@@ -1461,6 +1466,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005803", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005901", /*message*/"[A song for You! You? You!! リリースイベント] Clear &quot;A song for You! You? You!!&quot; on Beginner or above: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005902", /*message*/"[A song for You! You? You!! リリースイベント] Clear &quot;A song for You! You? You!!&quot; on Intermediate or above: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005903", /*message*/"[A song for You! You? You!! リリースイベント] Clear &quot;A song for You! You? You!!&quot; on Advanced: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006501", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 10.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006502", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 20.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006503", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 30.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006504", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 40.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006505", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 50.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006506", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 60.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006507", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 70.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -1475,6 +1487,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"Chapter 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"Chapter 7");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"Event Rules 1/4");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"Event Rules 2/4");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"Event Rules 3/4");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_004_countdown", /*message*/"Event Rules 4/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"Trial Event: Dream Live Parade");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"Dream Live Parade");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002", /*message*/"Dream Live Parade: Aqours");
@@ -1483,6 +1499,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003_000", /*message*/"Dream Live Parade: Nijigasaki");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004", /*message*/"Dream Live Parade μ&apos;s");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004_000", /*message*/"Dream Live Parade μ&apos;s");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005", /*message*/"2020カウントダウンライブ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005_000", /*message*/"2020カウントダウンライブ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");

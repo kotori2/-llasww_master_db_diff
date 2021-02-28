@@ -238,6 +238,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000172", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000173", /*message*/"เล่น &quot;Jingle Bells ga Tomaranai&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000174", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000175", /*message*/"ซ้อม 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000176", /*message*/"เล่น &quot;Jingle Bells ga Tomaranai&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000177", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000178", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000179", /*message*/"ซ้อม 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000180", /*message*/"รับล็อกอินโบนัส");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"เล่น &quot;Bokura wa Ima no Naka de&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
@@ -1472,6 +1477,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005803", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005901", /*message*/"[A song for You! You? You!! リリースイベント] เคลียร์เพลง &quot;A song for You! You? You!!&quot; ระดับพื้นฐานขึ้นไป 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005902", /*message*/"[A song for You! You? You!! リリースイベント] เคลียร์เพลง &quot;A song for You! You? You!!&quot; ระดับกลางขึ้นไป 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005903", /*message*/"[A song for You! You? You!! リリースイベント] เคลียร์เพลง &quot;A song for You! You? You!!&quot; ระดับยาก 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006501", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006502", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 20");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006503", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 30");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006504", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 40");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006505", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006506", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 60");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006507", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 70");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -1486,6 +1498,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"บทที่ 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"บทที่ 7");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"กติกาอีเวนต์ 1/4");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"กติกาอีเวนต์ 2/4");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"กติกาอีเวนต์ 3/4");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_004_countdown", /*message*/"กติกาอีเวนต์ 4/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"พรีอีเวนต์ ดรีมไลฟ์พาเรด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"ดรีมไลฟ์พาเรด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002", /*message*/"ดรีมไลฟ์พาเรด ~Aqours~");
@@ -1494,6 +1510,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003_000", /*message*/"ดรีมไลฟ์พาเรด ~นิจิกาคุ~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004", /*message*/"ดรีมไลฟ์พาเรด～μ&apos;s～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004_000", /*message*/"ดรีมไลฟ์พาเรด～μ&apos;s～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005", /*message*/"2020カウントダウンライブ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005_000", /*message*/"2020カウントダウンライブ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");

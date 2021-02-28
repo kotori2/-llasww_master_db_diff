@@ -40,3 +40,6 @@ INSERT INTO `m_tower_progress_reward` VALUES (/*tower_progress_reward_id*/330030
 INSERT INTO `m_tower_progress_reward` VALUES (/*tower_progress_reward_id*/33003004, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/15);
 INSERT INTO `m_tower_progress_reward` VALUES (/*tower_progress_reward_id*/33004004, /*display_order*/0, /*content_type*/21, /*content_id*/19001, /*content_amount*/2000);
 INSERT INTO `m_tower_progress_reward` VALUES (/*tower_progress_reward_id*/33004004, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/15);
+INSERT INTO `m_tower_progress_reward` VALUES (/*tower_progress_reward_id*/33005001, /*display_order*/1, /*content_type*/21, /*content_id*/19001, /*content_amount*/1000);
+INSERT INTO `m_tower_progress_reward` VALUES (/*tower_progress_reward_id*/33005002, /*display_order*/0, /*content_type*/21, /*content_id*/19001, /*content_amount*/1000);
+INSERT INTO `m_tower_progress_reward` VALUES (/*tower_progress_reward_id*/33005003, /*display_order*/0, /*content_type*/21, /*content_id*/19001, /*content_amount*/1000);

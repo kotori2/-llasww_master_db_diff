@@ -10,3 +10,4 @@ CREATE TABLE m_story_linkage_cell_suggestion(
 );
 INSERT INTO `m_story_linkage_cell_suggestion` VALUES (/*story_linkage_cell_master_id*/9000001, /*title*/"m.story_linkage_cell_suggestion_title", /*message*/"m.story_linkage_cell_suggestion_message", /*member_master_id*/201, /*button*/"k.common_l_p203");
 INSERT INTO `m_story_linkage_cell_suggestion` VALUES (/*story_linkage_cell_master_id*/9000002, /*title*/"m.story_linkage_cell_suggestion_title", /*message*/"m.story_linkage_cell_suggestion_message", /*member_master_id*/202, /*button*/"k.common_l_p203");
+INSERT INTO `m_story_linkage_cell_suggestion` VALUES (/*story_linkage_cell_master_id*/9000003, /*title*/"m.story_linkage_cell_suggestion_title", /*message*/"m.story_linkage_cell_suggestion_message", /*member_master_id*/207, /*button*/"k.common_l_p203");

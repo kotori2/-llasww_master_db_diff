@@ -13,6 +13,7 @@ CREATE TABLE m_coop_live(
 INSERT INTO `m_coop_live` VALUES (/*id*/40001, /*event_id*/32002, /*live_m_id*/10001, /*play_count_per_day*/3, /*display_order*/1);
 INSERT INTO `m_coop_live` VALUES (/*id*/40005, /*event_id*/32008, /*live_m_id*/10005, /*play_count_per_day*/3, /*display_order*/1);
 INSERT INTO `m_coop_live` VALUES (/*id*/40008, /*event_id*/32003, /*live_m_id*/10008, /*play_count_per_day*/3, /*display_order*/1);
+INSERT INTO `m_coop_live` VALUES (/*id*/40011, /*event_id*/32005, /*live_m_id*/10011, /*play_count_per_day*/3, /*display_order*/1);
 INSERT INTO `m_coop_live` VALUES (/*id*/40014, /*event_id*/32001, /*live_m_id*/10014, /*play_count_per_day*/3, /*display_order*/1);
 INSERT INTO `m_coop_live` VALUES (/*id*/40015, /*event_id*/32004, /*live_m_id*/10015, /*play_count_per_day*/3, /*display_order*/1);
 INSERT INTO `m_coop_live` VALUES (/*id*/40016, /*event_id*/32006, /*live_m_id*/10016, /*play_count_per_day*/3, /*display_order*/1);

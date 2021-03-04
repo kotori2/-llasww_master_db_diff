@@ -2875,6 +2875,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_1", /*message*/"Can
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_2", /*message*/"Closer Than Anyone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_1", /*message*/"Hand in Hand");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_2", /*message*/"Your Voice");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_1", /*message*/"Showing Off Is Important!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_2", /*message*/"An Unfamiliar Lady?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032001_1", /*message*/"Kotori&apos;s Spell");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_1", /*message*/"Inspiration at the Pool");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_2", /*message*/"What Comes to Mind");
@@ -2897,6 +2899,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"I C
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"Do I Look Grown-Up?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033001_1", /*message*/"We&apos;re Going Stargazing!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033001_2", /*message*/"A Stage of Fallen Stars");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_1", /*message*/"These Kinds of Days Are Nice Too");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_2", /*message*/"Your Knight");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_1", /*message*/"Dia&apos;s Recommendation");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"Make It Cute!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"Beach Date!");
@@ -2914,6 +2918,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_1", /*message*/"You
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_2", /*message*/"A Bride Just for You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_1", /*message*/"A Lady Wants to Be Loved");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_2", /*message*/"Shy Gaze");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_1", /*message*/"Who&apos;s the Cutest Girl in the World?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_2", /*message*/"My Knight");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_1", /*message*/"In a Field of Flowers with You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_2", /*message*/"Together Forever");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_1", /*message*/"On a Splendid Evening");
@@ -2983,6 +2989,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_1", /*message*/"Tem
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"Sharing My Happiness");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"Let&apos;s Fling Our Shoes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"A Secret Garden?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"My Beloved");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"A Quiet Passion");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"Floral Maiden");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"Soothe the Soul");
@@ -3044,6 +3051,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"Mas
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"Sleepy Clothes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"Hand in Hand");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"Something I Love");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072003_1", /*message*/"I&apos;m Not Used to It Yet");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"Ice Bonds");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"Passionate MC");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082001_1", /*message*/"Bread Heaven");

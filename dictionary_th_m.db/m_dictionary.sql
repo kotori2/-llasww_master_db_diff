@@ -2886,6 +2886,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_1", /*message*/"ข
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_2", /*message*/"จุดที่ใกล้ที่สุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_1", /*message*/"จับมือกันไว้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_2", /*message*/"เสียงของเธอ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_1", /*message*/"การแสดงเสน่ห์สำคัญนะ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_2", /*message*/"พี่สาวที่ไม่รู้จัก?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032001_1", /*message*/"เวทมนตร์ของโคโทริ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_1", /*message*/"ประกายของสระน้ำ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_2", /*message*/"สิ่งที่ปรากฏขึ้นมาในใจนั้นคือ");
@@ -2908,6 +2910,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"อ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"จะเป็นสาวแบบผู้ใหญ่ได้ไหมนะ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033001_1", /*message*/"มาสังเกตท้องฟ้าและดวงดาวกันเถอะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033001_2", /*message*/"เวทีที่พร่างพราวไปด้วยดาว");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_1", /*message*/"นานๆ ทีก็มีวันแบบนี้บ้าง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_2", /*message*/"อัศวินของเธอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_1", /*message*/"เมนูแนะนำของคุณไดยะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"เสริมความน่ารัก!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"เดตสีน้ำทะเล☆");
@@ -2925,6 +2929,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_1", /*message*/"พ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_2", /*message*/"เจ้าสาวของเธอเท่านั้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_1", /*message*/"คุณหนูผู้อยากได้รับความรัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_2", /*message*/"สายตาของคนขี้อาย");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_1", /*message*/"สาวน้อยที่น่ารักที่สุดในโลกคือใครเอ่ย?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_2", /*message*/"อัศวินของฉัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_1", /*message*/"กับเธอในทุ่งดอกไม้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_2", /*message*/"ไม่ว่าที่ไหนก็อยู่ด้วยกัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_1", /*message*/"ค่ำคืนอันแสนวิเศษ");
@@ -2995,6 +3001,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_1", /*message*/"ก
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"แบ่งปันความสุข");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"มาเล่นโยนรองเท้ากันเถอะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"สวนดอกไม้แห่งความลับ?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"เธอผู้เป็นที่รัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"ความเร่าร้อนที่สงบเงียบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"สาวน้อยแห่งดอกไม้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"จิตใจที่สงบนิ่ง");
@@ -3056,6 +3063,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"ก
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"ชุดที่ทำให้ง่วงนอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"จับมือไว้แล้วไปด้วยกัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"สิ่งที่ฉันรัก☆");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072003_1", /*message*/"ยังไม่ชิน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"สายสัมพันธ์แห่งน้ำแข็ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"MC เลือดร้อน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082001_1", /*message*/"สรวงสวรรค์ขนมปัง");

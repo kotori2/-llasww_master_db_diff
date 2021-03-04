@@ -2880,6 +2880,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_1", /*message*/"독
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_2", /*message*/"가장 가까이에서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_1", /*message*/"손을 잡고");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_2", /*message*/"너의 목소리");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_1", /*message*/"어필은 중요해!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_2", /*message*/"모르는 언니?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032001_1", /*message*/"코토리의 마법");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_1", /*message*/"수영장에서 떠오른 아이디어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_2", /*message*/"마음속에 떠오른 생각");
@@ -2902,6 +2904,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"네
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"성숙한 여성처럼 보여?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033001_1", /*message*/"천체 관측을 하자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033001_2", /*message*/"별이 내리는 무대");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_1", /*message*/"가끔은 이런 날도");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_2", /*message*/"당신의 기사");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_1", /*message*/"다이아의 추천 메뉴");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"귀여운 스타일로!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"바닷빛 데이트☆");
@@ -2919,6 +2923,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_1", /*message*/"늘
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_2", /*message*/"너만의 신부");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_1", /*message*/"사랑받고 싶은 아가씨");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_2", /*message*/"부끄럼쟁이의 시선");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_1", /*message*/"세상에서 제일 귀여운 여자아이는 누구?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_2", /*message*/"나의 기사님");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_1", /*message*/"당신과 꽃밭에서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_2", /*message*/"어디까지나 함께");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_1", /*message*/"아름다운 밤에");
@@ -2988,6 +2994,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_1", /*message*/"따
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"행복을 나눠줄게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"신발 던지기 놀이를 하자");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"비밀의 화원?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"사랑스러운 너");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"조용한 열정");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"꽃의 소녀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"잔잔해지는 마음");
@@ -3049,6 +3056,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"최
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"잠이 오는 옷");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"손과 손을 마주 잡고");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"내가 가장 사랑하는 것☆");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072003_1", /*message*/"아직 익숙하지 않아서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"얼음으로 맺은 인연");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"열혈 MC");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082001_1", /*message*/"빵 천국");

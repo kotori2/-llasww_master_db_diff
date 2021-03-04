@@ -8,3 +8,9 @@ INSERT INTO `m_training_tree_card_passive_skill_increase` VALUES (/*id*/1, /*tra
 INSERT INTO `m_training_tree_card_passive_skill_increase` VALUES (/*id*/1, /*training_content_no*/2, /*position*/1);
 INSERT INTO `m_training_tree_card_passive_skill_increase` VALUES (/*id*/1, /*training_content_no*/3, /*position*/1);
 INSERT INTO `m_training_tree_card_passive_skill_increase` VALUES (/*id*/1, /*training_content_no*/4, /*position*/1);
+INSERT INTO `m_training_tree_card_passive_skill_increase` VALUES (/*id*/2, /*training_content_no*/1, /*position*/1);
+INSERT INTO `m_training_tree_card_passive_skill_increase` VALUES (/*id*/2, /*training_content_no*/2, /*position*/1);
+INSERT INTO `m_training_tree_card_passive_skill_increase` VALUES (/*id*/2, /*training_content_no*/3, /*position*/1);
+INSERT INTO `m_training_tree_card_passive_skill_increase` VALUES (/*id*/2, /*training_content_no*/4, /*position*/1);
+INSERT INTO `m_training_tree_card_passive_skill_increase` VALUES (/*id*/2, /*training_content_no*/5, /*position*/1);
+INSERT INTO `m_training_tree_card_passive_skill_increase` VALUES (/*id*/2, /*training_content_no*/6, /*position*/1);

@@ -20,6 +20,10 @@ INSERT INTO `m_coop_live_award` VALUES (/*id*/4000801, /*live_id*/40008, /*weigh
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4000802, /*live_id*/40008, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4000803, /*live_id*/40008, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4000804, /*live_id*/40008, /*weight*/1, /*award_type*/5, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4001101, /*live_id*/40011, /*weight*/0, /*award_type*/2, /*content_group_id*/60000004);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4001102, /*live_id*/40011, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4001103, /*live_id*/40011, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4001104, /*live_id*/40011, /*weight*/1, /*award_type*/5, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4001401, /*live_id*/40014, /*weight*/0, /*award_type*/2, /*content_group_id*/60000004);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4001402, /*live_id*/40014, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4001403, /*live_id*/40014, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);

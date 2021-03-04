@@ -183,7 +183,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"이벤트 이용 방법 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_2", /*message*/"이벤트 이용 방법 2");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003", /*message*/"이벤트 이용 방법 3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_2", /*message*/"이벤트 이용 방법 3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_004", /*message*/"이벤트 이용 방법 4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_004_2", /*message*/"이벤트 이용 방법 4");
@@ -195,7 +194,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_2", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_3", /*message*/"이벤트 이용 방법 3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_001", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_002", /*message*/"이벤트 이용 방법 2");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_003", /*message*/"이벤트 이용 방법 3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_004", /*message*/"이벤트 이용 방법 4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_005", /*message*/"이벤트 이용 방법 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_006", /*message*/"이벤트 이용 방법 6");

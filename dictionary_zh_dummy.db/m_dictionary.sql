@@ -183,7 +183,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"活動規則 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"活動規則 2/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_2", /*message*/"活動規則 2/5");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003", /*message*/"活動規則 3/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_2", /*message*/"活動規則 3/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_004", /*message*/"活動規則 4/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_004_2", /*message*/"活動規則 4/5");
@@ -195,7 +194,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_2", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_3", /*message*/"活動規則 3/3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_001", /*message*/"活動規則 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_002", /*message*/"活動規則 2/6");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_003", /*message*/"活動規則 3/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_004", /*message*/"活動規則 4/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_005", /*message*/"活動規則 5/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_006", /*message*/"活動規則 6/6");

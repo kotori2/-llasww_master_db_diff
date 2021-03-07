@@ -43,6 +43,7 @@ INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§f
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§{;");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§4`.");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§<=");
+INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§1!A", /*dependency*/"§`s@");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§F]-", /*dependency*/"§OdT");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§gtW", /*dependency*/"§P!g");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§3Go", /*dependency*/"§pnO");

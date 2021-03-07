@@ -3,6 +3,11 @@ CREATE TABLE live_prop_skeleton_dependency(
   dependency TEXT NOT NULL,
   PRIMARY KEY (asset_path, dependency)
 );
+INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"P9&", /*dependency*/"§v;x");
+INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"P9&", /*dependency*/"§%%1");
+INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"P9&", /*dependency*/"§^xP");
+INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"P9&", /*dependency*/"§R'Q");
+INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"P9&", /*dependency*/"§`s@");
 INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"O3i", /*dependency*/"§?D#");
 INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"O3i", /*dependency*/"§8X8");
 INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"XZZ", /*dependency*/"§n8#");

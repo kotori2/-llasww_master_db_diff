@@ -3311,6 +3311,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_additional_rewards"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_1", /*message*/"Special costume practice set: Ayumu Uehara");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_2", /*message*/"Special costume practice set: Kasumi Nakasu");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_3", /*message*/"Special costume practice set: Setsuna Yuki");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_4", /*message*/"Special costume practice set: Ai Miyashita");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"Use the items you obtain to <color value=\"#ffa800\">Practice</color> and unlock new costumes, Idolize school idols, or gain other power ups.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"Practice Items Gained");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_900001", /*message*/"These special stories are to celebrate the broadcast of the TV anime! Enjoy them alongside the anime story!");
@@ -3318,9 +3319,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"You and Ayumu, your childhood friend, are out walking around town one day when you&apos;re reminded of a past memory.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"Kasumi is the first to arrive at the clubroom one day. Waiting on her own, she remembers back to when she was the sole person holding down the fort to protect the club.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*message*/"Setsuna finds herself alone in the clubroom and picks up the practice notebook she kept when the club consisted of only five members. She appears to have regrets about her actions back then.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"Ai and Rina have always been good friends, even before joining the club. During a conversation with Ayumu, old memories of Rina are brought up.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"All of Our Memories");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"I&apos;ll Have Faith and Wait!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"Setsuna&apos;s Notebook");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"Show Us Your Smile!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"A Dream Realized Together");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"Unreasonable Demands?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"School Idol Festival Getaway!");

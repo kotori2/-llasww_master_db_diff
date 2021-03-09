@@ -3323,6 +3323,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_additional_rewards"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_1", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ อุเอฮาระ อายูมุ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_2", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ นากาสึ คาสึมิ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_3", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ ยูกิ เซ็ตสึนะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_4", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ มิยาชิตะ ไอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"สามารถนำไอเท็มที่ได้รับไป<color value=\"#ffa800\">ฝึกพิเศษ</color>
 เพื่อรับชุดใหม่ แปลงการ์ดสคูลไอดอล และปลดล็อกต่างๆ ได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"ได้รับไอเท็มฝึกพิเศษ");
@@ -3339,9 +3340,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*mes
 เธอถือสมุดจดการซ้อมสมัยทำกิจกรรม
 ชมรมกัน 5 คนเอาไว้ เซ็ตสึนะดูจะเสียใจ
 กับการกระทำของตัวเองในตอนนั้น...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"ไอกับรินะสนิทกันตั้งแต่ก่อนเข้าชมรม
+ระหว่างที่ไอคุยกับอายูมุ เธอก็นึกถึงเรื่อง
+ของรินะก่อนเข้าชมรมขึ้นมา");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"ไม่ว่าความทรงจำแบบไหน...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"รออย่างเชื่อมั่นเลยนะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"สมุดจดของเซ็ตสึนะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"ขอดูรอยยิ้มหน่อยสิ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"เรื่องราวที่ทำให้เป็นจริงได้กับทุกคน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"ข้อเรียกร้องที่เป็นไปไม่ได้ของประธานนักเรียนคนใหม่!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"เข้าค่าย 3 โรงเรียน!

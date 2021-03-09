@@ -10,3 +10,4 @@ CREATE TABLE m_story_linkage_cell_additional_reward(
 INSERT INTO `m_story_linkage_cell_additional_reward` VALUES (/*story_linkage_cell_master_id*/9000001, /*content_type*/3, /*content_id*/402013001, /*content_amount*/1, /*display_order*/1);
 INSERT INTO `m_story_linkage_cell_additional_reward` VALUES (/*story_linkage_cell_master_id*/9000002, /*content_type*/3, /*content_id*/302023001, /*content_amount*/1, /*display_order*/1);
 INSERT INTO `m_story_linkage_cell_additional_reward` VALUES (/*story_linkage_cell_master_id*/9000003, /*content_type*/3, /*content_id*/302073001, /*content_amount*/1, /*display_order*/1);
+INSERT INTO `m_story_linkage_cell_additional_reward` VALUES (/*story_linkage_cell_master_id*/9000004, /*content_type*/3, /*content_id*/402053001, /*content_amount*/1, /*display_order*/1);

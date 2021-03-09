@@ -3316,6 +3316,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_additional_rewards"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_1", /*message*/"우에하라 아유무 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_2", /*message*/"나카스 카스미 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_3", /*message*/"유키 세츠나 신규 의상 획득 특훈 세트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_4", /*message*/"미야시타 아이 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"획득한 아이템을 사용해 <color value=\"#ffa800\">특훈</color>을 하면
 신규 의상 획득, 스쿨 아이돌 각성 등이 가능합니다");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"특훈 아이템 획득");
@@ -3324,9 +3325,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"　소꿉친구인 아유무와 당신은 어느 날, 거리를 걷다 옛날 일을 떠올리는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"　어느 날, 일등으로 부실에 온 카스미. 홀로 부실에 있으니 외롭게 동호회를 지키던 시절이 떠올랐다….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*message*/"　부실에 오니 세츠나가 다섯 명이서 동호회 활동을 할 때 쓰던 연습 노트를 들고 있었다. 세츠나는 그때 자신이 했던 행동을 후회하는 모양인데….　");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"　동호회에 가입하기 전부터 사이가 좋았던 아이와 리나. 아이는 아유무와 대화하던 중 리나와의 추억을 떠올린다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"어떤 추억도….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"믿고 기다릴 거야!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"세츠나의 노트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"웃는 얼굴을 보여 줘!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"모두 함께 이뤄가는 이야기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"새 학생회장의 어려운 요구!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"스쿠페스를 위해!

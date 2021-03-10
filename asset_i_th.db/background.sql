@@ -9,6 +9,7 @@ CREATE TABLE background(
 );
 INSERT INTO `background` VALUES (/*asset_path*/"}[h", /*pack_name*/"tceai5", /*head*/54850, /*size*/814977, /*key1*/-1224846472, /*key2*/-1193278191);
 INSERT INTO `background` VALUES (/*asset_path*/"JwO", /*pack_name*/"cox8v7", /*head*/1988343, /*size*/1437712, /*key1*/1421138423, /*key2*/810545260);
+INSERT INTO `background` VALUES (/*asset_path*/"n_Y", /*pack_name*/"z5zdw6", /*head*/53796, /*size*/1467018, /*key1*/-1358445735, /*key2*/-746824405);
 INSERT INTO `background` VALUES (/*asset_path*/"uFV", /*pack_name*/"fpb9on", /*head*/52749, /*size*/872999, /*key1*/1878082012, /*key2*/-32400287);
 INSERT INTO `background` VALUES (/*asset_path*/"*Au", /*pack_name*/"0ncu7h", /*head*/0, /*size*/961529, /*key1*/-1027139613, /*key2*/2031436318);
 INSERT INTO `background` VALUES (/*asset_path*/"T1-", /*pack_name*/"8ulbd6", /*head*/120776, /*size*/775382, /*key1*/404372641, /*key2*/-1049516230);

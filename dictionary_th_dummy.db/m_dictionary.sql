@@ -3,6 +3,7 @@ CREATE TABLE m_dictionary(
   message TEXT NOT NULL,
   PRIMARY KEY (id)
 );
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_003001_00", /*message*/"ศาลเจ้าคันดะ (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_013002_00", /*message*/"โรงเรียนสตรีอุระโนะโฮชิ หน้าป้ายรถเมล์ไปโรงเรียน (ตอนเช้า)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"หอประชุมโรงเรียนนิจิกะซากิ (ปิดไฟ・กลางคืน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_022012_01", /*message*/"ห้องเซ็ตสึนะ (คริสต์มาส・กลางวัน)");

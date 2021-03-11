@@ -241,6 +241,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000177", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000178", /*message*/"라이브 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000179", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000180", /*message*/"로그인 보너스 받기");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000181", /*message*/"Hop? Stop? Nonstop! 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000182", /*message*/"라이브 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000183", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Bokura wa Ima no Naka de 1회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"이벤트 포인트 900 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"라이브 5회 클리어");
@@ -1495,6 +1498,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006202", /*message*/"[스쿨 아이돌 페스티벌 제2부 과제!] SUPER NOVA 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006203", /*message*/"[스쿨 아이돌 페스티벌 제2부 과제!] Sing &amp; Smile!! 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006204", /*message*/"[스쿨 아이돌 페스티벌 제2부 과제!] Dream Land! Dream World! 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006301", /*message*/"[스쿨 아이돌 페스티벌 제3부 과제!] 빅 라이브에서 상을 1회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006302", /*message*/"[스쿨 아이돌 페스티벌 제3부 과제!] Angelic Angel 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006303", /*message*/"[스쿨 아이돌 페스티벌 제3부 과제!] Hop? Stop? Nonstop! 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006304", /*message*/"[스쿨 아이돌 페스티벌 제3부 과제!] TOKIMEKI Runners Chapter 17 Ver. 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006501", /*message*/"[らっきー☆チケットプレゼント課題！] 유저 Rank 10 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006502", /*message*/"[らっきー☆チケットプレゼント課題！] 유저 Rank 20 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006503", /*message*/"[らっきー☆チケットプレゼント課題！] 유저 Rank 30 달성");
@@ -1502,6 +1509,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006505", /*message*/"[らっきー☆チケットプレゼント課題！] 유저 Rank 50 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006506", /*message*/"[らっきー☆チケットプレゼント課題！] 유저 Rank 60 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006507", /*message*/"[らっきー☆チケットプレゼント課題！] 유저 Rank 70 달성");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006518", /*message*/"[라이브 개최 기념] 스토리 22장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[캠페인 특별 과제] Beautiful Moonlight 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -1983,6 +1992,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400325", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400326", /*message*/"Jingle Bells ga Tomaranai 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400327", /*message*/"Jingle Bells ga Tomaranai 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400328", /*message*/"Jingle Bells ga Tomaranai 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400335", /*message*/"Beautiful Moonlight 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400336", /*message*/"Beautiful Moonlight 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400337", /*message*/"Beautiful Moonlight 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");

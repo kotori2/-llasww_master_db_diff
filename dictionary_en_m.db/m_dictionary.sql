@@ -236,6 +236,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000177", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000178", /*message*/"Clear a Live Show: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000179", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000180", /*message*/"Collect your login bonus.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000181", /*message*/"Play &quot;Hop? Stop? Nonstop!&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000182", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000183", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"Gain 900 event points.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"Clear a Live Show: x5");
@@ -1490,6 +1493,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006202", /*message*/"[School Idol Festival Set 2 Goal] Clear &quot;SUPER NOVA&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006203", /*message*/"[School Idol Festival Set 2 Goal] Clear &quot;Sing &amp; Smile!!&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006204", /*message*/"[School Idol Festival Set 2 Goal] Clear &quot;Dream Land! Dream World!&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006301", /*message*/"[School Idol Festival Set 3 Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006302", /*message*/"[School Idol Festival Set 3 Goal] Clear &quot;Angelic Angel&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006303", /*message*/"[School Idol Festival Set 3 Goal] Clear &quot;Hop? Stop? Nonstop!&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006304", /*message*/"[School Idol Festival Set 3 Goal] Clear &quot;TOKIMEKI Runners Chapter 17 Ver.&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006501", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 10.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006502", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 20.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006503", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 30.");
@@ -1497,6 +1504,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006505", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 50.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006506", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 60.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006507", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 70.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006518", /*message*/"[Live Show Celebration] Finish Story Chapter 22.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[Special Campaign Goals] Clear &quot;Beautiful Moonlight&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -1978,6 +1987,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400325", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400326", /*message*/"Clear &quot;Jingle Bells ga Tomaranai&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400327", /*message*/"Clear &quot;Jingle Bells ga Tomaranai&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400328", /*message*/"Clear &quot;Jingle Bells ga Tomaranai&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400335", /*message*/"Clear &quot;Beautiful Moonlight&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400336", /*message*/"Clear &quot;Beautiful Moonlight&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400337", /*message*/"Clear &quot;Beautiful Moonlight&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

@@ -243,6 +243,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000177", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000178", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000179", /*message*/"ซ้อม 2 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000180", /*message*/"รับล็อกอินโบนัส");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000181", /*message*/"เล่น &quot;Hop? Stop? Nonstop!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000182", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000183", /*message*/"ซ้อม 2 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"เล่น &quot;Bokura wa Ima no Naka de&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
@@ -1501,6 +1504,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006202", /*message*/"[การบ้านสคูลไอดอลเฟสติวัลส่วนที่ 2!] เคลียร์ &quot;SUPER NOVA&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006203", /*message*/"[การบ้านสคูลไอดอลเฟสติวัลส่วนที่ 2!] เคลียร์ &quot;Sing &amp; Smile!!&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006204", /*message*/"[การบ้านสคูลไอดอลเฟสติวัลส่วนที่ 2!] เคลียร์ &quot;Dream Land! Dream World!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006301", /*message*/"[การบ้านสคูลไอดอลเฟสติวัลส่วนที่ 3!] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006302", /*message*/"[การบ้านสคูลไอดอลเฟสติวัลส่วนที่ 3!] เคลียร์ &quot;Angelic Angel&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006303", /*message*/"[การบ้านสคูลไอดอลเฟสติวัลส่วนที่ 3!] เคลียร์ &quot;Hop? Stop? Nonstop!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006304", /*message*/"[การบ้านสคูลไอดอลเฟสติวัลส่วนที่ 3!] เคลียร์ &quot;TOKIMEKI Runners Chapter 17 Ver.&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006501", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006502", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 20");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006503", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 30");
@@ -1508,6 +1515,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006505", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006506", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 60");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006507", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 70");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006518", /*message*/"[ฉลองจัดไลฟ์] เคลียร์สตอรี่ 22 บท");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Beautiful Moonlight&quot; 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -1989,6 +1998,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400325", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400326", /*message*/"เคลียร์ &quot;Jingle Bells ga Tomaranai&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400327", /*message*/"เคลียร์ &quot;Jingle Bells ga Tomaranai&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400328", /*message*/"เคลียร์ &quot;Jingle Bells ga Tomaranai&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400335", /*message*/"เคลียร์ &quot;Beautiful Moonlight&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400336", /*message*/"เคลียร์ &quot;Beautiful Moonlight&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400337", /*message*/"เคลียร์ &quot;Beautiful Moonlight&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

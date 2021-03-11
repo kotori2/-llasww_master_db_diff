@@ -236,6 +236,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000177", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000178", /*message*/"完成5場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000179", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000180", /*message*/"領取登入獎勵");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000181", /*message*/"遊玩1次「Hop? Stop? Nonstop!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000182", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000183", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"遊玩1次「Bokura wa Ima no Naka de」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"獲得900點活動集點");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"完成5場LIVE");
@@ -1490,6 +1493,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006202", /*message*/"[學園偶像祭 第二部課題]完成1次「SUPER NOVA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006203", /*message*/"[學園偶像祭 第二部課題]完成1次「Sing &amp; Smile!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006204", /*message*/"[學園偶像祭 第二部課題]完成1次「Dream Land! Dream World!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006301", /*message*/"[學園偶像祭 第三部課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006302", /*message*/"[學園偶像祭 第三部課題]完成1次「Angelic Angel」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006303", /*message*/"[學園偶像祭 第三部課題]完成1次「Hop? Stop? Nonstop!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006304", /*message*/"[學園偶像祭 第三部課題]完成1次「TOKIMEKI Runners Chapter 17 Ver.」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006501", /*message*/"[らっきー☆チケットプレゼント課題！] 把玩家RANK提升到10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006502", /*message*/"[らっきー☆チケットプレゼント課題！] 把玩家RANK提升到20");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006503", /*message*/"[らっきー☆チケットプレゼント課題！] 把玩家RANK提升到30");
@@ -1497,6 +1504,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006505", /*message*/"[らっきー☆チケットプレゼント課題！] 把玩家RANK提升到50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006506", /*message*/"[らっきー☆チケットプレゼント課題！] 把玩家RANK提升到60");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006507", /*message*/"[らっきー☆チケットプレゼント課題！] 把玩家RANK提升到70");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006518", /*message*/"[演唱會開演紀念]觀賞完第22章劇情");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[活動特別課題]完成3次「Beautiful Moonlight」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -1978,6 +1987,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400325", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400326", /*message*/"完成10次「Jingle Bells ga Tomaranai」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400327", /*message*/"完成50次「Jingle Bells ga Tomaranai」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400328", /*message*/"完成100次「Jingle Bells ga Tomaranai」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400335", /*message*/"完成10次「Beautiful Moonlight」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400336", /*message*/"完成50次「Beautiful Moonlight」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400337", /*message*/"完成100次「Beautiful Moonlight」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

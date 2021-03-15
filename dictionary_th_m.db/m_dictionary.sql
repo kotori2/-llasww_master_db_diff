@@ -1517,6 +1517,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006506", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006507", /*message*/"[らっきー☆チケットプレゼント課題！] ผู้เล่นถึง Rank 70");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006518", /*message*/"[ฉลองจัดไลฟ์] เคลียร์สตอรี่ 22 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Beautiful Moonlight&quot; 3 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Cheer for you!!&quot; 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -2001,6 +2002,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400328", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400335", /*message*/"เคลียร์ &quot;Beautiful Moonlight&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400336", /*message*/"เคลียร์ &quot;Beautiful Moonlight&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400337", /*message*/"เคลียร์ &quot;Beautiful Moonlight&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400338", /*message*/"เคลียร์ &quot;Cheer for you!!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400339", /*message*/"เคลียร์ &quot;Cheer for you!!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400340", /*message*/"เคลียร์ &quot;Cheer for you!!&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

@@ -1506,6 +1506,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006506", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006507", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 70.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006518", /*message*/"[Live Show Celebration] Finish Story Chapter 22.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[Special Campaign Goals] Clear &quot;Beautiful Moonlight&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[Special Campaign Goals] Clear &quot;Cheer for you!!&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -1990,6 +1991,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400328", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400335", /*message*/"Clear &quot;Beautiful Moonlight&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400336", /*message*/"Clear &quot;Beautiful Moonlight&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400337", /*message*/"Clear &quot;Beautiful Moonlight&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400338", /*message*/"Clear &quot;Cheer for you!!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400339", /*message*/"Clear &quot;Cheer for you!!&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400340", /*message*/"Clear &quot;Cheer for you!!&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

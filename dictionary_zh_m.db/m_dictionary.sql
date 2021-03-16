@@ -3046,6 +3046,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"讓
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042001_1", /*message*/"最棒的知己");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042002_1", /*message*/"微笑最重要！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042003_1", /*message*/"以後也要一起向前邁進");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042004_1", /*message*/"送給親愛妹妹的禮物");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_1", /*message*/"你的願望是？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_2", /*message*/"可愛就是可愛！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"真讓人安心！");
@@ -3078,6 +3079,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_1", /*message*/"每
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_2", /*message*/"秘密女僕");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013002_1", /*message*/"游池和泳圈的回憶");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013002_2", /*message*/"給你的禮物");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013003_1", /*message*/"我會陪在你身邊的");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013003_2", /*message*/"如同非洲菊般");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"慰勞品是特製麵包！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"找到必勝服了！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"尋求最棒的禮物");
@@ -3352,6 +3355,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_2", /*message*/"中須霞 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_3", /*message*/"優木雪菜 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_4", /*message*/"宮下愛 新服裝解鎖特訓套組");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_5", /*message*/"艾瑪・薇蒂 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"使用獲得的道具來進行<color value=\"#ffa800\">特訓</color>，
 即可獲得新服裝、使學園偶像覺醒等。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"獲得特訓道具");
@@ -3375,10 +3379,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*mes
 在和步夢聊天時，
 愛想起了自己和璃奈
 加入同好會前的事。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_5", /*message*/"艾瑪和彼方一起打掃社團教室時，
+彼方向艾瑪詢問了
+她總是很照顧果林的原因……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"無論是什麼樣的回憶都……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"相信並等待！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"雪菜的筆記本");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"展現你的笑容！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_5", /*message*/"樂於照顧人的秘密");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"大家合力實現夢想");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"新學生會長出的刁難課題！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"目標學園偶像祭！

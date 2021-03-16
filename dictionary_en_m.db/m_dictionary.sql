@@ -3046,6 +3046,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"Rel
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042001_1", /*message*/"Who Understands Me Most");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042002_1", /*message*/"Smiles Are Important!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042003_1", /*message*/"Together, Now and Always");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042004_1", /*message*/"To My Beloved Little Sister");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_1", /*message*/"What&apos;s Your Wish?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_2", /*message*/"Cute Is Cute!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"Reassuring!");
@@ -3078,6 +3079,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_1", /*message*/"Pou
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_2", /*message*/"Secret Maid");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013002_1", /*message*/"Memories of Pools and Inner Tubes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013002_2", /*message*/"Present for You");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013003_1", /*message*/"I&apos;ll Be by Your Side");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013003_2", /*message*/"Just like a Gerbera");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"Special Bread Rolls For All!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"Victory Clothes Acquired!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"In Search of the Perfect Present");
@@ -3352,6 +3355,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_2", /*message*/"Special costume practice set: Kasumi Nakasu");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_3", /*message*/"Special costume practice set: Setsuna Yuki");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_4", /*message*/"Special costume practice set: Ai Miyashita");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_5", /*message*/"Special costume practice set: Emma Verde");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"Use the items you obtain to <color value=\"#ffa800\">Practice</color> and unlock new costumes, Idolize school idols, or gain other power ups.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"Practice Items Gained");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_900001", /*message*/"These special stories are to celebrate the broadcast of the TV anime! Enjoy them alongside the anime story!");
@@ -3360,10 +3364,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"Kasumi is the first to arrive at the clubroom one day. Waiting on her own, she remembers back to when she was the sole person holding down the fort to protect the club.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*message*/"Setsuna finds herself alone in the clubroom and picks up the practice notebook she kept when the club consisted of only five members. She appears to have regrets about her actions back then.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"Ai and Rina have always been good friends, even before joining the club. During a conversation with Ayumu, old memories of Rina are brought up.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_5", /*message*/"Emma and Kanata are cleaning the clubroom together when Kanata asks Emma why she is always looking out for Karin.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"All of Our Memories");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"I&apos;ll Have Faith and Wait!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"Setsuna&apos;s Notebook");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"Show Us Your Smile!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_5", /*message*/"Why I Love Helping Others");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"A Dream Realized Together");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"Unreasonable Demands?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"School Idol Festival Getaway!");

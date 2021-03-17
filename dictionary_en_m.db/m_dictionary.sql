@@ -1505,6 +1505,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006505", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006506", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 60.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006507", /*message*/"[らっきー☆チケットプレゼント課題！] Reach Player Rank 70.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006518", /*message*/"[Live Show Celebration] Finish Story Chapter 22.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006601", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006602", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006603", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[Special Campaign Goals] Clear &quot;Beautiful Moonlight&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[Special Campaign Goals] Clear &quot;Cheer for you!!&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
@@ -1536,6 +1539,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004_000", /*message*/"Dream Live Parade μ&apos;s");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005", /*message*/"2020カウントダウンライブ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005_000", /*message*/"2020カウントダウンライブ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006", /*message*/"Dream Live Parade: R on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006_000", /*message*/"Dream Live Parade: R on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");

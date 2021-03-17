@@ -1505,6 +1505,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006505", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006506", /*message*/"[らっきー☆チケットプレゼント課題！] 把玩家RANK提升到60");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006507", /*message*/"[らっきー☆チケットプレゼント課題！] 把玩家RANK提升到70");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006518", /*message*/"[演唱會開演紀念]觀賞完第22章劇情");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006601", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006602", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006603", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[活動特別課題]完成3次「Beautiful Moonlight」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[活動特別課題]完成3次「Cheer for you!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
@@ -1536,6 +1539,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004_000", /*message*/"夢幻遊行演唱會～μ&apos;s～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005", /*message*/"2020カウントダウンライブ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005_000", /*message*/"2020カウントダウンライブ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006", /*message*/"夢幻遊行演唱會～稀有度R亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006_000", /*message*/"夢幻遊行演唱會～稀有度R亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");

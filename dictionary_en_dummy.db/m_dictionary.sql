@@ -3,6 +3,7 @@ CREATE TABLE m_dictionary(
   message TEXT NOT NULL,
   PRIMARY KEY (id)
 );
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001003_00", /*message*/"Otonokizaka High School Courtyard (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_003001_00", /*message*/"Kanda Shrine (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_013002_00", /*message*/"Uranohoshi Girls&apos; High School Route Bus Stop (Clear Morning)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"Nijigasaki High School Auditorium (Night: Lights Out)");
@@ -206,6 +207,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"Event Rules 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"Event Rules 2/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_2", /*message*/"Event Rules 2/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003", /*message*/"Event Rules 3/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_2", /*message*/"Event Rules 3/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_004", /*message*/"Event Rules 4/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_004_2", /*message*/"Event Rules 4/5");
@@ -217,6 +219,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_2", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_3", /*message*/"Event Rules 3/3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_001", /*message*/"Event Rules 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_002", /*message*/"Event Rules 2/6");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_003", /*message*/"Event Rules 3/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_004", /*message*/"Event Rules 4/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_005", /*message*/"Event Rules 5/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_006", /*message*/"Event Rules 6/6");

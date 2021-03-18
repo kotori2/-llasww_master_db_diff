@@ -10,6 +10,7 @@ CREATE TABLE m_custom_background(
   FOREIGN KEY (background_id) REFERENCES m_background(id)
 );
 INSERT INTO `m_custom_background` VALUES (/*id*/100100200, /*background_id*/100100200, /*name*/"k.bg01_001002_00", /*thumbnail_asset_path*/"\z", /*release_route*/2, /*release_value*/0, /*display_order*/1);
+INSERT INTO `m_custom_background` VALUES (/*id*/100100300, /*background_id*/100100300, /*name*/"dummy.bg01_001003_00", /*thumbnail_asset_path*/"\M,", /*release_route*/2, /*release_value*/0, /*display_order*/44);
 INSERT INTO `m_custom_background` VALUES (/*id*/100100400, /*background_id*/100100400, /*name*/"k.bg01_001004_00", /*thumbnail_asset_path*/"9a", /*release_route*/2, /*release_value*/0, /*display_order*/8);
 INSERT INTO `m_custom_background` VALUES (/*id*/100200100, /*background_id*/100200100, /*name*/"k.bg01_002001_00", /*thumbnail_asset_path*/"s&[", /*release_route*/2, /*release_value*/0, /*display_order*/13);
 INSERT INTO `m_custom_background` VALUES (/*id*/101100100, /*background_id*/101100100, /*name*/"k.bg01_011001_00", /*thumbnail_asset_path*/"\1", /*release_route*/2, /*release_value*/0, /*display_order*/3);

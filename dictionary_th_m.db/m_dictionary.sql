@@ -2029,6 +2029,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400337", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400338", /*message*/"เคลียร์ &quot;Cheer for you!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400339", /*message*/"เคลียร์ &quot;Cheer for you!!&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400340", /*message*/"เคลียร์ &quot;Cheer for you!!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400341", /*message*/"เคลียร์ &quot;Love Triangle&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400342", /*message*/"เคลียร์ &quot;Love Triangle&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400343", /*message*/"เคลียร์ &quot;Love Triangle&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

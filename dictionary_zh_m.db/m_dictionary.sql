@@ -2018,6 +2018,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400337", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400338", /*message*/"完成10次「Cheer for you!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400339", /*message*/"完成50次「Cheer for you!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400340", /*message*/"完成100次「Cheer for you!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400341", /*message*/"完成10次「Love Triangle」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400342", /*message*/"完成50次「Love Triangle」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400343", /*message*/"完成100次「Love Triangle」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

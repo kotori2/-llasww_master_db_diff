@@ -2023,6 +2023,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400337", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400338", /*message*/"Cheer for you!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400339", /*message*/"Cheer for you!! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400340", /*message*/"Cheer for you!! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400341", /*message*/"Love Triangle 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400342", /*message*/"Love Triangle 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400343", /*message*/"Love Triangle 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");

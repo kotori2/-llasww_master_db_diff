@@ -2018,6 +2018,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400337", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400338", /*message*/"Clear &quot;Cheer for you!!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400339", /*message*/"Clear &quot;Cheer for you!!&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400340", /*message*/"Clear &quot;Cheer for you!!&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400341", /*message*/"Clear &quot;Love Triangle&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400342", /*message*/"Clear &quot;Love Triangle&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400343", /*message*/"Clear &quot;Love Triangle&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

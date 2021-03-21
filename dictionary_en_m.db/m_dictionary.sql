@@ -239,6 +239,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000180", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000181", /*message*/"Play &quot;Hop? Stop? Nonstop!&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000182", /*message*/"Clear a Live Show: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000183", /*message*/"Perform Training a total of 2 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000184", /*message*/"Play &quot;Hop? Stop? Nonstop!&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000185", /*message*/"Gain 900 event points.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000186", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000187", /*message*/"Perform Training a total of 2 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000188", /*message*/"Collect your login bonus.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"Gain 900 event points.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"Clear a Live Show: x5");
@@ -1527,6 +1532,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006518", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006601", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006602", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006603", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006701", /*message*/"[TVアニメオリジナルサウンドトラック発売記念課題！]  Play a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006702", /*message*/"[TVアニメオリジナルサウンドトラック発売記念課題！]  Play a Live Show: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[Special Campaign Goals] Clear &quot;Beautiful Moonlight&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[Special Campaign Goals] Clear &quot;Cheer for you!!&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007402", /*message*/"[Special Campaign Goals] Clear &quot;Love Triangle&quot;: x3");

@@ -244,6 +244,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000180", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000181", /*message*/"Hop? Stop? Nonstop! 1회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000182", /*message*/"라이브 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000183", /*message*/"합숙 2회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000184", /*message*/"Hop? Stop? Nonstop! 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000185", /*message*/"이벤트 포인트 900 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000186", /*message*/"라이브 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000187", /*message*/"합숙 2회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000188", /*message*/"로그인 보너스 받기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"Bokura wa Ima no Naka de 1회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"이벤트 포인트 900 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"라이브 5회 클리어");
@@ -1532,6 +1537,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006518", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006601", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006602", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006603", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006701", /*message*/"[TVアニメオリジナルサウンドトラック発売記念課題！]  라이브 5회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006702", /*message*/"[TVアニメオリジナルサウンドトラック発売記念課題！]  라이브 10회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[캠페인 특별 과제] Beautiful Moonlight 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[캠페인 특별 과제] Cheer for you!! 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007402", /*message*/"[캠페인 특별 과제] Love Triangle 3회 클리어");

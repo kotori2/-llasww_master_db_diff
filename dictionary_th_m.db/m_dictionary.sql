@@ -246,6 +246,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000180", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000181", /*message*/"เล่น &quot;Hop? Stop? Nonstop!&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000182", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000183", /*message*/"ซ้อม 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000184", /*message*/"เล่น &quot;Hop? Stop? Nonstop!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000185", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000186", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000187", /*message*/"ซ้อม 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000188", /*message*/"รับล็อกอินโบนัส");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"เล่น &quot;Bokura wa Ima no Naka de&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
@@ -1538,6 +1543,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006518", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006601", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006602", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006603", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006701", /*message*/"[TVアニメオリジナルサウンドトラック発売記念課題！]  เล่นไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006702", /*message*/"[TVアニメオリジナルサウンドトラック発売記念課題！]  เล่นไลฟ์ 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Beautiful Moonlight&quot; 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Cheer for you!!&quot; 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007402", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Love Triangle&quot; 3 ครั้ง");

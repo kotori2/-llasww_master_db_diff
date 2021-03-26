@@ -357,6 +357,9 @@ INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/20004300
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200043001, /*activate_num*/69, /*display_order*/0, /*content_type*/7, /*content_id*/200043101, /*content_amount*/1);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200043001, /*activate_num*/69, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200043001, /*activate_num*/87, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200052001, /*activate_num*/40, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200052001, /*activate_num*/59, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200052001, /*activate_num*/75, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200053001, /*activate_num*/46, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200053001, /*activate_num*/69, /*display_order*/0, /*content_type*/7, /*content_id*/200053101, /*content_amount*/1);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200053001, /*activate_num*/69, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
@@ -375,6 +378,10 @@ INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/20008300
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200093001, /*activate_num*/46, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200093001, /*activate_num*/69, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200093001, /*activate_num*/87, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200093002, /*activate_num*/46, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200093002, /*activate_num*/69, /*display_order*/0, /*content_type*/7, /*content_id*/200093102, /*content_amount*/1);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200093002, /*activate_num*/69, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/200093002, /*activate_num*/87, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201012001, /*activate_num*/40, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201012001, /*activate_num*/59, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201012001, /*activate_num*/75, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
@@ -401,6 +408,10 @@ INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/20104300
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201053001, /*activate_num*/46, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201053001, /*activate_num*/69, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201053001, /*activate_num*/87, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201053002, /*activate_num*/46, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201053002, /*activate_num*/69, /*display_order*/0, /*content_type*/7, /*content_id*/201053102, /*content_amount*/1);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201053002, /*activate_num*/69, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201053002, /*activate_num*/87, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201063001, /*activate_num*/46, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201063001, /*activate_num*/69, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/201063001, /*activate_num*/87, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
@@ -430,6 +441,9 @@ INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/20202300
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/202023002, /*activate_num*/69, /*display_order*/0, /*content_type*/7, /*content_id*/202023102, /*content_amount*/1);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/202023002, /*activate_num*/69, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/202023002, /*activate_num*/87, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/202032001, /*activate_num*/40, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/202032001, /*activate_num*/59, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/202032001, /*activate_num*/75, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/202033001, /*activate_num*/46, /*display_order*/0, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/202033001, /*activate_num*/69, /*display_order*/0, /*content_type*/7, /*content_id*/202033101, /*content_amount*/1);
 INSERT INTO `m_training_tree_progress_reward` VALUES (/*card_master_id*/202033001, /*activate_num*/69, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);

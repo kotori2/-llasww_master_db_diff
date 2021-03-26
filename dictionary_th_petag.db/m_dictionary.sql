@@ -130,6 +130,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9033_empty", /
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9034_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9034_s\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9034_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9034_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9034_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9034_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9035_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9035_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9035_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9035_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_1001_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1001\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_1002_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_1003_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1003\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");

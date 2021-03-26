@@ -1619,3 +1619,4 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20305/tex_banner_gacha_sticker_20305", /*path*/"3p/");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20306/tex_banner_gacha_sticker_20306", /*path*/"7);");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20307/tex_banner_gacha_sticker_20307", /*path*/"#8)");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20308/tex_banner_gacha_sticker_20308", /*path*/"ngy");

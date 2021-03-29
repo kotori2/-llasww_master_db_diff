@@ -16,6 +16,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033011_01", /*message*/"ชาย
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035008_00", /*message*/"สวนสาธารณะ (เล็ก)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035016_00", /*message*/"สวนสนุก (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"ท้องฟ้าจำลอง (มีออโรร่า)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035025_00", /*message*/"ห้องครัว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035031_01", /*message*/"สนามหญ้า (ทุ่งดอกไม้) (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035032_00", /*message*/"ถนนในย่านเมืองเก่า A (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035034_00", /*message*/"ลานสเก็ตน้ำแข็ง (ด้านใน)");

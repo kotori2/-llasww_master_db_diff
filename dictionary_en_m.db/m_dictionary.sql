@@ -1341,7 +1341,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001209", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001210", /*message*/"[A song for You! You? You!! 発売記念！] Clear a Live Show with Nico Yazawa in Show Formation: x5　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001301", /*message*/"[スクフェスシリーズ7周年記念] Clear &quot;Natsuiro Egao de 1, 2, Jump!&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001302", /*message*/"[スクフェスシリーズ7周年記念] Clear &quot;SKY JOURNEY&quot;: x3");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001303", /*message*/"[スクフェスシリーズ7周年記念] Clear &quot;Love U my friends&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001303", /*message*/"[スクフェスシリーズ7周年記念] Clear &quot;Love U my friends(2D)&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001401", /*message*/"[ホワイトデースペシャル課題！] Collect 1 login bonuses during the event.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001402", /*message*/"[ホワイトデースペシャル課題！] Perform Training a total of 3 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001403", /*message*/"[ホワイトデースペシャル課題！] Clear a Live Show: x30");

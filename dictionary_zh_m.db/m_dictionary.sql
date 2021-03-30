@@ -1341,7 +1341,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001209", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001210", /*message*/"[A song for You! You? You!! 発売記念！] 以編入矢澤日香的隊伍完成5場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001301", /*message*/"[スクフェスシリーズ7周年記念] 完成3次「Natsuiro Egao de 1, 2, Jump!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001302", /*message*/"[スクフェスシリーズ7周年記念] 完成3次「SKY JOURNEY」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001303", /*message*/"[スクフェスシリーズ7周年記念] 完成3次「Love U my friends」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001303", /*message*/"[スクフェスシリーズ7周年記念] 完成3次「Love U my friends(2D)」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001401", /*message*/"[ホワイトデースペシャル課題！] 於期間內領取1次登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001402", /*message*/"[ホワイトデースペシャル課題！] 進行3次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001403", /*message*/"[ホワイトデースペシャル課題！] 完成30場LIVE");

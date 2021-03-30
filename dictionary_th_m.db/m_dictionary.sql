@@ -1348,7 +1348,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001209", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001210", /*message*/"[A song for You! You? You!! 発売記念！] จัดยาซาวะ นิโกะเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001301", /*message*/"[スクフェスシリーズ7周年記念] เคลียร์ &quot;Natsuiro Egao de 1, 2, Jump!&quot; 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001302", /*message*/"[スクフェスシリーズ7周年記念] เคลียร์ &quot;SKY JOURNEY&quot; 3 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001303", /*message*/"[スクフェスシリーズ7周年記念] เคลียร์ &quot;Love U my friends&quot; 3 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001303", /*message*/"[スクフェスシリーズ7周年記念] เคลียร์ &quot;Love U my friends(2D)&quot; 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001401", /*message*/"[ホワイトデースペシャル課題！] รับล็อกอินโบนัส 1 ครั้งในเวลาที่กำหนด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001402", /*message*/"[ホワイトデースペシャル課題！] ซ้อม 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001403", /*message*/"[ホワイトデースペシャル課題！] เคลียร์ไลฟ์ 30 ครั้ง");

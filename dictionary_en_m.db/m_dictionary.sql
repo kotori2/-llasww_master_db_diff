@@ -3442,6 +3442,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_4", /*message*/"Special costume practice set: Ai Miyashita");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_5", /*message*/"Special costume practice set: Emma Verde");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_6", /*message*/"Special costume practice set: Rina Tennoji");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_7", /*message*/"Special costume practice set: Kanata Konoe");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"Use the items you obtain to <color value=\"#ffa800\">Practice</color> and unlock new costumes, Idolize school idols, or gain other power ups.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"Practice Items Gained");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_900001", /*message*/"These special stories are to celebrate the broadcast of the TV anime! Enjoy them alongside the anime story!");
@@ -3452,12 +3453,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"Ai and Rina have always been good friends, even before joining the club. During a conversation with Ayumu, old memories of Rina are brought up.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_5", /*message*/"Emma and Kanata are cleaning the clubroom together when Kanata asks Emma why she is always looking out for Karin.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_6", /*message*/"Rina is the first to show up to the clubroom one day. Left on her own for the first time in a while, she remembers back to a time before she had joined the club.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_7", /*message*/"Today is the day of Kanata&apos;s monthly sweets party! How does Kanata react when Shizuku wants to return the favor for all of the delicious desserts she always makes?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"All of Our Memories");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"I&apos;ll Have Faith and Wait!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"Setsuna&apos;s Notebook");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"Show Us Your Smile!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_5", /*message*/"Why I Love Helping Others");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_6", /*message*/"Me Back Then and Now");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_7", /*message*/"The Sweets Party Secret");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"A Dream Realized Together");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"Unreasonable Demands?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"School Idol Festival Getaway!");

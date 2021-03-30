@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"f0d97fda995e4f112b57c5f0e0f9ac2b66d1d499", /*hash*/"cdfa009b4bfd1f977478e00e92e2fb5be7b10d77", /*size*/7270307);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"d6e3ac3be3ab0abadeafd37cf7500429846e47a9", /*hash*/"c89ba0a0c98162d00e016893a8e3bf9eb0fde8ac", /*size*/7270312);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"c64483e7996ad70c5280e11876036943d29dfb65", /*hash*/"bdade0fafa616a8d0d2a40cafb11ac45f99fab7b", /*size*/90277);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_dummy.db", /*keys*/"14d63eaa358172c33caf214bfd4509aa9927b3a8", /*hash*/"0e01a8039f5678f1a4f1ae81874c1ecae085eebf", /*size*/4482);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"88266aab2a8ab443bfe259b45de82434325f38f3", /*hash*/"c807d49d9c1a555ecc00c1b32b40e799c9c3dbaf", /*size*/1060880);
@@ -7,4 +7,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"4d468360
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"eb75f5ace888711efd9ee27b4eeedbf01c4bb0c6", /*size*/729);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_ios.db", /*keys*/"84e143cbcd6120de274e8d33d9e18d85c6461463", /*hash*/"a68558d13a4c5fd6b2e12212680b09dcf8499454", /*size*/44874);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"8e01ac43c3c8051378df54be5f55d0781ba75e20", /*hash*/"5e9d9f41e806859628770fd797e81f53c81afdc5", /*size*/10001);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"42bc5de2ce1fd227d5530fb0a1cd200d17d0f82a", /*hash*/"5df584cdd2c6133eefba6b50f255dbaa44ab614a", /*size*/8276195);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"42bc5de2ce1fd227d5530fb0a1cd200d17d0f82a", /*hash*/"e44eb0ac418d48f06e0dd65cd674aaa1db67fe7b", /*size*/8279726);

@@ -244,6 +244,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000185", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000186", /*message*/"完成5場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000187", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000188", /*message*/"領取登入獎勵");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000189", /*message*/"遊玩1次「Mogyutto &quot;Love&quot; de Sekkinchu!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000190", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000191", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"遊玩1次「Bokura wa Ima no Naka de」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"獲得900點活動集點");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"完成5場LIVE");
@@ -1221,6 +1224,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001414", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001415", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001416", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001417", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001418", /*message*/"於期間內領取3次登入獎勵");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001419", /*message*/"於期間內領取6次登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300101", /*message*/"遊玩10次「Bokura wa Ima no Naka de」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300102", /*message*/"遊玩20次「Bokura wa Ima no Naka de」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300103", /*message*/"遊玩10次LIVE");

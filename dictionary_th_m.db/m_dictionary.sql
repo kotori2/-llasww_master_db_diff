@@ -3460,6 +3460,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_5", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ เอ็มม่า เวอร์เด้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_6", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ เท็นโนจิ รินะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_7", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ โคโนเอะ คานาตะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_8", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ โอซากะ ชิสึคุ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"สามารถนำไอเท็มที่ได้รับไป<color value=\"#ffa800\">ฝึกพิเศษ</color>
 เพื่อรับชุดใหม่ แปลงการ์ดสคูลไอดอล และปลดล็อกต่างๆ ได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"ได้รับไอเท็มฝึกพิเศษ");
@@ -3490,6 +3491,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_7", /*mes
 คานาตะรู้สึกอย่างไรกับชิสึคุที่อยาก
 ตอบแทนคานาตะที่คอยทำขนมอร่อยๆ
 ให้กินกันนะ...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*message*/"วันหนึ่ง จู่ๆ ชิสึคุก็หนีจากการซ้อมไป
+แล้วชิสึคุจะทำอย่างไรกับคาสึมิที่
+เป็นห่วงจนไล่ตามชิสึคุมากัน...?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"ไม่ว่าความทรงจำแบบไหน...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"รออย่างเชื่อมั่นเลยนะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"สมุดจดของเซ็ตสึนะ");
@@ -3497,6 +3501,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_5", /*message*/"ความลับของการเอาใจใส่");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_6", /*message*/"ฉันในตอนนั้น ฉันในตอนนี้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_7", /*message*/"ความลับของปาร์ตี้ขนม");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*message*/"การแสดงที่สมจริง...!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"เรื่องราวที่ทำให้เป็นจริงได้กับทุกคน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"ข้อเรียกร้องที่เป็นไปไม่ได้ของประธานนักเรียนคนใหม่!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"เข้าค่าย 3 โรงเรียน!

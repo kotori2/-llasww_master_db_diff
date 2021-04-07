@@ -1,10 +1,10 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"e13160364329ad8dbe758239488abcc08a9b738b", /*hash*/"a5d21c3db960065a308280f8e8f1b93ad00fee45", /*size*/7274803);
-INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"8e01ac43c3c8051378df54be5f55d0781ba75e20", /*hash*/"5e9d9f41e806859628770fd797e81f53c81afdc5", /*size*/10001);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"82acd4744b20f6235ccfa2a87d95d5533afea5b6", /*hash*/"abb965ec4119d9a8b843b064202be426f90fd300", /*size*/7283715);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_dummy.db", /*keys*/"14d63eaa358172c33caf214bfd4509aa9927b3a8", /*hash*/"0e01a8039f5678f1a4f1ae81874c1ecae085eebf", /*size*/4482);
-INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"f3052f3711b89a6523a1371aa5c88871a0730c82", /*hash*/"9f6961449375995ab194c9ad6c187d687ee76a6d", /*size*/158809);
-INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"eb75f5ace888711efd9ee27b4eeedbf01c4bb0c6", /*size*/729);
+INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"41076fc83e0f72db0a7a60d56bf12b6d622d84d8", /*hash*/"7be303b5e845dbb8468eb5dad9915352b8c16673", /*size*/1065738);
+INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"8e01ac43c3c8051378df54be5f55d0781ba75e20", /*hash*/"5e9d9f41e806859628770fd797e81f53c81afdc5", /*size*/10001);
+INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"d9d9d1baa665817f6fef742ee8419c98b48b5722", /*hash*/"e9dd3e82f6153f70e4763e2720bb752d49e28917", /*size*/157967);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"c64483e7996ad70c5280e11876036943d29dfb65", /*hash*/"bdade0fafa616a8d0d2a40cafb11ac45f99fab7b", /*size*/90277);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_ios.db", /*keys*/"84e143cbcd6120de274e8d33d9e18d85c6461463", /*hash*/"a68558d13a4c5fd6b2e12212680b09dcf8499454", /*size*/44874);
-INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"52dc5b6f01500ce9d477b882b0f9899dc857dc6d", /*hash*/"5fa630437b06dc4af8a65f355daa8ee9807b4c39", /*size*/1062814);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"af8f90737005b72da54944f0c7b56a8c1e11b6e2", /*hash*/"b4b05db403149531895f5eb20921098f638f3c70", /*size*/8322998);
+INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"eb75f5ace888711efd9ee27b4eeedbf01c4bb0c6", /*size*/729);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"7ead37c0bd885be2f8c97b32de5c5936a6b81418", /*hash*/"bf481b289bb23d2531ce2b70cb6033a0f2fa9808", /*size*/8347842);

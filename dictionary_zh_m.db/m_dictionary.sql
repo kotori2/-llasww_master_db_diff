@@ -1297,21 +1297,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000515", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000516", /*message*/"[培育聲援！] 選擇任一名學園偶像進行「特訓」並解鎖至少1個晶格");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000517", /*message*/"[培育聲援！] 選擇任一名學園偶像進行「特訓」並解鎖至少2個晶格");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000518", /*message*/"[培育聲援！] 選擇任一名學園偶像進行「特訓」並解鎖至少3個晶格");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000601", /*message*/"[Guilty Kiss First LOVELIVE! 課題] 使用20次發動成員包含櫻內梨子的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000602", /*message*/"[Guilty Kiss First LOVELIVE! 課題] 使用20次發動成員包含津島善子的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000603", /*message*/"[Guilty Kiss First LOVELIVE! 課題] 使用20次發動成員包含小原鞠莉的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000604", /*message*/"[Guilty Kiss First LOVELIVE! 課題] 完成10次「Strawberry Trapper」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000605", /*message*/"[Guilty Kiss First LOVELIVE! 課題] 完成10次「New Romantic Sailors」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000701", /*message*/"[CYaRon！ First LOVELIVE! 課題] 使用20次發動成員包含高海千歌的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000702", /*message*/"[CYaRon！ First LOVELIVE! 課題] 使用20次發動成員包含渡邊曜的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000703", /*message*/"[CYaRon！ First LOVELIVE! 課題] 使用20次發動成員包含黑澤露比的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000704", /*message*/"[CYaRon！ First LOVELIVE! 課題] 完成10次「Genki Zenkai DAY! DAY! DAY!」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000705", /*message*/"[CYaRon！ First LOVELIVE! 課題] 完成10次「Braveheart Coaster」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000801", /*message*/"[AZALEA First LOVELIVE! 課題] 使用20次發動成員包含松浦果南的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000802", /*message*/"[AZALEA First LOVELIVE! 課題] 使用20次發動成員包含黑澤黛雅的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000803", /*message*/"[AZALEA First LOVELIVE! 課題] 使用20次發動成員包含國木田花丸的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000804", /*message*/"[AZALEA First LOVELIVE! 課題] 完成10次「Torikoriko PLEASE!!」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000805", /*message*/"[AZALEA First LOVELIVE! 課題] 完成10次「Amazing Travel DNA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] 完成5次「SUPER NOVA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] 使用20次發動成員包含宮下愛的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] 使用20次發動成員包含朝香果林的組合技");
@@ -1383,10 +1368,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001816", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001817", /*message*/"[光輝燦爛閃耀假期]完成33場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001818", /*message*/"[光輝燦爛閃耀假期]完成55場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001901", /*message*/"[ライブ応援！ログインボーナス] 於期間內領取9次登入獎勵");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002001", /*message*/"[Guilty Kiss First LOVELIVE! 課題] 完成10次「New Romantic Sailors」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002002", /*message*/"[CYaRon！ First LOVELIVE! 課題] 完成10次「Braveheart Coaster」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002003", /*message*/"[AZALEA First LOVELIVE! 課題] 完成10次「Amazing Travel DNA」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002004", /*message*/"[Aqoursユニットライブ開催記念課題] 完成10次「KOKORO Magic &quot;A to Z&quot;」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002101", /*message*/"[ライブ応援！ログインボーナス] 於期間內領取9次登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002201", /*message*/"[A song for You! You? You!! リリースイベント] 完成10次「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002202", /*message*/"[A song for You! You? You!! リリースイベント] 以編入高坂穗乃果的隊伍完成5場LIVE　※跳略券不適用");
@@ -1401,11 +1382,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002210", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002211", /*message*/"[CD發行紀念]完成1次「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002212", /*message*/"[CD發行紀念]完成2次「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002213", /*message*/"[CD發行紀念]完成3次「A song for You! You? You!!」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002301", /*message*/"[AZALEA First LOVELIVE! 課題] 使用20次發動成員包含松浦果南的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002302", /*message*/"[AZALEA First LOVELIVE! 課題] 使用20次發動成員包含黑澤黛雅的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002303", /*message*/"[AZALEA First LOVELIVE! 課題] 使用20次發動成員包含國木田花丸的組合技");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002304", /*message*/"[AZALEA First LOVELIVE! 課題] 完成10次「Torikoriko PLEASE!!」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002305", /*message*/"[AZALEA First LOVELIVE! 課題] 完成10次「Amazing Travel DNA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002402", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002501", /*message*/"[初夏のスクスタアップデート記念] 完成10場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002502", /*message*/"[初夏のスクスタアップデート記念] 完成30場LIVE");
@@ -1442,8 +1418,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002907", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002908", /*message*/"[Aqours 6th ライブ記念課題] 以編入國木田花丸的隊伍完成5場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002909", /*message*/"[Aqours 6th ライブ記念課題] 以編入小原鞠莉的隊伍完成5場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002910", /*message*/"[Aqours 6th ライブ記念課題] 以編入黑澤露比的隊伍完成5場LIVE　※跳略券不適用");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003001", /*message*/"[無敵級*ビリーバー発売記念！] 完成10次「Mutekikyu Believer」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003002", /*message*/"[無敵級*ビリーバー発売記念！] 使用20次發動成員包含中須霞的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003101", /*message*/"[LoveLive! Sunshine!! Takami Chika First Solo Concert Album発売記念] 完成10次「Aozora Jumping Heart」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003102", /*message*/"[LoveLive! Sunshine!! Takami Chika First Solo Concert Album発売記念] 使用20次發動成員包含高海千歌的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003201", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
@@ -1457,8 +1431,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003401", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003402", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 以編入中須霞的隊伍完成5場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003403", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 完成10次「Fire Bird」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003404", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 以編入朝香果林的隊伍完成5場LIVE　※跳略券不適用");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003601", /*message*/"[Aqours CLUB CD SET 2020発売記念] 完成5次「JIMO-AI Dash!」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003602", /*message*/"[Aqours CLUB CD SET 2020発売記念] 完成10次「JIMO-AI Dash!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003801", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 完成10次「Say Good-Bye Namida」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003802", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 以編入上原步夢的隊伍完成5場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003803", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 完成10次「Yagate Hitotsu no Monogatari」");
@@ -1558,6 +1530,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006902", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006903", /*message*/"[大型合作演唱會課題]完成10次「Brightest Melody」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006904", /*message*/"[大型合作演唱會課題]完成10次「Anata no Risou no Heroine」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[活動特別課題]完成3次「Beautiful Moonlight」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007201", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007202", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007203", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[活動特別課題]完成3次「Cheer for you!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007402", /*message*/"[活動特別課題]完成3次「Love Triangle」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007702", /*message*/"[活動特別課題]完成3次「Kakushiaji!」");
@@ -3094,6 +3069,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_1", /*message*/"兔
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_2", /*message*/"隔著相機的心動");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"充滿愛心的飯糰");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"在圖書館請保持安靜");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082003_1", /*message*/"我最喜歡學園偶像了！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"吃醋啦？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"飄飄然的心情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"私底下努力");
@@ -3168,6 +3144,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"眼
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"讓你的視線離不開我");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"因為是文字燒");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052002_1", /*message*/"搶手的愛");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_1", /*message*/"Celebration！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"可愛笑容♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"相簿的意義");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"極樂按摩");
@@ -3188,6 +3166,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"在
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"電子偶像");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"板子下的真實面貌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_2", /*message*/"我們一起吧，好嗎？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"即使笨拙也要勇往直前");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012001_1", /*message*/"再次舉辦活動！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012002_1", /*message*/"太棒了～！我最喜歡小海了！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_1", /*message*/"道謝比賽！？");

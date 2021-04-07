@@ -37,7 +37,6 @@ INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100202, /*start_at*/160320600
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100302, /*start_at*/1631372400, /*end_at*/1631458800, /*suit_master_id*/100033001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100402, /*start_at*/1615734000, /*end_at*/1615820400, /*suit_master_id*/200043001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100502, /*start_at*/1604156400, /*end_at*/1604242800, /*suit_master_id*/200053001);
-INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100602, /*start_at*/1618758000, /*end_at*/1618844400, /*suit_master_id*/100063001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100702, /*start_at*/1623164400, /*end_at*/1623250800, /*suit_master_id*/100073001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100802, /*start_at*/1610809200, /*end_at*/1610895600, /*suit_master_id*/200083001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100902, /*start_at*/1626879600, /*end_at*/1626966000, /*suit_master_id*/100093001);
@@ -45,7 +44,6 @@ INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/110102, /*start_at*/162774360
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/110202, /*start_at*/1631977200, /*end_at*/1632063600, /*suit_master_id*/101023001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/110302, /*start_at*/1612882800, /*end_at*/1612969200, /*suit_master_id*/201033001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/110402, /*start_at*/1609426800, /*end_at*/1609513200, /*suit_master_id*/201043001);
-INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/110502, /*start_at*/1618585200, /*end_at*/1618671600, /*suit_master_id*/101053001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/110602, /*start_at*/1626102000, /*end_at*/1626188400, /*suit_master_id*/101063001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/110702, /*start_at*/1614783600, /*end_at*/1614870000, /*suit_master_id*/201073001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/110802, /*start_at*/1623510000, /*end_at*/1623596400, /*suit_master_id*/101083001);

@@ -1304,21 +1304,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000515", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000516", /*message*/"[ฝึกพิเศษ!] ปลดล็อกผังสกิล 1 ช่องขึ้นไปในการฝึกพิเศษสคูลไอดอล");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000517", /*message*/"[ฝึกพิเศษ!] ปลดล็อกผังสกิล 2 ช่องขึ้นไปในการฝึกพิเศษสคูลไอดอล");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000518", /*message*/"[ฝึกพิเศษ!] ปลดล็อกผังสกิล 3 ช่องขึ้นไปในการฝึกพิเศษสคูลไอดอล");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000601", /*message*/"[Guilty Kiss First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีซากุระอุจิ ริโกะ 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000602", /*message*/"[Guilty Kiss First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีสึชิมะ โยชิโกะ 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000603", /*message*/"[Guilty Kiss First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีโอฮาระ มาริ 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000604", /*message*/"[Guilty Kiss First LOVELIVE! 課題] เคลียร์ &quot;Strawberry Trapper&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000605", /*message*/"[Guilty Kiss First LOVELIVE! 課題] เคลียร์ &quot;New Romantic Sailors&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000701", /*message*/"[CYaRon！ First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีทากามิ จิกะ 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000702", /*message*/"[CYaRon！ First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีวาตานาเบะ โย 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000703", /*message*/"[CYaRon！ First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีคุโรซาวะ รูบี้ 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000704", /*message*/"[CYaRon！ First LOVELIVE! 課題] เคลียร์ &quot;Genki Zenkai DAY! DAY! DAY!&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000705", /*message*/"[CYaRon！ First LOVELIVE! 課題] เคลียร์ &quot;Braveheart Coaster&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000801", /*message*/"[AZALEA First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีมัตสึอุระ คานัน 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000802", /*message*/"[AZALEA First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีคุโรซาวะ ไดยะ 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000803", /*message*/"[AZALEA First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีคุนิคิดะ ฮานามารุ 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000804", /*message*/"[AZALEA First LOVELIVE! 課題] เคลียร์ &quot;Torikoriko PLEASE!!&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000805", /*message*/"[AZALEA First LOVELIVE! 課題] เคลียร์ &quot;Amazing Travel DNA&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] เคลียร์ &quot;SUPER NOVA&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] ใช้ท่าพิเศษ SP ที่มีมิยาชิตะ ไอ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] ใช้ท่าพิเศษ SP ที่มีอาซากะ คาริน 20 ครั้ง");
@@ -1394,10 +1379,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001816", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001817", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์ไลฟ์ 33 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001818", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์ไลฟ์ 55 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001901", /*message*/"[ライブ応援！ログインボーナス] รับล็อกอินโบนัส 9 ครั้งในเวลาที่กำหนด");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002001", /*message*/"[Guilty Kiss First LOVELIVE! 課題] เคลียร์ &quot;New Romantic Sailors&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002002", /*message*/"[CYaRon！ First LOVELIVE! 課題] เคลียร์ &quot;Braveheart Coaster&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002003", /*message*/"[AZALEA First LOVELIVE! 課題] เคลียร์ &quot;Amazing Travel DNA&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002004", /*message*/"[Aqoursユニットライブ開催記念課題] เคลียร์ &quot;KOKORO Magic &quot;A to Z&quot;&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002101", /*message*/"[ライブ応援！ログインボーナス] รับล็อกอินโบนัส 9 ครั้งในเวลาที่กำหนด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002201", /*message*/"[A song for You! You? You!! リリースイベント] เคลียร์ &quot;A song for You! You? You!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002202", /*message*/"[A song for You! You? You!! リリースイベント] จัดโคซากะ โฮโนกะเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
@@ -1412,11 +1393,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002210", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002211", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;A song for You! You? You!!&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002212", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;A song for You! You? You!!&quot; 2 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002213", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;A song for You! You? You!!&quot; 3 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002301", /*message*/"[AZALEA First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีมัตสึอุระ คานัน 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002302", /*message*/"[AZALEA First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีคุโรซาวะ ไดยะ 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002303", /*message*/"[AZALEA First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีคุนิคิดะ ฮานามารุ 20 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002304", /*message*/"[AZALEA First LOVELIVE! 課題] เคลียร์ &quot;Torikoriko PLEASE!!&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002305", /*message*/"[AZALEA First LOVELIVE! 課題] เคลียร์ &quot;Amazing Travel DNA&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002402", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002501", /*message*/"[初夏のスクスタアップデート記念] เคลียร์ไลฟ์ 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002502", /*message*/"[初夏のスクスタアップデート記念] เคลียร์ไลฟ์ 30 ครั้ง");
@@ -1453,8 +1429,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002907", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002908", /*message*/"[Aqours 6th ライブ記念課題] จัดคุนิคิดะ ฮานามารุเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002909", /*message*/"[Aqours 6th ライブ記念課題] จัดโอฮาระ มาริเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002910", /*message*/"[Aqours 6th ライブ記念課題] จัดคุโรซาวะ รูบี้เข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003001", /*message*/"[無敵級*ビリーバー発売記念！] เคลียร์ &quot;Mutekikyu Believer&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003002", /*message*/"[無敵級*ビリーバー発売記念！] ใช้ท่าพิเศษ SP ที่มีนากาสึ คาสึมิ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003101", /*message*/"[LoveLive! Sunshine!! Takami Chika First Solo Concert Album発売記念] เคลียร์ &quot;Aozora Jumping Heart&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003102", /*message*/"[LoveLive! Sunshine!! Takami Chika First Solo Concert Album発売記念] ใช้ท่าพิเศษ SP ที่มีทากามิ จิกะ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003201", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
@@ -1468,8 +1442,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003401", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003402", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] จัดนากาสึ คาสึมิเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003403", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] เคลียร์ &quot;Fire Bird&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003404", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] จัดอาซากะ คารินเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003601", /*message*/"[Aqours CLUB CD SET 2020発売記念] เคลียร์ &quot;JIMO-AI Dash!&quot; 5 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003602", /*message*/"[Aqours CLUB CD SET 2020発売記念] เคลียร์ &quot;JIMO-AI Dash!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003801", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] เคลียร์ &quot;Say Good-Bye Namida&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003802", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] จัดอุเอฮาระ อายูมุเข้าทีมแล้วเคลียร์ไลฟ์ให้ได้ 5 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003803", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] เคลียร์ &quot;Yagate Hitotsu no Monogatari&quot; 10 ครั้ง");
@@ -1569,6 +1541,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006902", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006903", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Brightest Melody&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006904", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Anata no Risou no Heroine&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Beautiful Moonlight&quot; 3 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007201", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007202", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007203", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Cheer for you!!&quot; 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007402", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Love Triangle&quot; 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007702", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Kakushiaji!&quot; 3 ครั้ง");
@@ -3106,6 +3081,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_1", /*message*/"ก
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_2", /*message*/"ความตื่นเต้นผ่านเลนส์กล้อง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"ข้าวปั้นเปี่ยมรัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"ช่วยเงียบในห้องสมุดด้วยจ้ะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082003_1", /*message*/"รักสคูลไอดอล! ที่สุดเลย!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"หวงเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"ความรู้สึกนุ่มละมุน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"ความพยายามที่เป็นความลับ");
@@ -3180,6 +3156,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"ด
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"จะดึงดูดเธอไว้ไม่ให้ละสายตาไปไหนเลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"แค่มอนจะเท่านั้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052002_1", /*message*/"ไอที่ถูกดึงตัว");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_1", /*message*/"Celebration!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"Lovely Smile♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"ความหมายของอัลบั้มรูป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"การนวดแสนสุข");
@@ -3200,6 +3178,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"Electronic Idol");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"ใบหน้าที่แท้จริงด้านหลังบอร์ด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_2", /*message*/"ด้วยกันเนอะ?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"แม้ไม่ชำนาญแต่ก็มุ่งหน้าตรงไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012001_1", /*message*/"เริ่มอีเวนต์อีกครั้ง?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012002_1", /*message*/"เย้! รักอุมิจังที่สุดเลย!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_1", /*message*/"การต่อสู้ด้วยคำขอบคุณ!?");

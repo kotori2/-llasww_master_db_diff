@@ -1297,21 +1297,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000515", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000516", /*message*/"Practice Support: Unlock 1 or more tiles for any school idol in Practice.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000517", /*message*/"Practice Support: Unlock 2 or more tiles for any school idol in Practice.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000518", /*message*/"Practice Support: Unlock 3 or more tiles for any school idol in Practice.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000601", /*message*/"[Guilty Kiss First LOVELIVE! 課題] Use an SP Skill including Riko Sakurauchi 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000602", /*message*/"[Guilty Kiss First LOVELIVE! 課題] Use an SP Skill including Yoshiko Tsushima 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000603", /*message*/"[Guilty Kiss First LOVELIVE! 課題] Use an SP Skill including Mari Ohara 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000604", /*message*/"[Guilty Kiss First LOVELIVE! 課題] Clear &quot;Strawberry Trapper&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000605", /*message*/"[Guilty Kiss First LOVELIVE! 課題] Clear &quot;New Romantic Sailors&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000701", /*message*/"[CYaRon！ First LOVELIVE! 課題] Use an SP Skill including Chika Takami 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000702", /*message*/"[CYaRon！ First LOVELIVE! 課題] Use an SP Skill including You Watanabe 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000703", /*message*/"[CYaRon！ First LOVELIVE! 課題] Use an SP Skill including Ruby Kurosawa 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000704", /*message*/"[CYaRon！ First LOVELIVE! 課題] Clear &quot;Genki Zenkai DAY! DAY! DAY!&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000705", /*message*/"[CYaRon！ First LOVELIVE! 課題] Clear &quot;Braveheart Coaster&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000801", /*message*/"[AZALEA First LOVELIVE! 課題] Use an SP Skill including Kanan Matsuura 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000802", /*message*/"[AZALEA First LOVELIVE! 課題] Use an SP Skill including Dia Kurosawa 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000803", /*message*/"[AZALEA First LOVELIVE! 課題] Use an SP Skill including Hanamaru Kunikida 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000804", /*message*/"[AZALEA First LOVELIVE! 課題] Clear &quot;Torikoriko PLEASE!!&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000805", /*message*/"[AZALEA First LOVELIVE! 課題] Clear &quot;Amazing Travel DNA&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] Clear &quot;SUPER NOVA&quot;: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] Use an SP Skill including Ai Miyashita 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] Use an SP Skill including Karin Asaka 20 times.");
@@ -1383,10 +1368,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001816", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001817", /*message*/"[Sparkling Vacation] Clear a Live Show: x33");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001818", /*message*/"[Sparkling Vacation] Clear a Live Show: x55");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001901", /*message*/"[ライブ応援！ログインボーナス] Collect 9 login bonuses during the event.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002001", /*message*/"[Guilty Kiss First LOVELIVE! 課題] Clear &quot;New Romantic Sailors&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002002", /*message*/"[CYaRon！ First LOVELIVE! 課題] Clear &quot;Braveheart Coaster&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002003", /*message*/"[AZALEA First LOVELIVE! 課題] Clear &quot;Amazing Travel DNA&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002004", /*message*/"[Aqoursユニットライブ開催記念課題] Clear &quot;KOKORO Magic &quot;A to Z&quot;&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002101", /*message*/"[ライブ応援！ログインボーナス] Collect 9 login bonuses during the event.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002201", /*message*/"[A song for You! You? You!! リリースイベント] Clear &quot;A song for You! You? You!!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002202", /*message*/"[A song for You! You? You!! リリースイベント] Clear a Live Show with Honoka Kosaka in Show Formation: x5　Skip Tickets cannot be used.");
@@ -1401,11 +1382,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002210", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002211", /*message*/"[CD Release Celebration] Clear &quot;A song for You! You? You!!&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002212", /*message*/"[CD Release Celebration] Clear &quot;A song for You! You? You!!&quot;: x2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002213", /*message*/"[CD Release Celebration] Clear &quot;A song for You! You? You!!&quot;: x3");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002301", /*message*/"[AZALEA First LOVELIVE! 課題] Use an SP Skill including Kanan Matsuura 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002302", /*message*/"[AZALEA First LOVELIVE! 課題] Use an SP Skill including Dia Kurosawa 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002303", /*message*/"[AZALEA First LOVELIVE! 課題] Use an SP Skill including Hanamaru Kunikida 20 times.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002304", /*message*/"[AZALEA First LOVELIVE! 課題] Clear &quot;Torikoriko PLEASE!!&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002305", /*message*/"[AZALEA First LOVELIVE! 課題] Clear &quot;Amazing Travel DNA&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002402", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002501", /*message*/"[初夏のスクスタアップデート記念] Clear a Live Show: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002502", /*message*/"[初夏のスクスタアップデート記念] Clear a Live Show: x30");
@@ -1442,8 +1418,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002907", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002908", /*message*/"[Aqours 6th ライブ記念課題] Clear a Live Show with Hanamaru Kunikida in Show Formation: x5　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002909", /*message*/"[Aqours 6th ライブ記念課題] Clear a Live Show with Mari Ohara in Show Formation: x5　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002910", /*message*/"[Aqours 6th ライブ記念課題] Clear a Live Show with Ruby Kurosawa in Show Formation: x5　Skip Tickets cannot be used.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003001", /*message*/"[無敵級*ビリーバー発売記念！] Clear &quot;Mutekikyu Believer&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003002", /*message*/"[無敵級*ビリーバー発売記念！] Use an SP Skill including Kasumi Nakasu 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003101", /*message*/"[LoveLive! Sunshine!! Takami Chika First Solo Concert Album発売記念] Clear &quot;Aozora Jumping Heart&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003102", /*message*/"[LoveLive! Sunshine!! Takami Chika First Solo Concert Album発売記念] Use an SP Skill including Chika Takami 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003201", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
@@ -1457,8 +1431,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003401", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003402", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Clear a Live Show with Kasumi Nakasu in Show Formation: x5　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003403", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Clear &quot;Fire Bird&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003404", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Clear a Live Show with Karin Asaka in Show Formation: x5　Skip Tickets cannot be used.");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003601", /*message*/"[Aqours CLUB CD SET 2020発売記念] Clear &quot;JIMO-AI Dash!&quot;: x5");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003602", /*message*/"[Aqours CLUB CD SET 2020発売記念] Clear &quot;JIMO-AI Dash!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003801", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Clear &quot;Say Good-Bye Namida&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003802", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Clear a Live Show with Ayumu Uehara in Show Formation: x5　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003803", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Clear &quot;Yagate Hitotsu no Monogatari&quot;: x10");
@@ -1558,6 +1530,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006902", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006903", /*message*/"[SBL Goal] Clear &quot;Brightest Melody&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006904", /*message*/"[SBL Goal] Clear &quot;Anata no Risou no Heroine&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[Special Campaign Goals] Clear &quot;Beautiful Moonlight&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007201", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007202", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007203", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[Special Campaign Goals] Clear &quot;Cheer for you!!&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007402", /*message*/"[Special Campaign Goals] Clear &quot;Love Triangle&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007702", /*message*/"[Special Campaign Goals] Clear &quot;Kakushiaji!&quot;: x3");
@@ -3094,6 +3069,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_1", /*message*/"Rab
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_2", /*message*/"Racing Hearts through the Camera Lens");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"Rice Balls Filled with Love");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"Quiet in the Library");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082003_1", /*message*/"I Love School Idols!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"Jealous?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"Floating Sensation");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"Secret Efforts");
@@ -3168,6 +3144,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"Eye
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"Your Eyes Are Glued to Me");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"You&apos;d Batter Be Kidding");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052002_1", /*message*/"All Eyes Vying for Ai");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_1", /*message*/"Celebration!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"Lovely Smile");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreams are Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"The Truth of My Photo Album");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"Massage from Paradise");
@@ -3188,6 +3166,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"VR 
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"Electronic Idol");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"The Smile Behind the Board");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_2", /*message*/"Together, Okay?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"Awkward Yet Straightforward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012001_1", /*message*/"Another Event?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012002_1", /*message*/"Yaaay! I Love You, Umi!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_1", /*message*/"Thanks Battle?!");

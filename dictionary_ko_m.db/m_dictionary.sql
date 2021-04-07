@@ -1302,21 +1302,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000515", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000516", /*message*/"육성 응원! 임의의 스쿨 아이돌의 특훈에서 칸 1개 이상 열기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000517", /*message*/"육성 응원! 임의의 스쿨 아이돌의 특훈에서 칸 2개 이상 열기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000518", /*message*/"육성 응원! 임의의 스쿨 아이돌의 특훈에서 칸 3개 이상 열기");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000601", /*message*/"[Guilty Kiss First LOVELIVE! 課題] 사쿠라우치 리코이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000602", /*message*/"[Guilty Kiss First LOVELIVE! 課題] 츠시마 요시코이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000603", /*message*/"[Guilty Kiss First LOVELIVE! 課題] 오하라 마리이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000604", /*message*/"[Guilty Kiss First LOVELIVE! 課題] Strawberry Trapper 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000605", /*message*/"[Guilty Kiss First LOVELIVE! 課題] New Romantic Sailors 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000701", /*message*/"[CYaRon！ First LOVELIVE! 課題] 타카미 치카이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000702", /*message*/"[CYaRon！ First LOVELIVE! 課題] 와타나베 요우이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000703", /*message*/"[CYaRon！ First LOVELIVE! 課題] 쿠로사와 루비이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000704", /*message*/"[CYaRon！ First LOVELIVE! 課題] Genki Zenkai DAY! DAY! DAY! 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000705", /*message*/"[CYaRon！ First LOVELIVE! 課題] Braveheart Coaster 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000801", /*message*/"[AZALEA First LOVELIVE! 課題] 마츠우라 카난이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000802", /*message*/"[AZALEA First LOVELIVE! 課題] 쿠로사와 다이아이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000803", /*message*/"[AZALEA First LOVELIVE! 課題] 쿠니키다 하나마루이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000804", /*message*/"[AZALEA First LOVELIVE! 課題] Torikoriko PLEASE!! 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000805", /*message*/"[AZALEA First LOVELIVE! 課題] Amazing Travel DNA 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] SUPER NOVA 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] 미야시타 아이이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] 아사카 카린이/가 포함된 SP 특기 20회 사용");
@@ -1388,10 +1373,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001816", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001817", /*message*/"[반짝반짝 바캉스] 라이브 33회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001818", /*message*/"[반짝반짝 바캉스] 라이브 55회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001901", /*message*/"[ライブ応援！ログインボーナス] 기간 중, 9회 로그인 보너스 받기");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002001", /*message*/"[Guilty Kiss First LOVELIVE! 課題] New Romantic Sailors 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002002", /*message*/"[CYaRon！ First LOVELIVE! 課題] Braveheart Coaster 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002003", /*message*/"[AZALEA First LOVELIVE! 課題] Amazing Travel DNA 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002004", /*message*/"[Aqoursユニットライブ開催記念課題] KOKORO Magic &quot;A to Z&quot; 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002101", /*message*/"[ライブ応援！ログインボーナス] 기간 중, 9회 로그인 보너스 받기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002201", /*message*/"[A song for You! You? You!! リリースイベント] A song for You! You? You!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002202", /*message*/"[A song for You! You? You!! リリースイベント] 코우사카 호노카을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
@@ -1406,11 +1387,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002210", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002211", /*message*/"[CD 발매 기념] A song for You! You? You!! 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002212", /*message*/"[CD 발매 기념] A song for You! You? You!! 2회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002213", /*message*/"[CD 발매 기념] A song for You! You? You!! 3회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002301", /*message*/"[AZALEA First LOVELIVE! 課題] 마츠우라 카난이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002302", /*message*/"[AZALEA First LOVELIVE! 課題] 쿠로사와 다이아이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002303", /*message*/"[AZALEA First LOVELIVE! 課題] 쿠니키다 하나마루이/가 포함된 SP 특기 20회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002304", /*message*/"[AZALEA First LOVELIVE! 課題] Torikoriko PLEASE!! 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002305", /*message*/"[AZALEA First LOVELIVE! 課題] Amazing Travel DNA 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002402", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002501", /*message*/"[初夏のスクスタアップデート記念] 라이브 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002502", /*message*/"[初夏のスクスタアップデート記念] 라이브 30회 클리어");
@@ -1447,8 +1423,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002907", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002908", /*message*/"[Aqours 6th ライブ記念課題] 쿠니키다 하나마루을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002909", /*message*/"[Aqours 6th ライブ記念課題] 오하라 마리을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002910", /*message*/"[Aqours 6th ライブ記念課題] 쿠로사와 루비을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003001", /*message*/"[無敵級*ビリーバー発売記念！] Mutekikyu Believer 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003002", /*message*/"[無敵級*ビリーバー発売記念！] 나카스 카스미이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003101", /*message*/"[LoveLive! Sunshine!! Takami Chika First Solo Concert Album発売記念] Aozora Jumping Heart 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003102", /*message*/"[LoveLive! Sunshine!! Takami Chika First Solo Concert Album発売記念] 타카미 치카이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003201", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
@@ -1462,8 +1436,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003401", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003402", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 나카스 카스미을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003403", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Fire Bird 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003404", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 아사카 카린을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003601", /*message*/"[Aqours CLUB CD SET 2020発売記念] JIMO-AI Dash! 5회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003602", /*message*/"[Aqours CLUB CD SET 2020発売記念] JIMO-AI Dash! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003801", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Say Good-Bye Namida 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003802", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 우에하라 아유무을/를 라이브 편성에 넣고 5회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003803", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] Yagate Hitotsu no Monogatari 10회 클리어");
@@ -1563,6 +1535,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006902", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006903", /*message*/"[빅 라이브 과제] Brightest Melody 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006904", /*message*/"[빅 라이브 과제] Anata no Risou no Heroine 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007102", /*message*/"[캠페인 특별 과제] Beautiful Moonlight 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007201", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007202", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007203", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[캠페인 특별 과제] Cheer for you!! 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007402", /*message*/"[캠페인 특별 과제] Love Triangle 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007702", /*message*/"[캠페인 특별 과제] Kakushiaji! 3회 클리어");
@@ -3099,6 +3074,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_1", /*message*/"토
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_2", /*message*/"카메라 렌즈 너머의 설렘");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"애정 듬뿍 주먹밥");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"도서실에서는 조용히");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082003_1", /*message*/"스쿨 아이돌이 너무 좋아!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"알파카에게 질투?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"둥실둥실 들뜨는 기분");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"남모를 노력");
@@ -3173,6 +3149,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"눈
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"시선을 사로잡겠어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"몬자야키 비법");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052002_1", /*message*/"아이는 인기 많은 아이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_1", /*message*/"Celebration!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"러블리 스마일♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"앨범의 의미");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"최고의 안마");
@@ -3193,6 +3171,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"방
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"일렉트로닉 아이돌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"보드에 가려진 얼굴");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_2", /*message*/"같이하자, 응?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"어색하지만 솔직하게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012001_1", /*message*/"이벤트, 한 번 더?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012002_1", /*message*/"야호~! 우미, 사랑해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_1", /*message*/"칭찬 배틀!?");

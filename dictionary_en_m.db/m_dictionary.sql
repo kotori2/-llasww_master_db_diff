@@ -1567,6 +1567,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005_000", /*message*/"2020カウントダウンライブ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006", /*message*/"Dream Live Parade: R on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006_000", /*message*/"Dream Live Parade: R on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007", /*message*/"Dream Live Parade: Pure / Smile on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007_000", /*message*/"Dream Live Parade: Pure / Smile on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");

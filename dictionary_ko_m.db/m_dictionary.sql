@@ -1572,6 +1572,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005_000", /*message*/"2020カウントダウンライブ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006", /*message*/"드림 라이브 퍼레이드 R 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006_000", /*message*/"드림 라이브 퍼레이드 R 온스테이지");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007", /*message*/"드림 라이브 퍼레이드 퓨어/스마일 온스테이지");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007_000", /*message*/"드림 라이브 퍼레이드 퓨어/스마일 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");

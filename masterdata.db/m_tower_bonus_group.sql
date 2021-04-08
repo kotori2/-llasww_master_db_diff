@@ -14,10 +14,13 @@ INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/6, /*bonus_target_m
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/9, /*bonus_target_member_group*/2, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/13, /*bonus_target_member_group*/2, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/18, /*bonus_target_member_group*/2, /*value*/1);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/23, /*bonus_target_member_group*/2, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/7, /*bonus_target_member_group*/3, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/10, /*bonus_target_member_group*/3, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/14, /*bonus_target_member_group*/3, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/19, /*bonus_target_member_group*/3, /*value*/1);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/24, /*bonus_target_member_group*/3, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/11, /*bonus_target_member_group*/1, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/15, /*bonus_target_member_group*/1, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/20, /*bonus_target_member_group*/1, /*value*/1);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/25, /*bonus_target_member_group*/1, /*value*/1);

@@ -1578,6 +1578,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005_000", /*message*/"2020カウントダウンライブ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006", /*message*/"ดรีมไลฟ์พาเรด -R ออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006_000", /*message*/"ดรีมไลฟ์พาเรด -R ออนสเตจ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007", /*message*/"ดรีมไลฟ์พาเรด -Pure/Smile ออนสเตจ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007_000", /*message*/"ดรีมไลฟ์พาเรด -Pure/Smile ออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");

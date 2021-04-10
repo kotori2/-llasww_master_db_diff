@@ -25,6 +25,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035055_00", /*message*/"ร้า
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035062_00", /*message*/"หน้าร้านของเล่น (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"ริมแม่น้ำในฤดูใบไม้ร่วง (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"สถานที่จัดปาร์ตี้ที่เห็นวิวกลางคืน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035076_00", /*message*/"ห้องวิจัยประตูแห่งมิติ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"กติกาอีเวนต์ 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"กติกาอีเวนต์ 2/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200103", /*message*/"กติกาอีเวนต์ 3/5");

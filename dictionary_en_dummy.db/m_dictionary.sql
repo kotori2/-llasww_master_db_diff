@@ -25,6 +25,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035055_00", /*message*/"Chinese R
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035062_00", /*message*/"Toy Store (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"Fall Riverbank (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"Party Venue with a Night View");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035076_00", /*message*/"Space-Time Gate Lab");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"Event Rules 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"Event Rules 2/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200103", /*message*/"Event Rules 3/5");

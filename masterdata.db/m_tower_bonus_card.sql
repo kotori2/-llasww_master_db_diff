@@ -215,3 +215,4 @@ INSERT INTO `m_tower_bonus_card` VALUES (/*tower_period_id*/26, /*bonus_target_c
 INSERT INTO `m_tower_bonus_card` VALUES (/*tower_period_id*/26, /*bonus_target_card_id*/201053002, /*value*/2);
 INSERT INTO `m_tower_bonus_card` VALUES (/*tower_period_id*/26, /*bonus_target_card_id*/402012003, /*value*/2);
 INSERT INTO `m_tower_bonus_card` VALUES (/*tower_period_id*/26, /*bonus_target_card_id*/300082003, /*value*/2);
+INSERT INTO `m_tower_bonus_card` VALUES (/*tower_period_id*/26, /*bonus_target_card_id*/400023003, /*value*/2);

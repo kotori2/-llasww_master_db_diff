@@ -870,6 +870,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002017", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002020", /*message*/"의상 1벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002021", /*message*/"의상 2벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002022", /*message*/"의상 3벌 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002023", /*message*/"기간 중, 2회 로그인 보너스 받기");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002024", /*message*/"기간 중, 5회 로그인 보너스 받기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100101", /*message*/"이벤트 포인트 5000 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100102", /*message*/"이벤트 포인트 20000 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400400101", /*message*/"임의의 멤버 인연 Lv 5 달성");
@@ -3463,6 +3465,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_6", /*message*/"텐노지 리나 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_7", /*message*/"코노에 카나타 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_8", /*message*/"오사카 시즈쿠 신규 의상 획득 특훈 세트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"아사카 카린 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"획득한 아이템을 사용해 <color value=\"#ffa800\">특훈</color>을 하면
 신규 의상 획득, 스쿨 아이돌 각성 등이 가능합니다");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"특훈 아이템 획득");
@@ -3476,6 +3479,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_6", /*message*/"　어느 날, 일등으로 부실에 온 리나. 오랜만에 혼자만의 시간을 가지며 동호회에 가입하기 전의 자신을 돌이켜 보는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_7", /*message*/"　오늘은 한 달마다 돌아오는 카나타의 디저트 파티! 항상 맛있는 과자를 만들어 주는 카나타에게 보답하고 싶다는 시즈쿠의 말은 들은 카나타는….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*message*/"　어느 날, 연습 중에 갑자기 뛰쳐나간 시즈쿠. 그런 시즈쿠가 걱정되어 쫓아 나온 카스미에게 시즈쿠는….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"　항상 엠마에게 많은 도움을 받고 있는 카린. 이대로는 안 되겠다는 생각이 들어서 자립하려고 했지만….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"어떤 추억도….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"믿고 기다릴 거야!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"세츠나의 노트");
@@ -3484,6 +3488,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_6", /*message*/"그때의 나, 지금의 나");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_7", /*message*/"디저트 파티의 비밀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*message*/"박진감 넘치는…!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"상부상조…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"모두 함께 이뤄가는 이야기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"새 학생회장의 어려운 요구!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"스쿠페스를 위해!

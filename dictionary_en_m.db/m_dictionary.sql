@@ -865,6 +865,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002017", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002020", /*message*/"Obtain 1 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002021", /*message*/"Obtain 2 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002022", /*message*/"Obtain 3 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002023", /*message*/"Collect 2 login bonuses during the event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002024", /*message*/"Collect 5 login bonuses during the event.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100101", /*message*/"Gain 5000 event points.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100102", /*message*/"Gain 20000 event points.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400400101", /*message*/"Bring any member to Bond Lv. 5.");
@@ -3458,6 +3460,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_6", /*message*/"Special costume practice set: Rina Tennoji");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_7", /*message*/"Special costume practice set: Kanata Konoe");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_8", /*message*/"Special costume practice set: Shizuku Osaka");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"Special costume practice set: Karin Asaka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"Use the items you obtain to <color value=\"#ffa800\">Practice</color> and unlock new costumes, Idolize school idols, or gain other power ups.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"Practice Items Gained");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_900001", /*message*/"These special stories are to celebrate the broadcast of the TV anime! Enjoy them alongside the anime story!");
@@ -3470,6 +3473,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_6", /*message*/"Rina is the first to show up to the clubroom one day. Left on her own for the first time in a while, she remembers back to a time before she had joined the club.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_7", /*message*/"Today is the day of Kanata&apos;s monthly sweets party! How does Kanata react when Shizuku wants to return the favor for all of the delicious desserts she always makes?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*message*/"Shizuku suddenly runs off in the middle of practice one day. What does Shizuku do when Kasumi chases after her out of concern?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"Karin is always receiving help from Emma. She begins to think that it cannot go on like this and moves to be more independent. However, what happens next?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"All of Our Memories");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"I&apos;ll Have Faith and Wait!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"Setsuna&apos;s Notebook");
@@ -3478,6 +3482,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_5", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_6", /*message*/"Me Back Then and Now");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_7", /*message*/"The Sweets Party Secret");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*message*/"A Convincing Performance!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"Give-and-Take?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"A Dream Realized Together");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"Unreasonable Demands?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"School Idol Festival Getaway!");

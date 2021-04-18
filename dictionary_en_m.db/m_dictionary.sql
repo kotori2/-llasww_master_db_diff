@@ -2997,6 +2997,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_2", /*message*/"Coo
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200052001_1", /*message*/"I Wanna Get That Little Cutie!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053001_1", /*message*/"Time for an Amusement Park Date!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053001_2", /*message*/"Rin&apos;s Super Secret Collection");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053002_1", /*message*/"The Cold Is Fine If I&apos;m with You!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053002_2", /*message*/"I Feel Restless...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063001_1", /*message*/"Maki&apos;s Escort");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063001_2", /*message*/"Keeping the Mask On");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_1", /*message*/"Fall Under My Spell");
@@ -3012,6 +3014,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_1", /*message*/"The
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_2", /*message*/"I Wanted to See You All!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"I Could Listen to You Forever");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"Do I Look Grown-Up?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201032001_1", /*message*/"My Pillar of Support");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033001_1", /*message*/"We&apos;re Going Stargazing!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033001_2", /*message*/"A Stage of Fallen Stars");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_1", /*message*/"These Kinds of Days Are Nice Too");
@@ -3024,6 +3027,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_1", /*message*/"You
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_2", /*message*/"A Dress Made for Moving");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"A Fallen Angel&apos;s Elegant Day Off");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_2", /*message*/"Fallen Angel Friend");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063002_1", /*message*/"The Clothes You Picked for Me");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063002_2", /*message*/"The Angel Yohane Descends!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073001_1", /*message*/"Are Only the Sweets Sweet?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073001_2", /*message*/"The Sound of the Bell");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201083001_1", /*message*/"Party Manners");
@@ -3040,6 +3045,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_2", /*message*/"My 
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202032001_1", /*message*/"Puppy-Lover Pride!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_1", /*message*/"In a Field of Flowers with You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_2", /*message*/"Together Forever");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202042001_1", /*message*/"Kanata&apos;s Cookies");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_1", /*message*/"On a Splendid Evening");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_2", /*message*/"You Want to Be Punished?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053001_1", /*message*/"Wrapped Up in the Night");
@@ -3054,6 +3060,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_1", /*message*/"All
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"The Past and Present");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_1", /*message*/"Diligence Is the Only Way!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_2", /*message*/"The Night of My Domination");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103002_1", /*message*/"Where&apos;s the Right Answer?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103002_2", /*message*/"A Frilly World");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012001_1", /*message*/"What Makes a Leader");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"Let&apos;s Enjoy the Land of Dreams");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"The Cutest Snowman!");

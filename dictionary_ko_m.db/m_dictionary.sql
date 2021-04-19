@@ -1562,6 +1562,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007202", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007203", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007302", /*message*/"[캠페인 특별 과제] Cheer for you!! 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007402", /*message*/"[캠페인 특별 과제] Love Triangle 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007501", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007502", /*message*/"[빅 라이브 과제] START: DASH!! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007503", /*message*/"[빅 라이브 과제] KOWAREYASUKI 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007504", /*message*/"[빅 라이브 과제] ☆Wonderland☆ 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007702", /*message*/"[캠페인 특별 과제] Kakushiaji! 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
@@ -1738,6 +1742,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800017", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800018", /*message*/"스토리 21장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800019", /*message*/"스토리 22장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800020", /*message*/"스토리 23장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800021", /*message*/"스토리 24장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"인연 에피소드 1화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"인연 에피소드 5화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"인연 에피소드 10화 보기");
@@ -2063,6 +2068,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400340", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400341", /*message*/"Love Triangle 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400342", /*message*/"Love Triangle 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400343", /*message*/"Love Triangle 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400344", /*message*/"Mogyutto &quot;Love&quot; de Sekkinchu! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400345", /*message*/"Mogyutto &quot;Love&quot; de Sekkinchu! 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400346", /*message*/"Mogyutto &quot;Love&quot; de Sekkinchu! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400347", /*message*/"Mattete Aino Uta 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400348", /*message*/"Mattete Aino Uta 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400349", /*message*/"Mattete Aino Uta 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -3515,6 +3526,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_20", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_21", /*message*/"고민하는 시즈쿠의 순수한 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_22", /*message*/"작은 목소리를 들어 줘");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_23", /*message*/"아이 프로듀스! 합동 이벤트! 전편");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_24", /*message*/"아이 프로듀스! 합동 이벤트! 후편");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_3", /*message*/"only our shine · 전편");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine · 후편");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"μ&apos;s의 비밀을 찾아라!");
@@ -3538,6 +3550,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_20", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_21", /*message*/"제21장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_22", /*message*/"제22장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_23", /*message*/"제23장");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_24", /*message*/"제24장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_3", /*message*/"제3장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"제4장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"제5장");
@@ -3715,6 +3728,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_23_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_23_7", /*message*/"　아이의 제안으로 시작된 부와 동호회의 합동 이벤트가 본격적인 준비에 돌입했다! 각자 자기가 맡은 역할을 다하는 중, 새로운 관계가 보이기 시작하는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_23_8", /*message*/"　아이가 생각해 낸 합동 이벤트 준비는 순조롭게 진행되고, 멤버들은 각자 이벤트를 앞두고 마음을 다지고 있었다. 그러는 가운데 카린은 엠마와 대화를 시도해 보지만….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_23_9", /*message*/"　엠마와 사이가 틀어진 것에 대해 카스미에게 상의한 카린은, 엠마를 납득시킬 퍼포먼스를 하는 것이 지금 할 수 있는 유일한 일이라며 마음을 다잡았다. 합동 이벤트가 가까워진 어느 날, 아이가 카린에게 둘이서 미니 합숙을 하자고 제안하는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_24_1", /*message*/"　아이 프로듀스 합동 이벤트의 대진은 리나 vs 아이, 시즈쿠 vs 란쥬, 카스미 vs 카린, 세츠나 vs 시오리코로 결정됐다. 바야흐로 뜨거운 대결이 펼쳐질 날의 아침이 조용히 밝았다….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_24_10", /*message*/"　세츠나와 란쥬가 부딪치는 결승전. 동호회 멤버들의 기대를 한 몸에 짊어지고 맞서는 세츠나와 평소처럼 자유분방한 자세를 밀고 나가는 란쥬. 두 사람이 펼치는 대결의 승부가 드디어 가려졌다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_24_2", /*message*/"　드디어 아이 프로듀스 합동 이벤트의 막이 올랐다! 1회전 첫 번째 무대에서는 리나와 아이의 대결이 펼쳐진다! 아이를 상대하기 위해 리나는 비밀 작전을 세운 모양인데…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_24_3", /*message*/"　1회전 첫 번째 무대, 리나와 아이의 대결에서는 아이가 승리를 차지했다. 이어지는 1회전 두 번째 시합에서 맞붙는 사람은 시즈쿠와 란쥬. 부에서 동호회로 돌아온 시즈쿠가 란쥬에게 도전한다!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_24_4", /*message*/"　1회전 첫 번째 무대, 리나와 아이의 대결은 아이가 승리하고, 두 번째 무대였던 시즈쿠와 란쥬의 대결에서는 란쥬가 승리했다. 이어지는 1회전 세 번째 무대에는 카스미와 카린이 나선다. 정반대의 개성을 지닌 두 사람이 펼치는 승부의 향방은?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_24_5", /*message*/"　오전에 개최된 1회전이 끝나고, 합동 이벤트는 잠시 점심시간에 들어간다. 당신과 멤버들은 치열했던 1회전을 되돌아보는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_24_6", /*message*/"　동호회 멤버들의 점심시간에 끼어든 란쥬와 미아는 그럭저럭 즐거운 시간을 보낸 뒤 오후 준비를 하러 부실에 돌아왔다. 프로다운 최선의 결과물만 추구하는 란쥬가 학생 주최 아마추어 이벤트에 군말 없이 참가한 것을 미아는 신기하게 여기고….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_24_7", /*message*/"　드디어 합동 이벤트 오후 일정이 시작되었다! 2회전 첫 번째 무대에 나서는 세츠나와 아이. 세츠나와 간절히 겨루어 보고 싶었던 아이는 드디어 소원을 이루게 되었다. 동호회에서 부로 이적하면서까지 실력을 기른 아이가 세츠나에게 도전한다!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_24_8", /*message*/"　2회전 첫 번째 무대에서 맞붙은 세츠나와 아이. 아이는 사람의 마음을 끄는 타고난 매력에 프로급 연출을 더한 최고의 퍼포먼스를 하고, 세츠나는 반대로 정적인 퍼포먼스를 통해 화려한 연출과 동작 없이 유키 세츠나 자체의 개성을 한껏 뽐냈다. 결과는….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_24_9", /*message*/"　아이와 세츠나의 대결은 서로가 상대방을 칭찬하는 훌륭한 승부로 마무리되었다. 뜨거운 대결이 이어지는 가운데, 스테이지는 드디어 결승전을 맞이한다….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_2_1", /*message*/"　유우키 세츠나의 정체는 놀랍게도 학생회장이었다!
 당신을 포함해 총 열 명이 모여 정식으로 새 출발을 하게 된 니지가사키 학원 스쿨 아이돌 동호회.
 다음 목표를 향해 한 걸음씩 꾸준히 전진!");
@@ -4051,6 +4074,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_23_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_23_7", /*message*/"각자 나아갈 길");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_23_8", /*message*/"고뇌하는 카린, 파르페를 대접하다");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_23_9", /*message*/"아이와 카린의 미니 합숙");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_24_1", /*message*/"준비 끝! 시작합니다!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_24_10", /*message*/"우승의 향방");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_24_2", /*message*/"1회전 첫 번째 무대 시작!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_24_3", /*message*/"1회전 두 번째 무대 시작!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_24_4", /*message*/"1회전 세 번째 무대 시작!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_24_5", /*message*/"점심시간, 그리고…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_24_6", /*message*/"인정하고 있어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_24_7", /*message*/"영혼의 빅뱅");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_24_8", /*message*/"내 최고의 라이벌!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_24_9", /*message*/"드디어 결승전!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_2_1", /*message*/"메인 스테이지를 목표로");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_2_10a", /*message*/"꿈에 그리던 메인 스테이지로!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_2_10b", /*message*/"꿈에 그리던 메인 스테이지로!");

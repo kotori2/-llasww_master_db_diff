@@ -25,6 +25,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035055_00", /*message*/"中華餐
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035062_00", /*message*/"玩具店入口處(晴朗白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"秋季河畔(晴朗白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"夜景環繞的派對會場");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035075_00", /*message*/"遊戲活動區");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035076_00", /*message*/"時空之門研究室");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"活動規則 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"活動規則 2/5");
@@ -91,6 +92,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201102", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201103", /*message*/"活動規則 3/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201104", /*message*/"活動規則 4/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201105", /*message*/"活動規則 5/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201201", /*message*/"活動規則 1/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201202", /*message*/"活動規則 2/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201203", /*message*/"活動規則 3/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201204", /*message*/"活動規則 4/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201205", /*message*/"活動規則 5/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_03", /*message*/"");

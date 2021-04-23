@@ -29,6 +29,8 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4010
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4000601/tex_banner_gacha_sticker_4000601", /*path*/"|a,");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20350/tex_banner_gacha_sticker_20350", /*path*/"rbj");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20351/tex_banner_gacha_sticker_20351", /*path*/"Mk5");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20334/tex_banner_gacha_sticker_20334", /*path*/"cFI");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20335/tex_banner_gacha_sticker_20335", /*path*/"Tzj");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Icon/tex_commmon_strategy_attribute_1", /*path*/"KG");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Icon/tex_commmon_strategy_attribute_2", /*path*/"6+");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Icon/tex_commmon_strategy_attribute_3", /*path*/"zD");
@@ -1632,5 +1634,9 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2032
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20329/tex_banner_gacha_sticker_20329", /*path*/"t7^");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20330/tex_banner_gacha_sticker_20330", /*path*/"`<8");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20331/tex_banner_gacha_sticker_20331", /*path*/"_My");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20342/tex_banner_gacha_sticker_20342", /*path*/"yCo");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20343/tex_banner_gacha_sticker_20343", /*path*/"m^G");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32012/tex_event_logo_32012", /*path*/"ND{");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_15019_s", /*path*/">N!");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_20014_s", /*path*/"A\"/");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_20015_s", /*path*/"/.^");

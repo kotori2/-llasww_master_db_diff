@@ -1248,6 +1248,20 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001416", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001417", /*message*/"Obtain 3 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001418", /*message*/"Collect 3 login bonuses during the event.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001419", /*message*/"Collect 6 login bonuses during the event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001504", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001505", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x2");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001506", /*message*/"Collect 4 login bonuses during the event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001507", /*message*/"Collect 8 login bonuses during the event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001508", /*message*/"Perform Training a total of 10 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001509", /*message*/"Perform Training a total of 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001510", /*message*/"Play a Live Show: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001511", /*message*/"Play a Live Show: x25");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001512", /*message*/"Clear a Live Show: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001513", /*message*/"Clear a Live Show: x20");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001514", /*message*/"Clear a Live Show: x30");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001515", /*message*/"Obtain 1 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001516", /*message*/"Obtain 2 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001517", /*message*/"Obtain 3 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300101", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 10 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300102", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300103", /*message*/"Play a Live Show: x10");
@@ -1576,6 +1590,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"Chapter 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"Chapter 7");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31015", /*message*/"Sharing My Feelings on White Day");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"Event Rules 1/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"Event Rules 2/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"Event Rules 3/4");
@@ -3237,6 +3252,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400033002_1", /*message*/"Bre
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400033002_2", /*message*/"I&apos;ll Make You Go Tingly-Wingly!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400033003_1", /*message*/"A Christmas Date Just for Us");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400033003_2", /*message*/"A Present for Who?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400033004_1", /*message*/"Will You Go Shopping with Me?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400033004_2", /*message*/"Emotional White Day Live Show");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400042001_1", /*message*/"The Mountain-Loving Ocean-Blue Beauty");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400042002_1", /*message*/"When You Think of Fall");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400042003_1", /*message*/"Repayment for a Night&apos;s Room and Board");
@@ -3265,6 +3282,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063002_1", /*message*/"If 
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063002_2", /*message*/"It&apos;s Party Time!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072001_1", /*message*/"Fortune Comes to Those Who Smile");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072002_1", /*message*/"Nozomi&apos;s Dress-Up Doll");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072003_1", /*message*/"The Gods See Everything");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400073001_1", /*message*/"Because I&apos;m a Gemini");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400073001_2", /*message*/"Like a Constellation");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400073002_1", /*message*/"We Support Each Other");
@@ -3331,6 +3349,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043003_1", /*message*/"Nex
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043003_2", /*message*/"Cute Casual Outfit");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052001_1", /*message*/"Fleeting Wings");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052002_1", /*message*/"Another Set of Princesses");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052003_1", /*message*/"A Surprise for Kotori Too!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401053001_1", /*message*/"Taking on the Impossible?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401053001_2", /*message*/"Costume Effects");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401053002_1", /*message*/"Secret Time Amid the Rain");
@@ -3355,6 +3374,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073002_1", /*message*/"Rak
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073002_2", /*message*/"If It&apos;s for You!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073003_1", /*message*/"As Long as I&apos;m with You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073003_2", /*message*/"The Devil&apos;s Whispers");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073004_1", /*message*/"I&apos;ll Show You Around My Home, Zura");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073004_2", /*message*/"Emotional White Day Live Show");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401082001_1", /*message*/"As the Rest of the World Changes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401082002_1", /*message*/"The Mari-Bauer Secret?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401082003_1", /*message*/"Memory in a Photo");
@@ -3435,6 +3456,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402073004_1", /*message*/"The
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402073004_2", /*message*/"To That World");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402082001_1", /*message*/"Feelings for Switzerland");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402082002_1", /*message*/"I Wanna Know!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402082003_1", /*message*/"Repaying the Favor");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083001_1", /*message*/"The Rain After School");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083001_2", /*message*/"Rainy Concert!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083002_1", /*message*/"Are Switzerland and Japan Similar?");
@@ -3447,6 +3469,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402092003_1", /*message*/"As 
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402092004_1", /*message*/"What I&apos;m Good At");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402093001_1", /*message*/"A Present from Rina?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402093001_2", /*message*/"Pretty Scary, Huh?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402093002_1", /*message*/"Heart-Pounding At-Home Date!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402093002_2", /*message*/"Emotional White Day Live Show");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_502011001_1", /*message*/"I Made This for You!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_502021001_1", /*message*/"My Reward, Please!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_502031001_1", /*message*/"A Charm for Working Hard");
@@ -3485,6 +3509,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_900001", /*message*/"These special stories are to celebrate the broadcast of the TV anime! Enjoy them alongside the anime story!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /*message*/"TV Anime &quot;Love Love! Nijigasaki High School Idol Club&quot; Concurrent Story");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"You and Ayumu, your childhood friend, are out walking around town one day when you&apos;re reminded of a past memory.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_10", /*message*/"One day, at practice, Kasumi becomes passionate about needing some secret, intense training in order to be a match against her powerful rivals, the older Nijigasaki club members.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"Kasumi is the first to arrive at the clubroom one day. Waiting on her own, she remembers back to when she was the sole person holding down the fort to protect the club.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*message*/"Setsuna finds herself alone in the clubroom and picks up the practice notebook she kept when the club consisted of only five members. She appears to have regrets about her actions back then.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"Ai and Rina have always been good friends, even before joining the club. During a conversation with Ayumu, old memories of Rina are brought up.");
@@ -3494,6 +3519,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_7", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*message*/"Shizuku suddenly runs off in the middle of practice one day. What does Shizuku do when Kasumi chases after her out of concern?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"Karin is always receiving help from Emma. She begins to think that it cannot go on like this and moves to be more independent. However, what happens next?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"All of Our Memories");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"Formidable First-Years!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"I&apos;ll Have Faith and Wait!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"Setsuna&apos;s Notebook");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"Show Us Your Smile!");

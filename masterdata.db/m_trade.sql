@@ -79,6 +79,7 @@ INSERT INTO `m_trade` VALUES (/*id*/20326, /*category_pattern_id*/0, /*display_o
 INSERT INTO `m_trade` VALUES (/*id*/20328, /*category_pattern_id*/0, /*display_order*/20328, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20329, /*category_pattern_id*/0, /*display_order*/20330, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20331, /*category_pattern_id*/0, /*display_order*/20331, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
+INSERT INTO `m_trade` VALUES (/*id*/20342, /*category_pattern_id*/0, /*display_order*/20342, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/21001, /*category_pattern_id*/0, /*display_order*/1, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
 INSERT INTO `m_trade` VALUES (/*id*/21002, /*category_pattern_id*/0, /*display_order*/2, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
 INSERT INTO `m_trade` VALUES (/*id*/21004, /*category_pattern_id*/0, /*display_order*/6, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
@@ -113,6 +114,7 @@ INSERT INTO `m_trade` VALUES (/*id*/31011, /*category_pattern_id*/31000, /*displ
 INSERT INTO `m_trade` VALUES (/*id*/31012, /*category_pattern_id*/31000, /*display_order*/100, /*monthly_reset*/0, /*description*/"k.shop_event_exchange_content_description_31012");
 INSERT INTO `m_trade` VALUES (/*id*/31013, /*category_pattern_id*/31000, /*display_order*/100, /*monthly_reset*/0, /*description*/"k.shop_event_exchange_content_description_31013");
 INSERT INTO `m_trade` VALUES (/*id*/31014, /*category_pattern_id*/31000, /*display_order*/100, /*monthly_reset*/0, /*description*/"k.shop_event_exchange_content_description_31014");
+INSERT INTO `m_trade` VALUES (/*id*/31015, /*category_pattern_id*/31000, /*display_order*/100, /*monthly_reset*/0, /*description*/"k.shop_event_exchange_content_description_31015");
 INSERT INTO `m_trade` VALUES (/*id*/32000, /*category_pattern_id*/0, /*display_order*/2000, /*monthly_reset*/1, /*description*/"k.trade_description_monthly_reset_true");
 INSERT INTO `m_trade` VALUES (/*id*/32500, /*category_pattern_id*/0, /*display_order*/2500, /*monthly_reset*/0, /*description*/"k.trade_description_monthly_reset_false");
 INSERT INTO `m_trade` VALUES (/*id*/33000, /*category_pattern_id*/0, /*display_order*/3000, /*monthly_reset*/1, /*description*/"k.trade_description_33000");

@@ -3,6 +3,7 @@ CREATE TABLE live_timeline_dependency(
   dependency TEXT NOT NULL,
   PRIMARY KEY (asset_path, dependency)
 );
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"Pg", /*dependency*/"§Vr");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"Pg", /*dependency*/"Uk");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"Pg", /*dependency*/"!O");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"Pg", /*dependency*/"HT");
@@ -12,6 +13,7 @@ INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"Pg", /*dependency*
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"Pg", /*dependency*/"Mz");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"Pg", /*dependency*/"bs");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"Pg", /*dependency*/"8S");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"JF", /*dependency*/"§Vr");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"JF", /*dependency*/"Uk");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"JF", /*dependency*/"!O");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"JF", /*dependency*/"HT");

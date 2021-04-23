@@ -25,6 +25,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035055_00", /*message*/"ร้า
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035062_00", /*message*/"หน้าร้านของเล่น (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"ริมแม่น้ำในฤดูใบไม้ร่วง (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"สถานที่จัดปาร์ตี้ที่เห็นวิวกลางคืน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035075_00", /*message*/"พื้นที่จัดงานอีเวนต์เกม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035076_00", /*message*/"ห้องวิจัยประตูแห่งมิติ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"กติกาอีเวนต์ 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"กติกาอีเวนต์ 2/5");
@@ -91,6 +92,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201102", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201103", /*message*/"กติกาอีเวนต์ 3/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201104", /*message*/"กติกาอีเวนต์ 4/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201105", /*message*/"กติกาอีเวนต์ 5/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201201", /*message*/"กติกาอีเวนต์ 1/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201202", /*message*/"กติกาอีเวนต์ 2/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201203", /*message*/"กติกาอีเวนต์ 3/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201204", /*message*/"กติกาอีเวนต์ 4/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201205", /*message*/"กติกาอีเวนต์ 5/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_03", /*message*/"");

@@ -1614,6 +1614,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006_000", /*message*/"Dream Live Parade: R on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007", /*message*/"Dream Live Parade: Pure / Smile on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007_000", /*message*/"Dream Live Parade: Pure / Smile on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008", /*message*/"Dream Live Parade: Nijigasaki on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008_000", /*message*/"Dream Live Parade: Nijigasaki on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -3515,6 +3517,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_9000
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /*message*/"TV Anime &quot;Love Love! Nijigasaki High School Idol Club&quot; Concurrent Story");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"You and Ayumu, your childhood friend, are out walking around town one day when you&apos;re reminded of a past memory.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_10", /*message*/"One day, at practice, Kasumi becomes passionate about needing some secret, intense training in order to be a match against her powerful rivals, the older Nijigasaki club members.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_11", /*message*/"One afternoon, Ai and Setsuna are concerned after seeing how listless Ayumu appears. Upon asking Ayumu about her woes, what is the answer they receive?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"Kasumi is the first to arrive at the clubroom one day. Waiting on her own, she remembers back to when she was the sole person holding down the fort to protect the club.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*message*/"Setsuna finds herself alone in the clubroom and picks up the practice notebook she kept when the club consisted of only five members. She appears to have regrets about her actions back then.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"Ai and Rina have always been good friends, even before joining the club. During a conversation with Ayumu, old memories of Rina are brought up.");
@@ -3525,6 +3528,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"Karin is always receiving help from Emma. She begins to think that it cannot go on like this and moves to be more independent. However, what happens next?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"All of Our Memories");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"Formidable First-Years!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"For Her!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"I&apos;ll Have Faith and Wait!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"Setsuna&apos;s Notebook");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"Show Us Your Smile!");

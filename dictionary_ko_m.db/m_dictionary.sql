@@ -1619,6 +1619,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006_000", /*message*/"드림 라이브 퍼레이드 R 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007", /*message*/"드림 라이브 퍼레이드 퓨어/스마일 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007_000", /*message*/"드림 라이브 퍼레이드 퓨어/스마일 온스테이지");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008", /*message*/"드림 라이브 퍼레이드 니지가사키 온스테이지");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008_000", /*message*/"드림 라이브 퍼레이드 니지가사키 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");
@@ -2134,9 +2136,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300018", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300019", /*message*/"DiverDiva 한정으로 구성된 라이브 편성으로 라이브 100회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300020", /*message*/"DiverDiva 한정으로 구성된 라이브 편성으로 라이브 1,000회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300021", /*message*/"DiverDiva 한정으로 구성된 라이브 편성으로 라이브 5,000회 클리어　※스킵 티켓 사용 불가");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300022", /*message*/"A・ZU・NA 한정으로 구성된 라이브 편성으로 라이브 100회 클리어　※스킵 티켓 사용 불가");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300023", /*message*/"A・ZU・NA 한정으로 구성된 라이브 편성으로 라이브 1,000회 클리어　※스킵 티켓 사용 불가");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300024", /*message*/"A・ZU・NA 한정으로 구성된 라이브 편성으로 라이브 5,000회 클리어　※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300022", /*message*/"A·ZU·NA 한정으로 구성된 라이브 편성으로 라이브 100회 클리어　※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300023", /*message*/"A·ZU·NA 한정으로 구성된 라이브 편성으로 라이브 1,000회 클리어　※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300024", /*message*/"A·ZU·NA 한정으로 구성된 라이브 편성으로 라이브 5,000회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300025", /*message*/"QU4RTZ 한정으로 구성된 라이브 편성으로 라이브 100회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300026", /*message*/"QU4RTZ 한정으로 구성된 라이브 편성으로 라이브 1,000회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300027", /*message*/"QU4RTZ 한정으로 구성된 라이브 편성으로 라이브 5,000회 클리어　※스킵 티켓 사용 불가");
@@ -3521,6 +3523,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_9000
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /*message*/"TV 애니메이션 &quot;러브라이브! 니지가사키 학원 스쿨 아이돌 동호회&quot; 연동 스토리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"　소꿉친구인 아유무와 당신은 어느 날, 거리를 걷다 옛날 일을 떠올리는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_10", /*message*/"　어느 날 연습 시간, 강력한 라이벌이기도 한 니지가사키 선배들에게 지지 않도록 비밀 특훈을 해야 한다고 카스미가 의지를 불태우고 있었는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_11", /*message*/"　어느 날 점심, 왠지 기운이 없는 아유무를 보고 걱정하는 아이와 세츠나. 두 사람이 아유무에게 이유를 물어봤더니….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"　어느 날, 일등으로 부실에 온 카스미. 홀로 부실에 있으니 외롭게 동호회를 지키던 시절이 떠올랐다….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*message*/"　부실에 오니 세츠나가 다섯 명이서 동호회 활동을 할 때 쓰던 연습 노트를 들고 있었다. 세츠나는 그때 자신이 했던 행동을 후회하는 모양인데….　");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"　동호회에 가입하기 전부터 사이가 좋았던 아이와 리나. 아이는 아유무와 대화하던 중 리나와의 추억을 떠올린다.");
@@ -3531,6 +3534,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"　항상 엠마에게 많은 도움을 받고 있는 카린. 이대로는 안 되겠다는 생각이 들어서 자립하려고 했지만….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"어떤 추억도….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"지지 않을 거야! 1학년 트리오!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"그 애를 위해서!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"믿고 기다릴 거야!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"세츠나의 노트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"웃는 얼굴을 보여 줘!");

@@ -1625,6 +1625,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006_000", /*message*/"ดรีมไลฟ์พาเรด -R ออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007", /*message*/"ดรีมไลฟ์พาเรด -Pure/Smile ออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007_000", /*message*/"ดรีมไลฟ์พาเรด -Pure/Smile ออนสเตจ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008", /*message*/"ดรีมไลฟ์พาเรด -นิจิกาคุออนสเตจ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008_000", /*message*/"ดรีมไลฟ์พาเรด -นิจิกาคุออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -3532,6 +3534,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_10", /*me
 คู่แข่งสุดแกร่งอย่างรุ่นพี่ในชมรมนิจิกาคุ 
 คาสึมิจึงยืนกรานกับเพื่อนๆ ว่าจำเป็นต้อง
 ฝึกพิเศษลับ...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_11", /*message*/"ช่วงกลางวันของวันหนึ่ง ไอและเซ็ตสึนะ
+เห็นอายูมุที่ดูไม่ร่าเริงแล้วเป็นห่วง 
+เมื่อทั้งคู่ถามสาเหตุุ ก็ได้คำตอบว่า...?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"วันหนึ่ง คาสึมิมาถึงห้องชมรม
 เป็นคนแรกเมื่ออยู่ในห้องชมรมเพียง
 ลำพัง เธอก็นึกถึงตอนที่ปกป้องชมรม
@@ -3563,6 +3568,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*mes
 ทว่า...?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"ไม่ว่าความทรงจำแบบไหน...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"ไม่แพ้หรอกนะ! แก๊งทรีโอ้ม.4!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"เพื่อเด็กคนนั้น!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"รออย่างเชื่อมั่นเลยนะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"สมุดจดของเซ็ตสึนะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"ขอดูรอยยิ้มหน่อยสิ!");

@@ -1614,6 +1614,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33006_000", /*message*/"夢幻遊行演唱會～稀有度R亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007", /*message*/"夢幻遊行演唱會～Pure／Smile亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007_000", /*message*/"夢幻遊行演唱會～Pure／Smile亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008", /*message*/"夢幻遊行演唱會～虹咲亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008_000", /*message*/"夢幻遊行演唱會～虹咲亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");
@@ -3522,6 +3524,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_10", /*me
 也是勁敵的虹咲學姐們，
 霞鼓足了幹勁，
 表示必須進行秘密特訓……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_11", /*message*/"某天中午，愛和雪菜看到
+步夢一副無精打采的樣子，
+因而感到很擔心。
+兩人向步夢詢問原因後，
+步夢的回答是……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"某天，霞第一個來到社團教室。
 獨自待在社團教室裡時，
 讓她回想起那段孤身一人
@@ -3555,6 +3562,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*mes
 因而打算自立自強，結果……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"無論是什麼樣的回憶都……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"一年級三人組不會輸的！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"為了那女孩！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"相信並等待！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"雪菜的筆記本");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"展現你的笑容！");

@@ -1581,6 +1581,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007502", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007503", /*message*/"[大型合作演唱會課題]完成10次「KOWAREYASUKI」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007504", /*message*/"[大型合作演唱會課題]完成10次「☆Wonderland☆」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007702", /*message*/"[活動特別課題]完成3次「Kakushiaji!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007902", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007903", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007904", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

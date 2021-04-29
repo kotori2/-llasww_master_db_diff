@@ -3113,6 +3113,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"Sho
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"Like a Lady");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"Power Sweets");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"Inspiration and Good Taste");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042003_1", /*message*/"Warm Hands");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"A Beautiful Heart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"Built Piece by Piece");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"The Joy of Enjoying");
@@ -3164,6 +3165,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042003_1", /*message*/"Tog
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042004_1", /*message*/"To My Beloved Little Sister");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_1", /*message*/"What&apos;s Your Wish?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_2", /*message*/"Cute Is Cute!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043002_1", /*message*/"Aqours&apos; Power-Up Strategy!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043002_2", /*message*/"In a Tranquil Temple");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"Reassuring!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052002_1", /*message*/"She&apos;s So Cute");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052003_1", /*message*/"Glasses Look Contest!");

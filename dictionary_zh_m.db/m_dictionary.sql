@@ -3113,6 +3113,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"一
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"像淑女一樣");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"帶來活力的甜點");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"靈感與品味");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042003_1", /*message*/"暖暖的手");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"美麗的心");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"一點一滴累積");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"能一直喜歡的幸福");
@@ -3164,6 +3165,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042003_1", /*message*/"以
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042004_1", /*message*/"送給親愛妹妹的禮物");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_1", /*message*/"你的願望是？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_2", /*message*/"可愛就是可愛！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043002_1", /*message*/"Aqours提升實力大作戰！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043002_2", /*message*/"在靜謐的神殿");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"真讓人安心！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052002_1", /*message*/"可愛的她");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052003_1", /*message*/"反差萌眼鏡比賽！");

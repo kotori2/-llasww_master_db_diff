@@ -3118,6 +3118,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"같
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"숙녀처럼");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"파워 디저트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"발상과 센스");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042003_1", /*message*/"따뜻한 손");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"아름다운 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"하나하나 쌓아 올린 것");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"좋아한다는 건 행복해");
@@ -3169,6 +3170,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042003_1", /*message*/"앞
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042004_1", /*message*/"사랑하는 동생에게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_1", /*message*/"기원할 소원은?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_2", /*message*/"귀여운 건 귀여워!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043002_1", /*message*/"Aqours 실력 향상 작전!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043002_2", /*message*/"고요한 신전에서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"듬직한 친구!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052002_1", /*message*/"귀여운 그녀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052003_1", /*message*/"반전 매력 안경 대결!");

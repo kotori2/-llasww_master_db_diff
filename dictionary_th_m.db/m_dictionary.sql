@@ -3124,6 +3124,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"ไ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"ดั่งกุลสตรี");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"Power Sweet");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"ความคิดที่ผุดขึ้นมากับเซนส์");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042003_1", /*message*/"มือที่อบอุ่น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"หัวใจอันงดงาม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"ทีละเล็กทีละน้อย ค่อยๆ สะสมไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"ความสุขที่ได้ทำในสิ่งที่ชอบ");
@@ -3175,6 +3176,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042003_1", /*message*/"จ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042004_1", /*message*/"ถึงน้องสาวผู้เป็นที่รัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_1", /*message*/"เรื่องที่อธิษฐาน?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_2", /*message*/"น่ารักก็คือน่ารัก!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043002_1", /*message*/"แผนการพัฒนา Aqours!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043002_2", /*message*/"ณ วิหารอันเงียบสงบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"อุ่นใจ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052002_1", /*message*/"เธอผู้น่ารัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052003_1", /*message*/"แก๊ปโมเอะ ประชันแว่นตา!");

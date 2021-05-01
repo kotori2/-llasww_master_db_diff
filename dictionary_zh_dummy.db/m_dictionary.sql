@@ -27,6 +27,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"秋季河
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"夜景環繞的派對會場");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035075_00", /*message*/"遊戲活動區");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035076_00", /*message*/"時空之門研究室");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035079_00", /*message*/"生存遊戲區");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"活動規則 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"活動規則 2/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200103", /*message*/"活動規則 3/5");

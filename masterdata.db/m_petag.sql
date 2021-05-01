@@ -339,3 +339,6 @@ INSERT INTO `m_petag` VALUES (/*id*/"petag_notice_video_precautions", /*petag*/"
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9035_empty", /*petag*/"petag.petag_icon_gacha_ticket_9035_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9035_32_empty", /*petag*/"petag.petag_icon_gacha_ticket_9035_32_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9035_28_empty", /*petag*/"petag.petag_icon_gacha_ticket_9034_28_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9036_empty", /*petag*/"petag.petag_icon_gacha_ticket_9036_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9036_32_empty", /*petag*/"petag.petag_icon_gacha_ticket_9036_32_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9036_28_empty", /*petag*/"petag.petag_icon_gacha_ticket_9036_28_empty");

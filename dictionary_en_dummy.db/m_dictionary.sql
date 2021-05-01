@@ -27,6 +27,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"Fall Rive
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"Party Venue with a Night View");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035075_00", /*message*/"Game Event Space");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035076_00", /*message*/"Space-Time Gate Lab");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035079_00", /*message*/"Laser Tag Arena");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"Event Rules 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"Event Rules 2/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200103", /*message*/"Event Rules 3/5");

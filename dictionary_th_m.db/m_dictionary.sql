@@ -896,6 +896,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002119", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002120", /*message*/"มีชุด 1 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002121", /*message*/"มีชุด 2 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002122", /*message*/"มีชุด 3 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002123", /*message*/"รับล็อกอินโบนัส 2 ครั้งในเวลาที่กำหนด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002124", /*message*/"รับล็อกอินโบนัส 5 ครั้งในเวลาที่กำหนด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100101", /*message*/"ได้รับแต้มอีเวนต์ 5000 แต้ม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100102", /*message*/"ได้รับแต้มอีเวนต์ 20000 แต้ม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400400101", /*message*/"มีค่าความสนิท LV.5 กับเมมเบอร์หนึ่งคน");
@@ -3573,6 +3575,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_10", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_11", /*message*/"ช่วงกลางวันของวันหนึ่ง ไอและเซ็ตสึนะ
 เห็นอายูมุที่ดูไม่ร่าเริงแล้วเป็นห่วง 
 เมื่อทั้งคู่ถามสาเหตุุ ก็ได้คำตอบว่า...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_12", /*message*/"คาริน คานาตะและเอ็มม่าอ่านจดหมาย
+แฟนคลับที่ได้รับมาที่ห้องเอ็มม่า 
+เมื่ออ่านจดหมายทีละฉบับก็พบกับ
+ลายมือที่คุ้นเคย...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"วันหนึ่ง คาสึมิมาถึงห้องชมรม
 เป็นคนแรกเมื่ออยู่ในห้องชมรมเพียง
 ลำพัง เธอก็นึกถึงตอนที่ปกป้องชมรม
@@ -3605,6 +3611,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"ไม่ว่าความทรงจำแบบไหน...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"ไม่แพ้หรอกนะ! แก๊งทรีโอ้ม.4!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"เพื่อเด็กคนนั้น!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_12", /*message*/"ให้สมเป็นรุ่นพี่");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"รออย่างเชื่อมั่นเลยนะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"สมุดจดของเซ็ตสึนะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"ขอดูรอยยิ้มหน่อยสิ!");

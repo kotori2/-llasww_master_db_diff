@@ -889,6 +889,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002119", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002120", /*message*/"Obtain 1 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002121", /*message*/"Obtain 2 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002122", /*message*/"Obtain 3 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002123", /*message*/"Collect 2 login bonuses during the event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002124", /*message*/"Collect 5 login bonuses during the event.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100101", /*message*/"Gain 5000 event points.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100102", /*message*/"Gain 20000 event points.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400400101", /*message*/"Bring any member to Bond Lv. 5.");
@@ -3554,6 +3556,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"You and Ayumu, your childhood friend, are out walking around town one day when you&apos;re reminded of a past memory.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_10", /*message*/"One day, at practice, Kasumi becomes passionate about needing some secret, intense training in order to be a match against her powerful rivals, the older Nijigasaki club members.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_11", /*message*/"One afternoon, Ai and Setsuna are concerned after seeing how listless Ayumu appears. Upon asking Ayumu about her woes, what is the answer they receive?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_12", /*message*/"Karin, Kanata, and Emma are hanging out in Emma&apos;s room reading the fan letters they have received from everyone. As they read each and every one, they come across some familiar handwriting.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"Kasumi is the first to arrive at the clubroom one day. Waiting on her own, she remembers back to when she was the sole person holding down the fort to protect the club.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*message*/"Setsuna finds herself alone in the clubroom and picks up the practice notebook she kept when the club consisted of only five members. She appears to have regrets about her actions back then.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"Ai and Rina have always been good friends, even before joining the club. During a conversation with Ayumu, old memories of Rina are brought up.");
@@ -3565,6 +3568,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"All of Our Memories");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"Formidable First-Years!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"For Her!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_12", /*message*/"More Like Third-Years");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"I&apos;ll Have Faith and Wait!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"Setsuna&apos;s Notebook");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"Show Us Your Smile!");

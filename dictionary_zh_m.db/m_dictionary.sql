@@ -889,6 +889,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002119", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002120", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002121", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002122", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002123", /*message*/"於期間內領取2次登入獎勵");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002124", /*message*/"於期間內領取5次登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100101", /*message*/"獲得5000點活動集點");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100102", /*message*/"獲得20000點活動集點");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400400101", /*message*/"將任一成員的默契Lv.提升至5");
@@ -3565,6 +3567,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_11", /*me
 因而感到很擔心。
 兩人向步夢詢問原因後，
 步夢的回答是……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_12", /*message*/"果林、彼方和艾瑪在艾瑪的房間裡
+一起讀著粉絲們寄來的信。
+一封一封地讀著信的她們，
+發現了眼熟的字跡……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"某天，霞第一個來到社團教室。
 獨自待在社團教室裡時，
 讓她回想起那段孤身一人
@@ -3599,6 +3605,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"無論是什麼樣的回憶都……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"一年級三人組不會輸的！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"為了那女孩！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_12", /*message*/"學姐的風範");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"相信並等待！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"雪菜的筆記本");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"展現你的笑容！");

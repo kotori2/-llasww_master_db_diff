@@ -894,6 +894,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002119", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002120", /*message*/"의상 1벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002121", /*message*/"의상 2벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002122", /*message*/"의상 3벌 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002123", /*message*/"기간 중, 2회 로그인 보너스 받기");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400002124", /*message*/"기간 중, 5회 로그인 보너스 받기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100101", /*message*/"이벤트 포인트 5000 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100102", /*message*/"이벤트 포인트 20000 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400400101", /*message*/"임의의 멤버 인연 Lv 5 달성");
@@ -3560,6 +3562,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"　소꿉친구인 아유무와 당신은 어느 날, 거리를 걷다 옛날 일을 떠올리는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_10", /*message*/"　어느 날 연습 시간, 강력한 라이벌이기도 한 니지가사키 선배들에게 지지 않도록 비밀 특훈을 해야 한다고 카스미가 의지를 불태우고 있었는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_11", /*message*/"　어느 날 점심, 왠지 기운이 없는 아유무를 보고 걱정하는 아이와 세츠나. 두 사람이 아유무에게 이유를 물어봤더니….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_12", /*message*/"　엠마 방에서 사람들에게 받은 팬레터를 읽는 카린, 카나타, 엠마. 한 장 한 장 편지를 읽어 가던 중 익숙한 글씨를 발견하는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"　어느 날, 일등으로 부실에 온 카스미. 홀로 부실에 있으니 외롭게 동호회를 지키던 시절이 떠올랐다….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*message*/"　부실에 오니 세츠나가 다섯 명이서 동호회 활동을 할 때 쓰던 연습 노트를 들고 있었다. 세츠나는 그때 자신이 했던 행동을 후회하는 모양인데….　");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"　동호회에 가입하기 전부터 사이가 좋았던 아이와 리나. 아이는 아유무와 대화하던 중 리나와의 추억을 떠올린다.");
@@ -3571,6 +3574,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"어떤 추억도….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"지지 않을 거야! 1학년 트리오!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"그 애를 위해서!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_12", /*message*/"선배답게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"믿고 기다릴 거야!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"세츠나의 노트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"웃는 얼굴을 보여 줘!");

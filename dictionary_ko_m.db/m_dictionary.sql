@@ -1613,6 +1613,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007702", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007902", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007903", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007904", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009520", /*message*/"[캠페인 특별 과제] Dream with You 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009521", /*message*/"[캠페인 특별 과제] Poppin&apos; Up! 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009522", /*message*/"[캠페인 특별 과제] DIVE! 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009523", /*message*/"[캠페인 특별 과제] Saiko Heart 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009524", /*message*/"[캠페인 특별 과제] La Bella Patria 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009525", /*message*/"[캠페인 특별 과제] Tsunagaru Connect 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009526", /*message*/"[캠페인 특별 과제] Butterfly 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009527", /*message*/"[캠페인 특별 과제] Solitude Rain 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009528", /*message*/"[캠페인 특별 과제] VIVID WORLD 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009529", /*message*/"[캠페인 특별 과제] Awakening Promise 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009530", /*message*/"[캠페인 특별 과제] Yume ga Koko kara Hajimaru yo 1회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

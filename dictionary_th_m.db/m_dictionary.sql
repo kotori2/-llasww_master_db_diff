@@ -1619,6 +1619,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007702", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007902", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007903", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007904", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009520", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;Dream with You&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009521", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;Poppin&apos; Up!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009522", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;DIVE!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009523", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;Saiko Heart&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009524", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;La Bella Patria&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009525", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;Tsunagaru Connect&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009526", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;Butterfly&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009527", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;Solitude Rain&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009528", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;VIVID WORLD&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009529", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;Awakening Promise&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009530", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;Yume ga Koko kara Hajimaru yo&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

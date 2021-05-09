@@ -1608,6 +1608,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007702", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007902", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007903", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007904", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009520", /*message*/"[活動特別課題]遊玩1次「Dream with You」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009521", /*message*/"[活動特別課題]遊玩1次「Poppin&apos; Up!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009522", /*message*/"[活動特別課題]遊玩1次「DIVE!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009523", /*message*/"[活動特別課題]遊玩1次「Saiko Heart」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009524", /*message*/"[活動特別課題]遊玩1次「La Bella Patria」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009525", /*message*/"[活動特別課題]遊玩1次「Tsunagaru Connect」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009526", /*message*/"[活動特別課題]遊玩1次「Butterfly」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009527", /*message*/"[活動特別課題]遊玩1次「Solitude Rain」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009528", /*message*/"[活動特別課題]遊玩1次「VIVID WORLD」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009529", /*message*/"[活動特別課題]遊玩1次「Awakening Promise」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009530", /*message*/"[活動特別課題]遊玩1次「Yume ga Koko kara Hajimaru yo」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

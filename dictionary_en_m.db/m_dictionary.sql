@@ -1608,6 +1608,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007702", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007902", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007903", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007904", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009520", /*message*/"[Special Campaign Goals] Play &quot;Dream with You&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009521", /*message*/"[Special Campaign Goals] Play &quot;Poppin&apos; Up!&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009522", /*message*/"[Special Campaign Goals] Play &quot;DIVE!&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009523", /*message*/"[Special Campaign Goals] Play &quot;Saiko Heart&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009524", /*message*/"[Special Campaign Goals] Play &quot;La Bella Patria&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009525", /*message*/"[Special Campaign Goals] Play &quot;Tsunagaru Connect&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009526", /*message*/"[Special Campaign Goals] Play &quot;Butterfly&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009527", /*message*/"[Special Campaign Goals] Play &quot;Solitude Rain&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009528", /*message*/"[Special Campaign Goals] Play &quot;VIVID WORLD&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009529", /*message*/"[Special Campaign Goals] Play &quot;Awakening Promise&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009530", /*message*/"[Special Campaign Goals] Play &quot;Yume ga Koko kara Hajimaru yo&quot; 1 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

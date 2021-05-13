@@ -17,9 +17,11 @@ INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§~
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§%%1");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§y7");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§^xP");
+INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§[=$");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§61=");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§VpF");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§qjP");
+INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§/#d");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§0P");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§7V6");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§gn");
@@ -36,12 +38,14 @@ INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§M
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§R'Q");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§Vf");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§?{:");
+INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§2/#");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§8X8");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§r?");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§9%>");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§fR=");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§{;");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§4`.");
+INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§E\"~");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§.5", /*dependency*/"§<=");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§1!A", /*dependency*/"§`s@");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§F]-", /*dependency*/"§OdT");
@@ -63,4 +67,6 @@ INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§de", /*dependency*/"§y
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§de", /*dependency*/"§j^");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§de", /*dependency*/"§Vr");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§de", /*dependency*/"§M|");
+INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§2/#", /*dependency*/"§v;x");
+INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§2/#", /*dependency*/"§^xP");
 INSERT INTO `shader_dependency` VALUES (/*asset_path*/"§8X8", /*dependency*/"§?D#");

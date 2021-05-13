@@ -26,3 +26,4 @@ INSERT INTO `m_sorter` VALUES (/*sorter_scene*/17, /*sorter_category*/6, /*patte
 INSERT INTO `m_sorter` VALUES (/*sorter_scene*/18, /*sorter_category*/1, /*pattern_id*/1, /*default_order*/2, /*button_type*/3, /*button_style*/7, /*column_constraint*/3);
 INSERT INTO `m_sorter` VALUES (/*sorter_scene*/19, /*sorter_category*/1, /*pattern_id*/1, /*default_order*/2, /*button_type*/3, /*button_style*/7, /*column_constraint*/3);
 INSERT INTO `m_sorter` VALUES (/*sorter_scene*/20, /*sorter_category*/1, /*pattern_id*/12, /*default_order*/2, /*button_type*/3, /*button_style*/7, /*column_constraint*/3);
+INSERT INTO `m_sorter` VALUES (/*sorter_scene*/21, /*sorter_category*/7, /*pattern_id*/1, /*default_order*/1, /*button_type*/3, /*button_style*/8, /*column_constraint*/1);

@@ -253,5 +253,10 @@ INSERT INTO `m_still_member` VALUES (/*still_master_id*/1230101, /*member_master
 INSERT INTO `m_still_member` VALUES (/*still_master_id*/1230301, /*member_master_id*/205);
 INSERT INTO `m_still_member` VALUES (/*still_master_id*/1240801, /*member_master_id*/205);
 INSERT INTO `m_still_member` VALUES (/*still_master_id*/1241001, /*member_master_id*/204);
+INSERT INTO `m_still_member` VALUES (/*still_master_id*/1250201, /*member_master_id*/207);
+INSERT INTO `m_still_member` VALUES (/*still_master_id*/1250201, /*member_master_id*/210);
+INSERT INTO `m_still_member` VALUES (/*still_master_id*/1250701, /*member_master_id*/204);
+INSERT INTO `m_still_member` VALUES (/*still_master_id*/1250701, /*member_master_id*/206);
+INSERT INTO `m_still_member` VALUES (/*still_master_id*/1250701, /*member_master_id*/208);
 INSERT INTO `m_still_member` VALUES (/*still_master_id*/302011201, /*member_master_id*/201);
 INSERT INTO `m_still_member` VALUES (/*still_master_id*/1151001, /*member_master_id*/201);

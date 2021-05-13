@@ -57,3 +57,7 @@ INSERT INTO `m_info_trigger_scene` VALUES (/*scene_id*/78, /*info_trigger_type*/
 INSERT INTO `m_info_trigger_scene` VALUES (/*scene_id*/78, /*info_trigger_type*/40, /*display_priority*/4);
 INSERT INTO `m_info_trigger_scene` VALUES (/*scene_id*/78, /*info_trigger_type*/42, /*display_priority*/7);
 INSERT INTO `m_info_trigger_scene` VALUES (/*scene_id*/12, /*info_trigger_type*/43, /*display_priority*/8);
+INSERT INTO `m_info_trigger_scene` VALUES (/*scene_id*/79, /*info_trigger_type*/44, /*display_priority*/1);
+INSERT INTO `m_info_trigger_scene` VALUES (/*scene_id*/79, /*info_trigger_type*/45, /*display_priority*/2);
+INSERT INTO `m_info_trigger_scene` VALUES (/*scene_id*/12, /*info_trigger_type*/47, /*display_priority*/100);
+INSERT INTO `m_info_trigger_scene` VALUES (/*scene_id*/79, /*info_trigger_type*/46, /*display_priority*/1);

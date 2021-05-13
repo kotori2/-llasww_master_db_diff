@@ -3,8 +3,7 @@ CREATE TABLE m_coop_live_room_evaluation_reward(
   evaluation INTEGER NOT NULL,
   star_count INTEGER NOT NULL,
   content_group_id INTEGER NOT NULL,
-  PRIMARY KEY (live_id, evaluation, star_count),
-  FOREIGN KEY (live_id) REFERENCES m_coop_live(id)
+  PRIMARY KEY (live_id, evaluation, star_count)
 );
 INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40014, /*evaluation*/10, /*star_count*/5, /*content_group_id*/60000001);
 INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40014, /*evaluation*/10, /*star_count*/4, /*content_group_id*/60000001);
@@ -614,3 +613,51 @@ INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42012, /*eva
 INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42012, /*evaluation*/30, /*star_count*/2, /*content_group_id*/60000001);
 INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42012, /*evaluation*/30, /*star_count*/1, /*content_group_id*/60000001);
 INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42012, /*evaluation*/40, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/10, /*star_count*/5, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/10, /*star_count*/4, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/10, /*star_count*/3, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/10, /*star_count*/2, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/10, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/20, /*star_count*/5, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/20, /*star_count*/4, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/20, /*star_count*/3, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/20, /*star_count*/2, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/20, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/30, /*star_count*/5, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/30, /*star_count*/4, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/30, /*star_count*/3, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/30, /*star_count*/2, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/30, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/40017, /*evaluation*/40, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/10, /*star_count*/5, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/10, /*star_count*/4, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/10, /*star_count*/3, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/10, /*star_count*/2, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/10, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/20, /*star_count*/5, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/20, /*star_count*/4, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/20, /*star_count*/3, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/20, /*star_count*/2, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/20, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/30, /*star_count*/5, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/30, /*star_count*/4, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/30, /*star_count*/3, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/30, /*star_count*/2, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/30, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/41011, /*evaluation*/40, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/10, /*star_count*/5, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/10, /*star_count*/4, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/10, /*star_count*/3, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/10, /*star_count*/2, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/10, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/20, /*star_count*/5, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/20, /*star_count*/4, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/20, /*star_count*/3, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/20, /*star_count*/2, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/20, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/30, /*star_count*/5, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/30, /*star_count*/4, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/30, /*star_count*/3, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/30, /*star_count*/2, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/30, /*star_count*/1, /*content_group_id*/60000001);
+INSERT INTO `m_coop_live_room_evaluation_reward` VALUES (/*live_id*/42013, /*evaluation*/40, /*star_count*/1, /*content_group_id*/60000001);

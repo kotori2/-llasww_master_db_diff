@@ -1070,7 +1070,6 @@ INSERT INTO `static_text` VALUES (/*textid*/1766482734, /*guid*/"a8003ac140ed246
 INSERT INTO `static_text` VALUES (/*textid*/1832903456, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"Live Show History");
 INSERT INTO `static_text` VALUES (/*textid*/1846988966, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"Player Name");
 INSERT INTO `static_text` VALUES (/*textid*/1867667840, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"Tap to change school idol.");
-INSERT INTO `static_text` VALUES (/*textid*/1931153466, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"Total Bond Points");
 INSERT INTO `static_text` VALUES (/*textid*/1975561553, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"When your guest activates their Ability, it will not be able to be activated again until a set amount of Notes have passed.");
 INSERT INTO `static_text` VALUES (/*textid*/199505549, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"Guests");
 INSERT INTO `static_text` VALUES (/*textid*/1999476873, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"School Idols");

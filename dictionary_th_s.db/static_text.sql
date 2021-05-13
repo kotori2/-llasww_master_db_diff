@@ -1085,7 +1085,6 @@ INSERT INTO `static_text` VALUES (/*textid*/1766482734, /*guid*/"a8003ac140ed246
 INSERT INTO `static_text` VALUES (/*textid*/1832903456, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"ประวัติการไลฟ์");
 INSERT INTO `static_text` VALUES (/*textid*/1846988966, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"ชื่อผู้เล่น");
 INSERT INTO `static_text` VALUES (/*textid*/1867667840, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"แตะเพื่อเปลี่ยนสคูลไอดอล");
-INSERT INTO `static_text` VALUES (/*textid*/1931153466, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"แต้มความสนิทรวม");
 INSERT INTO `static_text` VALUES (/*textid*/1975561553, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"เมื่อจะใช้เอกลักษณ์ของเกสต์ 1 ครั้ง เอกลักษณ์จะไม่แสดงผลจนกว่าโน้ตที่กำหนดจะปรากฏ");
 INSERT INTO `static_text` VALUES (/*textid*/199505549, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"ตั้งค่าเกสต์");
 INSERT INTO `static_text` VALUES (/*textid*/1999476873, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"สคูลไอดอล");

@@ -130,6 +130,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9033_empty", /
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9034_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9034_s\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9034_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9034_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9034_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9034_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9035_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9035_s\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9035_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9035_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9035_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9035_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9036_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9036_s\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
@@ -210,6 +211,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_item_9001_empty", /*message*/"<i
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_item_9002_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9002_s\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_item_9002_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9002_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_item_9002_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9002_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_lesson_menu_campaign_member_guild_item_drop_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_27002_s\" height=\"24px\" width=\"24px\" offsetY=\"-5px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_live_cup_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_parts_cup_01\" width=\"28px\" height=\"28px\" offsety=\"-8px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0001_icon_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_ch0001\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" margin-left=\"30px\" margin-right=\"30px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0001_icon_path_empty", /*message*/"Common/InlineImage/Icon/tex_inlineimage_icon_ch0001");

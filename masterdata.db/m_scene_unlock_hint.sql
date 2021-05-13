@@ -10,3 +10,4 @@ INSERT INTO `m_scene_unlock_hint` VALUES (/*scene_id*/36, /*description*/"k.m_sh
 INSERT INTO `m_scene_unlock_hint` VALUES (/*scene_id*/40, /*description*/"k.m_shop_event_item_exchange_unlock_hint");
 INSERT INTO `m_scene_unlock_hint` VALUES (/*scene_id*/50, /*description*/"k.m_accessory_list_unlock_hint");
 INSERT INTO `m_scene_unlock_hint` VALUES (/*scene_id*/58, /*description*/"k.m_reference_book_select_unlock_hint");
+INSERT INTO `m_scene_unlock_hint` VALUES (/*scene_id*/79, /*description*/"k.m_member_guild_unlock_hint");

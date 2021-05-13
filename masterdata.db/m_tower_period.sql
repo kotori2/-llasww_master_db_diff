@@ -21,7 +21,6 @@ INSERT INTO `m_tower_period` VALUES (/*id*/12, /*tower_id*/33001, /*start_at*/16
 INSERT INTO `m_tower_period` VALUES (/*id*/13, /*tower_id*/33002, /*start_at*/1614232800, /*end_at*/1614578400);
 INSERT INTO `m_tower_period` VALUES (/*id*/14, /*tower_id*/33003, /*start_at*/1614232800, /*end_at*/1614578400);
 INSERT INTO `m_tower_period` VALUES (/*id*/15, /*tower_id*/33004, /*start_at*/1614232800, /*end_at*/1614578400);
-INSERT INTO `m_tower_period` VALUES (/*id*/16, /*tower_id*/33005, /*start_at*/1608616800, /*end_at*/1609999200);
 INSERT INTO `m_tower_period` VALUES (/*id*/17, /*tower_id*/33001, /*start_at*/1610690400, /*end_at*/1611381600);
 INSERT INTO `m_tower_period` VALUES (/*id*/18, /*tower_id*/33002, /*start_at*/1616047200, /*end_at*/1616392800);
 INSERT INTO `m_tower_period` VALUES (/*id*/19, /*tower_id*/33003, /*start_at*/1616047200, /*end_at*/1616392800);

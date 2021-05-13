@@ -175,3 +175,11 @@ INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0160", /*path*/"se_0
 INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0152", /*path*/"se_010_0152");
 INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0162", /*path*/"se_010_0162");
 INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0163", /*path*/"se_010_0163");
+INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0165", /*path*/"se_010_0165");
+INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0166", /*path*/"se_010_0166");
+INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0167", /*path*/"se_010_0167");
+INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0168", /*path*/"se_010_0168");
+INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0169", /*path*/"se_010_0169");
+INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0170", /*path*/"se_010_0170");
+INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0171", /*path*/"se_010_0171");
+INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0172", /*path*/"se_010_0172");

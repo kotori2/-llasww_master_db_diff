@@ -32,6 +32,7 @@ INSERT INTO `m_dic_str_int` VALUES (/*id*/26, /*text*/"k.coop_ls_523");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/27, /*text*/"k.coop_ls_524");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/28, /*text*/"k.coop_ls_p1604");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/29, /*text*/"k.tower_ls_p802");
+INSERT INTO `m_dic_str_int` VALUES (/*id*/30, /*text*/"k.member_guild_807");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/5000000, /*text*/"k.home_ls_p501");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/7000000, /*text*/"k.gacha_retry_503");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/10000000, /*text*/"k.age_verification_l_p803_base");

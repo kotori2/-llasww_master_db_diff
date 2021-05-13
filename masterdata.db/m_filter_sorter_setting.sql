@@ -22,3 +22,4 @@ INSERT INTO `m_filter_sorter_setting` VALUES (/*filter_scene*/18, /*sorter_scene
 INSERT INTO `m_filter_sorter_setting` VALUES (/*filter_scene*/21, /*sorter_scene*/18, /*storage_key*/"FilterCardListRecommendedIdolUpdateShowFilterFirst");
 INSERT INTO `m_filter_sorter_setting` VALUES (/*filter_scene*/22, /*sorter_scene*/19, /*storage_key*/"FilterCardListGuestSettingUpdateShowFilterFirst");
 INSERT INTO `m_filter_sorter_setting` VALUES (/*filter_scene*/23, /*sorter_scene*/20, /*storage_key*/"FilterTowerShowFilterFirst");
+INSERT INTO `m_filter_sorter_setting` VALUES (/*filter_scene*/24, /*sorter_scene*/21, /*storage_key*/"FilterMemberGuildSelectShowFilterFirst");

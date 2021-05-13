@@ -28,6 +28,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"야경이
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035075_00", /*message*/"게임 이벤트 공간");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035076_00", /*message*/"시공의 문 연구실");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035079_00", /*message*/"서바이벌 게임장");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035082_01", /*message*/"벚꽃이 피는 공원(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"이벤트 이용 방법 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200103", /*message*/"이벤트 이용 방법 3");
@@ -98,6 +99,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201202", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201203", /*message*/"이벤트 이용 방법 3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201204", /*message*/"이벤트 이용 방법 4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201205", /*message*/"이벤트 이용 방법 5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201301", /*message*/"이벤트 이용 방법 1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201302", /*message*/"이벤트 이용 방법 2");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201303", /*message*/"이벤트 이용 방법 3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201304", /*message*/"이벤트 이용 방법 4");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3201305", /*message*/"이벤트 이용 방법 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_03", /*message*/"");
@@ -231,6 +237,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30020_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30020_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30020_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30020_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30021_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30021_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30021_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30021_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30021_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30021_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30021_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"이벤트 이용 방법 2");

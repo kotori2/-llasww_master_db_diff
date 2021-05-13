@@ -1088,7 +1088,6 @@ INSERT INTO `static_text` VALUES (/*textid*/1766482734, /*guid*/"a8003ac140ed246
 INSERT INTO `static_text` VALUES (/*textid*/1832903456, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"LIVE履歷");
 INSERT INTO `static_text` VALUES (/*textid*/1846988966, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"玩家名稱");
 INSERT INTO `static_text` VALUES (/*textid*/1867667840, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"點擊變更學園偶像");
-INSERT INTO `static_text` VALUES (/*textid*/1931153466, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"累計默契點數");
 INSERT INTO `static_text` VALUES (/*textid*/1975561553, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"發動1次嘉賓的優勢後，在出現一定數量的節奏圖示之前不會再度發動。");
 INSERT INTO `static_text` VALUES (/*textid*/199505549, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"嘉賓設定");
 INSERT INTO `static_text` VALUES (/*textid*/1999476873, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"學園偶像");

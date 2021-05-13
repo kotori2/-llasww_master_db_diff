@@ -658,11 +658,11 @@ INSERT INTO `static_text` VALUES (/*textid*/1675081956, /*guid*/"57b35ed4ee14142
 INSERT INTO `static_text` VALUES (/*textid*/1783658075, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"프렌드");
 INSERT INTO `static_text` VALUES (/*textid*/2116764768, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"전체");
 INSERT INTO `static_text` VALUES (/*textid*/228173196, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"내 순위");
-INSERT INTO `static_text` VALUES (/*textid*/2617859587779850461, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"선두 보기");
-INSERT INTO `static_text` VALUES (/*textid*/2618782102067957403, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"선두 보기");
-INSERT INTO `static_text` VALUES (/*textid*/474334504, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"선두 보기");
+INSERT INTO `static_text` VALUES (/*textid*/2617859587779850461, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"TOP");
+INSERT INTO `static_text` VALUES (/*textid*/2618782102067957403, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"TOP");
+INSERT INTO `static_text` VALUES (/*textid*/474334504, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"TOP");
 INSERT INTO `static_text` VALUES (/*textid*/475764537, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"내 순위");
-INSERT INTO `static_text` VALUES (/*textid*/477650005, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"선두 보기");
+INSERT INTO `static_text` VALUES (/*textid*/477650005, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"TOP");
 INSERT INTO `static_text` VALUES (/*textid*/4787535421325635033, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"각 순위마다
 필요한 포인트");
 INSERT INTO `static_text` VALUES (/*textid*/7394328893717923923, /*guid*/"57b35ed4ee14142bfa47e6a98b38a6df", /*message*/"내 순위");
@@ -1087,7 +1087,6 @@ INSERT INTO `static_text` VALUES (/*textid*/1766482734, /*guid*/"a8003ac140ed246
 INSERT INTO `static_text` VALUES (/*textid*/1832903456, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"라이브 이력");
 INSERT INTO `static_text` VALUES (/*textid*/1846988966, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"유저명");
 INSERT INTO `static_text` VALUES (/*textid*/1867667840, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"터치하여 스쿨 아이돌 변경");
-INSERT INTO `static_text` VALUES (/*textid*/1931153466, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"누적 인연 포인트");
 INSERT INTO `static_text` VALUES (/*textid*/1975561553, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"게스트의 개성은 1번 발동하면 일정 노트가 지나기 전까지 발동하지 않습니다.");
 INSERT INTO `static_text` VALUES (/*textid*/199505549, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"게스트 설정");
 INSERT INTO `static_text` VALUES (/*textid*/1999476873, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"스쿨 아이돌");

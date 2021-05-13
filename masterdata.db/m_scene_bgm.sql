@@ -32,3 +32,5 @@ INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/72, /*path*/"bgm_0050");
 INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/73, /*path*/"bgm_0050");
 INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/75, /*path*/"bgm_0051");
 INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/77, /*path*/"bgm_0051");
+INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/80, /*path*/"bgm_0056");
+INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/82, /*path*/"bgm_0057");

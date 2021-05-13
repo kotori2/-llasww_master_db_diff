@@ -31,3 +31,4 @@ INSERT INTO `m_content_setting` VALUES (/*id*/28, /*amount_text*/"k.item_unit_sk
 INSERT INTO `m_content_setting` VALUES (/*id*/30, /*amount_text*/"k.item_unit_story_event_unlock", /*is_unique*/0, /*display_order*/0);
 INSERT INTO `m_content_setting` VALUES (/*id*/31, /*amount_text*/"k.item_unit_sns_coin", /*is_unique*/0, /*display_order*/0);
 INSERT INTO `m_content_setting` VALUES (/*id*/32, /*amount_text*/"k.item_unit_sns_coin", /*is_unique*/0, /*display_order*/0);
+INSERT INTO `m_content_setting` VALUES (/*id*/33, /*amount_text*/"k.item_unit_training_material", /*is_unique*/0, /*display_order*/0);

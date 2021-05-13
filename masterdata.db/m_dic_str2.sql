@@ -37,3 +37,7 @@ INSERT INTO `m_dic_str2` VALUES (/*id*/32, /*text*/"k.kizuna_board_ls_303");
 INSERT INTO `m_dic_str2` VALUES (/*id*/33, /*text*/"k.kizuna_board_l_p102");
 INSERT INTO `m_dic_str2` VALUES (/*id*/34, /*text*/"k.decoration_text_external_movie_reward_period_text");
 INSERT INTO `m_dic_str2` VALUES (/*id*/35, /*text*/"k.download_ready_popup_message_categories_1");
+INSERT INTO `m_dic_str2` VALUES (/*id*/36, /*text*/"k.member_guild_1404");
+INSERT INTO `m_dic_str2` VALUES (/*id*/37, /*text*/"k.member_guild_502");
+INSERT INTO `m_dic_str2` VALUES (/*id*/38, /*text*/"k.member_guild_504");
+INSERT INTO `m_dic_str2` VALUES (/*id*/39, /*text*/"k.member_guild_506");

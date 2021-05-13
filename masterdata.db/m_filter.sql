@@ -106,3 +106,5 @@ INSERT INTO `m_filter` VALUES (/*filter_scene*/23, /*filter_category*/12, /*patt
 INSERT INTO `m_filter` VALUES (/*filter_scene*/23, /*filter_category*/13, /*pattern_id*/1, /*display_order*/6, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/23, /*filter_category*/6, /*pattern_id*/1, /*display_order*/7, /*button_type*/3, /*button_style*/6, /*column_constraint*/4, /*select_type*/2);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/23, /*filter_category*/24, /*pattern_id*/1, /*display_order*/8, /*button_type*/3, /*button_style*/6, /*column_constraint*/4, /*select_type*/2);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/24, /*filter_category*/12, /*pattern_id*/1, /*display_order*/1, /*button_type*/1, /*button_style*/3, /*column_constraint*/4, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/24, /*filter_category*/13, /*pattern_id*/1, /*display_order*/2, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);

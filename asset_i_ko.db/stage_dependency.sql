@@ -137,3 +137,4 @@ INSERT INTO `stage_dependency` VALUES (/*asset_path*/"7Wt", /*dependency*/"§j^"
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"7Wt", /*dependency*/"§{;");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"@\G", /*dependency*/"§{;");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"V\"/", /*dependency*/"§{;");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/";0}", /*dependency*/"§{;");

@@ -3173,6 +3173,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"꿈
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"가장 귀여운 눈사람!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"동물과 호노카");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"우리 집이 용궁?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_1", /*message*/"달콤한 오후");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_2", /*message*/"빛나는 바다 저편으로");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"학생회의 중요한 역할");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"다정함이 담긴 꽃다발");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"시큼한 눈물");
@@ -3288,6 +3290,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_1", /*message*/"Cel
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"러블리 스마일♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"앨범의 의미");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062003_1", /*message*/"힐링을 주는 무릎베개");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"최고의 안마");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"잠이 오는 옷");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"손과 손을 마주 잡고");

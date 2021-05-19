@@ -3168,6 +3168,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"來
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"最可愛的雪人！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"動物與穗乃果");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"我家就是龍宮城！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_1", /*message*/"甜蜜的午後");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_2", /*message*/"航向閃閃發光的大海彼方");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"學生會的要務");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"溫柔的花束");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"酸酸的淚水");
@@ -3283,6 +3285,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_1", /*message*/"Cel
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"可愛笑容♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"相簿的意義");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062003_1", /*message*/"療癒的大腿枕");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"極樂按摩");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"令人想睡的衣服");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"攜手合作");

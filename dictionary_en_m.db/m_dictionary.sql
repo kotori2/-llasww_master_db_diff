@@ -3168,6 +3168,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"Let
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"The Cutest Snowman!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"Animals and Honoka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"My Home is an Undersea Palace?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_1", /*message*/"A Sweet Afternoon");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_2", /*message*/"Beyond the Shining Seas");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"Important to the Student Council");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"Bouquet of Kindness");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"Sour Tears");
@@ -3283,6 +3285,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_1", /*message*/"Cel
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"Lovely Smile");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreams are Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"The Truth of My Photo Album");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062003_1", /*message*/"A Soothing Lap Pillow");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"Massage from Paradise");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"Sleepy Clothes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"Hand in Hand");

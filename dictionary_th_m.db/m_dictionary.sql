@@ -3179,6 +3179,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"ม
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"ตุ๊กตาหิมะที่น่ารักที่สุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"โฮโนกะกับสัตว์น้อยใหญ่");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"บ้านของฉันคือวังมังกร!?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_1", /*message*/"ยามบ่ายแสนหวาน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_2", /*message*/"สู่อีกฟากทะเลที่เปล่งประกาย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"สิ่งที่สำคัญในสภานักเรียน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"ช่อดอกไม้แห่งความอ่อนโยน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"น้ำตารสเปรี้ยว");
@@ -3294,6 +3296,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_1", /*message*/"Cel
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"Lovely Smile♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"ความหมายของอัลบั้มรูป");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062003_1", /*message*/"หนุนตักแสนผ่อนคลาย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"การนวดแสนสุข");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"ชุดที่ทำให้ง่วงนอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"จับมือไว้แล้วไปด้วยกัน");

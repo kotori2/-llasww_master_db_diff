@@ -1449,6 +1449,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001815", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001816", /*message*/"[光輝燦爛閃耀假期]完成11場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001817", /*message*/"[光輝燦爛閃耀假期]完成33場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001818", /*message*/"[光輝燦爛閃耀假期]完成55場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001819", /*message*/"[光輝燦爛閃耀假期]觀賞完第25章劇情");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001820", /*message*/"[光輝燦爛閃耀假期]觀賞完84話默契篇章");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001821", /*message*/"[光輝燦爛閃耀假期]觀賞完140話默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001901", /*message*/"[ライブ応援！ログインボーナス] 於期間內領取9次登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002101", /*message*/"[ライブ応援！ログインボーナス] 於期間內領取9次登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002201", /*message*/"[A song for You! You? You!! リリースイベント] 完成10次「A song for You! You? You!!」");
@@ -1629,6 +1632,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008202", /*message*/"[大型合作演唱會課題]完成10次「HEART to HEART!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008203", /*message*/"[大型合作演唱會課題]完成10次「SKY JOURNEY」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008204", /*message*/"[大型合作演唱會課題]完成10次「Audrey」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008801", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008802", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008803", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009520", /*message*/"[活動特別課題]遊玩1次「Dream with You」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009521", /*message*/"[活動特別課題]遊玩1次「Poppin&apos; Up!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009522", /*message*/"[活動特別課題]遊玩1次「DIVE!」");
@@ -1671,6 +1677,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007_000", /*message*/"夢幻遊行演唱會～Pure／Smile亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008", /*message*/"夢幻遊行演唱會～虹咲亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008_000", /*message*/"夢幻遊行演唱會～虹咲亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33009", /*message*/"夢幻遊行演唱會～Cool／Active亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33009_000", /*message*/"夢幻遊行演唱會～Cool／Active亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");

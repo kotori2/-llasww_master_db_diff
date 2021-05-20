@@ -1460,6 +1460,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001815", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001816", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์ไลฟ์ 11 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001817", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์ไลฟ์ 33 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001818", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์ไลฟ์ 55 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001819", /*message*/"[เจิดจรัสรับวันหยุด]เคลียร์สตอรี่ 25 บท");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001820", /*message*/"[เจิดจรัสรับวันหยุด]อ่านเนื้อเรื่องเพิ่มความสนิท 84 ตอน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001821", /*message*/"[เจิดจรัสรับวันหยุด]อ่านเนื้อเรื่องเพิ่มความสนิท 140 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001901", /*message*/"[ライブ応援！ログインボーナス] รับล็อกอินโบนัส 9 ครั้งในเวลาที่กำหนด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002101", /*message*/"[ライブ応援！ログインボーナス] รับล็อกอินโบนัส 9 ครั้งในเวลาที่กำหนด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900002201", /*message*/"[A song for You! You? You!! リリースイベント] เคลียร์ &quot;A song for You! You? You!!&quot; 10 ครั้ง");
@@ -1640,6 +1643,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008202", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;HEART to HEART!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008203", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;SKY JOURNEY&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008204", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Audrey&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008801", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008802", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008803", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009520", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;Dream with You&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009521", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;Poppin&apos; Up!&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009522", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่น &quot;DIVE!&quot; 1 ครั้ง");
@@ -1682,6 +1688,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007_000", /*message*/"ดรีมไลฟ์พาเรด -Pure/Smile ออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008", /*message*/"ดรีมไลฟ์พาเรด -นิจิกาคุออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008_000", /*message*/"ดรีมไลฟ์พาเรด -นิจิกาคุออนสเตจ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33009", /*message*/"ดรีมไลฟ์พาเรด-Cool/Active ออนสเตจ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33009_000", /*message*/"ดรีมไลฟ์พาเรด-Cool/Active ออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");

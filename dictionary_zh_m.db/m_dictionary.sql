@@ -286,6 +286,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000042", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000043", /*message*/"完成所有每日課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000044", /*message*/"完成所有每日課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"完成所有每日課題");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000046", /*message*/"完成3場LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_card", /*message*/"學園偶像({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_image", /*message*/"圖片({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_live", /*message*/"歌曲({0})");

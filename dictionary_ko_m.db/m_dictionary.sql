@@ -291,6 +291,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000042", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000043", /*message*/"일일 과제 모두 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000044", /*message*/"일일 과제 모두 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"일일 과제 모두 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000046", /*message*/"라이브 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_card", /*message*/"스쿨 아이돌 ({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_image", /*message*/"이미지 ({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_live", /*message*/"곡 ({0})");

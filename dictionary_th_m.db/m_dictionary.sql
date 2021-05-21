@@ -293,6 +293,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000042", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000043", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000044", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000046", /*message*/"เคลียร์ไลฟ์ 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_card", /*message*/"สคูลไอดอล ({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_image", /*message*/"ภาพ ({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_live", /*message*/"เพลง ({0})");

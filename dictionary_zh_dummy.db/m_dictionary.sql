@@ -16,6 +16,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033011_01", /*message*/"台場的
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035008_00", /*message*/"公園(小)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035016_00", /*message*/"遊樂園(晴朗白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"天文館(含極光)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035020_00", /*message*/"公園(大)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035025_00", /*message*/"廚房");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035031_01", /*message*/"草坪(花海)(晴朗白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035032_00", /*message*/"老街街景A(晴朗白天)");
@@ -244,6 +245,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30021_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30021_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30021_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30021_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30022_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30022_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30022_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30022_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30022_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30022_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30022_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message*/"活動規則 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"活動規則 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"活動規則 2/6");

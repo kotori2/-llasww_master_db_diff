@@ -9,3 +9,4 @@ CREATE TABLE m_member_guild_period(
   one_cycle_secs INTEGER NOT NULL,
   PRIMARY KEY (id)
 );
+INSERT INTO `m_member_guild_period` VALUES (/*id*/1, /*start_at*/1624870800, /*end_at*/"", /*transfer_start_secs*/0, /*transfer_end_secs*/151200, /*ranking_start_secs*/151200, /*ranking_end_secs*/583200, /*one_cycle_secs*/604800);

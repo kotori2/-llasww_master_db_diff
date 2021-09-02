@@ -378,7 +378,7 @@ INSERT INTO `static_text` VALUES (/*textid*/7431245732221171530, /*guid*/"39a632
 INSERT INTO `static_text` VALUES (/*textid*/7954540543245578493, /*guid*/"39a63282f98604389b8bb095ad90230e", /*message*/"Last Formation&apos;s Grade");
 INSERT INTO `static_text` VALUES (/*textid*/8554836643557894952, /*guid*/"39a63282f98604389b8bb095ad90230e", /*message*/"Show Results");
 INSERT INTO `static_text` VALUES (/*textid*/8884545190084139890, /*guid*/"39a63282f98604389b8bb095ad90230e", /*message*/"Duration");
-INSERT INTO `static_text` VALUES (/*textid*/4356540283552156303, /*guid*/"3a33455b4f88446f99ba0f06e0d3ee9b", /*message*/"In Formation");
+INSERT INTO `static_text` VALUES (/*textid*/4356540283552156303, /*guid*/"3a33455b4f88446f99ba0f06e0d3ee9b", /*message*/"In Use");
 INSERT INTO `static_text` VALUES (/*textid*/4357072801677670143, /*guid*/"3a33455b4f88446f99ba0f06e0d3ee9b", /*message*/"Center");
 INSERT INTO `static_text` VALUES (/*textid*/4357184870617105103, /*guid*/"3a33455b4f88446f99ba0f06e0d3ee9b", /*message*/"MAX");
 INSERT INTO `static_text` VALUES (/*textid*/114257319618467796, /*guid*/"3b1d49ed949b5469db259361b2fab0a4", /*message*/"Repurchase");
@@ -467,7 +467,7 @@ INSERT INTO `static_text` VALUES (/*textid*/5674203182719253726, /*guid*/"487269
 INSERT INTO `static_text` VALUES (/*textid*/5781403737975416924, /*guid*/"4872694bd909246479f767cc04d488fa", /*message*/"Start");
 INSERT INTO `static_text` VALUES (/*textid*/831848222130499100, /*guid*/"4872694bd909246479f767cc04d488fa", /*message*/"Leader Insight Skill Discovery ↑");
 INSERT INTO `static_text` VALUES (/*textid*/8867511901727825263, /*guid*/"4872694bd909246479f767cc04d488fa", /*message*/"Cancel");
-INSERT INTO `static_text` VALUES (/*textid*/1525981428763571422, /*guid*/"48cd708cdda18b44fada768f117af953", /*message*/"In Formation");
+INSERT INTO `static_text` VALUES (/*textid*/1525981428763571422, /*guid*/"48cd708cdda18b44fada768f117af953", /*message*/"In Use");
 INSERT INTO `static_text` VALUES (/*textid*/2552177288322766957, /*guid*/"48cd708cdda18b44fada768f117af953", /*message*/"MAX");
 INSERT INTO `static_text` VALUES (/*textid*/5312144408956121982, /*guid*/"48cd708cdda18b44fada768f117af953", /*message*/"MAX");
 INSERT INTO `static_text` VALUES (/*textid*/441176615, /*guid*/"49b5bbdc1bc1f4986bc9763438bc8e76", /*message*/"EXP");
@@ -612,7 +612,6 @@ INSERT INTO `static_text` VALUES (/*textid*/123366149, /*guid*/"540e207a68b81431
 INSERT INTO `static_text` VALUES (/*textid*/1293325040126061548, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"On");
 INSERT INTO `static_text` VALUES (/*textid*/13428249, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"Total Show Power");
 INSERT INTO `static_text` VALUES (/*textid*/1450972679, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"Total Show Power");
-INSERT INTO `static_text` VALUES (/*textid*/1455800897917331397, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"Show Tricks");
 INSERT INTO `static_text` VALUES (/*textid*/1562048438, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"Autoplay");
 INSERT INTO `static_text` VALUES (/*textid*/1562446115, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"Items");
 INSERT INTO `static_text` VALUES (/*textid*/1709495999, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"Average Appeal");
@@ -948,6 +947,7 @@ INSERT INTO `static_text` VALUES (/*textid*/1125590343, /*guid*/"9588a3150a5ef47
 INSERT INTO `static_text` VALUES (/*textid*/1210048123, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Suggested Show Power");
 INSERT INTO `static_text` VALUES (/*textid*/1231865400, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Category");
 INSERT INTO `static_text` VALUES (/*textid*/1250347822, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Beginner");
+INSERT INTO `static_text` VALUES (/*textid*/1265401279, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Challenge");
 INSERT INTO `static_text` VALUES (/*textid*/1413155053, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_mv_01\" height=\"1\" width=\"1.6\"/> Video");
 INSERT INTO `static_text` VALUES (/*textid*/1436102526, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Suggested Show Power");
 INSERT INTO `static_text` VALUES (/*textid*/1483170528, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Hard");
@@ -1400,7 +1400,6 @@ INSERT INTO `static_text` VALUES (/*textid*/114267444588973120, /*guid*/"e6c379b
 INSERT INTO `static_text` VALUES (/*textid*/114767445234626692, /*guid*/"e6c379b9c04314d58be19e5635f6e8c4", /*message*/"Send this player a friend request?");
 INSERT INTO `static_text` VALUES (/*textid*/114698427737513166, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"Cancel");
 INSERT INTO `static_text` VALUES (/*textid*/114840869851263430, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"Info");
-INSERT INTO `static_text` VALUES (/*textid*/2323597735367021634, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"Special Notes");
 INSERT INTO `static_text` VALUES (/*textid*/244443411321342021, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"Story");
 INSERT INTO `static_text` VALUES (/*textid*/5064870102145420070, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"Download Song");
 INSERT INTO `static_text` VALUES (/*textid*/6118085070429712831, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"Confirm");
@@ -1482,12 +1481,12 @@ INSERT INTO `static_text` VALUES (/*textid*/2776022846158384964, /*guid*/"ecc49c
 INSERT INTO `static_text` VALUES (/*textid*/3457401302769885963, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"Query");
 INSERT INTO `static_text` VALUES (/*textid*/817435039551980080, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"Language");
 INSERT INTO `static_text` VALUES (/*textid*/8968192457381650329, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"Copyright");
-INSERT INTO `static_text` VALUES (/*textid*/114062330649955510, /*guid*/"edde761e01518ec419c2ded09411d116", /*message*/"In Formation");
+INSERT INTO `static_text` VALUES (/*textid*/114062330649955510, /*guid*/"edde761e01518ec419c2ded09411d116", /*message*/"In Use");
 INSERT INTO `static_text` VALUES (/*textid*/114109520327185958, /*guid*/"edde761e01518ec419c2ded09411d116", /*message*/"Lv.");
 INSERT INTO `static_text` VALUES (/*textid*/114672287461688566, /*guid*/"edde761e01518ec419c2ded09411d116", /*message*/"MAX");
 INSERT INTO `static_text` VALUES (/*textid*/114806586042085574, /*guid*/"edde761e01518ec419c2ded09411d116", /*message*/"Center");
 INSERT INTO `static_text` VALUES (/*textid*/275552487048197795, /*guid*/"edde761e01518ec419c2ded09411d116", /*message*/"Leader");
-INSERT INTO `static_text` VALUES (/*textid*/6599302043999333416, /*guid*/"edde761e01518ec419c2ded09411d116", /*message*/"In Formation");
+INSERT INTO `static_text` VALUES (/*textid*/6599302043999333416, /*guid*/"edde761e01518ec419c2ded09411d116", /*message*/"In Use");
 INSERT INTO `static_text` VALUES (/*textid*/114334771759384528, /*guid*/"ee42bd60a211041de96a8626d9b4337c", /*message*/"Today&apos;s Restorations");
 INSERT INTO `static_text` VALUES (/*textid*/3775814281143224686, /*guid*/"ee42bd60a211041de96a8626d9b4337c", /*message*/"→");
 INSERT INTO `static_text` VALUES (/*textid*/3897628058791381417, /*guid*/"ee42bd60a211041de96a8626d9b4337c", /*message*/"→");

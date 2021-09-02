@@ -164,6 +164,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2010_empty", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2011_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2011\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2012_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2012\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2013_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2013\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2026_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2026\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2027_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2027\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");
@@ -316,11 +318,19 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_red_start", /*message*/"<color v
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_sns_coin_icon_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1000_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" margin-left=\"30px\" margin-right=\"30px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_android", /*message*/"GooglePlay");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_ios", /*message*/"AppStore");
-INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_android", /*message*/"※ข้อแนะนำการใช้งานสำหรับผู้ใช้บริการระบบ Android");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_android", /*message*/"※ข้อแนะนำการใช้งานสำหรับผู้ใช้บริการระบบ Android
+・ยกเลิกการต่ออายุสมาชิกอัตโนมัติได้ที่ &quot;<:store_name/>&quot;
+แม้จะลบแอปพลิเคชันจะยังไม่ถือว่าเป็นการยกเลิกการสมัครสมาชิก
+・จะเรียกเก็บเงินค่าสมัครออลสตาร์พาสหลังเริ่มให้บริการที่ ID สโตร์ของระบบปฏิบัติการณ์ที่ใช้งาน
+・อาจมีการเพิ่มหรือเปลี่ยนแปลงรายการสิทธิพิเศษของออลสตาร์พาสในภายหลัง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_ios", /*message*/"※ข้อแนะนำการใช้งานสำหรับผู้ใช้บริการระบบ iOS
 ・สามารถยกเลิกการสมัครได้ภายใน 24 ชั่วโมงก่อนครบกำหนดอายุการใช้งาน
 ・หากไม่ยกเลิกการสมัครภายใน 24 ชั่วโมงก่อนครบกำหนดอายุการใช้งาน จะต่ออายุสมาชิกอัตโนมัติ
-・จะเรียกเก็บเงินค่าต่ออายุสมาชิกอัตโนมัติภายใน 24 ชั่วโมงหลังหมดอายุการใช้งาน");
+・จะเรียกเก็บเงินค่าต่ออายุสมาชิกอัตโนมัติภายใน 24 ชั่วโมงหลังหมดอายุการใช้งาน
+・ยกเลิกการต่ออายุสมาชิกอัตโนมัติได้ที่ &quot;<:store_name/>&quot;
+แม้จะลบแอปพลิเคชันจะยังไม่ถือว่าเป็นการยกเลิกการสมัครสมาชิก
+・จะเรียกเก็บเงินค่าสมัครออลสตาร์พาสหลังเริ่มให้บริการที่ ID สโตร์ของระบบปฏิบัติการณ์ที่ใช้งาน
+・อาจมีการเพิ่มหรือเปลี่ยนแปลงรายการสิทธิพิเศษของออลสตาร์พาสในภายหลัง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_help_empty_android", /*message*/"ทั้งนี้ วันที่สมัครยึดตามไทม์โซนมาตรฐานของระบบปฏิบัติการ (UTC) อาจทำให้อายุการใช้งานต่างกันเพราะช่วงเวลาต่างกันได้
 
 ตัวอย่าง) วันที่สมัคร: 2021/2/28 เวลา 15:00น. UTC

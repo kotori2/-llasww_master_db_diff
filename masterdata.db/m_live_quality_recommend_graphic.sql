@@ -15,6 +15,7 @@ INSERT INTO `m_live_quality_recommend_graphic` VALUES (/*id*/10120009, /*device_
 INSERT INTO `m_live_quality_recommend_graphic` VALUES (/*id*/10120010, /*device_name*/"Apple A", /*device_value*/10, /*quality*/20);
 INSERT INTO `m_live_quality_recommend_graphic` VALUES (/*id*/10120011, /*device_name*/"Apple A", /*device_value*/11, /*quality*/20);
 INSERT INTO `m_live_quality_recommend_graphic` VALUES (/*id*/10120012, /*device_name*/"Apple A", /*device_value*/12, /*quality*/10);
+INSERT INTO `m_live_quality_recommend_graphic` VALUES (/*id*/10130000, /*device_name*/"Apple M1 GPU", /*device_value*/0, /*quality*/10);
 INSERT INTO `m_live_quality_recommend_graphic` VALUES (/*id*/10210000, /*device_name*/"PowerVR GT[0-9]+ Plus", /*device_value*/0, /*quality*/40);
 INSERT INTO `m_live_quality_recommend_graphic` VALUES (/*id*/10217400, /*device_name*/"PowerVR GT[0-9]+ Plus", /*device_value*/7400, /*quality*/40);
 INSERT INTO `m_live_quality_recommend_graphic` VALUES (/*id*/10220000, /*device_name*/"PowerVR", /*device_value*/0, /*quality*/50);

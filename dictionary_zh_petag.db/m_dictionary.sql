@@ -164,6 +164,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2010_empty", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2011_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2011\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2012_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2012\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2013_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2013\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2026_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2026\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2027_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2027\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");
@@ -318,11 +320,19 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_red_start", /*message*/"<color v
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_sns_coin_icon_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1000_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" margin-left=\"30px\" margin-right=\"30px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_android", /*message*/"Google Play");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_ios", /*message*/"App Store");
-INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_android", /*message*/"※針對Android玩家的說明");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_android", /*message*/"※針對Android玩家的說明
+・透過「<:store_name/>」即可取消自動續購。
+　即使刪除遊戲程式，自動續購也不會被取消，還請留意。
+・訂購ALL STARS通行證後的付費扣款行為將會透過目前使用中的平台商店ID來進行。
+・ALL STARS通行證的特典內容今後將有可能會新增或是變更。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_ios", /*message*/"※針對iOS玩家的說明
 ・在有效期限到期前至少24小時以前可取消自動續購。
 ・若不在有效期限到期前至少24小時以前完成取消自動續購手續，系統即會自動續購並延長有效期限。
-・自動續購後，續購金額會在商品有效期限到期後的24小時內扣款。");
+・自動續購後，續購金額會在商品有效期限到期後的24小時內扣款。
+・透過「<:store_name/>」即可取消自動續購或重新訂購。
+　即使刪除遊戲程式，自動續購也不會被取消，還請留意。
+・訂購ALL STARS通行證後的付費扣款行為將會透過目前使用中的平台商店ID來進行。
+・ALL STARS通行證的特典內容今後將有可能會新增或是變更。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_help_empty_android", /*message*/"另外，由於計算基準日以平台標準時間(UTC)為主，所以有效期限有可能會受到時差影響。
 
 【範例】訂購時間：2021年2月28日15:00 UTC

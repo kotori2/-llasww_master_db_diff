@@ -27,3 +27,4 @@ INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/21, /*title*/
 INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/22, /*title*/"k.m_filter_category_recommended_accessary");
 INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/23, /*title*/"k.m_filter_category_recommended_party_type");
 INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/24, /*title*/"k.m_filter_category_card_tower_play_count");
+INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/25, /*title*/"k.m_filter_category_read_state");

@@ -15,3 +15,4 @@ INSERT INTO `m_dic_str3` VALUES (/*id*/9, /*text*/"k.kizuna_board_ls_204");
 INSERT INTO `m_dic_str3` VALUES (/*id*/10, /*text*/"k.kizuna_board_ls_304");
 INSERT INTO `m_dic_str3` VALUES (/*id*/11, /*text*/"k.decoration_text_external_movie_period_text");
 INSERT INTO `m_dic_str3` VALUES (/*id*/12, /*text*/"k.decoration_text_external_movie_reward_text");
+INSERT INTO `m_dic_str3` VALUES (/*id*/13, /*text*/"k.download_ready_popup_message_categories_1");

@@ -34,4 +34,6 @@ INSERT INTO `live2d_sd_model` VALUES (/*asset_path*/"'s", /*pack_name*/"7mygt5",
 INSERT INTO `live2d_sd_model` VALUES (/*asset_path*/")1", /*pack_name*/"7mygt5", /*head*/1639885, /*size*/73264, /*key1*/-719248609, /*key2*/1770980398);
 INSERT INTO `live2d_sd_model` VALUES (/*asset_path*/"vp", /*pack_name*/"7mygt5", /*head*/1713149, /*size*/67232, /*key1*/-1673323211, /*key2*/1092677235);
 INSERT INTO `live2d_sd_model` VALUES (/*asset_path*/"D!/", /*pack_name*/"7eozd1", /*head*/0, /*size*/48727, /*key1*/777079301, /*key2*/1765917108);
+INSERT INTO `live2d_sd_model` VALUES (/*asset_path*/"|SM", /*pack_name*/"enw4z8", /*head*/0, /*size*/60624, /*key1*/31052043, /*key2*/1725262172);
+INSERT INTO `live2d_sd_model` VALUES (/*asset_path*/"'7v", /*pack_name*/"enw4z8", /*head*/60624, /*size*/48900, /*key1*/-1971541846, /*key2*/-1654844633);
 INSERT INTO `live2d_sd_model` VALUES (/*asset_path*/"`[X", /*pack_name*/"7mygt5", /*head*/1780381, /*size*/72557, /*key1*/1943837154, /*key2*/-1073912847);

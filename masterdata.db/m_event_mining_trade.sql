@@ -21,3 +21,7 @@ INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31013, /*tr
 INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31014, /*trade_master_id*/31014);
 INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31015, /*trade_master_id*/31015);
 INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31016, /*trade_master_id*/31016);
+INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31017, /*trade_master_id*/31017);
+INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31018, /*trade_master_id*/31018);
+INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31019, /*trade_master_id*/31019);
+INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31020, /*trade_master_id*/31020);

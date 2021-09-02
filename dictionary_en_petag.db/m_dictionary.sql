@@ -164,6 +164,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2010_empty", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2011_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2011\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2012_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2012\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2013_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2013\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2026_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2026\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2027_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2027\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");
@@ -314,11 +316,19 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_red_start", /*message*/"<color v
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_sns_coin_icon_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1000_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" margin-left=\"30px\" margin-right=\"30px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_android", /*message*/"Google Play");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_ios", /*message*/"App Store");
-INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_android", /*message*/"For Android Users");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_android", /*message*/"For Android Users
+- You can subscribe for an automatically-renewed subscription through <:store_name/>.
+Please note that deleting the app will not cancel your subscription.
+- After starting your All Stars Pass subscription, payments will be charged to the store ID of the platform you are currently using.
+- New All Stars Pass bonuses may be added or the item details may change.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_ios", /*message*/"For iOS Users
 - You can cancel your subscription 24 hours or more before your subscription ends.
 - If you do not cancel your subscription 24 hours or more before your subscription ends, it will automatically be renewed.
-- You will be charged for the automatic renewal within 24 hours of the end of your subscription period.");
+- You will be charged for the automatic renewal within 24 hours of the end of your subscription period.
+- You can subscribe for an automatically-renewed subscription or re-subscribe through the <:store_name/>.
+Please note that deleting the app will not cancel your subscription.
+- After starting your All Stars Pass subscription, payments will be charged to the store ID of the platform you are currently using.
+- New All Stars Pass bonuses may be added or the item details may change.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_help_empty_android", /*message*/"Base dates are determined by the platform&apos;s time zone (UTC), so differences in subscription periods due to time zones may occur. Please note that recorded times may be shown in the 24-hour time format.
 
 Example

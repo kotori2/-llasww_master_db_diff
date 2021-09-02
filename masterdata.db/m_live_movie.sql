@@ -10,3 +10,5 @@ INSERT INTO `m_live_movie` VALUES (/*live_id*/92999, /*codec*/"h264", /*movie_as
 INSERT INTO `m_live_movie` VALUES (/*live_id*/92999, /*codec*/"prime", /*movie_asset_path*/"}qi", /*stage_background_asset_path*/"Bl7");
 INSERT INTO `m_live_movie` VALUES (/*live_id*/92998, /*codec*/"h264", /*movie_asset_path*/"Bs}", /*stage_background_asset_path*/"Bl7");
 INSERT INTO `m_live_movie` VALUES (/*live_id*/92998, /*codec*/"prime", /*movie_asset_path*/"Wfo", /*stage_background_asset_path*/"Bl7");
+INSERT INTO `m_live_movie` VALUES (/*live_id*/92997, /*codec*/"h264", /*movie_asset_path*/"F;w", /*stage_background_asset_path*/"Bl7");
+INSERT INTO `m_live_movie` VALUES (/*live_id*/92997, /*codec*/"prime", /*movie_asset_path*/"GFD", /*stage_background_asset_path*/"Bl7");

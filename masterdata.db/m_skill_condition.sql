@@ -263,3 +263,13 @@ INSERT INTO `m_skill_condition` VALUES (/*id*/256, /*condition_type*/5, /*condit
 INSERT INTO `m_skill_condition` VALUES (/*id*/257, /*condition_type*/5, /*condition_value*/1);
 INSERT INTO `m_skill_condition` VALUES (/*id*/258, /*condition_type*/6, /*condition_value*/0);
 INSERT INTO `m_skill_condition` VALUES (/*id*/259, /*condition_type*/6, /*condition_value*/0);
+INSERT INTO `m_skill_condition` VALUES (/*id*/260, /*condition_type*/3, /*condition_value*/11);
+INSERT INTO `m_skill_condition` VALUES (/*id*/261, /*condition_type*/3, /*condition_value*/12);
+INSERT INTO `m_skill_condition` VALUES (/*id*/262, /*condition_type*/3, /*condition_value*/13);
+INSERT INTO `m_skill_condition` VALUES (/*id*/263, /*condition_type*/3, /*condition_value*/14);
+INSERT INTO `m_skill_condition` VALUES (/*id*/264, /*condition_type*/3, /*condition_value*/15);
+INSERT INTO `m_skill_condition` VALUES (/*id*/265, /*condition_type*/3, /*condition_value*/16);
+INSERT INTO `m_skill_condition` VALUES (/*id*/266, /*condition_type*/3, /*condition_value*/17);
+INSERT INTO `m_skill_condition` VALUES (/*id*/267, /*condition_type*/3, /*condition_value*/18);
+INSERT INTO `m_skill_condition` VALUES (/*id*/268, /*condition_type*/3, /*condition_value*/19);
+INSERT INTO `m_skill_condition` VALUES (/*id*/269, /*condition_type*/3, /*condition_value*/20);

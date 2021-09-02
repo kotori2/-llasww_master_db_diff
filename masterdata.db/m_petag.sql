@@ -153,6 +153,8 @@ INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2010_empty", /*petag*/"p
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2011_empty", /*petag*/"petag.petag_icon_gimmick_2011_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2012_empty", /*petag*/"petag.petag_icon_gimmick_2012_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2013_empty", /*petag*/"petag.petag_icon_gimmick_2013_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2026_empty", /*petag*/"petag.petag_icon_gimmick_2026_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2027_empty", /*petag*/"petag.petag_icon_gimmick_2027_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_role_1_empty", /*petag*/"petag.petag_icon_role_1_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_role_2_empty", /*petag*/"petag.petag_icon_role_2_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_role_3_empty", /*petag*/"petag.petag_icon_role_3_empty");

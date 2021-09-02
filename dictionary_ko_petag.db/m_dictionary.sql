@@ -164,6 +164,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2010_empty", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2011_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2011\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2012_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2012\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2013_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2013\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2026_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2026\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2027_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2027\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");
@@ -318,11 +320,19 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_red_start", /*message*/"<color v
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_sns_coin_icon_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1000_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" margin-left=\"30px\" margin-right=\"30px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_android", /*message*/"Google Play");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_ios", /*message*/"App Store");
-INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_android", /*message*/"※Android를 이용 중이신 유저 여러분께 안내");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_android", /*message*/"※Android를 이용 중이신 유저 여러분께 안내
+・자동 갱신 해약은 &quot;<:store_name/>&quot;에서 실시할 수 있습니다.
+　게임을 삭제하더라도 취소가 되지 않으니 주의해주시기 바랍니다.
+・스쿠스타 패스 이용 개시 후의 과금 결제는 이용 중인 플랫폼의 스토어 ID를 통해 이루어집니다.
+・스쿠스타 패스의 특전 내용은 향후에 추가 및 변경될 가능성이 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_ios", /*message*/"※iOS를 이용 중이신 유저 여러분께 안내
 ・유효기간 만료 24시간 전까지 해약할 수 있습니다.
 ・유효기간 만료 24시간 전까지 해약하지 않으면 유효 기간이 자동 갱신됩니다.
-・자동 갱신 시 유효기간 만료 후 24시간 이내에 결제됩니다.");
+・자동 갱신 시 유효기간 만료 후 24시간 이내에 결제됩니다.
+・자동 갱신 해약은 &quot;<:store_name/>&quot;에서 실시할 수 있습니다.
+　게임을 삭제하더라도 취소가 되지 않으니 주의해주시기 바랍니다.
+・스쿠스타 패스 이용 개시 후의 과금 결제는 이용 중인 플랫폼의 스토어 ID를 통해 이루어집니다.
+・스쿠스타 패스의 특전 내용은 향후에 추가 및 변경될 가능성이 있습니다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_help_empty_android", /*message*/"기준일은 플랫폼 기준 타임존(UTC)으로 결정되니 시차로 유효 기간에 차이가 발생할 수 있습니다.
 
 예) 계약 일시： 2021/2/28 15:00 UTC

@@ -12,3 +12,4 @@ INSERT INTO `m_live_note_wave_setting` VALUES (/*mission_kind*/6, /*name*/"k.liv
 INSERT INTO `m_live_note_wave_setting` VALUES (/*mission_kind*/7, /*name*/"k.live_appeal_time_mission_use_card_uniq");
 INSERT INTO `m_live_note_wave_setting` VALUES (/*mission_kind*/8, /*name*/"k.live_appeal_time_mission_critical_count");
 INSERT INTO `m_live_note_wave_setting` VALUES (/*mission_kind*/9, /*name*/"k.live_appeal_time_mission_active_skill_count");
+INSERT INTO `m_live_note_wave_setting` VALUES (/*mission_kind*/16, /*name*/"k.live_appeal_time_mission_keep_stamina");

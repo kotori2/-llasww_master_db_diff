@@ -1235,3 +1235,5 @@ INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/
 INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1000576, /*member_master_id*/206);
 INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1000577, /*member_master_id*/109);
 INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1000577, /*member_master_id*/207);
+INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1000578, /*member_master_id*/4);
+INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1000578, /*member_master_id*/102);

@@ -37,3 +37,5 @@ INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/29, /*c
 INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/30, /*category*/2, /*relation_id*/208, /*name*/"k.m_dic_member_name_208");
 INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/31, /*category*/2, /*relation_id*/209, /*name*/"k.m_dic_member_name_209");
 INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/32, /*category*/2, /*relation_id*/210, /*name*/"k.m_dic_member_name_210");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/33, /*category*/2, /*relation_id*/211, /*name*/"k.m_dic_member_name_212");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/34, /*category*/2, /*relation_id*/212, /*name*/"k.m_dic_member_name_211");

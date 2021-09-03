@@ -10,6 +10,16 @@ INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/210, /
 INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/210, /*skill_rarity_type*/3, /*group_id*/121017);
 INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/210, /*skill_rarity_type*/4, /*group_id*/121017);
 INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/210, /*skill_rarity_type*/5, /*group_id*/121018);
+INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/211, /*skill_rarity_type*/1, /*group_id*/121117);
+INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/211, /*skill_rarity_type*/2, /*group_id*/121117);
+INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/211, /*skill_rarity_type*/3, /*group_id*/121117);
+INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/211, /*skill_rarity_type*/4, /*group_id*/121117);
+INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/211, /*skill_rarity_type*/5, /*group_id*/121118);
+INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/212, /*skill_rarity_type*/1, /*group_id*/121217);
+INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/212, /*skill_rarity_type*/2, /*group_id*/121217);
+INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/212, /*skill_rarity_type*/3, /*group_id*/121217);
+INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/212, /*skill_rarity_type*/4, /*group_id*/121217);
+INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/212, /*skill_rarity_type*/5, /*group_id*/121218);
 INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/1, /*skill_rarity_type*/1, /*group_id*/100117);
 INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/2, /*skill_rarity_type*/1, /*group_id*/100217);
 INSERT INTO `m_lesson_voice_action_flash_lot` VALUES (/*member_master_id*/3, /*skill_rarity_type*/1, /*group_id*/100317);

@@ -10,6 +10,16 @@ INSERT INTO `m_live_start_se` VALUES (/*member_id*/210, /*love_level*/5, /*voice
 INSERT INTO `m_live_start_se` VALUES (/*member_id*/210, /*love_level*/10, /*voice_asset_path*/"vo_sys_m0210_010");
 INSERT INTO `m_live_start_se` VALUES (/*member_id*/210, /*love_level*/20, /*voice_asset_path*/"vo_sys_m0210_011");
 INSERT INTO `m_live_start_se` VALUES (/*member_id*/210, /*love_level*/50, /*voice_asset_path*/"vo_sys_m0210_012");
+INSERT INTO `m_live_start_se` VALUES (/*member_id*/211, /*love_level*/1, /*voice_asset_path*/"vo_sys_m0212_008");
+INSERT INTO `m_live_start_se` VALUES (/*member_id*/211, /*love_level*/5, /*voice_asset_path*/"vo_sys_m0212_009");
+INSERT INTO `m_live_start_se` VALUES (/*member_id*/211, /*love_level*/10, /*voice_asset_path*/"vo_sys_m0212_010");
+INSERT INTO `m_live_start_se` VALUES (/*member_id*/211, /*love_level*/20, /*voice_asset_path*/"vo_sys_m0212_011");
+INSERT INTO `m_live_start_se` VALUES (/*member_id*/211, /*love_level*/50, /*voice_asset_path*/"vo_sys_m0212_012");
+INSERT INTO `m_live_start_se` VALUES (/*member_id*/212, /*love_level*/1, /*voice_asset_path*/"vo_sys_m0211_008");
+INSERT INTO `m_live_start_se` VALUES (/*member_id*/212, /*love_level*/5, /*voice_asset_path*/"vo_sys_m0211_009");
+INSERT INTO `m_live_start_se` VALUES (/*member_id*/212, /*love_level*/10, /*voice_asset_path*/"vo_sys_m0211_010");
+INSERT INTO `m_live_start_se` VALUES (/*member_id*/212, /*love_level*/20, /*voice_asset_path*/"vo_sys_m0211_011");
+INSERT INTO `m_live_start_se` VALUES (/*member_id*/212, /*love_level*/50, /*voice_asset_path*/"vo_sys_m0211_012");
 INSERT INTO `m_live_start_se` VALUES (/*member_id*/1, /*love_level*/1, /*voice_asset_path*/"vo_sys_m0001_008");
 INSERT INTO `m_live_start_se` VALUES (/*member_id*/1, /*love_level*/5, /*voice_asset_path*/"vo_sys_m0001_009");
 INSERT INTO `m_live_start_se` VALUES (/*member_id*/1, /*love_level*/10, /*voice_asset_path*/"vo_sys_m0001_010");

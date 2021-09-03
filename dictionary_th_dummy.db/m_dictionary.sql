@@ -28,6 +28,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035037_00", /*message*/"ชาน
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035055_00", /*message*/"ร้านอาหารจีน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035062_00", /*message*/"หน้าร้านของเล่น (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"ริมแม่น้ำในฤดูใบไม้ร่วง (กลางวัน)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035068_01", /*message*/"จุดชมวิว (กลางคืน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"สถานที่จัดปาร์ตี้ที่เห็นวิวกลางคืน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035075_00", /*message*/"พื้นที่จัดงานอีเวนต์เกม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035076_00", /*message*/"ห้องวิจัยประตูแห่งมิติ");

@@ -8,6 +8,7 @@ CREATE TABLE m_navi_action_love_level_up(
   priority INTEGER NOT NULL,
   PRIMARY KEY (id),
   FOREIGN KEY (member_m_id) REFERENCES m_member(id),
+  FOREIGN KEY (suit_m_id) REFERENCES m_suit(id),
   FOREIGN KEY (navi_action_id) REFERENCES m_navi_action(id)
 );
 INSERT INTO `m_navi_action_love_level_up` VALUES (/*id*/100010118, /*min_love_level*/1, /*max_love_level*/10, /*member_m_id*/1, /*suit_m_id*/"", /*navi_action_id*/100010118, /*priority*/1);
@@ -94,3 +95,9 @@ INSERT INTO `m_navi_action_love_level_up` VALUES (/*id*/102090120, /*min_love_le
 INSERT INTO `m_navi_action_love_level_up` VALUES (/*id*/102100118, /*min_love_level*/1, /*max_love_level*/10, /*member_m_id*/210, /*suit_m_id*/"", /*navi_action_id*/102100118, /*priority*/1);
 INSERT INTO `m_navi_action_love_level_up` VALUES (/*id*/102100119, /*min_love_level*/11, /*max_love_level*/50, /*member_m_id*/210, /*suit_m_id*/"", /*navi_action_id*/102100119, /*priority*/1);
 INSERT INTO `m_navi_action_love_level_up` VALUES (/*id*/102100120, /*min_love_level*/51, /*max_love_level*/999, /*member_m_id*/210, /*suit_m_id*/"", /*navi_action_id*/102100120, /*priority*/1);
+INSERT INTO `m_navi_action_love_level_up` VALUES (/*id*/102110118, /*min_love_level*/1, /*max_love_level*/10, /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110118, /*priority*/1);
+INSERT INTO `m_navi_action_love_level_up` VALUES (/*id*/102110119, /*min_love_level*/11, /*max_love_level*/50, /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110119, /*priority*/1);
+INSERT INTO `m_navi_action_love_level_up` VALUES (/*id*/102110120, /*min_love_level*/51, /*max_love_level*/999, /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110120, /*priority*/1);
+INSERT INTO `m_navi_action_love_level_up` VALUES (/*id*/102120118, /*min_love_level*/1, /*max_love_level*/10, /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120118, /*priority*/1);
+INSERT INTO `m_navi_action_love_level_up` VALUES (/*id*/102120119, /*min_love_level*/11, /*max_love_level*/50, /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120119, /*priority*/1);
+INSERT INTO `m_navi_action_love_level_up` VALUES (/*id*/102120120, /*min_love_level*/51, /*max_love_level*/999, /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120120, /*priority*/1);

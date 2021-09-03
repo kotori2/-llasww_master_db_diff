@@ -8,6 +8,8 @@ CREATE TABLE m_member_guild_point_clear_reward(
   PRIMARY KEY (id, member_master_id, target_point, content_type, content_id),
   FOREIGN KEY (member_master_id) REFERENCES m_member(id)
 );
+INSERT INTO `m_member_guild_point_clear_reward` VALUES (/*id*/1, /*member_master_id*/211, /*target_point*/25000, /*content_type*/21, /*content_id*/50211, /*content_amount*/20);
+INSERT INTO `m_member_guild_point_clear_reward` VALUES (/*id*/1, /*member_master_id*/212, /*target_point*/25000, /*content_type*/21, /*content_id*/50212, /*content_amount*/20);
 INSERT INTO `m_member_guild_point_clear_reward` VALUES (/*id*/1, /*member_master_id*/1, /*target_point*/25000, /*content_type*/21, /*content_id*/50001, /*content_amount*/20);
 INSERT INTO `m_member_guild_point_clear_reward` VALUES (/*id*/1, /*member_master_id*/2, /*target_point*/25000, /*content_type*/21, /*content_id*/50002, /*content_amount*/20);
 INSERT INTO `m_member_guild_point_clear_reward` VALUES (/*id*/1, /*member_master_id*/3, /*target_point*/25000, /*content_type*/21, /*content_id*/50003, /*content_amount*/20);

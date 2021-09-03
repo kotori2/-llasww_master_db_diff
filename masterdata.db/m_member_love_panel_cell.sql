@@ -35,6 +35,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/1207, /*panel_index*/0, /*m
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/1208, /*panel_index*/0, /*member_love_panel_master_id*/1208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/1209, /*panel_index*/0, /*member_love_panel_master_id*/1209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/1210, /*panel_index*/0, /*member_love_panel_master_id*/1210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/1211, /*panel_index*/0, /*member_love_panel_master_id*/1211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/1212, /*panel_index*/0, /*member_love_panel_master_id*/1212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/2001, /*panel_index*/1, /*member_love_panel_master_id*/1001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/2002, /*panel_index*/1, /*member_love_panel_master_id*/1002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/2003, /*panel_index*/1, /*member_love_panel_master_id*/1003, /*bonus_type*/3, /*bonus_value*/10);
@@ -63,6 +65,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/2207, /*panel_index*/1, /*m
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/2208, /*panel_index*/1, /*member_love_panel_master_id*/1208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/2209, /*panel_index*/1, /*member_love_panel_master_id*/1209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/2210, /*panel_index*/1, /*member_love_panel_master_id*/1210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/2211, /*panel_index*/1, /*member_love_panel_master_id*/1211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/2212, /*panel_index*/1, /*member_love_panel_master_id*/1212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/3001, /*panel_index*/2, /*member_love_panel_master_id*/1001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/3002, /*panel_index*/2, /*member_love_panel_master_id*/1002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/3003, /*panel_index*/2, /*member_love_panel_master_id*/1003, /*bonus_type*/2, /*bonus_value*/10);
@@ -91,6 +95,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/3207, /*panel_index*/2, /*m
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/3208, /*panel_index*/2, /*member_love_panel_master_id*/1208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/3209, /*panel_index*/2, /*member_love_panel_master_id*/1209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/3210, /*panel_index*/2, /*member_love_panel_master_id*/1210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/3211, /*panel_index*/2, /*member_love_panel_master_id*/1211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/3212, /*panel_index*/2, /*member_love_panel_master_id*/1212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/4001, /*panel_index*/3, /*member_love_panel_master_id*/1001, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/4002, /*panel_index*/3, /*member_love_panel_master_id*/1002, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/4003, /*panel_index*/3, /*member_love_panel_master_id*/1003, /*bonus_type*/4, /*bonus_value*/50);
@@ -119,6 +125,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/4207, /*panel_index*/3, /*m
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/4208, /*panel_index*/3, /*member_love_panel_master_id*/1208, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/4209, /*panel_index*/3, /*member_love_panel_master_id*/1209, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/4210, /*panel_index*/3, /*member_love_panel_master_id*/1210, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/4211, /*panel_index*/3, /*member_love_panel_master_id*/1211, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/4212, /*panel_index*/3, /*member_love_panel_master_id*/1212, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/5001, /*panel_index*/4, /*member_love_panel_master_id*/1001, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/5002, /*panel_index*/4, /*member_love_panel_master_id*/1002, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/5003, /*panel_index*/4, /*member_love_panel_master_id*/1003, /*bonus_type*/6, /*bonus_value*/50);
@@ -147,6 +155,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/5207, /*panel_index*/4, /*m
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/5208, /*panel_index*/4, /*member_love_panel_master_id*/1208, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/5209, /*panel_index*/4, /*member_love_panel_master_id*/1209, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/5210, /*panel_index*/4, /*member_love_panel_master_id*/1210, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/5211, /*panel_index*/4, /*member_love_panel_master_id*/1211, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/5212, /*panel_index*/4, /*member_love_panel_master_id*/1212, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/11001, /*panel_index*/0, /*member_love_panel_master_id*/2001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/11002, /*panel_index*/0, /*member_love_panel_master_id*/2002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/11003, /*panel_index*/0, /*member_love_panel_master_id*/2003, /*bonus_type*/1, /*bonus_value*/10);
@@ -175,6 +185,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/11207, /*panel_index*/0, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/11208, /*panel_index*/0, /*member_love_panel_master_id*/2208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/11209, /*panel_index*/0, /*member_love_panel_master_id*/2209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/11210, /*panel_index*/0, /*member_love_panel_master_id*/2210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/11211, /*panel_index*/0, /*member_love_panel_master_id*/2211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/11212, /*panel_index*/0, /*member_love_panel_master_id*/2212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/12001, /*panel_index*/1, /*member_love_panel_master_id*/2001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/12002, /*panel_index*/1, /*member_love_panel_master_id*/2002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/12003, /*panel_index*/1, /*member_love_panel_master_id*/2003, /*bonus_type*/3, /*bonus_value*/10);
@@ -203,6 +215,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/12207, /*panel_index*/1, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/12208, /*panel_index*/1, /*member_love_panel_master_id*/2208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/12209, /*panel_index*/1, /*member_love_panel_master_id*/2209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/12210, /*panel_index*/1, /*member_love_panel_master_id*/2210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/12211, /*panel_index*/1, /*member_love_panel_master_id*/2211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/12212, /*panel_index*/1, /*member_love_panel_master_id*/2212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/13001, /*panel_index*/2, /*member_love_panel_master_id*/2001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/13002, /*panel_index*/2, /*member_love_panel_master_id*/2002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/13003, /*panel_index*/2, /*member_love_panel_master_id*/2003, /*bonus_type*/2, /*bonus_value*/10);
@@ -231,6 +245,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/13207, /*panel_index*/2, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/13208, /*panel_index*/2, /*member_love_panel_master_id*/2208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/13209, /*panel_index*/2, /*member_love_panel_master_id*/2209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/13210, /*panel_index*/2, /*member_love_panel_master_id*/2210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/13211, /*panel_index*/2, /*member_love_panel_master_id*/2211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/13212, /*panel_index*/2, /*member_love_panel_master_id*/2212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/14001, /*panel_index*/3, /*member_love_panel_master_id*/2001, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/14002, /*panel_index*/3, /*member_love_panel_master_id*/2002, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/14003, /*panel_index*/3, /*member_love_panel_master_id*/2003, /*bonus_type*/5, /*bonus_value*/500);
@@ -259,6 +275,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/14207, /*panel_index*/3, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/14208, /*panel_index*/3, /*member_love_panel_master_id*/2208, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/14209, /*panel_index*/3, /*member_love_panel_master_id*/2209, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/14210, /*panel_index*/3, /*member_love_panel_master_id*/2210, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/14211, /*panel_index*/3, /*member_love_panel_master_id*/2211, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/14212, /*panel_index*/3, /*member_love_panel_master_id*/2212, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/15001, /*panel_index*/4, /*member_love_panel_master_id*/2001, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/15002, /*panel_index*/4, /*member_love_panel_master_id*/2002, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/15003, /*panel_index*/4, /*member_love_panel_master_id*/2003, /*bonus_type*/13, /*bonus_value*/6);
@@ -287,6 +305,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/15207, /*panel_index*/4, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/15208, /*panel_index*/4, /*member_love_panel_master_id*/2208, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/15209, /*panel_index*/4, /*member_love_panel_master_id*/2209, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/15210, /*panel_index*/4, /*member_love_panel_master_id*/2210, /*bonus_type*/13, /*bonus_value*/6);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/15211, /*panel_index*/4, /*member_love_panel_master_id*/2211, /*bonus_type*/13, /*bonus_value*/6);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/15212, /*panel_index*/4, /*member_love_panel_master_id*/2212, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/21001, /*panel_index*/0, /*member_love_panel_master_id*/3001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/21002, /*panel_index*/0, /*member_love_panel_master_id*/3002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/21003, /*panel_index*/0, /*member_love_panel_master_id*/3003, /*bonus_type*/1, /*bonus_value*/10);
@@ -315,6 +335,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/21207, /*panel_index*/0, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/21208, /*panel_index*/0, /*member_love_panel_master_id*/3208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/21209, /*panel_index*/0, /*member_love_panel_master_id*/3209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/21210, /*panel_index*/0, /*member_love_panel_master_id*/3210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/21211, /*panel_index*/0, /*member_love_panel_master_id*/3211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/21212, /*panel_index*/0, /*member_love_panel_master_id*/3212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/22001, /*panel_index*/1, /*member_love_panel_master_id*/3001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/22002, /*panel_index*/1, /*member_love_panel_master_id*/3002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/22003, /*panel_index*/1, /*member_love_panel_master_id*/3003, /*bonus_type*/3, /*bonus_value*/10);
@@ -343,6 +365,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/22207, /*panel_index*/1, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/22208, /*panel_index*/1, /*member_love_panel_master_id*/3208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/22209, /*panel_index*/1, /*member_love_panel_master_id*/3209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/22210, /*panel_index*/1, /*member_love_panel_master_id*/3210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/22211, /*panel_index*/1, /*member_love_panel_master_id*/3211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/22212, /*panel_index*/1, /*member_love_panel_master_id*/3212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/23001, /*panel_index*/2, /*member_love_panel_master_id*/3001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/23002, /*panel_index*/2, /*member_love_panel_master_id*/3002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/23003, /*panel_index*/2, /*member_love_panel_master_id*/3003, /*bonus_type*/2, /*bonus_value*/10);
@@ -371,6 +395,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/23207, /*panel_index*/2, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/23208, /*panel_index*/2, /*member_love_panel_master_id*/3208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/23209, /*panel_index*/2, /*member_love_panel_master_id*/3209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/23210, /*panel_index*/2, /*member_love_panel_master_id*/3210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/23211, /*panel_index*/2, /*member_love_panel_master_id*/3211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/23212, /*panel_index*/2, /*member_love_panel_master_id*/3212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/24001, /*panel_index*/3, /*member_love_panel_master_id*/3001, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/24002, /*panel_index*/3, /*member_love_panel_master_id*/3002, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/24003, /*panel_index*/3, /*member_love_panel_master_id*/3003, /*bonus_type*/7, /*bonus_value*/20);
@@ -399,6 +425,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/24207, /*panel_index*/3, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/24208, /*panel_index*/3, /*member_love_panel_master_id*/3208, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/24209, /*panel_index*/3, /*member_love_panel_master_id*/3209, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/24210, /*panel_index*/3, /*member_love_panel_master_id*/3210, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/24211, /*panel_index*/3, /*member_love_panel_master_id*/3211, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/24212, /*panel_index*/3, /*member_love_panel_master_id*/3212, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/25001, /*panel_index*/4, /*member_love_panel_master_id*/3001, /*bonus_type*/12, /*bonus_value*/250);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/25002, /*panel_index*/4, /*member_love_panel_master_id*/3002, /*bonus_type*/12, /*bonus_value*/250);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/25003, /*panel_index*/4, /*member_love_panel_master_id*/3003, /*bonus_type*/12, /*bonus_value*/250);
@@ -427,6 +455,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/25207, /*panel_index*/4, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/25208, /*panel_index*/4, /*member_love_panel_master_id*/3208, /*bonus_type*/12, /*bonus_value*/250);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/25209, /*panel_index*/4, /*member_love_panel_master_id*/3209, /*bonus_type*/12, /*bonus_value*/250);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/25210, /*panel_index*/4, /*member_love_panel_master_id*/3210, /*bonus_type*/12, /*bonus_value*/250);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/25211, /*panel_index*/4, /*member_love_panel_master_id*/3211, /*bonus_type*/12, /*bonus_value*/250);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/25212, /*panel_index*/4, /*member_love_panel_master_id*/3212, /*bonus_type*/12, /*bonus_value*/250);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/31001, /*panel_index*/0, /*member_love_panel_master_id*/4001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/31002, /*panel_index*/0, /*member_love_panel_master_id*/4002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/31003, /*panel_index*/0, /*member_love_panel_master_id*/4003, /*bonus_type*/1, /*bonus_value*/10);
@@ -455,6 +485,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/31207, /*panel_index*/0, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/31208, /*panel_index*/0, /*member_love_panel_master_id*/4208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/31209, /*panel_index*/0, /*member_love_panel_master_id*/4209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/31210, /*panel_index*/0, /*member_love_panel_master_id*/4210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/31211, /*panel_index*/0, /*member_love_panel_master_id*/4211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/31212, /*panel_index*/0, /*member_love_panel_master_id*/4212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/32001, /*panel_index*/1, /*member_love_panel_master_id*/4001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/32002, /*panel_index*/1, /*member_love_panel_master_id*/4002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/32003, /*panel_index*/1, /*member_love_panel_master_id*/4003, /*bonus_type*/3, /*bonus_value*/10);
@@ -483,6 +515,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/32207, /*panel_index*/1, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/32208, /*panel_index*/1, /*member_love_panel_master_id*/4208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/32209, /*panel_index*/1, /*member_love_panel_master_id*/4209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/32210, /*panel_index*/1, /*member_love_panel_master_id*/4210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/32211, /*panel_index*/1, /*member_love_panel_master_id*/4211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/32212, /*panel_index*/1, /*member_love_panel_master_id*/4212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/33001, /*panel_index*/2, /*member_love_panel_master_id*/4001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/33002, /*panel_index*/2, /*member_love_panel_master_id*/4002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/33003, /*panel_index*/2, /*member_love_panel_master_id*/4003, /*bonus_type*/2, /*bonus_value*/10);
@@ -511,6 +545,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/33207, /*panel_index*/2, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/33208, /*panel_index*/2, /*member_love_panel_master_id*/4208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/33209, /*panel_index*/2, /*member_love_panel_master_id*/4209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/33210, /*panel_index*/2, /*member_love_panel_master_id*/4210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/33211, /*panel_index*/2, /*member_love_panel_master_id*/4211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/33212, /*panel_index*/2, /*member_love_panel_master_id*/4212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/34001, /*panel_index*/3, /*member_love_panel_master_id*/4001, /*bonus_type*/10, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/34002, /*panel_index*/3, /*member_love_panel_master_id*/4002, /*bonus_type*/10, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/34003, /*panel_index*/3, /*member_love_panel_master_id*/4003, /*bonus_type*/10, /*bonus_value*/50);
@@ -539,6 +575,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/34207, /*panel_index*/3, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/34208, /*panel_index*/3, /*member_love_panel_master_id*/4208, /*bonus_type*/10, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/34209, /*panel_index*/3, /*member_love_panel_master_id*/4209, /*bonus_type*/10, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/34210, /*panel_index*/3, /*member_love_panel_master_id*/4210, /*bonus_type*/10, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/34211, /*panel_index*/3, /*member_love_panel_master_id*/4211, /*bonus_type*/10, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/34212, /*panel_index*/3, /*member_love_panel_master_id*/4212, /*bonus_type*/10, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/35001, /*panel_index*/4, /*member_love_panel_master_id*/4001, /*bonus_type*/14, /*bonus_value*/4);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/35002, /*panel_index*/4, /*member_love_panel_master_id*/4002, /*bonus_type*/14, /*bonus_value*/4);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/35003, /*panel_index*/4, /*member_love_panel_master_id*/4003, /*bonus_type*/14, /*bonus_value*/4);
@@ -567,6 +605,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/35207, /*panel_index*/4, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/35208, /*panel_index*/4, /*member_love_panel_master_id*/4208, /*bonus_type*/14, /*bonus_value*/4);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/35209, /*panel_index*/4, /*member_love_panel_master_id*/4209, /*bonus_type*/14, /*bonus_value*/4);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/35210, /*panel_index*/4, /*member_love_panel_master_id*/4210, /*bonus_type*/14, /*bonus_value*/4);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/35211, /*panel_index*/4, /*member_love_panel_master_id*/4211, /*bonus_type*/14, /*bonus_value*/4);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/35212, /*panel_index*/4, /*member_love_panel_master_id*/4212, /*bonus_type*/14, /*bonus_value*/4);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/41001, /*panel_index*/0, /*member_love_panel_master_id*/5001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/41002, /*panel_index*/0, /*member_love_panel_master_id*/5002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/41003, /*panel_index*/0, /*member_love_panel_master_id*/5003, /*bonus_type*/1, /*bonus_value*/10);
@@ -595,6 +635,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/41207, /*panel_index*/0, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/41208, /*panel_index*/0, /*member_love_panel_master_id*/5208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/41209, /*panel_index*/0, /*member_love_panel_master_id*/5209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/41210, /*panel_index*/0, /*member_love_panel_master_id*/5210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/41211, /*panel_index*/0, /*member_love_panel_master_id*/5211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/41212, /*panel_index*/0, /*member_love_panel_master_id*/5212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/42001, /*panel_index*/1, /*member_love_panel_master_id*/5001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/42002, /*panel_index*/1, /*member_love_panel_master_id*/5002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/42003, /*panel_index*/1, /*member_love_panel_master_id*/5003, /*bonus_type*/3, /*bonus_value*/10);
@@ -623,6 +665,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/42207, /*panel_index*/1, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/42208, /*panel_index*/1, /*member_love_panel_master_id*/5208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/42209, /*panel_index*/1, /*member_love_panel_master_id*/5209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/42210, /*panel_index*/1, /*member_love_panel_master_id*/5210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/42211, /*panel_index*/1, /*member_love_panel_master_id*/5211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/42212, /*panel_index*/1, /*member_love_panel_master_id*/5212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/43001, /*panel_index*/2, /*member_love_panel_master_id*/5001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/43002, /*panel_index*/2, /*member_love_panel_master_id*/5002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/43003, /*panel_index*/2, /*member_love_panel_master_id*/5003, /*bonus_type*/2, /*bonus_value*/10);
@@ -651,6 +695,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/43207, /*panel_index*/2, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/43208, /*panel_index*/2, /*member_love_panel_master_id*/5208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/43209, /*panel_index*/2, /*member_love_panel_master_id*/5209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/43210, /*panel_index*/2, /*member_love_panel_master_id*/5210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/43211, /*panel_index*/2, /*member_love_panel_master_id*/5211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/43212, /*panel_index*/2, /*member_love_panel_master_id*/5212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/44001, /*panel_index*/3, /*member_love_panel_master_id*/5001, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/44002, /*panel_index*/3, /*member_love_panel_master_id*/5002, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/44003, /*panel_index*/3, /*member_love_panel_master_id*/5003, /*bonus_type*/5, /*bonus_value*/500);
@@ -679,6 +725,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/44207, /*panel_index*/3, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/44208, /*panel_index*/3, /*member_love_panel_master_id*/5208, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/44209, /*panel_index*/3, /*member_love_panel_master_id*/5209, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/44210, /*panel_index*/3, /*member_love_panel_master_id*/5210, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/44211, /*panel_index*/3, /*member_love_panel_master_id*/5211, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/44212, /*panel_index*/3, /*member_love_panel_master_id*/5212, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/45001, /*panel_index*/4, /*member_love_panel_master_id*/5001, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/45002, /*panel_index*/4, /*member_love_panel_master_id*/5002, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/45003, /*panel_index*/4, /*member_love_panel_master_id*/5003, /*bonus_type*/7, /*bonus_value*/20);
@@ -707,6 +755,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/45207, /*panel_index*/4, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/45208, /*panel_index*/4, /*member_love_panel_master_id*/5208, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/45209, /*panel_index*/4, /*member_love_panel_master_id*/5209, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/45210, /*panel_index*/4, /*member_love_panel_master_id*/5210, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/45211, /*panel_index*/4, /*member_love_panel_master_id*/5211, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/45212, /*panel_index*/4, /*member_love_panel_master_id*/5212, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/51001, /*panel_index*/0, /*member_love_panel_master_id*/6001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/51002, /*panel_index*/0, /*member_love_panel_master_id*/6002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/51003, /*panel_index*/0, /*member_love_panel_master_id*/6003, /*bonus_type*/1, /*bonus_value*/10);
@@ -735,6 +785,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/51207, /*panel_index*/0, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/51208, /*panel_index*/0, /*member_love_panel_master_id*/6208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/51209, /*panel_index*/0, /*member_love_panel_master_id*/6209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/51210, /*panel_index*/0, /*member_love_panel_master_id*/6210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/51211, /*panel_index*/0, /*member_love_panel_master_id*/6211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/51212, /*panel_index*/0, /*member_love_panel_master_id*/6212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/52001, /*panel_index*/1, /*member_love_panel_master_id*/6001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/52002, /*panel_index*/1, /*member_love_panel_master_id*/6002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/52003, /*panel_index*/1, /*member_love_panel_master_id*/6003, /*bonus_type*/3, /*bonus_value*/10);
@@ -763,6 +815,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/52207, /*panel_index*/1, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/52208, /*panel_index*/1, /*member_love_panel_master_id*/6208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/52209, /*panel_index*/1, /*member_love_panel_master_id*/6209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/52210, /*panel_index*/1, /*member_love_panel_master_id*/6210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/52211, /*panel_index*/1, /*member_love_panel_master_id*/6211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/52212, /*panel_index*/1, /*member_love_panel_master_id*/6212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/53001, /*panel_index*/2, /*member_love_panel_master_id*/6001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/53002, /*panel_index*/2, /*member_love_panel_master_id*/6002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/53003, /*panel_index*/2, /*member_love_panel_master_id*/6003, /*bonus_type*/2, /*bonus_value*/10);
@@ -791,6 +845,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/53207, /*panel_index*/2, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/53208, /*panel_index*/2, /*member_love_panel_master_id*/6208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/53209, /*panel_index*/2, /*member_love_panel_master_id*/6209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/53210, /*panel_index*/2, /*member_love_panel_master_id*/6210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/53211, /*panel_index*/2, /*member_love_panel_master_id*/6211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/53212, /*panel_index*/2, /*member_love_panel_master_id*/6212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/54001, /*panel_index*/3, /*member_love_panel_master_id*/6001, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/54002, /*panel_index*/3, /*member_love_panel_master_id*/6002, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/54003, /*panel_index*/3, /*member_love_panel_master_id*/6003, /*bonus_type*/6, /*bonus_value*/50);
@@ -819,6 +875,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/54207, /*panel_index*/3, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/54208, /*panel_index*/3, /*member_love_panel_master_id*/6208, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/54209, /*panel_index*/3, /*member_love_panel_master_id*/6209, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/54210, /*panel_index*/3, /*member_love_panel_master_id*/6210, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/54211, /*panel_index*/3, /*member_love_panel_master_id*/6211, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/54212, /*panel_index*/3, /*member_love_panel_master_id*/6212, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/55001, /*panel_index*/4, /*member_love_panel_master_id*/6001, /*bonus_type*/11, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/55002, /*panel_index*/4, /*member_love_panel_master_id*/6002, /*bonus_type*/11, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/55003, /*panel_index*/4, /*member_love_panel_master_id*/6003, /*bonus_type*/11, /*bonus_value*/50);
@@ -847,6 +905,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/55207, /*panel_index*/4, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/55208, /*panel_index*/4, /*member_love_panel_master_id*/6208, /*bonus_type*/11, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/55209, /*panel_index*/4, /*member_love_panel_master_id*/6209, /*bonus_type*/11, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/55210, /*panel_index*/4, /*member_love_panel_master_id*/6210, /*bonus_type*/11, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/55211, /*panel_index*/4, /*member_love_panel_master_id*/6211, /*bonus_type*/11, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/55212, /*panel_index*/4, /*member_love_panel_master_id*/6212, /*bonus_type*/11, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/61001, /*panel_index*/0, /*member_love_panel_master_id*/7001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/61002, /*panel_index*/0, /*member_love_panel_master_id*/7002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/61003, /*panel_index*/0, /*member_love_panel_master_id*/7003, /*bonus_type*/1, /*bonus_value*/10);
@@ -875,6 +935,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/61207, /*panel_index*/0, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/61208, /*panel_index*/0, /*member_love_panel_master_id*/7208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/61209, /*panel_index*/0, /*member_love_panel_master_id*/7209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/61210, /*panel_index*/0, /*member_love_panel_master_id*/7210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/61211, /*panel_index*/0, /*member_love_panel_master_id*/7211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/61212, /*panel_index*/0, /*member_love_panel_master_id*/7212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/62001, /*panel_index*/1, /*member_love_panel_master_id*/7001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/62002, /*panel_index*/1, /*member_love_panel_master_id*/7002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/62003, /*panel_index*/1, /*member_love_panel_master_id*/7003, /*bonus_type*/3, /*bonus_value*/10);
@@ -903,6 +965,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/62207, /*panel_index*/1, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/62208, /*panel_index*/1, /*member_love_panel_master_id*/7208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/62209, /*panel_index*/1, /*member_love_panel_master_id*/7209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/62210, /*panel_index*/1, /*member_love_panel_master_id*/7210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/62211, /*panel_index*/1, /*member_love_panel_master_id*/7211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/62212, /*panel_index*/1, /*member_love_panel_master_id*/7212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/63001, /*panel_index*/2, /*member_love_panel_master_id*/7001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/63002, /*panel_index*/2, /*member_love_panel_master_id*/7002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/63003, /*panel_index*/2, /*member_love_panel_master_id*/7003, /*bonus_type*/2, /*bonus_value*/10);
@@ -931,6 +995,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/63207, /*panel_index*/2, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/63208, /*panel_index*/2, /*member_love_panel_master_id*/7208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/63209, /*panel_index*/2, /*member_love_panel_master_id*/7209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/63210, /*panel_index*/2, /*member_love_panel_master_id*/7210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/63211, /*panel_index*/2, /*member_love_panel_master_id*/7211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/63212, /*panel_index*/2, /*member_love_panel_master_id*/7212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/64001, /*panel_index*/3, /*member_love_panel_master_id*/7001, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/64002, /*panel_index*/3, /*member_love_panel_master_id*/7002, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/64003, /*panel_index*/3, /*member_love_panel_master_id*/7003, /*bonus_type*/4, /*bonus_value*/50);
@@ -959,6 +1025,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/64207, /*panel_index*/3, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/64208, /*panel_index*/3, /*member_love_panel_master_id*/7208, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/64209, /*panel_index*/3, /*member_love_panel_master_id*/7209, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/64210, /*panel_index*/3, /*member_love_panel_master_id*/7210, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/64211, /*panel_index*/3, /*member_love_panel_master_id*/7211, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/64212, /*panel_index*/3, /*member_love_panel_master_id*/7212, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/65001, /*panel_index*/4, /*member_love_panel_master_id*/7001, /*bonus_type*/15, /*bonus_value*/2);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/65002, /*panel_index*/4, /*member_love_panel_master_id*/7002, /*bonus_type*/15, /*bonus_value*/2);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/65003, /*panel_index*/4, /*member_love_panel_master_id*/7003, /*bonus_type*/15, /*bonus_value*/2);
@@ -987,6 +1055,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/65207, /*panel_index*/4, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/65208, /*panel_index*/4, /*member_love_panel_master_id*/7208, /*bonus_type*/15, /*bonus_value*/2);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/65209, /*panel_index*/4, /*member_love_panel_master_id*/7209, /*bonus_type*/15, /*bonus_value*/2);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/65210, /*panel_index*/4, /*member_love_panel_master_id*/7210, /*bonus_type*/15, /*bonus_value*/2);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/65211, /*panel_index*/4, /*member_love_panel_master_id*/7211, /*bonus_type*/15, /*bonus_value*/2);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/65212, /*panel_index*/4, /*member_love_panel_master_id*/7212, /*bonus_type*/15, /*bonus_value*/2);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/71001, /*panel_index*/0, /*member_love_panel_master_id*/8001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/71002, /*panel_index*/0, /*member_love_panel_master_id*/8002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/71003, /*panel_index*/0, /*member_love_panel_master_id*/8003, /*bonus_type*/1, /*bonus_value*/10);
@@ -1015,6 +1085,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/71207, /*panel_index*/0, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/71208, /*panel_index*/0, /*member_love_panel_master_id*/8208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/71209, /*panel_index*/0, /*member_love_panel_master_id*/8209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/71210, /*panel_index*/0, /*member_love_panel_master_id*/8210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/71211, /*panel_index*/0, /*member_love_panel_master_id*/8211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/71212, /*panel_index*/0, /*member_love_panel_master_id*/8212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/72001, /*panel_index*/1, /*member_love_panel_master_id*/8001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/72002, /*panel_index*/1, /*member_love_panel_master_id*/8002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/72003, /*panel_index*/1, /*member_love_panel_master_id*/8003, /*bonus_type*/3, /*bonus_value*/10);
@@ -1043,6 +1115,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/72207, /*panel_index*/1, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/72208, /*panel_index*/1, /*member_love_panel_master_id*/8208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/72209, /*panel_index*/1, /*member_love_panel_master_id*/8209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/72210, /*panel_index*/1, /*member_love_panel_master_id*/8210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/72211, /*panel_index*/1, /*member_love_panel_master_id*/8211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/72212, /*panel_index*/1, /*member_love_panel_master_id*/8212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/73001, /*panel_index*/2, /*member_love_panel_master_id*/8001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/73002, /*panel_index*/2, /*member_love_panel_master_id*/8002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/73003, /*panel_index*/2, /*member_love_panel_master_id*/8003, /*bonus_type*/2, /*bonus_value*/10);
@@ -1071,6 +1145,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/73207, /*panel_index*/2, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/73208, /*panel_index*/2, /*member_love_panel_master_id*/8208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/73209, /*panel_index*/2, /*member_love_panel_master_id*/8209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/73210, /*panel_index*/2, /*member_love_panel_master_id*/8210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/73211, /*panel_index*/2, /*member_love_panel_master_id*/8211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/73212, /*panel_index*/2, /*member_love_panel_master_id*/8212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/74001, /*panel_index*/3, /*member_love_panel_master_id*/8001, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/74002, /*panel_index*/3, /*member_love_panel_master_id*/8002, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/74003, /*panel_index*/3, /*member_love_panel_master_id*/8003, /*bonus_type*/6, /*bonus_value*/50);
@@ -1099,6 +1175,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/74207, /*panel_index*/3, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/74208, /*panel_index*/3, /*member_love_panel_master_id*/8208, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/74209, /*panel_index*/3, /*member_love_panel_master_id*/8209, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/74210, /*panel_index*/3, /*member_love_panel_master_id*/8210, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/74211, /*panel_index*/3, /*member_love_panel_master_id*/8211, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/74212, /*panel_index*/3, /*member_love_panel_master_id*/8212, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/75001, /*panel_index*/4, /*member_love_panel_master_id*/8001, /*bonus_type*/9, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/75002, /*panel_index*/4, /*member_love_panel_master_id*/8002, /*bonus_type*/9, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/75003, /*panel_index*/4, /*member_love_panel_master_id*/8003, /*bonus_type*/9, /*bonus_value*/50);
@@ -1127,6 +1205,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/75207, /*panel_index*/4, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/75208, /*panel_index*/4, /*member_love_panel_master_id*/8208, /*bonus_type*/9, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/75209, /*panel_index*/4, /*member_love_panel_master_id*/8209, /*bonus_type*/9, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/75210, /*panel_index*/4, /*member_love_panel_master_id*/8210, /*bonus_type*/9, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/75211, /*panel_index*/4, /*member_love_panel_master_id*/8211, /*bonus_type*/9, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/75212, /*panel_index*/4, /*member_love_panel_master_id*/8212, /*bonus_type*/9, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/81001, /*panel_index*/0, /*member_love_panel_master_id*/9001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/81002, /*panel_index*/0, /*member_love_panel_master_id*/9002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/81003, /*panel_index*/0, /*member_love_panel_master_id*/9003, /*bonus_type*/1, /*bonus_value*/10);
@@ -1155,6 +1235,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/81207, /*panel_index*/0, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/81208, /*panel_index*/0, /*member_love_panel_master_id*/9208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/81209, /*panel_index*/0, /*member_love_panel_master_id*/9209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/81210, /*panel_index*/0, /*member_love_panel_master_id*/9210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/81211, /*panel_index*/0, /*member_love_panel_master_id*/9211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/81212, /*panel_index*/0, /*member_love_panel_master_id*/9212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/82001, /*panel_index*/1, /*member_love_panel_master_id*/9001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/82002, /*panel_index*/1, /*member_love_panel_master_id*/9002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/82003, /*panel_index*/1, /*member_love_panel_master_id*/9003, /*bonus_type*/3, /*bonus_value*/10);
@@ -1183,6 +1265,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/82207, /*panel_index*/1, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/82208, /*panel_index*/1, /*member_love_panel_master_id*/9208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/82209, /*panel_index*/1, /*member_love_panel_master_id*/9209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/82210, /*panel_index*/1, /*member_love_panel_master_id*/9210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/82211, /*panel_index*/1, /*member_love_panel_master_id*/9211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/82212, /*panel_index*/1, /*member_love_panel_master_id*/9212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/83001, /*panel_index*/2, /*member_love_panel_master_id*/9001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/83002, /*panel_index*/2, /*member_love_panel_master_id*/9002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/83003, /*panel_index*/2, /*member_love_panel_master_id*/9003, /*bonus_type*/2, /*bonus_value*/10);
@@ -1211,6 +1295,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/83207, /*panel_index*/2, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/83208, /*panel_index*/2, /*member_love_panel_master_id*/9208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/83209, /*panel_index*/2, /*member_love_panel_master_id*/9209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/83210, /*panel_index*/2, /*member_love_panel_master_id*/9210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/83211, /*panel_index*/2, /*member_love_panel_master_id*/9211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/83212, /*panel_index*/2, /*member_love_panel_master_id*/9212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/84001, /*panel_index*/3, /*member_love_panel_master_id*/9001, /*bonus_type*/8, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/84002, /*panel_index*/3, /*member_love_panel_master_id*/9002, /*bonus_type*/8, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/84003, /*panel_index*/3, /*member_love_panel_master_id*/9003, /*bonus_type*/8, /*bonus_value*/50);
@@ -1239,6 +1325,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/84207, /*panel_index*/3, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/84208, /*panel_index*/3, /*member_love_panel_master_id*/9208, /*bonus_type*/8, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/84209, /*panel_index*/3, /*member_love_panel_master_id*/9209, /*bonus_type*/8, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/84210, /*panel_index*/3, /*member_love_panel_master_id*/9210, /*bonus_type*/8, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/84211, /*panel_index*/3, /*member_love_panel_master_id*/9211, /*bonus_type*/8, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/84212, /*panel_index*/3, /*member_love_panel_master_id*/9212, /*bonus_type*/8, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/85001, /*panel_index*/4, /*member_love_panel_master_id*/9001, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/85002, /*panel_index*/4, /*member_love_panel_master_id*/9002, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/85003, /*panel_index*/4, /*member_love_panel_master_id*/9003, /*bonus_type*/4, /*bonus_value*/50);
@@ -1267,6 +1355,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/85207, /*panel_index*/4, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/85208, /*panel_index*/4, /*member_love_panel_master_id*/9208, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/85209, /*panel_index*/4, /*member_love_panel_master_id*/9209, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/85210, /*panel_index*/4, /*member_love_panel_master_id*/9210, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/85211, /*panel_index*/4, /*member_love_panel_master_id*/9211, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/85212, /*panel_index*/4, /*member_love_panel_master_id*/9212, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/91001, /*panel_index*/0, /*member_love_panel_master_id*/10001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/91002, /*panel_index*/0, /*member_love_panel_master_id*/10002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/91003, /*panel_index*/0, /*member_love_panel_master_id*/10003, /*bonus_type*/1, /*bonus_value*/10);
@@ -1295,6 +1385,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/91207, /*panel_index*/0, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/91208, /*panel_index*/0, /*member_love_panel_master_id*/10208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/91209, /*panel_index*/0, /*member_love_panel_master_id*/10209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/91210, /*panel_index*/0, /*member_love_panel_master_id*/10210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/91211, /*panel_index*/0, /*member_love_panel_master_id*/10211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/91212, /*panel_index*/0, /*member_love_panel_master_id*/10212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/92001, /*panel_index*/1, /*member_love_panel_master_id*/10001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/92002, /*panel_index*/1, /*member_love_panel_master_id*/10002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/92003, /*panel_index*/1, /*member_love_panel_master_id*/10003, /*bonus_type*/3, /*bonus_value*/10);
@@ -1323,6 +1415,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/92207, /*panel_index*/1, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/92208, /*panel_index*/1, /*member_love_panel_master_id*/10208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/92209, /*panel_index*/1, /*member_love_panel_master_id*/10209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/92210, /*panel_index*/1, /*member_love_panel_master_id*/10210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/92211, /*panel_index*/1, /*member_love_panel_master_id*/10211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/92212, /*panel_index*/1, /*member_love_panel_master_id*/10212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/93001, /*panel_index*/2, /*member_love_panel_master_id*/10001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/93002, /*panel_index*/2, /*member_love_panel_master_id*/10002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/93003, /*panel_index*/2, /*member_love_panel_master_id*/10003, /*bonus_type*/2, /*bonus_value*/10);
@@ -1351,6 +1445,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/93207, /*panel_index*/2, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/93208, /*panel_index*/2, /*member_love_panel_master_id*/10208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/93209, /*panel_index*/2, /*member_love_panel_master_id*/10209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/93210, /*panel_index*/2, /*member_love_panel_master_id*/10210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/93211, /*panel_index*/2, /*member_love_panel_master_id*/10211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/93212, /*panel_index*/2, /*member_love_panel_master_id*/10212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/94001, /*panel_index*/3, /*member_love_panel_master_id*/10001, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/94002, /*panel_index*/3, /*member_love_panel_master_id*/10002, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/94003, /*panel_index*/3, /*member_love_panel_master_id*/10003, /*bonus_type*/7, /*bonus_value*/20);
@@ -1379,6 +1475,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/94207, /*panel_index*/3, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/94208, /*panel_index*/3, /*member_love_panel_master_id*/10208, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/94209, /*panel_index*/3, /*member_love_panel_master_id*/10209, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/94210, /*panel_index*/3, /*member_love_panel_master_id*/10210, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/94211, /*panel_index*/3, /*member_love_panel_master_id*/10211, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/94212, /*panel_index*/3, /*member_love_panel_master_id*/10212, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/95001, /*panel_index*/4, /*member_love_panel_master_id*/10001, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/95002, /*panel_index*/4, /*member_love_panel_master_id*/10002, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/95003, /*panel_index*/4, /*member_love_panel_master_id*/10003, /*bonus_type*/5, /*bonus_value*/500);
@@ -1407,6 +1505,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/95207, /*panel_index*/4, /*
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/95208, /*panel_index*/4, /*member_love_panel_master_id*/10208, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/95209, /*panel_index*/4, /*member_love_panel_master_id*/10209, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/95210, /*panel_index*/4, /*member_love_panel_master_id*/10210, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/95211, /*panel_index*/4, /*member_love_panel_master_id*/10211, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/95212, /*panel_index*/4, /*member_love_panel_master_id*/10212, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/101001, /*panel_index*/0, /*member_love_panel_master_id*/11001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/101002, /*panel_index*/0, /*member_love_panel_master_id*/11002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/101003, /*panel_index*/0, /*member_love_panel_master_id*/11003, /*bonus_type*/1, /*bonus_value*/10);
@@ -1435,6 +1535,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/101207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/101208, /*panel_index*/0, /*member_love_panel_master_id*/11208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/101209, /*panel_index*/0, /*member_love_panel_master_id*/11209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/101210, /*panel_index*/0, /*member_love_panel_master_id*/11210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/101211, /*panel_index*/0, /*member_love_panel_master_id*/11211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/101212, /*panel_index*/0, /*member_love_panel_master_id*/11212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/102001, /*panel_index*/1, /*member_love_panel_master_id*/11001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/102002, /*panel_index*/1, /*member_love_panel_master_id*/11002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/102003, /*panel_index*/1, /*member_love_panel_master_id*/11003, /*bonus_type*/3, /*bonus_value*/10);
@@ -1463,6 +1565,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/102207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/102208, /*panel_index*/1, /*member_love_panel_master_id*/11208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/102209, /*panel_index*/1, /*member_love_panel_master_id*/11209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/102210, /*panel_index*/1, /*member_love_panel_master_id*/11210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/102211, /*panel_index*/1, /*member_love_panel_master_id*/11211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/102212, /*panel_index*/1, /*member_love_panel_master_id*/11212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/103001, /*panel_index*/2, /*member_love_panel_master_id*/11001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/103002, /*panel_index*/2, /*member_love_panel_master_id*/11002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/103003, /*panel_index*/2, /*member_love_panel_master_id*/11003, /*bonus_type*/2, /*bonus_value*/10);
@@ -1491,6 +1595,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/103207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/103208, /*panel_index*/2, /*member_love_panel_master_id*/11208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/103209, /*panel_index*/2, /*member_love_panel_master_id*/11209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/103210, /*panel_index*/2, /*member_love_panel_master_id*/11210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/103211, /*panel_index*/2, /*member_love_panel_master_id*/11211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/103212, /*panel_index*/2, /*member_love_panel_master_id*/11212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/104001, /*panel_index*/3, /*member_love_panel_master_id*/11001, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/104002, /*panel_index*/3, /*member_love_panel_master_id*/11002, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/104003, /*panel_index*/3, /*member_love_panel_master_id*/11003, /*bonus_type*/4, /*bonus_value*/50);
@@ -1519,6 +1625,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/104207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/104208, /*panel_index*/3, /*member_love_panel_master_id*/11208, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/104209, /*panel_index*/3, /*member_love_panel_master_id*/11209, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/104210, /*panel_index*/3, /*member_love_panel_master_id*/11210, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/104211, /*panel_index*/3, /*member_love_panel_master_id*/11211, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/104212, /*panel_index*/3, /*member_love_panel_master_id*/11212, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/105001, /*panel_index*/4, /*member_love_panel_master_id*/11001, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/105002, /*panel_index*/4, /*member_love_panel_master_id*/11002, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/105003, /*panel_index*/4, /*member_love_panel_master_id*/11003, /*bonus_type*/6, /*bonus_value*/50);
@@ -1547,6 +1655,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/105207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/105208, /*panel_index*/4, /*member_love_panel_master_id*/11208, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/105209, /*panel_index*/4, /*member_love_panel_master_id*/11209, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/105210, /*panel_index*/4, /*member_love_panel_master_id*/11210, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/105211, /*panel_index*/4, /*member_love_panel_master_id*/11211, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/105212, /*panel_index*/4, /*member_love_panel_master_id*/11212, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/111001, /*panel_index*/0, /*member_love_panel_master_id*/12001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/111002, /*panel_index*/0, /*member_love_panel_master_id*/12002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/111003, /*panel_index*/0, /*member_love_panel_master_id*/12003, /*bonus_type*/1, /*bonus_value*/10);
@@ -1575,6 +1685,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/111207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/111208, /*panel_index*/0, /*member_love_panel_master_id*/12208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/111209, /*panel_index*/0, /*member_love_panel_master_id*/12209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/111210, /*panel_index*/0, /*member_love_panel_master_id*/12210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/111211, /*panel_index*/0, /*member_love_panel_master_id*/12211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/111212, /*panel_index*/0, /*member_love_panel_master_id*/12212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/112001, /*panel_index*/1, /*member_love_panel_master_id*/12001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/112002, /*panel_index*/1, /*member_love_panel_master_id*/12002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/112003, /*panel_index*/1, /*member_love_panel_master_id*/12003, /*bonus_type*/3, /*bonus_value*/10);
@@ -1603,6 +1715,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/112207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/112208, /*panel_index*/1, /*member_love_panel_master_id*/12208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/112209, /*panel_index*/1, /*member_love_panel_master_id*/12209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/112210, /*panel_index*/1, /*member_love_panel_master_id*/12210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/112211, /*panel_index*/1, /*member_love_panel_master_id*/12211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/112212, /*panel_index*/1, /*member_love_panel_master_id*/12212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/113001, /*panel_index*/2, /*member_love_panel_master_id*/12001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/113002, /*panel_index*/2, /*member_love_panel_master_id*/12002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/113003, /*panel_index*/2, /*member_love_panel_master_id*/12003, /*bonus_type*/2, /*bonus_value*/10);
@@ -1631,6 +1745,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/113207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/113208, /*panel_index*/2, /*member_love_panel_master_id*/12208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/113209, /*panel_index*/2, /*member_love_panel_master_id*/12209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/113210, /*panel_index*/2, /*member_love_panel_master_id*/12210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/113211, /*panel_index*/2, /*member_love_panel_master_id*/12211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/113212, /*panel_index*/2, /*member_love_panel_master_id*/12212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/114001, /*panel_index*/3, /*member_love_panel_master_id*/12001, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/114002, /*panel_index*/3, /*member_love_panel_master_id*/12002, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/114003, /*panel_index*/3, /*member_love_panel_master_id*/12003, /*bonus_type*/5, /*bonus_value*/500);
@@ -1659,6 +1775,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/114207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/114208, /*panel_index*/3, /*member_love_panel_master_id*/12208, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/114209, /*panel_index*/3, /*member_love_panel_master_id*/12209, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/114210, /*panel_index*/3, /*member_love_panel_master_id*/12210, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/114211, /*panel_index*/3, /*member_love_panel_master_id*/12211, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/114212, /*panel_index*/3, /*member_love_panel_master_id*/12212, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/115001, /*panel_index*/4, /*member_love_panel_master_id*/12001, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/115002, /*panel_index*/4, /*member_love_panel_master_id*/12002, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/115003, /*panel_index*/4, /*member_love_panel_master_id*/12003, /*bonus_type*/13, /*bonus_value*/6);
@@ -1687,6 +1805,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/115207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/115208, /*panel_index*/4, /*member_love_panel_master_id*/12208, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/115209, /*panel_index*/4, /*member_love_panel_master_id*/12209, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/115210, /*panel_index*/4, /*member_love_panel_master_id*/12210, /*bonus_type*/13, /*bonus_value*/6);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/115211, /*panel_index*/4, /*member_love_panel_master_id*/12211, /*bonus_type*/13, /*bonus_value*/6);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/115212, /*panel_index*/4, /*member_love_panel_master_id*/12212, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/121001, /*panel_index*/0, /*member_love_panel_master_id*/13001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/121002, /*panel_index*/0, /*member_love_panel_master_id*/13002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/121003, /*panel_index*/0, /*member_love_panel_master_id*/13003, /*bonus_type*/1, /*bonus_value*/10);
@@ -1715,6 +1835,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/121207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/121208, /*panel_index*/0, /*member_love_panel_master_id*/13208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/121209, /*panel_index*/0, /*member_love_panel_master_id*/13209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/121210, /*panel_index*/0, /*member_love_panel_master_id*/13210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/121211, /*panel_index*/0, /*member_love_panel_master_id*/13211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/121212, /*panel_index*/0, /*member_love_panel_master_id*/13212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/122001, /*panel_index*/1, /*member_love_panel_master_id*/13001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/122002, /*panel_index*/1, /*member_love_panel_master_id*/13002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/122003, /*panel_index*/1, /*member_love_panel_master_id*/13003, /*bonus_type*/3, /*bonus_value*/10);
@@ -1743,6 +1865,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/122207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/122208, /*panel_index*/1, /*member_love_panel_master_id*/13208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/122209, /*panel_index*/1, /*member_love_panel_master_id*/13209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/122210, /*panel_index*/1, /*member_love_panel_master_id*/13210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/122211, /*panel_index*/1, /*member_love_panel_master_id*/13211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/122212, /*panel_index*/1, /*member_love_panel_master_id*/13212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/123001, /*panel_index*/2, /*member_love_panel_master_id*/13001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/123002, /*panel_index*/2, /*member_love_panel_master_id*/13002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/123003, /*panel_index*/2, /*member_love_panel_master_id*/13003, /*bonus_type*/2, /*bonus_value*/10);
@@ -1771,6 +1895,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/123207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/123208, /*panel_index*/2, /*member_love_panel_master_id*/13208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/123209, /*panel_index*/2, /*member_love_panel_master_id*/13209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/123210, /*panel_index*/2, /*member_love_panel_master_id*/13210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/123211, /*panel_index*/2, /*member_love_panel_master_id*/13211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/123212, /*panel_index*/2, /*member_love_panel_master_id*/13212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/124001, /*panel_index*/3, /*member_love_panel_master_id*/13001, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/124002, /*panel_index*/3, /*member_love_panel_master_id*/13002, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/124003, /*panel_index*/3, /*member_love_panel_master_id*/13003, /*bonus_type*/7, /*bonus_value*/20);
@@ -1799,6 +1925,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/124207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/124208, /*panel_index*/3, /*member_love_panel_master_id*/13208, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/124209, /*panel_index*/3, /*member_love_panel_master_id*/13209, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/124210, /*panel_index*/3, /*member_love_panel_master_id*/13210, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/124211, /*panel_index*/3, /*member_love_panel_master_id*/13211, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/124212, /*panel_index*/3, /*member_love_panel_master_id*/13212, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/125001, /*panel_index*/4, /*member_love_panel_master_id*/13001, /*bonus_type*/12, /*bonus_value*/250);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/125002, /*panel_index*/4, /*member_love_panel_master_id*/13002, /*bonus_type*/12, /*bonus_value*/250);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/125003, /*panel_index*/4, /*member_love_panel_master_id*/13003, /*bonus_type*/12, /*bonus_value*/250);
@@ -1827,6 +1955,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/125207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/125208, /*panel_index*/4, /*member_love_panel_master_id*/13208, /*bonus_type*/12, /*bonus_value*/250);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/125209, /*panel_index*/4, /*member_love_panel_master_id*/13209, /*bonus_type*/12, /*bonus_value*/250);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/125210, /*panel_index*/4, /*member_love_panel_master_id*/13210, /*bonus_type*/12, /*bonus_value*/250);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/125211, /*panel_index*/4, /*member_love_panel_master_id*/13211, /*bonus_type*/12, /*bonus_value*/250);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/125212, /*panel_index*/4, /*member_love_panel_master_id*/13212, /*bonus_type*/12, /*bonus_value*/250);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/131001, /*panel_index*/0, /*member_love_panel_master_id*/14001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/131002, /*panel_index*/0, /*member_love_panel_master_id*/14002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/131003, /*panel_index*/0, /*member_love_panel_master_id*/14003, /*bonus_type*/1, /*bonus_value*/10);
@@ -1855,6 +1985,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/131207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/131208, /*panel_index*/0, /*member_love_panel_master_id*/14208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/131209, /*panel_index*/0, /*member_love_panel_master_id*/14209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/131210, /*panel_index*/0, /*member_love_panel_master_id*/14210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/131211, /*panel_index*/0, /*member_love_panel_master_id*/14211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/131212, /*panel_index*/0, /*member_love_panel_master_id*/14212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/132001, /*panel_index*/1, /*member_love_panel_master_id*/14001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/132002, /*panel_index*/1, /*member_love_panel_master_id*/14002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/132003, /*panel_index*/1, /*member_love_panel_master_id*/14003, /*bonus_type*/3, /*bonus_value*/10);
@@ -1883,6 +2015,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/132207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/132208, /*panel_index*/1, /*member_love_panel_master_id*/14208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/132209, /*panel_index*/1, /*member_love_panel_master_id*/14209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/132210, /*panel_index*/1, /*member_love_panel_master_id*/14210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/132211, /*panel_index*/1, /*member_love_panel_master_id*/14211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/132212, /*panel_index*/1, /*member_love_panel_master_id*/14212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/133001, /*panel_index*/2, /*member_love_panel_master_id*/14001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/133002, /*panel_index*/2, /*member_love_panel_master_id*/14002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/133003, /*panel_index*/2, /*member_love_panel_master_id*/14003, /*bonus_type*/2, /*bonus_value*/10);
@@ -1911,6 +2045,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/133207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/133208, /*panel_index*/2, /*member_love_panel_master_id*/14208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/133209, /*panel_index*/2, /*member_love_panel_master_id*/14209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/133210, /*panel_index*/2, /*member_love_panel_master_id*/14210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/133211, /*panel_index*/2, /*member_love_panel_master_id*/14211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/133212, /*panel_index*/2, /*member_love_panel_master_id*/14212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/134001, /*panel_index*/3, /*member_love_panel_master_id*/14001, /*bonus_type*/10, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/134002, /*panel_index*/3, /*member_love_panel_master_id*/14002, /*bonus_type*/10, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/134003, /*panel_index*/3, /*member_love_panel_master_id*/14003, /*bonus_type*/10, /*bonus_value*/50);
@@ -1939,6 +2075,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/134207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/134208, /*panel_index*/3, /*member_love_panel_master_id*/14208, /*bonus_type*/10, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/134209, /*panel_index*/3, /*member_love_panel_master_id*/14209, /*bonus_type*/10, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/134210, /*panel_index*/3, /*member_love_panel_master_id*/14210, /*bonus_type*/10, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/134211, /*panel_index*/3, /*member_love_panel_master_id*/14211, /*bonus_type*/10, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/134212, /*panel_index*/3, /*member_love_panel_master_id*/14212, /*bonus_type*/10, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/135001, /*panel_index*/4, /*member_love_panel_master_id*/14001, /*bonus_type*/14, /*bonus_value*/4);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/135002, /*panel_index*/4, /*member_love_panel_master_id*/14002, /*bonus_type*/14, /*bonus_value*/4);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/135003, /*panel_index*/4, /*member_love_panel_master_id*/14003, /*bonus_type*/14, /*bonus_value*/4);
@@ -1967,6 +2105,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/135207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/135208, /*panel_index*/4, /*member_love_panel_master_id*/14208, /*bonus_type*/14, /*bonus_value*/4);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/135209, /*panel_index*/4, /*member_love_panel_master_id*/14209, /*bonus_type*/14, /*bonus_value*/4);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/135210, /*panel_index*/4, /*member_love_panel_master_id*/14210, /*bonus_type*/14, /*bonus_value*/4);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/135211, /*panel_index*/4, /*member_love_panel_master_id*/14211, /*bonus_type*/14, /*bonus_value*/4);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/135212, /*panel_index*/4, /*member_love_panel_master_id*/14212, /*bonus_type*/14, /*bonus_value*/4);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/141001, /*panel_index*/0, /*member_love_panel_master_id*/15001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/141002, /*panel_index*/0, /*member_love_panel_master_id*/15002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/141003, /*panel_index*/0, /*member_love_panel_master_id*/15003, /*bonus_type*/1, /*bonus_value*/10);
@@ -1995,6 +2135,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/141207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/141208, /*panel_index*/0, /*member_love_panel_master_id*/15208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/141209, /*panel_index*/0, /*member_love_panel_master_id*/15209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/141210, /*panel_index*/0, /*member_love_panel_master_id*/15210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/141211, /*panel_index*/0, /*member_love_panel_master_id*/15211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/141212, /*panel_index*/0, /*member_love_panel_master_id*/15212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/142001, /*panel_index*/1, /*member_love_panel_master_id*/15001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/142002, /*panel_index*/1, /*member_love_panel_master_id*/15002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/142003, /*panel_index*/1, /*member_love_panel_master_id*/15003, /*bonus_type*/3, /*bonus_value*/10);
@@ -2023,6 +2165,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/142207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/142208, /*panel_index*/1, /*member_love_panel_master_id*/15208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/142209, /*panel_index*/1, /*member_love_panel_master_id*/15209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/142210, /*panel_index*/1, /*member_love_panel_master_id*/15210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/142211, /*panel_index*/1, /*member_love_panel_master_id*/15211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/142212, /*panel_index*/1, /*member_love_panel_master_id*/15212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/143001, /*panel_index*/2, /*member_love_panel_master_id*/15001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/143002, /*panel_index*/2, /*member_love_panel_master_id*/15002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/143003, /*panel_index*/2, /*member_love_panel_master_id*/15003, /*bonus_type*/2, /*bonus_value*/10);
@@ -2051,6 +2195,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/143207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/143208, /*panel_index*/2, /*member_love_panel_master_id*/15208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/143209, /*panel_index*/2, /*member_love_panel_master_id*/15209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/143210, /*panel_index*/2, /*member_love_panel_master_id*/15210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/143211, /*panel_index*/2, /*member_love_panel_master_id*/15211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/143212, /*panel_index*/2, /*member_love_panel_master_id*/15212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/144001, /*panel_index*/3, /*member_love_panel_master_id*/15001, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/144002, /*panel_index*/3, /*member_love_panel_master_id*/15002, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/144003, /*panel_index*/3, /*member_love_panel_master_id*/15003, /*bonus_type*/5, /*bonus_value*/500);
@@ -2079,6 +2225,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/144207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/144208, /*panel_index*/3, /*member_love_panel_master_id*/15208, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/144209, /*panel_index*/3, /*member_love_panel_master_id*/15209, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/144210, /*panel_index*/3, /*member_love_panel_master_id*/15210, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/144211, /*panel_index*/3, /*member_love_panel_master_id*/15211, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/144212, /*panel_index*/3, /*member_love_panel_master_id*/15212, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/145001, /*panel_index*/4, /*member_love_panel_master_id*/15001, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/145002, /*panel_index*/4, /*member_love_panel_master_id*/15002, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/145003, /*panel_index*/4, /*member_love_panel_master_id*/15003, /*bonus_type*/7, /*bonus_value*/20);
@@ -2107,6 +2255,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/145207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/145208, /*panel_index*/4, /*member_love_panel_master_id*/15208, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/145209, /*panel_index*/4, /*member_love_panel_master_id*/15209, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/145210, /*panel_index*/4, /*member_love_panel_master_id*/15210, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/145211, /*panel_index*/4, /*member_love_panel_master_id*/15211, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/145212, /*panel_index*/4, /*member_love_panel_master_id*/15212, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/151001, /*panel_index*/0, /*member_love_panel_master_id*/16001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/151002, /*panel_index*/0, /*member_love_panel_master_id*/16002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/151003, /*panel_index*/0, /*member_love_panel_master_id*/16003, /*bonus_type*/1, /*bonus_value*/10);
@@ -2135,6 +2285,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/151207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/151208, /*panel_index*/0, /*member_love_panel_master_id*/16208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/151209, /*panel_index*/0, /*member_love_panel_master_id*/16209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/151210, /*panel_index*/0, /*member_love_panel_master_id*/16210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/151211, /*panel_index*/0, /*member_love_panel_master_id*/16211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/151212, /*panel_index*/0, /*member_love_panel_master_id*/16212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/152001, /*panel_index*/1, /*member_love_panel_master_id*/16001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/152002, /*panel_index*/1, /*member_love_panel_master_id*/16002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/152003, /*panel_index*/1, /*member_love_panel_master_id*/16003, /*bonus_type*/3, /*bonus_value*/10);
@@ -2163,6 +2315,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/152207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/152208, /*panel_index*/1, /*member_love_panel_master_id*/16208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/152209, /*panel_index*/1, /*member_love_panel_master_id*/16209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/152210, /*panel_index*/1, /*member_love_panel_master_id*/16210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/152211, /*panel_index*/1, /*member_love_panel_master_id*/16211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/152212, /*panel_index*/1, /*member_love_panel_master_id*/16212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/153001, /*panel_index*/2, /*member_love_panel_master_id*/16001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/153002, /*panel_index*/2, /*member_love_panel_master_id*/16002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/153003, /*panel_index*/2, /*member_love_panel_master_id*/16003, /*bonus_type*/2, /*bonus_value*/10);
@@ -2191,6 +2345,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/153207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/153208, /*panel_index*/2, /*member_love_panel_master_id*/16208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/153209, /*panel_index*/2, /*member_love_panel_master_id*/16209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/153210, /*panel_index*/2, /*member_love_panel_master_id*/16210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/153211, /*panel_index*/2, /*member_love_panel_master_id*/16211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/153212, /*panel_index*/2, /*member_love_panel_master_id*/16212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/154001, /*panel_index*/3, /*member_love_panel_master_id*/16001, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/154002, /*panel_index*/3, /*member_love_panel_master_id*/16002, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/154003, /*panel_index*/3, /*member_love_panel_master_id*/16003, /*bonus_type*/6, /*bonus_value*/50);
@@ -2219,6 +2375,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/154207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/154208, /*panel_index*/3, /*member_love_panel_master_id*/16208, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/154209, /*panel_index*/3, /*member_love_panel_master_id*/16209, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/154210, /*panel_index*/3, /*member_love_panel_master_id*/16210, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/154211, /*panel_index*/3, /*member_love_panel_master_id*/16211, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/154212, /*panel_index*/3, /*member_love_panel_master_id*/16212, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/155001, /*panel_index*/4, /*member_love_panel_master_id*/16001, /*bonus_type*/11, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/155002, /*panel_index*/4, /*member_love_panel_master_id*/16002, /*bonus_type*/11, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/155003, /*panel_index*/4, /*member_love_panel_master_id*/16003, /*bonus_type*/11, /*bonus_value*/50);
@@ -2247,6 +2405,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/155207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/155208, /*panel_index*/4, /*member_love_panel_master_id*/16208, /*bonus_type*/11, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/155209, /*panel_index*/4, /*member_love_panel_master_id*/16209, /*bonus_type*/11, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/155210, /*panel_index*/4, /*member_love_panel_master_id*/16210, /*bonus_type*/11, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/155211, /*panel_index*/4, /*member_love_panel_master_id*/16211, /*bonus_type*/11, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/155212, /*panel_index*/4, /*member_love_panel_master_id*/16212, /*bonus_type*/11, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/161001, /*panel_index*/0, /*member_love_panel_master_id*/17001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/161002, /*panel_index*/0, /*member_love_panel_master_id*/17002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/161003, /*panel_index*/0, /*member_love_panel_master_id*/17003, /*bonus_type*/1, /*bonus_value*/10);
@@ -2275,6 +2435,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/161207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/161208, /*panel_index*/0, /*member_love_panel_master_id*/17208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/161209, /*panel_index*/0, /*member_love_panel_master_id*/17209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/161210, /*panel_index*/0, /*member_love_panel_master_id*/17210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/161211, /*panel_index*/0, /*member_love_panel_master_id*/17211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/161212, /*panel_index*/0, /*member_love_panel_master_id*/17212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/162001, /*panel_index*/1, /*member_love_panel_master_id*/17001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/162002, /*panel_index*/1, /*member_love_panel_master_id*/17002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/162003, /*panel_index*/1, /*member_love_panel_master_id*/17003, /*bonus_type*/3, /*bonus_value*/10);
@@ -2303,6 +2465,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/162207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/162208, /*panel_index*/1, /*member_love_panel_master_id*/17208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/162209, /*panel_index*/1, /*member_love_panel_master_id*/17209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/162210, /*panel_index*/1, /*member_love_panel_master_id*/17210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/162211, /*panel_index*/1, /*member_love_panel_master_id*/17211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/162212, /*panel_index*/1, /*member_love_panel_master_id*/17212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/163001, /*panel_index*/2, /*member_love_panel_master_id*/17001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/163002, /*panel_index*/2, /*member_love_panel_master_id*/17002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/163003, /*panel_index*/2, /*member_love_panel_master_id*/17003, /*bonus_type*/2, /*bonus_value*/10);
@@ -2331,6 +2495,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/163207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/163208, /*panel_index*/2, /*member_love_panel_master_id*/17208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/163209, /*panel_index*/2, /*member_love_panel_master_id*/17209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/163210, /*panel_index*/2, /*member_love_panel_master_id*/17210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/163211, /*panel_index*/2, /*member_love_panel_master_id*/17211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/163212, /*panel_index*/2, /*member_love_panel_master_id*/17212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/164001, /*panel_index*/3, /*member_love_panel_master_id*/17001, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/164002, /*panel_index*/3, /*member_love_panel_master_id*/17002, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/164003, /*panel_index*/3, /*member_love_panel_master_id*/17003, /*bonus_type*/4, /*bonus_value*/50);
@@ -2359,6 +2525,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/164207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/164208, /*panel_index*/3, /*member_love_panel_master_id*/17208, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/164209, /*panel_index*/3, /*member_love_panel_master_id*/17209, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/164210, /*panel_index*/3, /*member_love_panel_master_id*/17210, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/164211, /*panel_index*/3, /*member_love_panel_master_id*/17211, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/164212, /*panel_index*/3, /*member_love_panel_master_id*/17212, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/165001, /*panel_index*/4, /*member_love_panel_master_id*/17001, /*bonus_type*/15, /*bonus_value*/2);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/165002, /*panel_index*/4, /*member_love_panel_master_id*/17002, /*bonus_type*/15, /*bonus_value*/2);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/165003, /*panel_index*/4, /*member_love_panel_master_id*/17003, /*bonus_type*/15, /*bonus_value*/2);
@@ -2387,6 +2555,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/165207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/165208, /*panel_index*/4, /*member_love_panel_master_id*/17208, /*bonus_type*/15, /*bonus_value*/2);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/165209, /*panel_index*/4, /*member_love_panel_master_id*/17209, /*bonus_type*/15, /*bonus_value*/2);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/165210, /*panel_index*/4, /*member_love_panel_master_id*/17210, /*bonus_type*/15, /*bonus_value*/2);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/165211, /*panel_index*/4, /*member_love_panel_master_id*/17211, /*bonus_type*/15, /*bonus_value*/2);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/165212, /*panel_index*/4, /*member_love_panel_master_id*/17212, /*bonus_type*/15, /*bonus_value*/2);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/171001, /*panel_index*/0, /*member_love_panel_master_id*/18001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/171002, /*panel_index*/0, /*member_love_panel_master_id*/18002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/171003, /*panel_index*/0, /*member_love_panel_master_id*/18003, /*bonus_type*/1, /*bonus_value*/10);
@@ -2415,6 +2585,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/171207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/171208, /*panel_index*/0, /*member_love_panel_master_id*/18208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/171209, /*panel_index*/0, /*member_love_panel_master_id*/18209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/171210, /*panel_index*/0, /*member_love_panel_master_id*/18210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/171211, /*panel_index*/0, /*member_love_panel_master_id*/18211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/171212, /*panel_index*/0, /*member_love_panel_master_id*/18212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/172001, /*panel_index*/1, /*member_love_panel_master_id*/18001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/172002, /*panel_index*/1, /*member_love_panel_master_id*/18002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/172003, /*panel_index*/1, /*member_love_panel_master_id*/18003, /*bonus_type*/3, /*bonus_value*/10);
@@ -2443,6 +2615,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/172207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/172208, /*panel_index*/1, /*member_love_panel_master_id*/18208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/172209, /*panel_index*/1, /*member_love_panel_master_id*/18209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/172210, /*panel_index*/1, /*member_love_panel_master_id*/18210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/172211, /*panel_index*/1, /*member_love_panel_master_id*/18211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/172212, /*panel_index*/1, /*member_love_panel_master_id*/18212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/173001, /*panel_index*/2, /*member_love_panel_master_id*/18001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/173002, /*panel_index*/2, /*member_love_panel_master_id*/18002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/173003, /*panel_index*/2, /*member_love_panel_master_id*/18003, /*bonus_type*/2, /*bonus_value*/10);
@@ -2471,6 +2645,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/173207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/173208, /*panel_index*/2, /*member_love_panel_master_id*/18208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/173209, /*panel_index*/2, /*member_love_panel_master_id*/18209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/173210, /*panel_index*/2, /*member_love_panel_master_id*/18210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/173211, /*panel_index*/2, /*member_love_panel_master_id*/18211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/173212, /*panel_index*/2, /*member_love_panel_master_id*/18212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/174001, /*panel_index*/3, /*member_love_panel_master_id*/18001, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/174002, /*panel_index*/3, /*member_love_panel_master_id*/18002, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/174003, /*panel_index*/3, /*member_love_panel_master_id*/18003, /*bonus_type*/6, /*bonus_value*/50);
@@ -2499,6 +2675,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/174207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/174208, /*panel_index*/3, /*member_love_panel_master_id*/18208, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/174209, /*panel_index*/3, /*member_love_panel_master_id*/18209, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/174210, /*panel_index*/3, /*member_love_panel_master_id*/18210, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/174211, /*panel_index*/3, /*member_love_panel_master_id*/18211, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/174212, /*panel_index*/3, /*member_love_panel_master_id*/18212, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/175001, /*panel_index*/4, /*member_love_panel_master_id*/18001, /*bonus_type*/9, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/175002, /*panel_index*/4, /*member_love_panel_master_id*/18002, /*bonus_type*/9, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/175003, /*panel_index*/4, /*member_love_panel_master_id*/18003, /*bonus_type*/9, /*bonus_value*/50);
@@ -2527,6 +2705,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/175207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/175208, /*panel_index*/4, /*member_love_panel_master_id*/18208, /*bonus_type*/9, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/175209, /*panel_index*/4, /*member_love_panel_master_id*/18209, /*bonus_type*/9, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/175210, /*panel_index*/4, /*member_love_panel_master_id*/18210, /*bonus_type*/9, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/175211, /*panel_index*/4, /*member_love_panel_master_id*/18211, /*bonus_type*/9, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/175212, /*panel_index*/4, /*member_love_panel_master_id*/18212, /*bonus_type*/9, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/181001, /*panel_index*/0, /*member_love_panel_master_id*/19001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/181002, /*panel_index*/0, /*member_love_panel_master_id*/19002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/181003, /*panel_index*/0, /*member_love_panel_master_id*/19003, /*bonus_type*/1, /*bonus_value*/10);
@@ -2555,6 +2735,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/181207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/181208, /*panel_index*/0, /*member_love_panel_master_id*/19208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/181209, /*panel_index*/0, /*member_love_panel_master_id*/19209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/181210, /*panel_index*/0, /*member_love_panel_master_id*/19210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/181211, /*panel_index*/0, /*member_love_panel_master_id*/19211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/181212, /*panel_index*/0, /*member_love_panel_master_id*/19212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/182001, /*panel_index*/1, /*member_love_panel_master_id*/19001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/182002, /*panel_index*/1, /*member_love_panel_master_id*/19002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/182003, /*panel_index*/1, /*member_love_panel_master_id*/19003, /*bonus_type*/3, /*bonus_value*/10);
@@ -2583,6 +2765,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/182207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/182208, /*panel_index*/1, /*member_love_panel_master_id*/19208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/182209, /*panel_index*/1, /*member_love_panel_master_id*/19209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/182210, /*panel_index*/1, /*member_love_panel_master_id*/19210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/182211, /*panel_index*/1, /*member_love_panel_master_id*/19211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/182212, /*panel_index*/1, /*member_love_panel_master_id*/19212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/183001, /*panel_index*/2, /*member_love_panel_master_id*/19001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/183002, /*panel_index*/2, /*member_love_panel_master_id*/19002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/183003, /*panel_index*/2, /*member_love_panel_master_id*/19003, /*bonus_type*/2, /*bonus_value*/10);
@@ -2611,6 +2795,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/183207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/183208, /*panel_index*/2, /*member_love_panel_master_id*/19208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/183209, /*panel_index*/2, /*member_love_panel_master_id*/19209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/183210, /*panel_index*/2, /*member_love_panel_master_id*/19210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/183211, /*panel_index*/2, /*member_love_panel_master_id*/19211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/183212, /*panel_index*/2, /*member_love_panel_master_id*/19212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/184001, /*panel_index*/3, /*member_love_panel_master_id*/19001, /*bonus_type*/8, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/184002, /*panel_index*/3, /*member_love_panel_master_id*/19002, /*bonus_type*/8, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/184003, /*panel_index*/3, /*member_love_panel_master_id*/19003, /*bonus_type*/8, /*bonus_value*/50);
@@ -2639,6 +2825,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/184207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/184208, /*panel_index*/3, /*member_love_panel_master_id*/19208, /*bonus_type*/8, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/184209, /*panel_index*/3, /*member_love_panel_master_id*/19209, /*bonus_type*/8, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/184210, /*panel_index*/3, /*member_love_panel_master_id*/19210, /*bonus_type*/8, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/184211, /*panel_index*/3, /*member_love_panel_master_id*/19211, /*bonus_type*/8, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/184212, /*panel_index*/3, /*member_love_panel_master_id*/19212, /*bonus_type*/8, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/185001, /*panel_index*/4, /*member_love_panel_master_id*/19001, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/185002, /*panel_index*/4, /*member_love_panel_master_id*/19002, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/185003, /*panel_index*/4, /*member_love_panel_master_id*/19003, /*bonus_type*/4, /*bonus_value*/50);
@@ -2667,6 +2855,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/185207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/185208, /*panel_index*/4, /*member_love_panel_master_id*/19208, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/185209, /*panel_index*/4, /*member_love_panel_master_id*/19209, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/185210, /*panel_index*/4, /*member_love_panel_master_id*/19210, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/185211, /*panel_index*/4, /*member_love_panel_master_id*/19211, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/185212, /*panel_index*/4, /*member_love_panel_master_id*/19212, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/191001, /*panel_index*/0, /*member_love_panel_master_id*/20001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/191002, /*panel_index*/0, /*member_love_panel_master_id*/20002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/191003, /*panel_index*/0, /*member_love_panel_master_id*/20003, /*bonus_type*/1, /*bonus_value*/10);
@@ -2695,6 +2885,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/191207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/191208, /*panel_index*/0, /*member_love_panel_master_id*/20208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/191209, /*panel_index*/0, /*member_love_panel_master_id*/20209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/191210, /*panel_index*/0, /*member_love_panel_master_id*/20210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/191211, /*panel_index*/0, /*member_love_panel_master_id*/20211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/191212, /*panel_index*/0, /*member_love_panel_master_id*/20212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/192001, /*panel_index*/1, /*member_love_panel_master_id*/20001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/192002, /*panel_index*/1, /*member_love_panel_master_id*/20002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/192003, /*panel_index*/1, /*member_love_panel_master_id*/20003, /*bonus_type*/3, /*bonus_value*/10);
@@ -2723,6 +2915,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/192207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/192208, /*panel_index*/1, /*member_love_panel_master_id*/20208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/192209, /*panel_index*/1, /*member_love_panel_master_id*/20209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/192210, /*panel_index*/1, /*member_love_panel_master_id*/20210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/192211, /*panel_index*/1, /*member_love_panel_master_id*/20211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/192212, /*panel_index*/1, /*member_love_panel_master_id*/20212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/193001, /*panel_index*/2, /*member_love_panel_master_id*/20001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/193002, /*panel_index*/2, /*member_love_panel_master_id*/20002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/193003, /*panel_index*/2, /*member_love_panel_master_id*/20003, /*bonus_type*/2, /*bonus_value*/10);
@@ -2751,6 +2945,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/193207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/193208, /*panel_index*/2, /*member_love_panel_master_id*/20208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/193209, /*panel_index*/2, /*member_love_panel_master_id*/20209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/193210, /*panel_index*/2, /*member_love_panel_master_id*/20210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/193211, /*panel_index*/2, /*member_love_panel_master_id*/20211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/193212, /*panel_index*/2, /*member_love_panel_master_id*/20212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/194001, /*panel_index*/3, /*member_love_panel_master_id*/20001, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/194002, /*panel_index*/3, /*member_love_panel_master_id*/20002, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/194003, /*panel_index*/3, /*member_love_panel_master_id*/20003, /*bonus_type*/7, /*bonus_value*/20);
@@ -2779,6 +2975,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/194207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/194208, /*panel_index*/3, /*member_love_panel_master_id*/20208, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/194209, /*panel_index*/3, /*member_love_panel_master_id*/20209, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/194210, /*panel_index*/3, /*member_love_panel_master_id*/20210, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/194211, /*panel_index*/3, /*member_love_panel_master_id*/20211, /*bonus_type*/7, /*bonus_value*/20);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/194212, /*panel_index*/3, /*member_love_panel_master_id*/20212, /*bonus_type*/7, /*bonus_value*/20);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/195001, /*panel_index*/4, /*member_love_panel_master_id*/20001, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/195002, /*panel_index*/4, /*member_love_panel_master_id*/20002, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/195003, /*panel_index*/4, /*member_love_panel_master_id*/20003, /*bonus_type*/5, /*bonus_value*/500);
@@ -2807,6 +3005,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/195207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/195208, /*panel_index*/4, /*member_love_panel_master_id*/20208, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/195209, /*panel_index*/4, /*member_love_panel_master_id*/20209, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/195210, /*panel_index*/4, /*member_love_panel_master_id*/20210, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/195211, /*panel_index*/4, /*member_love_panel_master_id*/20211, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/195212, /*panel_index*/4, /*member_love_panel_master_id*/20212, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/201001, /*panel_index*/0, /*member_love_panel_master_id*/21001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/201002, /*panel_index*/0, /*member_love_panel_master_id*/21002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/201003, /*panel_index*/0, /*member_love_panel_master_id*/21003, /*bonus_type*/1, /*bonus_value*/10);
@@ -2835,6 +3035,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/201207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/201208, /*panel_index*/0, /*member_love_panel_master_id*/21208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/201209, /*panel_index*/0, /*member_love_panel_master_id*/21209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/201210, /*panel_index*/0, /*member_love_panel_master_id*/21210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/201211, /*panel_index*/0, /*member_love_panel_master_id*/21211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/201212, /*panel_index*/0, /*member_love_panel_master_id*/21212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/202001, /*panel_index*/1, /*member_love_panel_master_id*/21001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/202002, /*panel_index*/1, /*member_love_panel_master_id*/21002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/202003, /*panel_index*/1, /*member_love_panel_master_id*/21003, /*bonus_type*/3, /*bonus_value*/10);
@@ -2863,6 +3065,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/202207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/202208, /*panel_index*/1, /*member_love_panel_master_id*/21208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/202209, /*panel_index*/1, /*member_love_panel_master_id*/21209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/202210, /*panel_index*/1, /*member_love_panel_master_id*/21210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/202211, /*panel_index*/1, /*member_love_panel_master_id*/21211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/202212, /*panel_index*/1, /*member_love_panel_master_id*/21212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/203001, /*panel_index*/2, /*member_love_panel_master_id*/21001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/203002, /*panel_index*/2, /*member_love_panel_master_id*/21002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/203003, /*panel_index*/2, /*member_love_panel_master_id*/21003, /*bonus_type*/2, /*bonus_value*/10);
@@ -2891,6 +3095,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/203207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/203208, /*panel_index*/2, /*member_love_panel_master_id*/21208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/203209, /*panel_index*/2, /*member_love_panel_master_id*/21209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/203210, /*panel_index*/2, /*member_love_panel_master_id*/21210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/203211, /*panel_index*/2, /*member_love_panel_master_id*/21211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/203212, /*panel_index*/2, /*member_love_panel_master_id*/21212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/204001, /*panel_index*/3, /*member_love_panel_master_id*/21001, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/204002, /*panel_index*/3, /*member_love_panel_master_id*/21002, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/204003, /*panel_index*/3, /*member_love_panel_master_id*/21003, /*bonus_type*/4, /*bonus_value*/50);
@@ -2919,6 +3125,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/204207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/204208, /*panel_index*/3, /*member_love_panel_master_id*/21208, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/204209, /*panel_index*/3, /*member_love_panel_master_id*/21209, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/204210, /*panel_index*/3, /*member_love_panel_master_id*/21210, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/204211, /*panel_index*/3, /*member_love_panel_master_id*/21211, /*bonus_type*/4, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/204212, /*panel_index*/3, /*member_love_panel_master_id*/21212, /*bonus_type*/4, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/205001, /*panel_index*/4, /*member_love_panel_master_id*/21001, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/205002, /*panel_index*/4, /*member_love_panel_master_id*/21002, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/205003, /*panel_index*/4, /*member_love_panel_master_id*/21003, /*bonus_type*/6, /*bonus_value*/50);
@@ -2947,6 +3155,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/205207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/205208, /*panel_index*/4, /*member_love_panel_master_id*/21208, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/205209, /*panel_index*/4, /*member_love_panel_master_id*/21209, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/205210, /*panel_index*/4, /*member_love_panel_master_id*/21210, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/205211, /*panel_index*/4, /*member_love_panel_master_id*/21211, /*bonus_type*/6, /*bonus_value*/50);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/205212, /*panel_index*/4, /*member_love_panel_master_id*/21212, /*bonus_type*/6, /*bonus_value*/50);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/211001, /*panel_index*/0, /*member_love_panel_master_id*/22001, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/211002, /*panel_index*/0, /*member_love_panel_master_id*/22002, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/211003, /*panel_index*/0, /*member_love_panel_master_id*/22003, /*bonus_type*/1, /*bonus_value*/10);
@@ -2975,6 +3185,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/211207, /*panel_index*/0, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/211208, /*panel_index*/0, /*member_love_panel_master_id*/22208, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/211209, /*panel_index*/0, /*member_love_panel_master_id*/22209, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/211210, /*panel_index*/0, /*member_love_panel_master_id*/22210, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/211211, /*panel_index*/0, /*member_love_panel_master_id*/22211, /*bonus_type*/1, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/211212, /*panel_index*/0, /*member_love_panel_master_id*/22212, /*bonus_type*/1, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/212001, /*panel_index*/1, /*member_love_panel_master_id*/22001, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/212002, /*panel_index*/1, /*member_love_panel_master_id*/22002, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/212003, /*panel_index*/1, /*member_love_panel_master_id*/22003, /*bonus_type*/3, /*bonus_value*/10);
@@ -3003,6 +3215,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/212207, /*panel_index*/1, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/212208, /*panel_index*/1, /*member_love_panel_master_id*/22208, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/212209, /*panel_index*/1, /*member_love_panel_master_id*/22209, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/212210, /*panel_index*/1, /*member_love_panel_master_id*/22210, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/212211, /*panel_index*/1, /*member_love_panel_master_id*/22211, /*bonus_type*/3, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/212212, /*panel_index*/1, /*member_love_panel_master_id*/22212, /*bonus_type*/3, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/213001, /*panel_index*/2, /*member_love_panel_master_id*/22001, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/213002, /*panel_index*/2, /*member_love_panel_master_id*/22002, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/213003, /*panel_index*/2, /*member_love_panel_master_id*/22003, /*bonus_type*/2, /*bonus_value*/10);
@@ -3031,6 +3245,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/213207, /*panel_index*/2, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/213208, /*panel_index*/2, /*member_love_panel_master_id*/22208, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/213209, /*panel_index*/2, /*member_love_panel_master_id*/22209, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/213210, /*panel_index*/2, /*member_love_panel_master_id*/22210, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/213211, /*panel_index*/2, /*member_love_panel_master_id*/22211, /*bonus_type*/2, /*bonus_value*/10);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/213212, /*panel_index*/2, /*member_love_panel_master_id*/22212, /*bonus_type*/2, /*bonus_value*/10);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/214001, /*panel_index*/3, /*member_love_panel_master_id*/22001, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/214002, /*panel_index*/3, /*member_love_panel_master_id*/22002, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/214003, /*panel_index*/3, /*member_love_panel_master_id*/22003, /*bonus_type*/5, /*bonus_value*/500);
@@ -3059,6 +3275,8 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/214207, /*panel_index*/3, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/214208, /*panel_index*/3, /*member_love_panel_master_id*/22208, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/214209, /*panel_index*/3, /*member_love_panel_master_id*/22209, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/214210, /*panel_index*/3, /*member_love_panel_master_id*/22210, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/214211, /*panel_index*/3, /*member_love_panel_master_id*/22211, /*bonus_type*/5, /*bonus_value*/500);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/214212, /*panel_index*/3, /*member_love_panel_master_id*/22212, /*bonus_type*/5, /*bonus_value*/500);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/215001, /*panel_index*/4, /*member_love_panel_master_id*/22001, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/215002, /*panel_index*/4, /*member_love_panel_master_id*/22002, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/215003, /*panel_index*/4, /*member_love_panel_master_id*/22003, /*bonus_type*/13, /*bonus_value*/6);
@@ -3087,3 +3305,5 @@ INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/215207, /*panel_index*/4, /
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/215208, /*panel_index*/4, /*member_love_panel_master_id*/22208, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/215209, /*panel_index*/4, /*member_love_panel_master_id*/22209, /*bonus_type*/13, /*bonus_value*/6);
 INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/215210, /*panel_index*/4, /*member_love_panel_master_id*/22210, /*bonus_type*/13, /*bonus_value*/6);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/215211, /*panel_index*/4, /*member_love_panel_master_id*/22211, /*bonus_type*/13, /*bonus_value*/6);
+INSERT INTO `m_member_love_panel_cell` VALUES (/*id*/215212, /*panel_index*/4, /*member_love_panel_master_id*/22212, /*bonus_type*/13, /*bonus_value*/6);

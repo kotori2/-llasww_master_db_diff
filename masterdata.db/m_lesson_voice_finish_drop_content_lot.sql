@@ -7,6 +7,10 @@ CREATE TABLE m_lesson_voice_finish_drop_content_lot(
 );
 INSERT INTO `m_lesson_voice_finish_drop_content_lot` VALUES (/*member_master_id*/210, /*rarity*/1, /*group_id*/121015);
 INSERT INTO `m_lesson_voice_finish_drop_content_lot` VALUES (/*member_master_id*/210, /*rarity*/3, /*group_id*/121016);
+INSERT INTO `m_lesson_voice_finish_drop_content_lot` VALUES (/*member_master_id*/211, /*rarity*/1, /*group_id*/121115);
+INSERT INTO `m_lesson_voice_finish_drop_content_lot` VALUES (/*member_master_id*/211, /*rarity*/3, /*group_id*/121116);
+INSERT INTO `m_lesson_voice_finish_drop_content_lot` VALUES (/*member_master_id*/212, /*rarity*/1, /*group_id*/121215);
+INSERT INTO `m_lesson_voice_finish_drop_content_lot` VALUES (/*member_master_id*/212, /*rarity*/3, /*group_id*/121216);
 INSERT INTO `m_lesson_voice_finish_drop_content_lot` VALUES (/*member_master_id*/1, /*rarity*/1, /*group_id*/100115);
 INSERT INTO `m_lesson_voice_finish_drop_content_lot` VALUES (/*member_master_id*/2, /*rarity*/1, /*group_id*/100215);
 INSERT INTO `m_lesson_voice_finish_drop_content_lot` VALUES (/*member_master_id*/3, /*rarity*/1, /*group_id*/100315);

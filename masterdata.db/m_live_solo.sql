@@ -35,3 +35,5 @@ INSERT INTO `m_live_solo` VALUES (/*member_master_id*/207, /*effect_name*/"sol_0
 INSERT INTO `m_live_solo` VALUES (/*member_master_id*/208, /*effect_name*/"sol_0208_001", /*timeline_asset_path*/"PQ", /*effect_asset_path*/"Xq", /*sound*/"vo_ci_sol_0208_001");
 INSERT INTO `m_live_solo` VALUES (/*member_master_id*/209, /*effect_name*/"sol_0209_001", /*timeline_asset_path*/"RS", /*effect_asset_path*/"Uq", /*sound*/"vo_ci_sol_0209_001");
 INSERT INTO `m_live_solo` VALUES (/*member_master_id*/210, /*effect_name*/"sol_0210_001", /*timeline_asset_path*/"*aA", /*effect_asset_path*/"J{|", /*sound*/"vo_ci_sol_0210_001");
+INSERT INTO `m_live_solo` VALUES (/*member_master_id*/211, /*effect_name*/"sol_0212_001", /*timeline_asset_path*/"[>s", /*effect_asset_path*/"'zr", /*sound*/"vo_ci_sol_0212_001");
+INSERT INTO `m_live_solo` VALUES (/*member_master_id*/212, /*effect_name*/"sol_0211_001", /*timeline_asset_path*/"ZWF", /*effect_asset_path*/"@5e", /*sound*/"vo_ci_sol_0211_001");

@@ -13,5 +13,6 @@ CREATE TABLE m_navi_action_tap_card(
   PRIMARY KEY (id),
   FOREIGN KEY (navi_action_id) REFERENCES m_navi_action(id),
   FOREIGN KEY (member_m_id) REFERENCES m_member(id),
+  FOREIGN KEY (suit_m_id) REFERENCES m_suit(id),
   FOREIGN KEY (love_level) REFERENCES m_navi_love_level(love_level)
 );

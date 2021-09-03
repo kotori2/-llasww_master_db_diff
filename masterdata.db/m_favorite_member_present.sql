@@ -33,3 +33,5 @@ INSERT INTO `m_favorite_member_present` VALUES (/*member_id*/207, /*card_id*/102
 INSERT INTO `m_favorite_member_present` VALUES (/*member_id*/208, /*card_id*/102082001);
 INSERT INTO `m_favorite_member_present` VALUES (/*member_id*/209, /*card_id*/102092001);
 INSERT INTO `m_favorite_member_present` VALUES (/*member_id*/210, /*card_id*/102102001);
+INSERT INTO `m_favorite_member_present` VALUES (/*member_id*/211, /*card_id*/102112001);
+INSERT INTO `m_favorite_member_present` VALUES (/*member_id*/212, /*card_id*/102122001);

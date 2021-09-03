@@ -38,3 +38,5 @@ INSERT INTO `m_member_init` VALUES (/*member_m_id*/207, /*suit_m_id*/102071001, 
 INSERT INTO `m_member_init` VALUES (/*member_m_id*/208, /*suit_m_id*/102081001, /*custom_background_m_id*/202100403, /*love_level*/1, /*love_point*/0, /*love_point_limit*/4930);
 INSERT INTO `m_member_init` VALUES (/*member_m_id*/209, /*suit_m_id*/102091001, /*custom_background_m_id*/202100403, /*love_level*/1, /*love_point*/0, /*love_point_limit*/4930);
 INSERT INTO `m_member_init` VALUES (/*member_m_id*/210, /*suit_m_id*/102101001, /*custom_background_m_id*/202100403, /*love_level*/1, /*love_point*/0, /*love_point_limit*/4930);
+INSERT INTO `m_member_init` VALUES (/*member_m_id*/211, /*suit_m_id*/102111001, /*custom_background_m_id*/202100403, /*love_level*/1, /*love_point*/0, /*love_point_limit*/4930);
+INSERT INTO `m_member_init` VALUES (/*member_m_id*/212, /*suit_m_id*/102121001, /*custom_background_m_id*/202100403, /*love_level*/1, /*love_point*/0, /*love_point_limit*/4930);

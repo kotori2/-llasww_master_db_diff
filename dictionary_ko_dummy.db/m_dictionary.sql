@@ -28,6 +28,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035037_00", /*message*/"이즈하
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035055_00", /*message*/"중화요리점");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035062_00", /*message*/"장난감 가게 앞(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"가을 강가(맑은 낮)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035068_01", /*message*/"전망대(밤)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"야경이 보이는 파티장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035075_00", /*message*/"게임 이벤트 공간");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035076_00", /*message*/"시공의 문 연구실");

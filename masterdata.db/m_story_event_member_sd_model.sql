@@ -32,3 +32,5 @@ INSERT INTO `m_story_event_member_sd_model` VALUES (/*id*/207, /*asset_path*/"4(
 INSERT INTO `m_story_event_member_sd_model` VALUES (/*id*/208, /*asset_path*/"OG");
 INSERT INTO `m_story_event_member_sd_model` VALUES (/*id*/209, /*asset_path*/"h_");
 INSERT INTO `m_story_event_member_sd_model` VALUES (/*id*/210, /*asset_path*/">DA");
+INSERT INTO `m_story_event_member_sd_model` VALUES (/*id*/211, /*asset_path*/"x{@");
+INSERT INTO `m_story_event_member_sd_model` VALUES (/*id*/212, /*asset_path*/"wHG");

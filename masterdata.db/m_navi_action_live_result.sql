@@ -147,3 +147,13 @@ INSERT INTO `m_navi_action_live_result` VALUES (/*id*/137, /*member_master_id*/2
 INSERT INTO `m_navi_action_live_result` VALUES (/*id*/138, /*member_master_id*/210, /*evaluation*/30, /*navi_action_id*/102100115);
 INSERT INTO `m_navi_action_live_result` VALUES (/*id*/139, /*member_master_id*/210, /*evaluation*/20, /*navi_action_id*/102100116);
 INSERT INTO `m_navi_action_live_result` VALUES (/*id*/140, /*member_master_id*/210, /*evaluation*/10, /*navi_action_id*/102100117);
+INSERT INTO `m_navi_action_live_result` VALUES (/*id*/141, /*member_master_id*/212, /*evaluation*/40, /*navi_action_id*/102120114);
+INSERT INTO `m_navi_action_live_result` VALUES (/*id*/142, /*member_master_id*/212, /*evaluation*/50, /*navi_action_id*/102120114);
+INSERT INTO `m_navi_action_live_result` VALUES (/*id*/143, /*member_master_id*/212, /*evaluation*/30, /*navi_action_id*/102120115);
+INSERT INTO `m_navi_action_live_result` VALUES (/*id*/144, /*member_master_id*/212, /*evaluation*/20, /*navi_action_id*/102120116);
+INSERT INTO `m_navi_action_live_result` VALUES (/*id*/145, /*member_master_id*/212, /*evaluation*/10, /*navi_action_id*/102120117);
+INSERT INTO `m_navi_action_live_result` VALUES (/*id*/146, /*member_master_id*/211, /*evaluation*/40, /*navi_action_id*/102110114);
+INSERT INTO `m_navi_action_live_result` VALUES (/*id*/147, /*member_master_id*/211, /*evaluation*/50, /*navi_action_id*/102110114);
+INSERT INTO `m_navi_action_live_result` VALUES (/*id*/148, /*member_master_id*/211, /*evaluation*/30, /*navi_action_id*/102110115);
+INSERT INTO `m_navi_action_live_result` VALUES (/*id*/149, /*member_master_id*/211, /*evaluation*/20, /*navi_action_id*/102110116);
+INSERT INTO `m_navi_action_live_result` VALUES (/*id*/150, /*member_master_id*/211, /*evaluation*/10, /*navi_action_id*/102110117);

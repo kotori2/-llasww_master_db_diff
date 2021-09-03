@@ -32,3 +32,5 @@ INSERT INTO `m_member_loading_thumbnail` VALUES (/*member_id*/207, /*image_asset
 INSERT INTO `m_member_loading_thumbnail` VALUES (/*member_id*/208, /*image_asset_path*/"WK");
 INSERT INTO `m_member_loading_thumbnail` VALUES (/*member_id*/209, /*image_asset_path*/"m2");
 INSERT INTO `m_member_loading_thumbnail` VALUES (/*member_id*/210, /*image_asset_path*/"E2N");
+INSERT INTO `m_member_loading_thumbnail` VALUES (/*member_id*/211, /*image_asset_path*/"(i]");
+INSERT INTO `m_member_loading_thumbnail` VALUES (/*member_id*/212, /*image_asset_path*/"G6:");

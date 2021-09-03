@@ -34,3 +34,5 @@ INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/207, /*idle_
 INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/208, /*idle_emotion_asset_path*/"OG", /*touch_emotion_asset_path*/"2K", /*unlock_emotion_asset_path*/"?F");
 INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/209, /*idle_emotion_asset_path*/"h_", /*touch_emotion_asset_path*/"cw", /*unlock_emotion_asset_path*/".J");
 INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/210, /*idle_emotion_asset_path*/">DA", /*touch_emotion_asset_path*/"g%[", /*unlock_emotion_asset_path*/"&C&");
+INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/211, /*idle_emotion_asset_path*/"x{@", /*touch_emotion_asset_path*/"-Lq", /*unlock_emotion_asset_path*/"Zqx");
+INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/212, /*idle_emotion_asset_path*/"wHG", /*touch_emotion_asset_path*/"JpJ", /*unlock_emotion_asset_path*/"1x|");

@@ -10,6 +10,18 @@ CREATE TABLE m_member_guild_ranking_reward_inside(
   PRIMARY KEY (id, member_master_id, upper_rank, content_type, content_id),
   FOREIGN KEY (member_master_id) REFERENCES m_member(id)
 );
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/211, /*upper_rank*/1, /*lower_rank*/20, /*rank_grade*/1, /*content_type*/21, /*content_id*/50211, /*content_amount*/1000);
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/211, /*upper_rank*/21, /*lower_rank*/50, /*rank_grade*/2, /*content_type*/21, /*content_id*/50211, /*content_amount*/800);
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/211, /*upper_rank*/51, /*lower_rank*/100, /*rank_grade*/3, /*content_type*/21, /*content_id*/50211, /*content_amount*/600);
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/211, /*upper_rank*/101, /*lower_rank*/150, /*rank_grade*/3, /*content_type*/21, /*content_id*/50211, /*content_amount*/400);
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/211, /*upper_rank*/151, /*lower_rank*/200, /*rank_grade*/3, /*content_type*/21, /*content_id*/50211, /*content_amount*/200);
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/211, /*upper_rank*/201, /*lower_rank*/"", /*rank_grade*/3, /*content_type*/21, /*content_id*/50211, /*content_amount*/100);
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/212, /*upper_rank*/1, /*lower_rank*/20, /*rank_grade*/1, /*content_type*/21, /*content_id*/50212, /*content_amount*/1000);
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/212, /*upper_rank*/21, /*lower_rank*/50, /*rank_grade*/2, /*content_type*/21, /*content_id*/50212, /*content_amount*/800);
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/212, /*upper_rank*/51, /*lower_rank*/100, /*rank_grade*/3, /*content_type*/21, /*content_id*/50212, /*content_amount*/600);
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/212, /*upper_rank*/101, /*lower_rank*/150, /*rank_grade*/3, /*content_type*/21, /*content_id*/50212, /*content_amount*/400);
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/212, /*upper_rank*/151, /*lower_rank*/200, /*rank_grade*/3, /*content_type*/21, /*content_id*/50212, /*content_amount*/200);
+INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/212, /*upper_rank*/201, /*lower_rank*/"", /*rank_grade*/3, /*content_type*/21, /*content_id*/50212, /*content_amount*/100);
 INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/1, /*upper_rank*/1, /*lower_rank*/20, /*rank_grade*/1, /*content_type*/21, /*content_id*/50001, /*content_amount*/1000);
 INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/1, /*upper_rank*/21, /*lower_rank*/50, /*rank_grade*/2, /*content_type*/21, /*content_id*/50001, /*content_amount*/800);
 INSERT INTO `m_member_guild_ranking_reward_inside` VALUES (/*id*/1, /*member_master_id*/1, /*upper_rank*/51, /*lower_rank*/100, /*rank_grade*/3, /*content_type*/21, /*content_id*/50001, /*content_amount*/600);

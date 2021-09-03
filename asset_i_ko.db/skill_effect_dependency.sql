@@ -35,6 +35,8 @@ INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"^,", /*dependency*/
 INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"Xq", /*dependency*/"§Vr");
 INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"Uq", /*dependency*/"§Vr");
 INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"J{|", /*dependency*/"§Vr");
+INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"@5e", /*dependency*/"§Vr");
+INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"'zr", /*dependency*/"§Vr");
 INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"eJ", /*dependency*/"§Vr");
 INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"ni", /*dependency*/"§Vr");
 INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"}G", /*dependency*/"§Vr");

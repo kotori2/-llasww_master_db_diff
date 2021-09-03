@@ -63,3 +63,7 @@ INSERT INTO `m_navi_action_live_result_failed` VALUES (/*id*/53, /*member_master
 INSERT INTO `m_navi_action_live_result_failed` VALUES (/*id*/54, /*member_master_id*/209, /*love_level_min*/5, /*navi_action_id*/102090134);
 INSERT INTO `m_navi_action_live_result_failed` VALUES (/*id*/55, /*member_master_id*/210, /*love_level_min*/0, /*navi_action_id*/102100133);
 INSERT INTO `m_navi_action_live_result_failed` VALUES (/*id*/56, /*member_master_id*/210, /*love_level_min*/5, /*navi_action_id*/102100134);
+INSERT INTO `m_navi_action_live_result_failed` VALUES (/*id*/57, /*member_master_id*/212, /*love_level_min*/0, /*navi_action_id*/102120133);
+INSERT INTO `m_navi_action_live_result_failed` VALUES (/*id*/58, /*member_master_id*/212, /*love_level_min*/5, /*navi_action_id*/102120134);
+INSERT INTO `m_navi_action_live_result_failed` VALUES (/*id*/59, /*member_master_id*/211, /*love_level_min*/0, /*navi_action_id*/102110133);
+INSERT INTO `m_navi_action_live_result_failed` VALUES (/*id*/60, /*member_master_id*/211, /*love_level_min*/5, /*navi_action_id*/102110134);

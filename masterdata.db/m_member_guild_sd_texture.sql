@@ -4,6 +4,22 @@ CREATE TABLE m_member_guild_sd_texture(
   sd_texture TEXT NOT NULL,
   PRIMARY KEY (id, order_no)
 );
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001211, /*order_no*/0, /*sd_texture*/"|lh");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10101211, /*order_no*/0, /*sd_texture*/"&$-");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10102211, /*order_no*/0, /*sd_texture*/"&$-");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10201211, /*order_no*/0, /*sd_texture*/"&$-");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10301211, /*order_no*/0, /*sd_texture*/"iS_");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401211, /*order_no*/0, /*sd_texture*/"iS_");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401211, /*order_no*/1, /*sd_texture*/"pGU");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10601211, /*order_no*/0, /*sd_texture*/"-'-");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001212, /*order_no*/0, /*sd_texture*/"51_");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10101212, /*order_no*/0, /*sd_texture*/"U>7");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10102212, /*order_no*/0, /*sd_texture*/"U>7");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10201212, /*order_no*/0, /*sd_texture*/"U>7");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10301212, /*order_no*/0, /*sd_texture*/"YD,");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401212, /*order_no*/0, /*sd_texture*/"YD,");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401212, /*order_no*/1, /*sd_texture*/"@8D");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10601212, /*order_no*/0, /*sd_texture*/"2rL");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001001, /*order_no*/0, /*sd_texture*/"o/]");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10101001, /*order_no*/0, /*sd_texture*/"3@p");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10102001, /*order_no*/0, /*sd_texture*/"3@p");

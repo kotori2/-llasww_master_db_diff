@@ -136,6 +136,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9035_empty", /
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9036_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9036_s\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9036_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9036_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9036_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9036_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9037_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9037_s\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9037_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9037_s\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gacha_ticket_9037_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_9037_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_1001_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1001\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_1002_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_1003_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_1003\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
@@ -299,6 +302,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0209_name_empty", /*message*/"R
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0210_icon_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_ch0210\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" margin-left=\"30px\" margin-right=\"30px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0210_icon_path_empty", /*message*/"Common/InlineImage/Icon/tex_inlineimage_icon_ch0210");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0210_name_empty", /*message*/"Shioriko Mifune");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0211_icon_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_ch0211\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" margin-left=\"30px\" margin-right=\"30px\" />");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0211_icon_path_empty", /*message*/"Common/InlineImage/Icon/tex_inlineimage_icon_ch0211");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0211_name_empty", /*message*/"Lanzhu Zhong");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0212_icon_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_ch0212\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" margin-left=\"30px\" margin-right=\"30px\" />");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0212_icon_path_empty", /*message*/"Common/InlineImage/Icon/tex_inlineimage_icon_ch0212");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_m0212_name_empty", /*message*/"Mia Taylor");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_negative_close", /*message*/"</color>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_negative_start", /*message*/"<color value=\"#fe3636\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_not_billing_supported_message_empty_android", /*message*/"You may not be signed into your Google Play account, or may not be using the latest version of GooglePlay.
@@ -370,6 +379,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0207_empty", /*message*/"<s
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0208_empty", /*message*/"<span size=\"32\"><img src=\"Common/InlineImage/Member/tex_sd_ch0208_dr0003_01\" width=\"88px\" height=\"88px\" offsetY=\"-25px\" />エマ</span><br/><span size=\"28\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0209_empty", /*message*/"<span size=\"32\"><img src=\"Common/InlineImage/Member/tex_sd_ch9999_dr0003_01\" width=\"88px\" height=\"88px\" offsetY=\"-25px\" />璃奈</span><br/><span size=\"28\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0210_empty", /*message*/"<span size=\"32\"><img src=\"Common/InlineImage/Member/tex_sd_ch0210_dr0003_01\" width=\"88px\" height=\"88px\" offsetY=\"-25px\" />栞子</span><br/><span size=\"28\">");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0211_empty", /*message*/"<span size=\"32\"><img src=\"Common/InlineImage/Member/tex_sd_ch0211_dr0003_01\" width=\"88px\" height=\"88px\" offsetY=\"-25px\" />ランジュ</span><br/><span size=\"28\">");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0212_empty", /*message*/"<span size=\"32\"><img src=\"Common/InlineImage/Member/tex_sd_ch0212_dr0003_01\" width=\"88px\" height=\"88px\" offsetY=\"-25px\" />ミア</span><br/><span size=\"28\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch1001_empty", /*message*/"<span size=\"32\">Later on...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch1002_empty", /*message*/"<span size=\"32\">（SE）</span><br/><span size=\"28\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch1003_empty", /*message*/"<span size=\"32\">全員</span><br/><span size=\"28\">");

@@ -10,6 +10,16 @@ INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id
 INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/210, /*skill_rarity_type*/3, /*group_id*/121019);
 INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/210, /*skill_rarity_type*/4, /*group_id*/121019);
 INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/210, /*skill_rarity_type*/5, /*group_id*/121019);
+INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/211, /*skill_rarity_type*/1, /*group_id*/121119);
+INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/211, /*skill_rarity_type*/2, /*group_id*/121119);
+INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/211, /*skill_rarity_type*/3, /*group_id*/121119);
+INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/211, /*skill_rarity_type*/4, /*group_id*/121119);
+INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/211, /*skill_rarity_type*/5, /*group_id*/121119);
+INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/212, /*skill_rarity_type*/1, /*group_id*/121219);
+INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/212, /*skill_rarity_type*/2, /*group_id*/121219);
+INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/212, /*skill_rarity_type*/3, /*group_id*/121219);
+INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/212, /*skill_rarity_type*/4, /*group_id*/121219);
+INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/212, /*skill_rarity_type*/5, /*group_id*/121219);
 INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/1, /*skill_rarity_type*/1, /*group_id*/100119);
 INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/2, /*skill_rarity_type*/1, /*group_id*/100219);
 INSERT INTO `m_lesson_voice_finish_passive_skill_lot` VALUES (/*member_master_id*/3, /*skill_rarity_type*/1, /*group_id*/100319);

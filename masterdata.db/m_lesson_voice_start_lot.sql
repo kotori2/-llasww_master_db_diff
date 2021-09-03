@@ -10,6 +10,16 @@ INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/210, /*love_l
 INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/210, /*love_level*/10, /*group_id*/121003);
 INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/210, /*love_level*/20, /*group_id*/121004);
 INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/210, /*love_level*/30, /*group_id*/121005);
+INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/211, /*love_level*/1, /*group_id*/121101);
+INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/211, /*love_level*/5, /*group_id*/121102);
+INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/211, /*love_level*/10, /*group_id*/121103);
+INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/211, /*love_level*/20, /*group_id*/121104);
+INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/211, /*love_level*/30, /*group_id*/121105);
+INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/212, /*love_level*/1, /*group_id*/121201);
+INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/212, /*love_level*/5, /*group_id*/121202);
+INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/212, /*love_level*/10, /*group_id*/121203);
+INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/212, /*love_level*/20, /*group_id*/121204);
+INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/212, /*love_level*/30, /*group_id*/121205);
 INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/1, /*love_level*/1, /*group_id*/100101);
 INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/2, /*love_level*/1, /*group_id*/100201);
 INSERT INTO `m_lesson_voice_start_lot` VALUES (/*member_master_id*/3, /*love_level*/1, /*group_id*/100301);

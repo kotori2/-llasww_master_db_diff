@@ -59,3 +59,7 @@ INSERT INTO `m_member_guild_voice` VALUES (/*id*/12090044, /*voice_asset_path*/"
 INSERT INTO `m_member_guild_voice` VALUES (/*id*/12090045, /*voice_asset_path*/"vo_sys_m0209_045");
 INSERT INTO `m_member_guild_voice` VALUES (/*id*/12100044, /*voice_asset_path*/"vo_sys_m0210_044");
 INSERT INTO `m_member_guild_voice` VALUES (/*id*/12100045, /*voice_asset_path*/"vo_sys_m0210_045");
+INSERT INTO `m_member_guild_voice` VALUES (/*id*/12110044, /*voice_asset_path*/"vo_sys_m0212_044");
+INSERT INTO `m_member_guild_voice` VALUES (/*id*/12110045, /*voice_asset_path*/"vo_sys_m0212_045");
+INSERT INTO `m_member_guild_voice` VALUES (/*id*/12120044, /*voice_asset_path*/"vo_sys_m0211_044");
+INSERT INTO `m_member_guild_voice` VALUES (/*id*/12120045, /*voice_asset_path*/"vo_sys_m0211_045");

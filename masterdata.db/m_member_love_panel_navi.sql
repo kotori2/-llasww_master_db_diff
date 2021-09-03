@@ -8,6 +8,12 @@ CREATE TABLE m_member_love_panel_navi(
 INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/210, /*navi_action_master_id*/102100010);
 INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/210, /*navi_action_master_id*/102100131);
 INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/210, /*navi_action_master_id*/102100118);
+INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/211, /*navi_action_master_id*/102110010);
+INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/211, /*navi_action_master_id*/102110131);
+INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/211, /*navi_action_master_id*/102110119);
+INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/212, /*navi_action_master_id*/102120010);
+INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/212, /*navi_action_master_id*/102120131);
+INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/212, /*navi_action_master_id*/102120055);
 INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/1, /*navi_action_master_id*/100010010);
 INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/1, /*navi_action_master_id*/100010131);
 INSERT INTO `m_member_love_panel_navi` VALUES (/*member_master_id*/1, /*navi_action_master_id*/100010120);

@@ -7,6 +7,12 @@ CREATE TABLE m_member_guild_navi_scene(
   FOREIGN KEY (member_master_id) REFERENCES m_member(id),
   FOREIGN KEY (navi_action_master_id) REFERENCES m_navi_action(id)
 );
+INSERT INTO `m_member_guild_navi_scene` VALUES (/*member_master_id*/211, /*navi_scene*/2, /*navi_action_master_id*/102110138, /*weight*/10000);
+INSERT INTO `m_member_guild_navi_scene` VALUES (/*member_master_id*/211, /*navi_scene*/1, /*navi_action_master_id*/102110139, /*weight*/10000);
+INSERT INTO `m_member_guild_navi_scene` VALUES (/*member_master_id*/211, /*navi_scene*/101, /*navi_action_master_id*/102110140, /*weight*/10000);
+INSERT INTO `m_member_guild_navi_scene` VALUES (/*member_master_id*/212, /*navi_scene*/2, /*navi_action_master_id*/102120138, /*weight*/10000);
+INSERT INTO `m_member_guild_navi_scene` VALUES (/*member_master_id*/212, /*navi_scene*/1, /*navi_action_master_id*/102120139, /*weight*/10000);
+INSERT INTO `m_member_guild_navi_scene` VALUES (/*member_master_id*/212, /*navi_scene*/101, /*navi_action_master_id*/102120140, /*weight*/10000);
 INSERT INTO `m_member_guild_navi_scene` VALUES (/*member_master_id*/1, /*navi_scene*/2, /*navi_action_master_id*/100010138, /*weight*/10000);
 INSERT INTO `m_member_guild_navi_scene` VALUES (/*member_master_id*/1, /*navi_scene*/1, /*navi_action_master_id*/100010139, /*weight*/10000);
 INSERT INTO `m_member_guild_navi_scene` VALUES (/*member_master_id*/1, /*navi_scene*/101, /*navi_action_master_id*/100010140, /*weight*/10000);

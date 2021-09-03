@@ -33,3 +33,5 @@ INSERT INTO `m_member_guild_sd_model` VALUES (/*id*/10004207, /*sd_model*/"|I", 
 INSERT INTO `m_member_guild_sd_model` VALUES (/*id*/10004208, /*sd_model*/"wg", /*exhaust_sd_model*/"p{", /*happy_sd_model*/"YT");
 INSERT INTO `m_member_guild_sd_model` VALUES (/*id*/10004209, /*sd_model*/"ct", /*exhaust_sd_model*/"d@", /*happy_sd_model*/40);
 INSERT INTO `m_member_guild_sd_model` VALUES (/*id*/10004210, /*sd_model*/"e[f", /*exhaust_sd_model*/"M=_", /*happy_sd_model*/"ypa");
+INSERT INTO `m_member_guild_sd_model` VALUES (/*id*/10004211, /*sd_model*/"5w&", /*exhaust_sd_model*/"QG5", /*happy_sd_model*/"gG)");
+INSERT INTO `m_member_guild_sd_model` VALUES (/*id*/10004212, /*sd_model*/",Z^", /*exhaust_sd_model*/"Ths", /*happy_sd_model*/"0yD");

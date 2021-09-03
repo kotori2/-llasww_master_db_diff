@@ -1439,24 +1439,8 @@ INSERT INTO `static_text` VALUES (/*textid*/714908319619401493, /*guid*/"e832950
 INSERT INTO `static_text` VALUES (/*textid*/243166013177292380, /*guid*/"e8c934180193b9841b59363f6504735e", /*message*/"Rewards will be sent to your Present Box.");
 INSERT INTO `static_text` VALUES (/*textid*/8947221868180909886, /*guid*/"e9b6d5da176424947abc705c57922864", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_skill_03\" offsety=\"-6px\" height=\"1.5\" width=\"1.5\"/>Insight Skill");
 INSERT INTO `static_text` VALUES (/*textid*/114878291117172738, /*guid*/"ebfde3c9b9c9e457c9eed55cc6cfcd0c", /*message*/"★ TIP ★");
-INSERT INTO `static_text` VALUES (/*textid*/1128722597, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"Nijigasaki 1");
 INSERT INTO `static_text` VALUES (/*textid*/1202127907, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"Please select the member you would like to interact with.");
-INSERT INTO `static_text` VALUES (/*textid*/1591095821, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"Nijigasaki 1");
-INSERT INTO `static_text` VALUES (/*textid*/341919742, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"Aqours");
-INSERT INTO `static_text` VALUES (/*textid*/538460970, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"Nijigasaki 2");
-INSERT INTO `static_text` VALUES (/*textid*/762189407, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"μ&apos;s");
-INSERT INTO `static_text` VALUES (/*textid*/846969135, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"Aqours");
-INSERT INTO `static_text` VALUES (/*textid*/899801458, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"μ&apos;s");
-INSERT INTO `static_text` VALUES (/*textid*/952777972, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"Nijigasaki 2");
-INSERT INTO `static_text` VALUES (/*textid*/1229210975, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"Nijigasaki 2");
-INSERT INTO `static_text` VALUES (/*textid*/1262141004, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"μ&apos;s");
-INSERT INTO `static_text` VALUES (/*textid*/1715106587, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"Aqours");
-INSERT INTO `static_text` VALUES (/*textid*/1757370913, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"μ&apos;s");
 INSERT INTO `static_text` VALUES (/*textid*/1873107725, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"Please select your partner. You can change this setting later.");
-INSERT INTO `static_text` VALUES (/*textid*/2084462878, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"Aqours");
-INSERT INTO `static_text` VALUES (/*textid*/495013217, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"Nijigasaki 1");
-INSERT INTO `static_text` VALUES (/*textid*/61107849, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"Nijigasaki 1");
-INSERT INTO `static_text` VALUES (/*textid*/668532236, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"Nijigasaki 2");
 INSERT INTO `static_text` VALUES (/*textid*/114124718592790024, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"Illustrations");
 INSERT INTO `static_text` VALUES (/*textid*/114158974175276444, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"Achievements");
 INSERT INTO `static_text` VALUES (/*textid*/114197279915997910, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"Bond

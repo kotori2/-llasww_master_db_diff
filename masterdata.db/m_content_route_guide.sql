@@ -4,6 +4,12 @@ CREATE TABLE m_content_route_guide(
   content_route_guide_pattern_m_id INTEGER NOT NULL,
   PRIMARY KEY (content_type, content_id)
 );
+INSERT INTO `m_content_route_guide` VALUES (/*content_type*/12, /*content_id*/8211, /*content_route_guide_pattern_m_id*/6);
+INSERT INTO `m_content_route_guide` VALUES (/*content_type*/12, /*content_id*/18211, /*content_route_guide_pattern_m_id*/7);
+INSERT INTO `m_content_route_guide` VALUES (/*content_type*/12, /*content_id*/28211, /*content_route_guide_pattern_m_id*/8);
+INSERT INTO `m_content_route_guide` VALUES (/*content_type*/12, /*content_id*/8212, /*content_route_guide_pattern_m_id*/6);
+INSERT INTO `m_content_route_guide` VALUES (/*content_type*/12, /*content_id*/18212, /*content_route_guide_pattern_m_id*/7);
+INSERT INTO `m_content_route_guide` VALUES (/*content_type*/12, /*content_id*/28212, /*content_route_guide_pattern_m_id*/8);
 INSERT INTO `m_content_route_guide` VALUES (/*content_type*/1, /*content_id*/0, /*content_route_guide_pattern_m_id*/1);
 INSERT INTO `m_content_route_guide` VALUES (/*content_type*/10, /*content_id*/0, /*content_route_guide_pattern_m_id*/2);
 INSERT INTO `m_content_route_guide` VALUES (/*content_type*/4, /*content_id*/0, /*content_route_guide_pattern_m_id*/3);

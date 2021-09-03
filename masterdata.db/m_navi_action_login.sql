@@ -10,6 +10,7 @@ CREATE TABLE m_navi_action_login(
   interval INTEGER NOT NULL,
   PRIMARY KEY (id),
   FOREIGN KEY (member_m_id) REFERENCES m_member(id),
+  FOREIGN KEY (suit_m_id) REFERENCES m_suit(id),
   FOREIGN KEY (navi_action_id) REFERENCES m_navi_action(id)
 );
 INSERT INTO `m_navi_action_login` VALUES (/*id*/1, /*login_bonus_type*/1, /*login_bonus_id*/"", /*login_bonus_day*/"", /*member_m_id*/1, /*suit_m_id*/"", /*navi_action_id*/100010113, /*priority*/1, /*interval*/0);
@@ -320,3 +321,25 @@ INSERT INTO `m_navi_action_login` VALUES (/*id*/305, /*login_bonus_type*/2, /*lo
 INSERT INTO `m_navi_action_login` VALUES (/*id*/306, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/6, /*member_m_id*/210, /*suit_m_id*/"", /*navi_action_id*/102100130, /*priority*/1, /*interval*/0);
 INSERT INTO `m_navi_action_login` VALUES (/*id*/307, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/7, /*member_m_id*/210, /*suit_m_id*/"", /*navi_action_id*/102100131, /*priority*/1, /*interval*/0);
 INSERT INTO `m_navi_action_login` VALUES (/*id*/308, /*login_bonus_type*/5, /*login_bonus_id*/"", /*login_bonus_day*/"", /*member_m_id*/210, /*suit_m_id*/"", /*navi_action_id*/102100132, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/309, /*login_bonus_type*/1, /*login_bonus_id*/"", /*login_bonus_day*/"", /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120113, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/310, /*login_bonus_type*/4, /*login_bonus_id*/"", /*login_bonus_day*/"", /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120113, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/311, /*login_bonus_type*/6, /*login_bonus_id*/"", /*login_bonus_day*/"", /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120113, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/312, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/1, /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120123, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/313, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/2, /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120126, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/314, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/3, /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120127, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/315, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/4, /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120128, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/316, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/5, /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120129, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/317, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/6, /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120130, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/318, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/7, /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120131, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/319, /*login_bonus_type*/5, /*login_bonus_id*/"", /*login_bonus_day*/"", /*member_m_id*/212, /*suit_m_id*/"", /*navi_action_id*/102120132, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/320, /*login_bonus_type*/1, /*login_bonus_id*/"", /*login_bonus_day*/"", /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110113, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/321, /*login_bonus_type*/4, /*login_bonus_id*/"", /*login_bonus_day*/"", /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110113, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/322, /*login_bonus_type*/6, /*login_bonus_id*/"", /*login_bonus_day*/"", /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110113, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/323, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/1, /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110123, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/324, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/2, /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110126, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/325, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/3, /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110127, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/326, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/4, /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110128, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/327, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/5, /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110129, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/328, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/6, /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110130, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/329, /*login_bonus_type*/2, /*login_bonus_id*/"", /*login_bonus_day*/7, /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110131, /*priority*/1, /*interval*/0);
+INSERT INTO `m_navi_action_login` VALUES (/*id*/330, /*login_bonus_type*/5, /*login_bonus_id*/"", /*login_bonus_day*/"", /*member_m_id*/211, /*suit_m_id*/"", /*navi_action_id*/102110132, /*priority*/1, /*interval*/0);

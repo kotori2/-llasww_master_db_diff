@@ -32,3 +32,5 @@ INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/207, /*path*/")1");
 INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/208, /*path*/"vp");
 INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/209, /*path*/"`[X");
 INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/210, /*path*/"D!/");
+INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/211, /*path*/"'7v");
+INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/212, /*path*/"|SM");

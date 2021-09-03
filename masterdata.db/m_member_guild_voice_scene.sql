@@ -7,6 +7,10 @@ CREATE TABLE m_member_guild_voice_scene(
   FOREIGN KEY (member_master_id) REFERENCES m_member(id),
   FOREIGN KEY (member_guild_voice_master_id) REFERENCES m_member_guild_voice(id)
 );
+INSERT INTO `m_member_guild_voice_scene` VALUES (/*member_master_id*/211, /*scene*/1, /*member_guild_voice_master_id*/12110044, /*weight*/10000);
+INSERT INTO `m_member_guild_voice_scene` VALUES (/*member_master_id*/211, /*scene*/2, /*member_guild_voice_master_id*/12110045, /*weight*/10000);
+INSERT INTO `m_member_guild_voice_scene` VALUES (/*member_master_id*/212, /*scene*/1, /*member_guild_voice_master_id*/12120044, /*weight*/10000);
+INSERT INTO `m_member_guild_voice_scene` VALUES (/*member_master_id*/212, /*scene*/2, /*member_guild_voice_master_id*/12120045, /*weight*/10000);
 INSERT INTO `m_member_guild_voice_scene` VALUES (/*member_master_id*/1, /*scene*/1, /*member_guild_voice_master_id*/10010044, /*weight*/10000);
 INSERT INTO `m_member_guild_voice_scene` VALUES (/*member_master_id*/1, /*scene*/2, /*member_guild_voice_master_id*/10010045, /*weight*/10000);
 INSERT INTO `m_member_guild_voice_scene` VALUES (/*member_master_id*/2, /*scene*/1, /*member_guild_voice_master_id*/10020044, /*weight*/10000);

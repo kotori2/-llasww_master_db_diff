@@ -35,3 +35,5 @@ INSERT INTO `m_gacha_member_performance` VALUES (/*member_master_id*/207, /*name
 INSERT INTO `m_gacha_member_performance` VALUES (/*member_master_id*/208, /*name_base_path*/"_<B", /*name_attribute_color_path*/"h{!", /*name_romaji_base_path*/"';K", /*name_romaji_attribute_color_path*/"`py");
 INSERT INTO `m_gacha_member_performance` VALUES (/*member_master_id*/209, /*name_base_path*/"q5g", /*name_attribute_color_path*/"B*g", /*name_romaji_base_path*/"Su.", /*name_romaji_attribute_color_path*/"T\"Z");
 INSERT INTO `m_gacha_member_performance` VALUES (/*member_master_id*/210, /*name_base_path*/"L+a", /*name_attribute_color_path*/"I`&", /*name_romaji_base_path*/"*M&", /*name_romaji_attribute_color_path*/"RLV");
+INSERT INTO `m_gacha_member_performance` VALUES (/*member_master_id*/211, /*name_base_path*/"5uq", /*name_attribute_color_path*/"({?", /*name_romaji_base_path*/"ILC", /*name_romaji_attribute_color_path*/"G;{");
+INSERT INTO `m_gacha_member_performance` VALUES (/*member_master_id*/212, /*name_base_path*/"'b:", /*name_attribute_color_path*/"~0]", /*name_romaji_base_path*/"WCl", /*name_romaji_attribute_color_path*/"yn}");

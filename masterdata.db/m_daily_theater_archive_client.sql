@@ -587,3 +587,7 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000577, /*year*/2021, /*month*/9, /*day*/1, /*title*/"事前準備は大切", /*published_at*/1630422000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000578, /*year*/2021, /*month*/9, /*day*/2, /*title*/"新しい趣味はいかが？", /*published_at*/1630508400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000579, /*year*/2021, /*month*/9, /*day*/3, /*title*/"夏の反省？", /*published_at*/1630594800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000580, /*year*/2021, /*month*/9, /*day*/4, /*title*/"一緒に遊ぼう！", /*published_at*/1630681200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000581, /*year*/2021, /*month*/9, /*day*/5, /*title*/"もっともっと増やしたい！", /*published_at*/1630767600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000582, /*year*/2021, /*month*/9, /*day*/6, /*title*/"思い出の跡", /*published_at*/1630854000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000583, /*year*/2021, /*month*/9, /*day*/7, /*title*/"最高のラーメン！", /*published_at*/1630940400);

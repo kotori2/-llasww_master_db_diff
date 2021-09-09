@@ -1614,7 +1614,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012602", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012603", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 니지가사키 한정으로 구성된 라이브 편성으로 라이브 10회 클리어※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012604", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012605", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 데일리 곡 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 데일리 곡 30회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012607", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; A·ZU·NA 한정으로 구성된 라이브 편성으로 라이브 10회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012608", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; QU4RTZ 한정으로 구성된 라이브 편성으로 라이브 10회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012609", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; DiverDiva 한정으로 구성된 라이브 편성으로 라이브 10회 클리어　※스킵 티켓 사용 불가");

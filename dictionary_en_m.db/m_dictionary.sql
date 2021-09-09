@@ -1611,7 +1611,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012602", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012603", /*message*/"[Dream Live Parade Goals] Complete 10 Live Shows with a Show Formation consisting only of Nijigasaki.Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012604", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012605", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*message*/"[Dream Live Parade Goals] Clear a daily song: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*message*/"[Dream Live Parade Goals] Clear a daily song: x30");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012607", /*message*/"[Dream Live Parade Goals] Complete 10 Live Shows with a Show Formation consisting only of A·ZU·NA.　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012608", /*message*/"[Dream Live Parade Goals] Complete 10 Live Shows with a Show Formation consisting only of QU4RTZ.　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012609", /*message*/"[Dream Live Parade Goals] Complete 10 Live Shows with a Show Formation consisting only of DiverDiva.　Skip Tickets cannot be used.");

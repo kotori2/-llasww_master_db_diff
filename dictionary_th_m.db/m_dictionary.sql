@@ -1621,7 +1621,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012602", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012603", /*message*/"[การบ้านดรีมไลฟ์พาเรด] นิจิกาคุ เคลียร์ไลฟ์ 10 ครั้ง※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012604", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012605", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์เพลงประจำวัน 3 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์เพลงประจำวัน 30 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012607", /*message*/"[การบ้านดรีมไลฟ์พาเรด] A·ZU·NA เคลียร์ไลฟ์ 10 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012608", /*message*/"[การบ้านดรีมไลฟ์พาเรด] QU4RTZ เคลียร์ไลฟ์ 10 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012609", /*message*/"[การบ้านดรีมไลฟ์พาเรด] DiverDiva เคลียร์ไลฟ์ 10 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");

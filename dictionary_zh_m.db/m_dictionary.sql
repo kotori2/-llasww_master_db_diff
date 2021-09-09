@@ -1612,7 +1612,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012602", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012603", /*message*/"[夢幻遊行演唱會課題]以虹咲成員編組的隊伍完成10場LIVE※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012604", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012605", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*message*/"[夢幻遊行演唱會課題]完成3次每日歌曲");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*message*/"[夢幻遊行演唱會課題]完成30次每日歌曲");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012607", /*message*/"[夢幻遊行演唱會課題]以A・ZU・NA成員編組的隊伍完成10場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012608", /*message*/"[夢幻遊行演唱會課題]以QU4RTZ成員編組的隊伍完成10場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012609", /*message*/"[夢幻遊行演唱會課題]以DiverDiva成員編組的隊伍完成10場LIVE　※跳略券不適用");

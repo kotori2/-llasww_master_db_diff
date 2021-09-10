@@ -6,6 +6,8 @@ CREATE TABLE m_still_member(
 );
 INSERT INTO `m_still_member` VALUES (/*still_master_id*/302100201, /*member_master_id*/210);
 INSERT INTO `m_still_member` VALUES (/*still_master_id*/302101201, /*member_master_id*/210);
+INSERT INTO `m_still_member` VALUES (/*still_master_id*/302110601, /*member_master_id*/211);
+INSERT INTO `m_still_member` VALUES (/*still_master_id*/302120601, /*member_master_id*/212);
 INSERT INTO `m_still_member` VALUES (/*still_master_id*/300010401, /*member_master_id*/1);
 INSERT INTO `m_still_member` VALUES (/*still_master_id*/300020401, /*member_master_id*/2);
 INSERT INTO `m_still_member` VALUES (/*still_master_id*/300030501, /*member_master_id*/3);

@@ -2191,6 +2191,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400388", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400389", /*message*/"Clear &quot;Queendom&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400390", /*message*/"Clear &quot;Queendom&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400391", /*message*/"Clear &quot;Queendom&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400392", /*message*/"Clear &quot;Toy Doll&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400393", /*message*/"Clear &quot;Toy Doll&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400394", /*message*/"Clear &quot;Toy Doll&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400395", /*message*/"Clear &quot;Ye Mingzhu&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400396", /*message*/"Clear &quot;Ye Mingzhu&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400397", /*message*/"Clear &quot;Ye Mingzhu&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

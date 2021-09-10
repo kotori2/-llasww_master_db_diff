@@ -2201,6 +2201,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400388", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400389", /*message*/"เคลียร์ &quot;Queendom&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400390", /*message*/"เคลียร์ &quot;Queendom&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400391", /*message*/"เคลียร์ &quot;Queendom&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400392", /*message*/"เคลียร์ &quot;Toy Doll&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400393", /*message*/"เคลียร์ &quot;Toy Doll&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400394", /*message*/"เคลียร์ &quot;Toy Doll&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400395", /*message*/"เคลียร์ &quot;Ye Mingzhu&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400396", /*message*/"เคลียร์ &quot;Ye Mingzhu&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400397", /*message*/"เคลียร์ &quot;Ye Mingzhu&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

@@ -44,6 +44,7 @@ INSERT INTO `stage` VALUES (/*asset_path*/"l;Y", /*pack_name*/"0ttzwp", /*head*/
 INSERT INTO `stage` VALUES (/*asset_path*/"7Wt", /*pack_name*/"8e1ra0", /*head*/764996, /*size*/1204904, /*key1*/-1168287141, /*key2*/-432869556);
 INSERT INTO `stage` VALUES (/*asset_path*/"A`\"", /*pack_name*/"v1xxmz", /*head*/1093490, /*size*/1379692, /*key1*/1863358293, /*key2*/-206845732);
 INSERT INTO `stage` VALUES (/*asset_path*/"F<E", /*pack_name*/"niqoqa", /*head*/881244, /*size*/1589555, /*key1*/-676184881, /*key2*/-697179418);
+INSERT INTO `stage` VALUES (/*asset_path*/"+y?", /*pack_name*/"4efz5t", /*head*/801998, /*size*/1300610, /*key1*/529736984, /*key2*/-1972431998);
 INSERT INTO `stage` VALUES (/*asset_path*/"jW(", /*pack_name*/"ru8u8v", /*head*/788285, /*size*/1346938, /*key1*/-742937807, /*key2*/2101264384);
 INSERT INTO `stage` VALUES (/*asset_path*/"@\G", /*pack_name*/"4x8qs9", /*head*/632209, /*size*/1829867, /*key1*/-985414651, /*key2*/2140413669);
 INSERT INTO `stage` VALUES (/*asset_path*/"kbS", /*pack_name*/"nvyvpi", /*head*/830386, /*size*/1117866, /*key1*/1037192574, /*key2*/143308262);

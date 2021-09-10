@@ -172,3 +172,5 @@ INSERT INTO `m_still` VALUES (/*still_master_id*/302092101, /*title*/"k.still_ti
 INSERT INTO `m_still` VALUES (/*still_master_id*/302092601, /*title*/"k.still_title_26", /*thumbnail_asset_path*/"A?]", /*adventure_type*/3, /*story_id*/1020926);
 INSERT INTO `m_still` VALUES (/*still_master_id*/302100201, /*title*/"k.still_title_2", /*thumbnail_asset_path*/"_77", /*adventure_type*/3, /*story_id*/1021002);
 INSERT INTO `m_still` VALUES (/*still_master_id*/302101201, /*title*/"k.still_title_12", /*thumbnail_asset_path*/"oC3", /*adventure_type*/3, /*story_id*/1021012);
+INSERT INTO `m_still` VALUES (/*still_master_id*/302110601, /*title*/"k.still_title_6", /*thumbnail_asset_path*/"HJf", /*adventure_type*/3, /*story_id*/1021106);
+INSERT INTO `m_still` VALUES (/*still_master_id*/302120601, /*title*/"k.still_title_6", /*thumbnail_asset_path*/"6zM", /*adventure_type*/3, /*story_id*/1021206);

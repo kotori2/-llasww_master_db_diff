@@ -3390,6 +3390,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"ความเร่าร้อนที่สงบเงียบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"สาวน้อยแห่งดอกไม้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"จิตใจที่สงบนิ่ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032002_1", /*message*/"คิดไปเองน่า คิดไปเอง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"ทันสมัยนี่ยากจัง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"ผ่อนคลายทั้งร่างกายและจิตใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042001_1", /*message*/"คนที่เข้าใจกันมากที่สุด");
@@ -3472,6 +3473,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082002_1", /*message*/"Smi
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082003_1", /*message*/"หลักสูตรภาษาญี่ปุ่นสีรุ้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_1", /*message*/"มีความสุขด้วยกันทุกคน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_2", /*message*/"หนูน้อยหมวกแดงจอมกินเก่ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_1", /*message*/"ปีนเขาแสนสนุก!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_2", /*message*/"นี่จ้ะ จดหมาย!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092001_1", /*message*/"ประชุมรินะจังบอร์ด!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092002_1", /*message*/"ไว้ใจอลันได้เลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"เล่น VR ในห้องชมรม");

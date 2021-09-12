@@ -228,6 +228,7 @@ INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301022002, /*par
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301022003, /*parameter1*/101, /*parameter2*/115, /*parameter3*/133);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301023001, /*parameter1*/212, /*parameter2*/159, /*parameter3*/159);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301032001, /*parameter1*/91, /*parameter2*/136, /*parameter3*/97);
+INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301032002, /*parameter1*/148, /*parameter2*/156, /*parameter3*/86);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301033001, /*parameter1*/164, /*parameter2*/153, /*parameter3*/212);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301042001, /*parameter1*/65, /*parameter2*/153, /*parameter3*/107);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/301042002, /*parameter1*/92, /*parameter2*/106, /*parameter3*/132);
@@ -286,6 +287,7 @@ INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302082001, /*par
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302082002, /*parameter1*/94, /*parameter2*/108, /*parameter3*/135);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302082003, /*parameter1*/137, /*parameter2*/103, /*parameter3*/103);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302083001, /*parameter1*/205, /*parameter2*/172, /*parameter3*/162);
+INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302083002, /*parameter1*/119, /*parameter2*/252, /*parameter3*/258);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302092001, /*parameter1*/126, /*parameter2*/99, /*parameter3*/106);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302092002, /*parameter1*/87, /*parameter2*/140, /*parameter3*/122);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/302093001, /*parameter1*/169, /*parameter2*/185, /*parameter3*/174);

@@ -3380,6 +3380,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"My 
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"A Quiet Passion");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"Floral Maiden");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"Soothe the Soul");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032002_1", /*message*/"It Was Just My Imagination, I&apos;m Sure!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"Fashion is Hard");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"Relaxing the Mind and Body");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042001_1", /*message*/"Who Understands Me Most");
@@ -3462,6 +3463,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082002_1", /*message*/"A S
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082003_1", /*message*/"Rainbow Japanese Course");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_1", /*message*/"A Happy Ending for Everyone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_2", /*message*/"Gluttonous Little Red Riding Hood");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_1", /*message*/"Climbing This Mountain Is Tons of Fun!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_2", /*message*/"Here&apos;s Your Letter!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092001_1", /*message*/"Rina-chan Board Meeting!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092002_1", /*message*/"Leave It to Alan");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"VR Games at Home");

@@ -3383,6 +3383,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"사
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"조용한 열정");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"꽃의 소녀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"잔잔해지는 마음");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032002_1", /*message*/"기분 탓이겠지…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"멋 내는 건 어려워");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"몸도 마음도 편안하게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042001_1", /*message*/"최고의 이해자");
@@ -3465,6 +3466,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082002_1", /*message*/"스
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082003_1", /*message*/"레인보우 일본어 수업");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_1", /*message*/"모두 행복하게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_2", /*message*/"먹보 빨간 모자");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_1", /*message*/"즐거움이 가득한 등산!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_2", /*message*/"자, 편지 받으세요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092001_1", /*message*/"리나보드 회의!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092002_1", /*message*/"아란에게 맡겨");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"방에서 즐기는 VR");

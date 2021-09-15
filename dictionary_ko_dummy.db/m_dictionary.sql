@@ -7,6 +7,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001003_00", /*message*/"오토노
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001005_00", /*message*/"오토노키자카 고교 통학로(언덕 위)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_003001_00", /*message*/"칸다묘진(낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_013002_00", /*message*/"우라노호시 여고 통학로 버스 정류장 앞(맑은 아침)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021004_10", /*message*/"니지가사키 학원 부실(비, 불 꺼짐)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"니지가사키 학원 강당(불 꺼짐, 밤)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021013_02", /*message*/"니지가사키 학원 중앙 정원(밤)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_022012_01", /*message*/"세츠나의 방(크리스마스, 낮)");
@@ -312,6 +313,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30026_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30026_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30026_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30026_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"이벤트 이용 방법 2");

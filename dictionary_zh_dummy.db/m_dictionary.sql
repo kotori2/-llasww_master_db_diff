@@ -7,6 +7,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001003_00", /*message*/"音乃木
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001005_00", /*message*/"音乃木坂學院 上下學路段(坡道上)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_003001_00", /*message*/"神田明神(白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_013002_00", /*message*/"浦之星女學院 上下學路段公車站前(晴朗早晨)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021004_10", /*message*/"虹咲學園 社團教室(熄燈後的雨天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"虹咲學園 禮堂(熄燈後的夜晚)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021013_02", /*message*/"虹咲學園 中庭(夜晚)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_022012_01", /*message*/"雪菜的房間(聖誕風：白天)");
@@ -312,6 +313,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30026_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30026_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30026_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30026_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message*/"活動規則 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"活動規則 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"活動規則 2/6");

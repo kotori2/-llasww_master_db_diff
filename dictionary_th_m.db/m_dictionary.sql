@@ -1647,6 +1647,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012607", /*message*/"[การบ้านดรีมไลฟ์พาเรด] A·ZU·NA เคลียร์ไลฟ์ 10 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012608", /*message*/"[การบ้านดรีมไลฟ์พาเรด] QU4RTZ เคลียร์ไลฟ์ 10 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012609", /*message*/"[การบ้านดรีมไลฟ์พาเรด] DiverDiva เคลียร์ไลฟ์ 10 ครั้ง　※ไม่สามารถใช้ตั๋วข้ามได้");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012703", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;Wake up, Challenger!!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012704", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีซากุระอุจิ ริโกะ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

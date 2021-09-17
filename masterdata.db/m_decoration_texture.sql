@@ -1260,6 +1260,12 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gach
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4000301/tex_banner_gacha_text_4000301_1", /*path*/"DUg");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/Birthday/0003/tex_banner_notice_birthday_l_0003_2", /*path*/"{4n");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/Birthday/0003/tex_banner_notice_birthday_s_0003_2", /*path*/"H[\");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4010201/tex_banner_notice_s_4010201", /*path*/"34*");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4010201/tex_banner_notice_l_4010201", /*path*/"zYk");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4010201/tex_banner_gacha_top_4010201_1", /*path*/"AH;");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4010201/tex_banner_gacha_text_4010201_1", /*path*/"ZT#");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/Birthday/0102/tex_banner_notice_birthday_l_0102_2", /*path*/"WGU");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/Birthday/0102/tex_banner_notice_birthday_s_0102_2", /*path*/"f_w");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Notice/tex_banner_notice_l_addonly_member_episode", /*path*/"+Fl");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Notice/tex_banner_notice_s_addonly_member_episode", /*path*/",;4");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10109/tex_banner_notice_l_10109", /*path*/";ZD");

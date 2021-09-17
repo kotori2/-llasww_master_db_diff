@@ -1638,6 +1638,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012607", /*message*/"[夢幻遊行演唱會課題]以A・ZU・NA成員編組的隊伍完成10場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012608", /*message*/"[夢幻遊行演唱會課題]以QU4RTZ成員編組的隊伍完成10場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012609", /*message*/"[夢幻遊行演唱會課題]以DiverDiva成員編組的隊伍完成10場LIVE　※跳略券不適用");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012703", /*message*/"[CD發行紀念]完成10次「Wake up, Challenger!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012704", /*message*/"[CD發行紀念]使用20次發動成員包含櫻內梨子的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

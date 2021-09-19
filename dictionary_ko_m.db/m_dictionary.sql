@@ -1642,6 +1642,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012608", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012609", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; DiverDiva 한정으로 구성된 라이브 편성으로 라이브 10회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012703", /*message*/"[CD 발매 기념] Wake up, Challenger!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012704", /*message*/"[CD 발매 기념] 사쿠라우치 리코이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012803", /*message*/"[CD 발매 기념] SKY JOURNEY 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012804", /*message*/"[CD 발매 기념] 쿠로사와 루비이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

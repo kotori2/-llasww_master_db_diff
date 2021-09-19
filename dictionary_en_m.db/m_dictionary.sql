@@ -1639,6 +1639,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012608", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012609", /*message*/"[Dream Live Parade Goals] Complete 10 Live Shows with a Show Formation consisting only of DiverDiva.　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012703", /*message*/"[CD Release Celebration] Clear &quot;Wake up, Challenger!!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012704", /*message*/"[CD Release Celebration] Use an SP Skill including Riko Sakurauchi 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012803", /*message*/"[CD Release Celebration] Clear &quot;SKY JOURNEY&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012804", /*message*/"[CD Release Celebration] Use an SP Skill including Ruby Kurosawa 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

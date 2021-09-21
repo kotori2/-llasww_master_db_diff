@@ -27,7 +27,10 @@ INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1008, /*page_nu
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1008, /*page_number*/3, /*title*/"k.reference_book_description_8_ep2010", /*image_asset_path*/"ZA\"");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1008, /*page_number*/4, /*title*/"k.reference_book_description_8_ep2010", /*image_asset_path*/"u;,");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1009, /*page_number*/1, /*title*/"k.reference_book_description_9_ep2010", /*image_asset_path*/"uRi");
-INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1011, /*page_number*/1, /*title*/"k.reference_book_description_11_ep2010", /*image_asset_path*/"b,)");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1013, /*page_number*/1, /*title*/"k.reference_book_description_13_ep2010", /*image_asset_path*/"zZ_");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1013, /*page_number*/2, /*title*/"k.reference_book_description_13_ep2010", /*image_asset_path*/"SJm");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1013, /*page_number*/3, /*title*/"k.reference_book_description_13_ep2010", /*image_asset_path*/"<U|");
+INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1014, /*page_number*/1, /*title*/"k.reference_book_description_14_ep3000", /*image_asset_path*/"d-~");
+INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1014, /*page_number*/2, /*title*/"k.reference_book_description_14_ep3000", /*image_asset_path*/"MV~");
+INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1014, /*page_number*/3, /*title*/"k.reference_book_description_14_ep3000", /*image_asset_path*/"veu");
+INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1011, /*page_number*/1, /*title*/"k.reference_book_description_11_ep2010", /*image_asset_path*/";0T");

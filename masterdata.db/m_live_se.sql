@@ -40,3 +40,4 @@ INSERT INTO `m_live_se` VALUES (/*id*/77, /*path*/"se_120_0077");
 INSERT INTO `m_live_se` VALUES (/*id*/78, /*path*/"se_010_0011");
 INSERT INTO `m_live_se` VALUES (/*id*/79, /*path*/"se_010_0012");
 INSERT INTO `m_live_se` VALUES (/*id*/80, /*path*/"se_010_0164");
+INSERT INTO `m_live_se` VALUES (/*id*/81, /*path*/"se_120_0079");

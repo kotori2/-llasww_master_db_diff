@@ -56,3 +56,5 @@ INSERT INTO `m_live_texture` VALUES (/*asset_type*/50, /*asset_path*/"6d|");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/51, /*asset_path*/"QLg");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/52, /*asset_path*/"&c?");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/53, /*asset_path*/"/f2");
+INSERT INTO `m_live_texture` VALUES (/*asset_type*/54, /*asset_path*/"42c");
+INSERT INTO `m_live_texture` VALUES (/*asset_type*/55, /*asset_path*/"snK");

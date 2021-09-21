@@ -10,6 +10,6 @@ CREATE TABLE m_filter_condition_pattern_accessory_is_lock(
   is_default INTEGER NOT NULL,
   PRIMARY KEY (pattern_id, condition)
 );
-INSERT INTO `m_filter_condition_pattern_accessory_is_lock` VALUES (/*pattern_id*/1, /*condition*/1, /*condition_data*/"", /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_card_favorite_status_all", /*text_color*/"", /*text_outline_color*/"", /*display_index*/0, /*is_default*/1);
-INSERT INTO `m_filter_condition_pattern_accessory_is_lock` VALUES (/*pattern_id*/1, /*condition*/2, /*condition_data*/1, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_card_favorite_status_favorite", /*text_color*/"", /*text_outline_color*/"", /*display_index*/1, /*is_default*/0);
-INSERT INTO `m_filter_condition_pattern_accessory_is_lock` VALUES (/*pattern_id*/1, /*condition*/3, /*condition_data*/0, /*image_asset_path*/"", /*text*/"k.m_filter_condition_pattern_card_favorite_status_none", /*text_color*/"", /*text_outline_color*/"", /*display_index*/2, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_accessory_is_lock` VALUES (/*pattern_id*/1, /*condition*/1, /*condition_data*/"", /*image_asset_path*/"", /*text*/"k.m_filter_category_accessory_is_lock_status_all", /*text_color*/"", /*text_outline_color*/"", /*display_index*/0, /*is_default*/1);
+INSERT INTO `m_filter_condition_pattern_accessory_is_lock` VALUES (/*pattern_id*/1, /*condition*/2, /*condition_data*/1, /*image_asset_path*/"", /*text*/"k.m_filter_category_accessory_is_lock_status_using", /*text_color*/"", /*text_outline_color*/"", /*display_index*/1, /*is_default*/0);
+INSERT INTO `m_filter_condition_pattern_accessory_is_lock` VALUES (/*pattern_id*/1, /*condition*/3, /*condition_data*/0, /*image_asset_path*/"", /*text*/"k.m_filter_category_accessory_is_lock_status_unused", /*text_color*/"", /*text_outline_color*/"", /*display_index*/2, /*is_default*/0);

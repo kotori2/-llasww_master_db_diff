@@ -273,3 +273,4 @@ INSERT INTO `m_skill_condition` VALUES (/*id*/266, /*condition_type*/3, /*condit
 INSERT INTO `m_skill_condition` VALUES (/*id*/267, /*condition_type*/3, /*condition_value*/18);
 INSERT INTO `m_skill_condition` VALUES (/*id*/268, /*condition_type*/3, /*condition_value*/19);
 INSERT INTO `m_skill_condition` VALUES (/*id*/269, /*condition_type*/3, /*condition_value*/20);
+INSERT INTO `m_skill_condition` VALUES (/*id*/270, /*condition_type*/7, /*condition_value*/0);

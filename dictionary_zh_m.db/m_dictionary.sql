@@ -1642,6 +1642,18 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012704", /*message*/"[CD發行紀念]使用20次發動成員包含櫻內梨子的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012803", /*message*/"[CD發行紀念]完成10次「SKY JOURNEY」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012804", /*message*/"[CD發行紀念]使用20次發動成員包含黑澤露比的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013005", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013006", /*message*/"[大型合作演唱會課題]完成1次「TOKIMEKI Runners Chapter 17 Ver.」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013007", /*message*/"[大型合作演唱會課題]完成1次「Love U my friends」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013008", /*message*/"[大型合作演唱會課題]完成1次「L! L! L! (Love the Life We Live)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013105", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013106", /*message*/"[大型合作演唱會課題]完成1次「Mirai no Bokura wa Shitteru yo」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013107", /*message*/"[大型合作演唱會課題]完成1次「Kimino Kokorowa Kagayaiterukai?」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013108", /*message*/"[大型合作演唱會課題]完成1次「Aozora Jumping Heart」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013205", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013206", /*message*/"[大型合作演唱會課題]完成1次「It&apos;s our miraculous time」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013207", /*message*/"[大型合作演唱會課題]完成1次「Arashi no Naka no Koi dakara」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013208", /*message*/"[大型合作演唱會課題]完成1次「Snow Halation」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

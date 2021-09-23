@@ -1641,6 +1641,18 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012704", /*message*/"[CD Release Celebration] Use an SP Skill including Riko Sakurauchi 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012803", /*message*/"[CD Release Celebration] Clear &quot;SKY JOURNEY&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012804", /*message*/"[CD Release Celebration] Use an SP Skill including Ruby Kurosawa 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013005", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013006", /*message*/"[SBL Goal] Clear &quot;TOKIMEKI Runners Chapter 17 Ver.&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013007", /*message*/"[SBL Goal] Clear &quot;Love U my friends&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013008", /*message*/"[SBL Goal] Clear &quot;L! L! L! (Love the Life We Live)&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013105", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013106", /*message*/"[SBL Goal] Clear &quot;Mirai no Bokura wa Shitteru yo&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013107", /*message*/"[SBL Goal] Clear &quot;Kimino Kokorowa Kagayaiterukai?&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013108", /*message*/"[SBL Goal] Clear &quot;Aozora Jumping Heart&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013205", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013206", /*message*/"[SBL Goal] Clear &quot;It&apos;s our miraculous time&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013207", /*message*/"[SBL Goal] Clear &quot;Arashi no Naka no Koi dakara&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013208", /*message*/"[SBL Goal] Clear &quot;Snow Halation&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

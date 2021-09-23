@@ -1651,6 +1651,18 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012704", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีซากุระอุจิ ริโกะ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012803", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;SKY JOURNEY&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012804", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีคุโรซาวะ รูบี้ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013005", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013006", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;TOKIMEKI Runners Chapter 17 Ver.&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013007", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Love U my friends&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013008", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;L! L! L! (Love the Life We Live)&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013105", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013106", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Mirai no Bokura wa Shitteru yo&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013107", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Kimino Kokorowa Kagayaiterukai?&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013108", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Aozora Jumping Heart&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013205", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013206", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;It&apos;s our miraculous time&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013207", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Arashi no Naka no Koi dakara&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013208", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Snow Halation&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

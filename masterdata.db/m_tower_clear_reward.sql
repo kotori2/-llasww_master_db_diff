@@ -518,6 +518,16 @@ INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014017, /*
 INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014018, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/150);
 INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014019, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/150);
 INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014020, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/150);
+INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014021, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/200);
+INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014022, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/200);
+INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014023, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/200);
+INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014024, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/200);
+INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014025, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/200);
+INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014026, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/240);
+INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014027, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/240);
+INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014028, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/240);
+INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014029, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/240);
+INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33014030, /*display_order*/0, /*content_type*/21, /*content_id*/21044, /*content_amount*/240);
 INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33001001, /*display_order*/0, /*content_type*/21, /*content_id*/19001, /*content_amount*/50);
 INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33001001, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/5);
 INSERT INTO `m_tower_clear_reward` VALUES (/*tower_clear_reward_id*/33001002, /*display_order*/0, /*content_type*/21, /*content_id*/19001, /*content_amount*/50);

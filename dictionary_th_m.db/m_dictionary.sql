@@ -3285,12 +3285,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_2", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_1", /*message*/"การแสดงเสน่ห์สำคัญนะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_2", /*message*/"พี่สาวที่ไม่รู้จัก?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032001_1", /*message*/"เวทมนตร์ของโคโทริ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032002_1", /*message*/"มาเต้นกันอย่างอิสระเถอะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_1", /*message*/"ประกายของสระน้ำ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_2", /*message*/"สิ่งที่ปรากฏขึ้นมาในใจนั้นคือ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033002_1", /*message*/"ขั้นตอนสุดท้ายก็คือเธอ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033002_2", /*message*/"โลกแห่งจินตนาการ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_1", /*message*/"เพราะอยู่กับเธอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_2", /*message*/"หนักแน่นและสง่างาม!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043002_1", /*message*/"ท้าทายการทำผม!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043002_2", /*message*/"ที่ที่สงบสุข");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200052001_1", /*message*/"อยากได้เด็กน่ารักๆ ตัวนั้นจัง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053001_1", /*message*/"ไปเดตที่สวนสนุกล่ะเมี้ยว~!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053001_2", /*message*/"คอลเลกชันลับของริน");
@@ -3333,6 +3336,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_2", /*message*/"อ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201042001_1", /*message*/"รอยยิ้มผลิบาน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_1", /*message*/"เมนูแนะนำของคุณไดยะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"เสริมความน่ารัก!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043002_1", /*message*/"ระเบิดความมุ่งมั่น!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043002_2", /*message*/"เมจิคัล・ไดยะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"เดตสีน้ำทะเล☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_2", /*message*/"ความวางใจที่เปียกโชก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_1", /*message*/"เสียงเชียร์ของเธอ");
@@ -3354,6 +3359,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093001_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093001_2", /*message*/"Dreaming Candy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093002_1", /*message*/"ใบหน้าตอนนอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093002_2", /*message*/"รูบี้ในดินแดนแห่งความฝัน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202012001_1", /*message*/"เซอร์ไพรส์เด็กคนนั้น!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_1", /*message*/"พิเศษอยู่เสมอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_2", /*message*/"เจ้าสาวของเธอเท่านั้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_1", /*message*/"คุณหนูผู้อยากได้รับความรัก");
@@ -3388,6 +3394,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"ตอนนี้และที่ผ่านมา");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_1", /*message*/"ฝึกซ้อมกับเธอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_2", /*message*/"รินะจังวันเดอร์เกมซิตี้");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202102001_1", /*message*/"การพบกันที่แสนวิเศษ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_1", /*message*/"พยายามสุดความสามารถเท่านั้นค่ะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_2", /*message*/"ค่ำคืนที่ฉันเป็นฝ่ายควบคุม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103002_1", /*message*/"คำตอบที่ถูกต้องอยู่ที่ไหนกัน!?");

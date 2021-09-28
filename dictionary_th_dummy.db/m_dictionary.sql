@@ -148,11 +148,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202002", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202003", /*message*/"กติกาอีเวนต์ 3/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202004", /*message*/"กติกาอีเวนต์ 4/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202005", /*message*/"กติกาอีเวนต์ 5/5");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202101", /*message*/"イベントルール 1/5");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202102", /*message*/"イベントルール 2/5");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202103", /*message*/"イベントルール 3/5");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202104", /*message*/"イベントルール 4/5");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202105", /*message*/"イベントルール 5/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202101", /*message*/"กติกาอีเวนต์ 1/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202102", /*message*/"กติกาอีเวนต์ 2/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202103", /*message*/"กติกาอีเวนต์ 3/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202104", /*message*/"กติกาอีเวนต์ 4/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202105", /*message*/"กติกาอีเวนต์ 5/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_03", /*message*/"");

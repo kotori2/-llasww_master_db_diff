@@ -614,3 +614,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000604, /*year*/2021, /*month*/9, /*day*/28, /*title*/"おいしいの罪", /*published_at*/1632754800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000605, /*year*/2021, /*month*/9, /*day*/29, /*title*/"登山仲間？", /*published_at*/1632841200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000606, /*year*/2021, /*month*/9, /*day*/30, /*title*/"本場の味！", /*published_at*/1632927600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000607, /*year*/2021, /*month*/10, /*day*/1, /*title*/"年上か、年下か", /*published_at*/1633014000);

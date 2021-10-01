@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"00745802869c14a8046dbff7de7d5e36339eeaab", /*hash*/"acc3e2c7569c08cbe46f2e0987fa87f0cb28c708", /*size*/9225864);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"f75888faa49c2852654fa4d787b48e9d2d90cb0e", /*hash*/"5ceb939997e63f46206c09cad683b61b3e6b70c0", /*size*/9225856);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_dummy.db", /*keys*/"5a3d62449a5e6973003c098b7c62efc0f0bbb154", /*hash*/"e2c5c53da5d98046cc6950a72520f024fc13a3cf", /*size*/6162);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_v.db", /*keys*/"8cbdc715b63be2a421741024204799d15b2aa004", /*hash*/"23b00992db96fc75bebe1c5b2df461e3bd5c8b03", /*size*/362);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"bf7eff075815a24b4609ffbf3d2b0de24efd054f", /*hash*/"21ba4064f773bb8fba5a60955088e6236b36c6cd", /*size*/10657);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"b441734f
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"4672690c48c71520d55e8737de17fafc84d7cd62", /*hash*/"2ca1667a8dd99ad05629310b48f5f0afc3c24b95", /*size*/1449767);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_ios.db", /*keys*/"5a3e8e5d53b16c5a91079a20a49985ec6878acfe", /*hash*/"03d530a69fba8357ea7d263355c577e272005c9d", /*size*/46116);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"e687511651f449922bc9d49d46e94f8a40c73016", /*hash*/"ea0abd048c734412d25c3b7de144fc87e318c705", /*size*/88862);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"7a46e42408f86a2c4b034fccab4a1fac75ab53d7", /*hash*/"88997b3b138ebd2f782fe25a39684e4c82f359fb", /*size*/11305673);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"7a46e42408f86a2c4b034fccab4a1fac75ab53d7", /*hash*/"e78320ee76e0ec0562bc675d5bc80b7e41127442", /*size*/11304439);

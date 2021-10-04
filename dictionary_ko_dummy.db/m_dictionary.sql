@@ -22,6 +22,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035016_00", /*message*/"놀이공
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"플라네타리움(오로라)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035020_00", /*message*/"공원(대)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035025_00", /*message*/"부엌");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035026_00", /*message*/"쇼핑몰");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035031_01", /*message*/"꽃 핀 잔디밭(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035032_00", /*message*/"시타마치 거리 A(맑은 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035034_00", /*message*/"스케이트 링크(실내)");

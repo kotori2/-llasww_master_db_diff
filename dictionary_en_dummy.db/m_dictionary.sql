@@ -22,6 +22,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035016_00", /*message*/"Amusement
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"Planetarium (with Northern Lights)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035020_00", /*message*/"Park (Large)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035025_00", /*message*/"Kitchen");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035026_00", /*message*/"Shopping Mall");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035031_01", /*message*/"Field (Flower Meadow) (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035032_00", /*message*/"Old Town Street A (Afternoon)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035034_00", /*message*/"Ice Rink (Inside)");

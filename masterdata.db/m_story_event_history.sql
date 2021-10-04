@@ -54,3 +54,4 @@ INSERT INTO `m_story_event_history` VALUES (/*id*/31018, /*banner_image_asset_pa
 INSERT INTO `m_story_event_history` VALUES (/*id*/31019, /*banner_image_asset_path*/"h0K", /*start_at*/1626847200, /*end_at*/1893423600, /*display_order*/43);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31020, /*banner_image_asset_path*/"5Jr", /*start_at*/1629007200, /*end_at*/1893423600, /*display_order*/45);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31021, /*banner_image_asset_path*/"(P]", /*start_at*/1631599200, /*end_at*/1893423600, /*display_order*/47);
+INSERT INTO `m_story_event_history` VALUES (/*id*/31022, /*banner_image_asset_path*/"JSj", /*start_at*/1634277600, /*end_at*/1893423600, /*display_order*/49);

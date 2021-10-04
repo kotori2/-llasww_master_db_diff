@@ -1242,6 +1242,20 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002114", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002115", /*message*/"มีชุด 1 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002116", /*message*/"มีชุด 2 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002117", /*message*/"มีชุด 3 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002204", /*message*/"อัปเลเวลของสคูลไอดอล 1 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002205", /*message*/"อัปเลเวลของสคูลไอดอล 2 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002206", /*message*/"รับล็อกอินโบนัส 4 ครั้งในเวลาที่กำหนด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002207", /*message*/"รับล็อกอินโบนัส 8 ครั้งในเวลาที่กำหนด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002208", /*message*/"ซ้อม 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002209", /*message*/"ซ้อม 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002210", /*message*/"เล่นไลฟ์ 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002211", /*message*/"เล่นไลฟ์ 25 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002212", /*message*/"เคลียร์ไลฟ์ 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002213", /*message*/"เคลียร์ไลฟ์ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002214", /*message*/"เคลียร์ไลฟ์ 30 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002215", /*message*/"มีชุด 1 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002216", /*message*/"มีชุด 2 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002217", /*message*/"มีชุด 3 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300101", /*message*/"เล่น &quot;Bokura wa Ima no Naka de&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300102", /*message*/"เล่น &quot;Bokura wa Ima no Naka de&quot; 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300103", /*message*/"เล่นไลฟ์ 10 ครั้ง");
@@ -1677,6 +1691,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"บทที่ 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"บทที่ 7");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31022", /*message*/"จับคู่แปลงโฉมด้วยชุดนี้♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"กติกาอีเวนต์ 1/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"กติกาอีเวนต์ 2/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"กติกาอีเวนต์ 3/4");
@@ -3645,6 +3660,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063003_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063003_2", /*message*/"เวทีการแสดงในอนาคตอันใกล้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063004_1", /*message*/"ให้ฉันได้ทำสักอย่างเพื่อเธอนะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063004_2", /*message*/"โลกเต็มไปด้วยเสียงซึ่งแผ่ขยาย");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063005_1", /*message*/"ชุดคู่กัน?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063005_2", /*message*/"ไปช็อปปิ้งกันเถอะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072001_1", /*message*/"บ้านใดมีรอยยิ้มบ้านนั้นมีโชค");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072002_1", /*message*/"หุ่นลองเสื้อของรุ่นพี่โนโซมิ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072003_1", /*message*/"มองออกทะลุปรุโปร่ง");
@@ -3767,12 +3784,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401063003_1", /*message*/"ท
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401063003_2", /*message*/"นักเดินทางชั่วนิรันดร์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401063004_1", /*message*/"หน้าร้อนปีต่อไป และปีต่อๆ ไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401063004_2", /*message*/"สิ่งที่เจิดจ้ายิ่งกว่าสิ่งใด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401063005_1", /*message*/"การล่อลวงของความนุ่มนิ่ม");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401063005_2", /*message*/"ถ้าพูดถึงขนาดนั้นละก็!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401072001_1", /*message*/"พลังลึกลับของความอร่อย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401072002_1", /*message*/"ฝึกทำโอโคโนมิยากิของฮานามารุ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401072003_1", /*message*/"ระวังการเล่นพลาดไว้ให้ดีนะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401072004_1", /*message*/"การเดินทางตามหาขนมปัง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401072005_1", /*message*/"ประทับใจการไหว้พระปีใหม่!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401072006_1", /*message*/"ฝึกทำทาโกะยากิ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401072007_1", /*message*/"กำหนดไว้แบบนั้นเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073001_1", /*message*/"อีกครั้งกับความสุขใจในดอกไม้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073001_2", /*message*/"เป็นมนุษย์!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073002_1", /*message*/"เก็บกวาดใบไม้ร่วง");
@@ -3838,6 +3858,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023002_1", /*message*/"ฝ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023002_2", /*message*/"โลกแสนน่ารัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023003_1", /*message*/"คนที่คาสึมินอยากเจอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023003_2", /*message*/"ใต้ท้องฟ้าที่มีทางช้างเผือก");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023004_1", /*message*/"อยู่ด้วยกันทั้งวัน!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023004_2", /*message*/"เอาล่ะ นี่คือข้อเสนอค่ะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402032001_1", /*message*/"แม่มดกับสาวน้อยเวทมนตร์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402032002_1", /*message*/"จงลุกโชน วิถีแห่งปิงปอง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402032003_1", /*message*/"หลังจากนั้นก็ฝากด้วยนะ");
@@ -3909,6 +3931,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402082001_1", /*message*/"ค
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402082002_1", /*message*/"อยากฟังจัง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402082003_1", /*message*/"ของตอบแทน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402082004_1", /*message*/"มาเลือกกันเถอะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402082005_1", /*message*/"ของที่เข้ากันพอดี");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083001_1", /*message*/"หลังเลิกเรียนที่ฝนตก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083001_2", /*message*/"Shower Live!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083002_1", /*message*/"สวิสกับญี่ปุ่นเหมือนกันไหม?");
@@ -3930,6 +3953,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402093003_2", /*message*/"ไ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402093004_1", /*message*/"ยามแร็กนาร็อกใกล้เข้ามาแล้ว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402093004_2", /*message*/"น้ำตากลางสายฝน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402102001_1", /*message*/"เตรียมตัวพร้อมไหมคะ!?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402122001_1", /*message*/"นี่เป็นคำตอบสุดท้าย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_502011001_1", /*message*/"ทำมาเพื่อเธอเลยนะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_502021001_1", /*message*/"ขอรางวัลหน่อยค่ะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_502031001_1", /*message*/"คาถาที่ทำให้พยายามได้");

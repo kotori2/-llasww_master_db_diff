@@ -22,6 +22,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035016_00", /*message*/"遊樂園
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"天文館(含極光)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035020_00", /*message*/"公園(大)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035025_00", /*message*/"廚房");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035026_00", /*message*/"購物中心");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035031_01", /*message*/"草坪(花海)(晴朗白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035032_00", /*message*/"老街街景A(晴朗白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035034_00", /*message*/"滑冰場(室內)");

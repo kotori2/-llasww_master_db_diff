@@ -15,4 +15,3 @@ INSERT INTO `m_suit_non_playable` VALUES (/*id*/109923001, /*member_m_id*/992, /
 INSERT INTO `m_suit_non_playable` VALUES (/*id*/109933001, /*member_m_id*/993, /*name*/"", /*thumbnail_image_asset_path*/"", /*model_asset_path*/"{~\"");
 INSERT INTO `m_suit_non_playable` VALUES (/*id*/109943001, /*member_m_id*/994, /*name*/"", /*thumbnail_image_asset_path*/"", /*model_asset_path*/"{~\"");
 INSERT INTO `m_suit_non_playable` VALUES (/*id*/109953001, /*member_m_id*/995, /*name*/"", /*thumbnail_image_asset_path*/"", /*model_asset_path*/"{~\"");
-INSERT INTO `m_suit_non_playable` VALUES (/*id*/402102001, /*member_m_id*/210, /*name*/"k.suit_name_102101001", /*thumbnail_image_asset_path*/"rCC", /*model_asset_path*/"{~\"");

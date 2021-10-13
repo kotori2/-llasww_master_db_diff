@@ -1670,6 +1670,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013205", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013206", /*message*/"[SBL Goal] Clear &quot;It&apos;s our miraculous time&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013207", /*message*/"[SBL Goal] Clear &quot;Arashi no Naka no Koi dakara&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013208", /*message*/"[SBL Goal] Clear &quot;Snow Halation&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013301", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013302", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013303", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -3482,6 +3485,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"Soo
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032002_1", /*message*/"It Was Just My Imagination, I&apos;m Sure!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"Fashion is Hard");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"Relaxing the Mind and Body");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033002_1", /*message*/"Admiring Fall Leaves with You");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033002_2", /*message*/"Like the Leaves of Fall");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042001_1", /*message*/"Who Understands Me Most");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042002_1", /*message*/"Smiles Are Important!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042003_1", /*message*/"Together, Now and Always");
@@ -3573,6 +3578,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_2", /*message*/"Tog
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"Awkward Yet Straightforward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_1", /*message*/"A Delicious Smile");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_2", /*message*/"In a Peaceful Mood");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302112001_1", /*message*/"A Request");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012001_1", /*message*/"Another Event?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012002_1", /*message*/"Yaaay! I Love You, Umi!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012003_1", /*message*/"Linked Hearts");

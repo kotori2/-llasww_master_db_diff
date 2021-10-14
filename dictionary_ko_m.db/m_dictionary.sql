@@ -1723,6 +1723,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33013", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33013_000", /*message*/"드림 라이브 퍼레이드 ~서머 어드벤처 2021~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33014", /*message*/"드림 라이브 퍼레이드 ~2nd Anniversary~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33014_000", /*message*/"드림 라이브 퍼레이드 ~2nd Anniversary~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015", /*message*/"드림 라이브 퍼레이드 ~We Are Challengers~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015_000", /*message*/"드림 라이브 퍼레이드 ~We Are Challengers~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");

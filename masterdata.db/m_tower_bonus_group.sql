@@ -22,6 +22,7 @@ INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33002015, /*bonus_t
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33002016, /*bonus_target_member_group*/2, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33002017, /*bonus_target_member_group*/2, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33002019, /*bonus_target_member_group*/2, /*value*/1);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33002020, /*bonus_target_member_group*/2, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/7, /*bonus_target_member_group*/3, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/10, /*bonus_target_member_group*/3, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/14, /*bonus_target_member_group*/3, /*value*/1);
@@ -34,6 +35,7 @@ INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33003015, /*bonus_t
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33003016, /*bonus_target_member_group*/3, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33003017, /*bonus_target_member_group*/3, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33003019, /*bonus_target_member_group*/3, /*value*/1);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33003020, /*bonus_target_member_group*/3, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/11, /*bonus_target_member_group*/1, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/15, /*bonus_target_member_group*/1, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/20, /*bonus_target_member_group*/1, /*value*/1);
@@ -45,5 +47,7 @@ INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33004015, /*bonus_t
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33004016, /*bonus_target_member_group*/1, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33004017, /*bonus_target_member_group*/1, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33004019, /*bonus_target_member_group*/1, /*value*/1);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33004020, /*bonus_target_member_group*/1, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/31, /*bonus_target_member_group*/3, /*value*/2);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33010014, /*bonus_target_member_group*/3, /*value*/1);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33015020, /*bonus_target_member_group*/2, /*value*/2);

@@ -1730,6 +1730,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33013", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33013_000", /*message*/"ดรีมไลฟ์พาเรด ~ซัมเมอร์แอดเวนเจอร์ 2021~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33014", /*message*/"ดรีมไลฟ์พาเรด ~2nd Anniversary~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33014_000", /*message*/"ดรีมไลฟ์พาเรด ~2nd Anniversary~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015", /*message*/"ดรีมไลฟ์พาเรด ～We Are Challengers～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015_000", /*message*/"ดรีมไลฟ์พาเรด ～We Are Challengers～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");

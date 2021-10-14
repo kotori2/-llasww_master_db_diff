@@ -148,6 +148,11 @@ INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33014, /*page_number*/2, /*title*/"m.event_tower_rule_title_002_countdown", /*image_asset_path*/")8a");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33014, /*page_number*/3, /*title*/"m.event_tower_rule_title_003_countdown", /*image_asset_path*/")44");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33014, /*page_number*/4, /*title*/"m.event_tower_rule_title_004_countdown", /*image_asset_path*/":!Z");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33015, /*page_number*/1, /*title*/"dummy.event_tower_rule_title_001_2", /*image_asset_path*/":?7");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33015, /*page_number*/2, /*title*/"dummy.event_tower_rule_title_002_2", /*image_asset_path*/"$W~");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33015, /*page_number*/3, /*title*/"dummy.event_tower_rule_title_003_2", /*image_asset_path*/")44");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33015, /*page_number*/4, /*title*/"dummy.event_tower_rule_title_004_2", /*image_asset_path*/":!Z");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33015, /*page_number*/5, /*title*/"dummy.event_tower_rule_title_005_2", /*image_asset_path*/"2AU");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/133001, /*page_number*/1, /*title*/"dummy.event_tower_rule_title_001_2", /*image_asset_path*/":?7");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/133001, /*page_number*/2, /*title*/"dummy.event_tower_rule_title_002_2", /*image_asset_path*/"]3Z");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/133001, /*page_number*/3, /*title*/"dummy.event_tower_rule_title_003_2", /*image_asset_path*/")8a");

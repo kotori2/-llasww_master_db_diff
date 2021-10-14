@@ -1721,6 +1721,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33013", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33013_000", /*message*/"夢幻遊行演唱會～2021夏日大冒險～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33014", /*message*/"夢幻遊行演唱會～2nd Anniversary～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33014_000", /*message*/"夢幻遊行演唱會～2nd Anniversary～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015", /*message*/"夢幻遊行演唱會～We Are Challengers～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015_000", /*message*/"夢幻遊行演唱會～We Are Challengers～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");

@@ -10723,12 +10723,18 @@ INSERT INTO `texture` VALUES (/*asset_path*/"TeI", /*pack_name*/"itmjwt", /*head
 INSERT INTO `texture` VALUES (/*asset_path*/"J-C", /*pack_name*/"t9stxj", /*head*/0, /*size*/233649, /*key1*/174462746, /*key2*/810238171);
 INSERT INTO `texture` VALUES (/*asset_path*/"[h&", /*pack_name*/"t9stxj", /*head*/233649, /*size*/55270, /*key1*/896149974, /*key2*/1787885882);
 INSERT INTO `texture` VALUES (/*asset_path*/"\j+", /*pack_name*/"0d94yn", /*head*/322415, /*size*/9399, /*key1*/-1720675600, /*key2*/-747548716);
+INSERT INTO `texture` VALUES (/*asset_path*/"cCj", /*pack_name*/"mtg21f", /*head*/0, /*size*/47466, /*key1*/-2022336851, /*key2*/865046030);
+INSERT INTO `texture` VALUES (/*asset_path*/"ny`", /*pack_name*/"kfo69v", /*head*/46502, /*size*/246005, /*key1*/-1328792363, /*key2*/-1888740560);
+INSERT INTO `texture` VALUES (/*asset_path*/"Auo", /*pack_name*/"mtg21f", /*head*/47466, /*size*/144919, /*key1*/-223893280, /*key2*/2043289649);
+INSERT INTO `texture` VALUES (/*asset_path*/".r0", /*pack_name*/"mtg21f", /*head*/192385, /*size*/124819, /*key1*/-192439713, /*key2*/-1902332067);
+INSERT INTO `texture` VALUES (/*asset_path*/"gI_", /*pack_name*/"mtg21f", /*head*/317204, /*size*/120237, /*key1*/-1361931027, /*key2*/1931808632);
 INSERT INTO `texture` VALUES (/*asset_path*/"BPt", /*pack_name*/"0d94yn", /*head*/331814, /*size*/241443, /*key1*/-1942160888, /*key2*/574077444);
 INSERT INTO `texture` VALUES (/*asset_path*/"ez^", /*pack_name*/"0d94yn", /*head*/573257, /*size*/54538, /*key1*/-413756968, /*key2*/2071680514);
 INSERT INTO `texture` VALUES (/*asset_path*/"b4~", /*pack_name*/"uebevq", /*head*/1093112, /*size*/8176, /*key1*/2105837628, /*key2*/570874680);
 INSERT INTO `texture` VALUES (/*asset_path*/"Uxc", /*pack_name*/"uebevq", /*head*/1101288, /*size*/57125, /*key1*/-1606849757, /*key2*/-1012505254);
 INSERT INTO `texture` VALUES (/*asset_path*/"|f0", /*pack_name*/"19ddpk", /*head*/2580073, /*size*/161776, /*key1*/-1487668722, /*key2*/1720423126);
 INSERT INTO `texture` VALUES (/*asset_path*/"UYu", /*pack_name*/"uebevq", /*head*/1158413, /*size*/41127, /*key1*/-1406221035, /*key2*/90701949);
+INSERT INTO `texture` VALUES (/*asset_path*/"H(H", /*pack_name*/"mtg21f", /*head*/437441, /*size*/47673, /*key1*/874911196, /*key2*/1461224111);
 INSERT INTO `texture` VALUES (/*asset_path*/"TNs", /*pack_name*/"0d94yn", /*head*/627795, /*size*/10535, /*key1*/1085762449, /*key2*/844847816);
 INSERT INTO `texture` VALUES (/*asset_path*/"F)d", /*pack_name*/"0d94yn", /*head*/638330, /*size*/61299, /*key1*/-1178119072, /*key2*/1484194613);
 INSERT INTO `texture` VALUES (/*asset_path*/"Gn2", /*pack_name*/"dtzymy", /*head*/1451032, /*size*/185821, /*key1*/1373069517, /*key2*/1155553377);
@@ -11544,6 +11550,7 @@ INSERT INTO `texture` VALUES (/*asset_path*/"T=U", /*pack_name*/"uebevq", /*head
 INSERT INTO `texture` VALUES (/*asset_path*/"]dF", /*pack_name*/"uebevq", /*head*/1476109, /*size*/39209, /*key1*/-912380775, /*key2*/-359822155);
 INSERT INTO `texture` VALUES (/*asset_path*/"#`h", /*pack_name*/"0d94yn", /*head*/864490, /*size*/179116, /*key1*/1263241671, /*key2*/-1440660116);
 INSERT INTO `texture` VALUES (/*asset_path*/"8UE", /*pack_name*/"0d94yn", /*head*/1043606, /*size*/42740, /*key1*/1531999501, /*key2*/1420874243);
+INSERT INTO `texture` VALUES (/*asset_path*/"C{W", /*pack_name*/"mtg21f", /*head*/485114, /*size*/101474, /*key1*/681574107, /*key2*/1546578822);
 INSERT INTO `texture` VALUES (/*asset_path*/"K#-", /*pack_name*/"8kufwa", /*head*/820398, /*size*/167510, /*key1*/-2101096052, /*key2*/-78421989);
 INSERT INTO `texture` VALUES (/*asset_path*/"&!r", /*pack_name*/"8kufwa", /*head*/987908, /*size*/36026, /*key1*/331993697, /*key2*/-1178336422);
 INSERT INTO `texture` VALUES (/*asset_path*/"PP5", /*pack_name*/"z9kfcr", /*head*/1043865, /*size*/198345, /*key1*/1040229798, /*key2*/1269059689);

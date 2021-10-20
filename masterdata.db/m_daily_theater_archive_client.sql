@@ -633,3 +633,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000623, /*year*/2021, /*month*/10, /*day*/17, /*title*/"全力全開！", /*published_at*/1634396400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000624, /*year*/2021, /*month*/10, /*day*/18, /*title*/"同じくらい！", /*published_at*/1634482800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000625, /*year*/2021, /*month*/10, /*day*/19, /*title*/"わかちあえる幸せ", /*published_at*/1634569200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000626, /*year*/2021, /*month*/10, /*day*/20, /*title*/"合わないようで合うふたり", /*published_at*/1634655600);

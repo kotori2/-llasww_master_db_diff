@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"a3605a87b8caecd1201757fa7c3216f235d5b4d3", /*hash*/"5f6634e4d62bc3f5666a73ea69f185ca23952cc6", /*size*/9332910);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"4ae15173dc5dc50594df724427d600e7934b2115", /*hash*/"7750ed0efe3b3efcbb87c7afc6e5c1889038664a", /*size*/9332899);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"91228858eea8d841cd78bd80e5543de456bcbc99", /*hash*/"b84f04bc83309f20452b27b68f2f8961897b9fcc", /*size*/1476592);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"e687511651f449922bc9d49d46e94f8a40c73016", /*hash*/"ea0abd048c734412d25c3b7de144fc87e318c705", /*size*/88862);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_ios.db", /*keys*/"5a3e8e5d53b16c5a91079a20a49985ec6878acfe", /*hash*/"03d530a69fba8357ea7d263355c577e272005c9d", /*size*/46116);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_v.db", /*keys*/"8cbdc715
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"915c0bd03608c6bb6962b4d530a8d2aa1272e5a3", /*hash*/"262c3a8a4cf7a08947535a510a9e077f6513576e", /*size*/192013);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"bf7eff075815a24b4609ffbf3d2b0de24efd054f", /*hash*/"21ba4064f773bb8fba5a60955088e6236b36c6cd", /*size*/10657);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_dummy.db", /*keys*/"633d41c1c3b5c7e16f97501d7dcf08db0a47846b", /*hash*/"59f9ad63795c8fb6340132aa1faa48bf9a8102db", /*size*/6341);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"a06805a38787d9f1972542375dc2636c98ad24e4", /*hash*/"3b64fcbb5062126ce16d4d62e14b6179d45a183c", /*size*/11499298);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"a06805a38787d9f1972542375dc2636c98ad24e4", /*hash*/"50d9678bc14710b421abe2e910d01a2a84159d02", /*size*/11496756);

@@ -1693,6 +1693,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013208", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013301", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013302", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013303", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013401", /*message*/"[Special Campaign Goals] Perform Training a total of 6 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013402", /*message*/"[Special Campaign Goals] Collect 3 login bonuses during the event.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013502", /*message*/"[Special Campaign Goals] Clear &quot;Fly into the sky&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");

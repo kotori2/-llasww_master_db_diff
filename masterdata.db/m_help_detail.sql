@@ -42,6 +42,7 @@ INSERT INTO `m_help_detail` VALUES (/*id*/31, /*help_category_id*/2, /*display_o
 INSERT INTO `m_help_detail` VALUES (/*id*/32, /*help_category_id*/2, /*display_order*/4, /*topic*/"k.help_detail_topc_31", /*text*/"k.help_detail_text_31");
 INSERT INTO `m_help_detail` VALUES (/*id*/33, /*help_category_id*/2, /*display_order*/3, /*topic*/"k.help_detail_topc_32", /*text*/"k.help_detail_text_32");
 INSERT INTO `m_help_detail` VALUES (/*id*/34, /*help_category_id*/2, /*display_order*/2, /*topic*/"k.help_detail_topc_179", /*text*/"k.help_detail_text_216");
+INSERT INTO `m_help_detail` VALUES (/*id*/35, /*help_category_id*/2, /*display_order*/1, /*topic*/"k.help_detail_topc_212", /*text*/"k.help_detail_text_232");
 INSERT INTO `m_help_detail` VALUES (/*id*/36, /*help_category_id*/3, /*display_order*/12, /*topic*/"k.help_detail_topc_33", /*text*/"k.help_detail_text_186");
 INSERT INTO `m_help_detail` VALUES (/*id*/37, /*help_category_id*/3, /*display_order*/11, /*topic*/"k.help_detail_topc_34", /*text*/"k.help_detail_text_34");
 INSERT INTO `m_help_detail` VALUES (/*id*/38, /*help_category_id*/3, /*display_order*/10, /*topic*/"k.help_detail_topc_35", /*text*/"k.help_detail_text_187");
@@ -55,6 +56,7 @@ INSERT INTO `m_help_detail` VALUES (/*id*/45, /*help_category_id*/3, /*display_o
 INSERT INTO `m_help_detail` VALUES (/*id*/46, /*help_category_id*/3, /*display_order*/2, /*topic*/"k.help_detail_topc_139", /*text*/"k.help_detail_text_139");
 INSERT INTO `m_help_detail` VALUES (/*id*/47, /*help_category_id*/4, /*display_order*/11, /*topic*/"k.help_detail_topc_43", /*text*/"k.help_detail_text_43");
 INSERT INTO `m_help_detail` VALUES (/*id*/48, /*help_category_id*/4, /*display_order*/10, /*topic*/"k.help_detail_topc_44", /*text*/"k.help_detail_text_44");
+INSERT INTO `m_help_detail` VALUES (/*id*/49, /*help_category_id*/4, /*display_order*/9, /*topic*/"k.help_detail_topc_44", /*text*/"k.help_detail_text_231");
 INSERT INTO `m_help_detail` VALUES (/*id*/50, /*help_category_id*/4, /*display_order*/8, /*topic*/"k.help_detail_topc_45", /*text*/"k.help_detail_text_156");
 INSERT INTO `m_help_detail` VALUES (/*id*/52, /*help_category_id*/4, /*display_order*/6, /*topic*/"k.help_detail_topc_180", /*text*/"k.help_detail_text_217");
 INSERT INTO `m_help_detail` VALUES (/*id*/53, /*help_category_id*/4, /*display_order*/5, /*topic*/"k.help_detail_topc_178", /*text*/"k.help_detail_text_215");

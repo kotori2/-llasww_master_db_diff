@@ -35,7 +35,7 @@ INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:ES/0020/es_0020_04",
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:SS/0002/ss_300022003_01", /*version*/"39216d16d349ce53f19df4a1ff5d9ab8fdc9950d", /*pack_num*/11);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MS/011/ms_011_04", /*version*/"e169fd7d591c3836c037cee159e44647bc5a316f", /*pack_num*/98);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:SS/0007/ss_300072002_01", /*version*/"30c9bcba58a4600768ddc16430e79eb4ec718a61", /*pack_num*/50);
-INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"16c1a105699c4fa2b1f82e24941db1bc741deacd", /*pack_num*/10728);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"b9e71cf9227f05522e0b027701f34b8e3af8bfab", /*pack_num*/10733);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:ES/0014/es_0014_01", /*version*/"c7689f87cacf20fd725db71959f0e4fe85790dfe", /*pack_num*/54);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0106/mes_0106_10", /*version*/"dda4fc80b8e021d5b2d9bf2c40af07973b7d4bba", /*pack_num*/32);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0109/mes_0109_02", /*version*/"dd1154f2db1a948179dccab191a756e6386a4a5c", /*pack_num*/26);

@@ -37,3 +37,4 @@ INSERT INTO `m_live_daily` VALUES (/*id*/24, /*live_id*/11069, /*limit_count*/5,
 INSERT INTO `m_live_daily` VALUES (/*id*/25, /*live_id*/11062, /*limit_count*/5, /*max_limit_count_recover*/1, /*appeal_text*/"k.live_campaign_11025", /*weekday*/7, /*start_at*/31503600, /*end_at*/2145880800);
 INSERT INTO `m_live_daily` VALUES (/*id*/26, /*live_id*/12032, /*limit_count*/5, /*max_limit_count_recover*/1, /*appeal_text*/"k.live_campaign_11026", /*weekday*/7, /*start_at*/1592460000, /*end_at*/2145880800);
 INSERT INTO `m_live_daily` VALUES (/*id*/27, /*live_id*/12031, /*limit_count*/5, /*max_limit_count_recover*/1, /*appeal_text*/"k.live_campaign_11027", /*weekday*/7, /*start_at*/1592460000, /*end_at*/2145880800);
+INSERT INTO `m_live_daily` VALUES (/*id*/31, /*live_id*/12074, /*limit_count*/3, /*max_limit_count_recover*/0, /*appeal_text*/"", /*weekday*/"", /*start_at*/1634968800, /*end_at*/1636092000);

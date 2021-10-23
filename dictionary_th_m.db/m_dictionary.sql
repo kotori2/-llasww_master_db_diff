@@ -1703,6 +1703,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013208", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013301", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013302", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013303", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013401", /*message*/"[การบ้านพิเศษในแคมเปญ] ซ้อม 6 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013402", /*message*/"[การบ้านพิเศษในแคมเปญ] รับล็อกอินโบนัส 3 ครั้งในเวลาที่กำหนด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013502", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Fly into the sky&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");

@@ -88,3 +88,6 @@ INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/26, /*live_diffic
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/27, /*live_difficulty_id*/12031101, /*drop_content_group_id*/370410711, /*rare_drop_content_group_id*/371410711);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/27, /*live_difficulty_id*/12031201, /*drop_content_group_id*/370410721, /*rare_drop_content_group_id*/371410721);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/27, /*live_difficulty_id*/12031301, /*drop_content_group_id*/370410731, /*rare_drop_content_group_id*/371410731);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/31, /*live_difficulty_id*/12074102, /*drop_content_group_id*/500900610, /*rare_drop_content_group_id*/501900610);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/31, /*live_difficulty_id*/12074202, /*drop_content_group_id*/500900620, /*rare_drop_content_group_id*/501900620);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/31, /*live_difficulty_id*/12074302, /*drop_content_group_id*/500900630, /*rare_drop_content_group_id*/501900630);

@@ -1694,6 +1694,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013208", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013301", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013302", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013303", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013401", /*message*/"[活動特別課題]進行6次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013402", /*message*/"[活動特別課題]於期間內領取3次登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013502", /*message*/"[活動特別課題]完成1次「Fly into the sky」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");

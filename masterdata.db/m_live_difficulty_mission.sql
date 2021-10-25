@@ -4197,6 +4197,15 @@ INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/120
 INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12070301, /*position*/1, /*target_type*/1, /*target_value*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/2);
 INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12070301, /*position*/2, /*target_type*/6, /*target_value*/1909000, /*content_type*/1, /*content_id*/0, /*content_amount*/3);
 INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12070301, /*position*/3, /*target_type*/4, /*target_value*/3211000, /*content_type*/1, /*content_id*/0, /*content_amount*/5);
+INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12071101, /*position*/1, /*target_type*/1, /*target_value*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/2);
+INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12071101, /*position*/2, /*target_type*/6, /*target_value*/159000, /*content_type*/1, /*content_id*/0, /*content_amount*/3);
+INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12071101, /*position*/3, /*target_type*/4, /*target_value*/291000, /*content_type*/1, /*content_id*/0, /*content_amount*/5);
+INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12071201, /*position*/1, /*target_type*/1, /*target_value*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/2);
+INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12071201, /*position*/2, /*target_type*/6, /*target_value*/686000, /*content_type*/1, /*content_id*/0, /*content_amount*/3);
+INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12071201, /*position*/3, /*target_type*/4, /*target_value*/1150000, /*content_type*/1, /*content_id*/0, /*content_amount*/5);
+INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12071301, /*position*/1, /*target_type*/1, /*target_value*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/2);
+INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12071301, /*position*/2, /*target_type*/6, /*target_value*/2140000, /*content_type*/1, /*content_id*/0, /*content_amount*/3);
+INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12071301, /*position*/3, /*target_type*/4, /*target_value*/3860000, /*content_type*/1, /*content_id*/0, /*content_amount*/5);
 INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12072101, /*position*/1, /*target_type*/1, /*target_value*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/2);
 INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12072101, /*position*/2, /*target_type*/6, /*target_value*/163000, /*content_type*/1, /*content_id*/0, /*content_amount*/3);
 INSERT INTO `m_live_difficulty_mission` VALUES (/*live_difficulty_master_id*/12072101, /*position*/3, /*target_type*/4, /*target_value*/294000, /*content_type*/1, /*content_id*/0, /*content_amount*/5);

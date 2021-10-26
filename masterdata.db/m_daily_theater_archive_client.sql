@@ -639,3 +639,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000629, /*year*/2021, /*month*/10, /*day*/23, /*title*/"どんとこい！！", /*published_at*/1634914800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000630, /*year*/2021, /*month*/10, /*day*/24, /*title*/"注目します！", /*published_at*/1635001200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000631, /*year*/2021, /*month*/10, /*day*/25, /*title*/"世話焼きダイヤさん", /*published_at*/1635087600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000632, /*year*/2021, /*month*/10, /*day*/26, /*title*/"偵察！", /*published_at*/1635174000);

@@ -640,3 +640,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000630, /*year*/2021, /*month*/10, /*day*/24, /*title*/"注目します！", /*published_at*/1635001200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000631, /*year*/2021, /*month*/10, /*day*/25, /*title*/"世話焼きダイヤさん", /*published_at*/1635087600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000632, /*year*/2021, /*month*/10, /*day*/26, /*title*/"偵察！", /*published_at*/1635174000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000633, /*year*/2021, /*month*/10, /*day*/27, /*title*/"近くて遠い、遠くて近い", /*published_at*/1635260400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000634, /*year*/2021, /*month*/10, /*day*/28, /*title*/"米と味噌の高みへ", /*published_at*/1635346800);

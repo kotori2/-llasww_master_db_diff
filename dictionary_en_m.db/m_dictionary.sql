@@ -1901,6 +1901,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800025", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800026", /*message*/"Finish Story Chapter 29.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800027", /*message*/"Finish Story Chapter 30.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800028", /*message*/"Finish Story Chapter 31.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800029", /*message*/"Finish Story Chapter 32.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"Read a Bond Episode: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"Read a Bond Episode: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"Read a Bond Episode: x10");
@@ -2316,6 +2317,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400430", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400431", /*message*/"Clear &quot;Takaramonos&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400432", /*message*/"Clear &quot;Takaramonos&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400433", /*message*/"Clear &quot;Takaramonos&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400434", /*message*/"Clear &quot;Dancing Stars on Me!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400435", /*message*/"Clear &quot;Dancing Stars on Me!&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400436", /*message*/"Clear &quot;Dancing Stars on Me!&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400437", /*message*/"Clear &quot;Humming Friend&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400438", /*message*/"Clear &quot;Humming Friend&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400439", /*message*/"Clear &quot;Humming Friend&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -4080,6 +4087,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_29", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_3", /*message*/"Our Own Shine - Part 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_30", /*message*/"All of Us! Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_31", /*message*/"A New Normal");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_32", /*message*/"Help Us, μ&apos;s! Part 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"Our Own Shine - Part 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"Find μ&apos;s&apos; Secret!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"Contest Progression");
@@ -4111,6 +4119,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_29", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_3", /*message*/"Chapter 3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_30", /*message*/"Chapter 30");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_31", /*message*/"Chapter 31");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_32", /*message*/"Chapter 32");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"Chapter 4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"Chapter 6");
@@ -4121,6 +4130,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_description_99991", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_description_99992", /*message*/"A New Normal");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_1", /*message*/"First Season");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_2", /*message*/"Second Season");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_3", /*message*/"Third Season");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99991", /*message*/"Intermission");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99992", /*message*/"Intermission");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_10_1", /*message*/"Although she felt down about her student council election loss, Setsuna expresses her true feelings and returns to the club. As everyone gears up to restart school idol activities, Shioriko announces the club&apos;s abolishment.");
@@ -4368,6 +4378,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_31_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_31_7", /*message*/"The girls drop by a diner on the restaurant floor for a break and some food. While everyone has fun eating, Kasumi returns with original drinks concocted at the self-service station. How do the curious-colored drinks taste?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_31_8", /*message*/"The gang head over to a karaoke place after their meal. The session kicks off with a fight over the microphone and who gets to go first. As the fun ruckus continues, Lanzhu reveals her dissatisfaction.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_31_9", /*message*/"The School Idol Club members start to get hungry after belting their lungs out at karaoke. Ai suggests that everyone head over to her family&apos;s monjayaki restaurant. Lanzhu and Mia try out their first-ever monjayaki!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_1", /*message*/"The rest of the Club members have grown closer to Lanzhu and Mia. Everyone has been building their skills and stamina for the Exhibition promo video, but ideas escape them. If discussions don&apos;t work, then it&apos;s time to search outside!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_10", /*message*/"Rin arrives at the answer she needs after confronting her anxieties. Honoka has an epiphany of her own after witnessing her friend&apos;s triumph.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_2", /*message*/"You decide to volunteer for the school idol fansite&apos;s campaign as a way to gather promo video ideas. The project you are tasked with involves μ&apos;s. What happens on your long-overdue revisit to Otonokizaka?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_3", /*message*/"The school idol fansite&apos;s &quot;Ask μ&apos;s&quot; project is now underway. No sooner than submissions for emails open, the girls are flooded with a veritable ocean of them!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_4", /*message*/"The μ&apos;s girls start going through the emails sent through the fansite. Each sender has a great weight on their shoulders, and the girls take each problem on as if it were their own.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_5", /*message*/"Ayumu, Shioriko, and you join Honoka and the others for some arcade fun on your day off. The Nijigasaki girls regale μ&apos;s with all that has happened, telling them that the Club is having lots of fun. However, Honoka seems slightly down today.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_6", /*message*/"μ&apos;s is proceeding smoothly with the pile of emails they received, although a few emails leave them stumped. One day, you visit Otonokizaka only to find that everyone is absent, except for Maki.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_7", /*message*/"Maki racks her brain for a reply to send to a girl who wants to become a manga artist, whose circumstances remind Maki of her past. She shares her worries regarding the task with you.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_8", /*message*/"Answering the emails sent to μ&apos;s&apos; advice column continues in good form. You bring a draft of the article featuring the replies to Otonokizaka. There, you find Rin fretting over a particular email.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_9", /*message*/"Rin is shocked by an unexpected remark. You go after her with Hanayo to offer her some support, and a scene unfolds before you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_1", /*message*/"You&apos;ve come to Numazu to look into Aqours&apos; secret. However, since you&apos;ve come on a whim, you realize you don&apos;t know where to go to meet them. For now, you just decide to go to their school, Uranohoshi Girls&apos; High School.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_10", /*message*/"Ruby and Hanamaru&apos;s tourism guide is polished up and truly shows the appeal of Numazu. You watch their dance lesson, and during a break you find Dia intently writing something in a notebook. What could it be?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_2", /*message*/"You&apos;ve come to Numazu with no plan. Even after asking around the school, no one seems to know where Aqours is, so you&apos;re running out of steam. You follow some advice that since you&apos;ve come this far, you should go see the ocean.");
@@ -4684,6 +4704,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_31_6", /*message*/"Sa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_31_7", /*message*/"Way Tastier Together!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_31_8", /*message*/"Karaoke Live Show");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_31_9", /*message*/"Much Ado about Monjayaki");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_1", /*message*/"Hunting for Hints");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_10", /*message*/"Reasons to Like School");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_2", /*message*/"μ&apos;s&apos; Advice Column?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_3", /*message*/"Mountains of Mail");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_4", /*message*/"Waves of Worries");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_5", /*message*/"It Never Occurred to Me");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_6", /*message*/"On Abandoning Aspirations");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_7", /*message*/"Desires Can&apos;t Be Deceived");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_8", /*message*/"If We Were Separated...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_9", /*message*/"Together, Always!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_1", /*message*/"To Numazu!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_10", /*message*/"Protective Eyes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_2", /*message*/"Encounter at the Beach");

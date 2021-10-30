@@ -643,3 +643,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000633, /*year*/2021, /*month*/10, /*day*/27, /*title*/"近くて遠い、遠くて近い", /*published_at*/1635260400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000634, /*year*/2021, /*month*/10, /*day*/28, /*title*/"米と味噌の高みへ", /*published_at*/1635346800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000635, /*year*/2021, /*month*/10, /*day*/29, /*title*/"間を取って？", /*published_at*/1635433200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000636, /*year*/2021, /*month*/10, /*day*/30, /*title*/"準備はなにごとも入念に♪", /*published_at*/1635519600);

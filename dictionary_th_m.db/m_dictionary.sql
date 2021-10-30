@@ -1911,6 +1911,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800025", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800026", /*message*/"เคลียร์สตอรี่ 29 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800027", /*message*/"เคลียร์สตอรี่ 30 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800028", /*message*/"เคลียร์สตอรี่ 31 บท");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800029", /*message*/"เคลียร์สตอรี่ 32 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 1 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 5 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 10 ตอน");
@@ -2326,6 +2327,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400430", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400431", /*message*/"เคลียร์ &quot;Takaramonos&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400432", /*message*/"เคลียร์ &quot;Takaramonos&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400433", /*message*/"เคลียร์ &quot;Takaramonos&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400434", /*message*/"เคลียร์ &quot;Dancing Stars on Me!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400435", /*message*/"เคลียร์ &quot;Dancing Stars on Me!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400436", /*message*/"เคลียร์ &quot;Dancing Stars on Me!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400437", /*message*/"เคลียร์ &quot;Humming Friend&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400438", /*message*/"เคลียร์ &quot;Humming Friend&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400439", /*message*/"เคลียร์ &quot;Humming Friend&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");
@@ -4126,6 +4133,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_29", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_3", /*message*/"only our shine・ตอนแรก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_30", /*message*/"พวกเรา ทุกคน!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_31", /*message*/"ชีวิตประจำวันแบบใหม่");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_32", /*message*/"ช่วยบอกหน่อยสิ! μ&apos;s! ครึ่งแรก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine・ตอนจบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"ค้นหาความลับของ μ&apos;s!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"ทิศทางการดวล");
@@ -4157,6 +4165,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_29", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_3", /*message*/"บทที่ 3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_30", /*message*/"บทที่ 30");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_31", /*message*/"บทที่ 31");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_32", /*message*/"บทที่ 32");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"บทที่ 4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"บทที่ 6");
@@ -4167,6 +4176,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_description_99991", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_description_99992", /*message*/"ชีวิตประจำวันแบบใหม่");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_1", /*message*/"First Season");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_2", /*message*/"2nd Season");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_3", /*message*/"3rd Season");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99991", /*message*/"Intermission");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99992", /*message*/"Intermission");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_10_1", /*message*/"เซ็ตสึนะหดหู่กับความพ่ายแพ้ในการ
@@ -5706,6 +5716,64 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_31_9", /*message*/"
 ซึ่งเป็นบ้านของตนเอง หลานจู
 กับมีอากำลังจะได้กินมอนจะยากิ
 เป็นครั้งแรกในชีวิต!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_1", /*message*/"สมาชิกในชมรมต่างสนิทสนมกับ
+พวกหลานจูเต็มที่แล้ว แต่แม้จะเพิ่ม
+กำลังกายและระดับฝีมือให้มากขึ้น
+เพื่อทำ PV ที่ใช้ในงาน School Idol
+Exhibition ก็ยังคิดไอเดียเรื่อง PV
+ที่เป็นหัวใจสำคัญของงานไม่ออก 
+ถ้าจับเข่าคุยกันแล้วไม่ได้เรื่อง
+คงต้องลองไปหาเอาข้างนอก!?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_10", /*message*/"ในที่สุดรินก็เผชิญหน้ากับคำปรึกษา
+ที่แสนยากสำหรับตัวเองและให้คำตอบ
+ได้สำเร็จ เมื่อเห็นรินเป็นแบบนั้น
+โฮโนกะก็นึกได้ถึงบางอย่าง...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_2", /*message*/"คุณตัดสินใจไปช่วยงานโปรเจกต์
+ของแฟนไซต์สคูลไอดอลเพื่อหา
+แรงบันดาลใจในการทำ PV 
+โดยงานที่ได้รับมอบหมายคือการ
+ขอร้อง μ&apos;s ให้มาร่วมโปรเจกต์ 
+คุณจึงไปที่โอโตโนะคิซากะหลังจาก
+ไม่ได้ไปมาเสียนาน และ...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_3", /*message*/"โปรเจกต์ของแฟนไซต์สคูลไอดอล
+&quot;ห้องปรึกษาปัญหาทุกข์ใจกับ μ&apos;s&quot; 
+เริ่มขึ้นแล้ว ทันทีที่เปิดรับเมลปรึกษา
+ก็มีเมลส่งเข้ามาเยอะจนนับไม่ไหว...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_4", /*message*/"เมมเบอร์ของ μ&apos;s เริ่มอ่านเมลปรึกษา
+เรื่องทุกข์ใจจำนวนมากที่ส่งเข้ามา
+ผ่านทางแฟนไซต์ คนมากมายมีเรื่อง
+ทุกข์ใจหลากหลายแบบ ยิ่งอ่านแต่ละ
+ฉบับก็ยิ่งรู้สึกถึงความหนักหนาของ
+ปัญหาเหล่านั้น");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_5", /*message*/"ในวันหยุด คุณ อายูมุ และชิโอริโกะ
+ไปเที่ยวเกมเซ็นเตอร์กับพวกโฮโนกะ 
+พวกคุณเล่าหลายๆ เรื่องที่เกิดขึ้น
+ที่นิจิกาคุ และตบท้ายว่าสิ่งที่ทำอยู่
+นั้นสนุกมาก ทว่าระหว่างนั้นโฮโนกะ
+กลับดูไม่ค่อยร่าเริงเท่าไหร่...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_6", /*message*/"แม้จะมีคำปรึกษาที่คาใจอยู่ไม่น้อย
+แต่การตอบเมลจำนวนมหาศาล
+ที่ส่งมายังห้องปรึกษาปัญหาทุกข์ใจ
+ของ μ&apos;s ก็ยังดำเนินไปเรื่อยๆ จน
+วันหนึ่งเมื่อคุณไปที่โอโตโนะคิซากะ
+เหมือนอย่างเคย กลับพบว่าที่นั่น
+มีมากิอยู่แค่คนเดียว...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_7", /*message*/"คำปรึกษาจากเด็กที่ &quot;ฝันอยากเป็น
+นักเขียนการ์ตูน&quot; ทำให้มากิหนักใจ
+อย่างจริงจัง เพราะเด็กคนนั้นตกอยู่
+ในสถานการณ์คล้ายกับตนเองในอดีต
+สุดท้ายตัวมากิที่หนักใจกับคำตอบ
+ก็...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_8", /*message*/"การตอบคำปรึกษาที่ส่งมาถึง 
+&quot;ห้องปรึกษาปัญหาทุกข์ใจกับ μ&apos;s&quot; 
+เป็นไปด้วยดี แต่เมื่อคุณนำบทความ
+ซึ่งเขียนขึ้นจากคำตอบที่รับฝาก
+มาจาก μ&apos;s ไปยังโอโตโนะคิซากะ 
+ก็พบว่ารินกำลังหนักใจกับคำปรึกษา
+เรื่องหนึ่ง...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_9", /*message*/"คำพูดที่ไม่คาดคิดทำให้รินรู้สึกสับสน
+เมื่อวิ่งตามฮานาโยะที่ไล่ตามรินไป 
+สิ่งที่คุณได้เห็นคือ...?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_1", /*message*/"เพื่อค้นหาความลับของ Aqours คุณจึงมา
 ที่นูมาสึเพียงลำพัง แต่ด้วยความใจร้อนจึง
 ไม่ทันคิดว่าจะไปหา Aqours ได้ที่ไหน
@@ -6332,6 +6400,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_31_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_31_7", /*message*/"หากกินกับทุกคนจะอร่อยขึ้นเป็น 100 เท่า!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_31_8", /*message*/"ไลฟ์ อิน คาราโอเกะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_31_9", /*message*/"บอกเล่าผ่านมอนจะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_1", /*message*/"ตามหาแรงบันดาลใจ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_10", /*message*/"เหตุผลที่ชอบ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_2", /*message*/"ปรึกษาปัญหาทุกข์ใจกับ μ&apos;s !?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_3", /*message*/"เมลปรึกษาปัญหากองเท่าภูเขา");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_4", /*message*/"หลากหลายเรื่องทุกข์");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_5", /*message*/"ความกลุ้มใจครั้งแรก");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_6", /*message*/"สมัยที่เคยหันหลังปฏิเสธ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_7", /*message*/"ไม่อาจโกหกต่อความรู้สึก");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_8", /*message*/"หากต้องแยกจากกับเธอ?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_9", /*message*/"แม้ต้องจากกันก็คงอยู่ตลอดไป!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_1", /*message*/"สู่นูมาสึ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_10", /*message*/"ตาที่คอยเฝ้ามอง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_2", /*message*/"การพบกันที่หาดทราย");

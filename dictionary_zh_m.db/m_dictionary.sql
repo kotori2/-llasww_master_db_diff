@@ -1697,6 +1697,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013401", /*message*/"[活動特別課題]進行6次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013402", /*message*/"[活動特別課題]於期間內領取3次登入獎勵");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013502", /*message*/"[活動特別課題]完成1次「Fly into the sky」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013601", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013602", /*message*/"[大型合作演唱會課題]完成10次「Happy Maker!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013603", /*message*/"[大型合作演唱會課題]完成10次「Mijuku DREAMER」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013604", /*message*/"[大型合作演唱會課題]完成10次「LIKE IT! LOVE IT!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

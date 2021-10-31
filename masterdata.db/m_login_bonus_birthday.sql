@@ -40,6 +40,7 @@ INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100302, /*start_at*/163137240
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100303, /*start_at*/1662908400, /*end_at*/1662994800, /*suit_master_id*/200033001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100402, /*start_at*/1615734000, /*end_at*/1615820400, /*suit_master_id*/200043001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100502, /*start_at*/1604156400, /*end_at*/1604242800, /*suit_master_id*/200053001);
+INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100503, /*start_at*/1635692400, /*end_at*/1635778800, /*suit_master_id*/200053002);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100602, /*start_at*/1618758000, /*end_at*/1618844400, /*suit_master_id*/200063001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100702, /*start_at*/1623164400, /*end_at*/1623250800, /*suit_master_id*/200073001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/100703, /*start_at*/1654700400, /*end_at*/1654786800, /*suit_master_id*/200073001);

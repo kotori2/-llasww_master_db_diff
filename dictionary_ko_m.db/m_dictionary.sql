@@ -1699,6 +1699,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013401", /*message*/"[캠페인 특별 과제] 합숙 6회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013402", /*message*/"[캠페인 특별 과제] 기간 중, 3회 로그인 보너스 받기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013502", /*message*/"[캠페인 특별 과제] Fly into the sky 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013601", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013602", /*message*/"[빅 라이브 과제] Happy Maker! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013603", /*message*/"[빅 라이브 과제] Mijuku DREAMER 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013604", /*message*/"[빅 라이브 과제] LIKE IT! LOVE IT! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

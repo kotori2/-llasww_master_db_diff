@@ -98,3 +98,7 @@ INSERT INTO `m_coop_live_room_gimmick` VALUES (/*event_id*/32021, /*target_role*
 INSERT INTO `m_coop_live_room_gimmick` VALUES (/*event_id*/32021, /*target_role*/2, /*gimmick_m_id*/60000001);
 INSERT INTO `m_coop_live_room_gimmick` VALUES (/*event_id*/32021, /*target_role*/3, /*gimmick_m_id*/60000002);
 INSERT INTO `m_coop_live_room_gimmick` VALUES (/*event_id*/32021, /*target_role*/4, /*gimmick_m_id*/60000003);
+INSERT INTO `m_coop_live_room_gimmick` VALUES (/*event_id*/32022, /*target_role*/1, /*gimmick_m_id*/60000000);
+INSERT INTO `m_coop_live_room_gimmick` VALUES (/*event_id*/32022, /*target_role*/2, /*gimmick_m_id*/60000001);
+INSERT INTO `m_coop_live_room_gimmick` VALUES (/*event_id*/32022, /*target_role*/3, /*gimmick_m_id*/60000002);
+INSERT INTO `m_coop_live_room_gimmick` VALUES (/*event_id*/32022, /*target_role*/4, /*gimmick_m_id*/60000003);

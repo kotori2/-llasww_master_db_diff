@@ -7,6 +7,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001003_00", /*message*/"音乃木
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001005_00", /*message*/"音乃木坂學院 上下學路段(坡道上)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001006_02", /*message*/"音乃木坂學院 走廊(熄燈後的白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_003001_00", /*message*/"神田明神(白天)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_011002_00", /*message*/"浦之星女學院 走廊(晴朗白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_013002_00", /*message*/"浦之星女學院 上下學路段公車站前(晴朗早晨)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021004_10", /*message*/"虹咲學園 社團教室(熄燈後的雨天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"虹咲學園 禮堂(熄燈後的夜晚)");

@@ -7,6 +7,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001003_00", /*message*/"สวน
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001005_00", /*message*/"ทางไปโรงเรียนโอโตโนะคิซากะ (บนเนิน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001006_02", /*message*/"ทางเดิน โรงเรียนโอโตโนะคิซากะ (กลางวัน・ปิดไฟ)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_003001_00", /*message*/"ศาลเจ้าคันดะ (กลางวัน)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_011002_00", /*message*/"ทางเดินในอาคาร โรงเรียนสตรีอุระโนะโฮชิ (กลางวัน)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_013002_00", /*message*/"โรงเรียนสตรีอุระโนะโฮชิ หน้าป้ายรถเมล์ไปโรงเรียน (ตอนเช้า)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021004_10", /*message*/"โรงเรียนนิจิกะซากิ ห้องชมรม (ฝนตก・ปิดไฟ)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"หอประชุมโรงเรียนนิจิกะซากิ (ปิดไฟ・กลางคืน)");

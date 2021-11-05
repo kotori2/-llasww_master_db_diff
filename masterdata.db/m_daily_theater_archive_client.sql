@@ -648,3 +648,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000638, /*year*/2021, /*month*/11, /*day*/1, /*title*/"ハッピーバースデー、凛ちゃん！", /*published_at*/1635692400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000639, /*year*/2021, /*month*/11, /*day*/2, /*title*/"もっと知りたい", /*published_at*/1635778800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000640, /*year*/2021, /*month*/11, /*day*/3, /*title*/"尊敬する人", /*published_at*/1635865200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000641, /*year*/2021, /*month*/11, /*day*/4, /*title*/"分け合おう", /*published_at*/1635951600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000642, /*year*/2021, /*month*/11, /*day*/5, /*title*/"イヤーマフアレンジ", /*published_at*/1636038000);

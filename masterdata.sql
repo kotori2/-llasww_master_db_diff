@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"bf25829381eeaf34b29b9578e228c0303b33719f", /*hash*/"f868e91ae911f9317c7372bd2bbb7981a2d78240", /*size*/9416401);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"7f206082b80feeffb91b8f56dafd4cb4683a70ff", /*hash*/"4530a88ccf9a42af3023918c991a7b9701d0f723", /*size*/9416434);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"e687511651f449922bc9d49d46e94f8a40c73016", /*hash*/"ea0abd048c734412d25c3b7de144fc87e318c705", /*size*/88862);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"cdb072b8ba1325083ee16a32f8b0d733a4e97ae7", /*hash*/"f53e89421b0cd2d5969aed17fe860cc3f8fb5edf", /*size*/195259);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_v.db", /*keys*/"8cbdc715b63be2a421741024204799d15b2aa004", /*hash*/"23b00992db96fc75bebe1c5b2df461e3bd5c8b03", /*size*/362);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"bf7e
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"526ea43a01f39914b4634494e125ebbf0998c175", /*size*/729);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"0ca46cafa7c210729bd49dca55ccb3d35bd775b8", /*hash*/"5ff764995c6f52404720650d8facbd58eeeed591", /*size*/1500321);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_dummy.db", /*keys*/"9a50c7498bef45d5f39797e0e3ebe8b7702c9725", /*hash*/"0343c9b7ed7f45bde06af83ec8f68ed09dbc237d", /*size*/6441);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"1abcd20ad86ffb9452622cee1b54b6e3da4fa257", /*hash*/"e8d1c6fd661ba73f28ced428c9281e164ce1a0ef", /*size*/11719975);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"1abcd20ad86ffb9452622cee1b54b6e3da4fa257", /*hash*/"aac5c60aee90c743a7dd81373e2d496bb0cf48cc", /*size*/11723323);

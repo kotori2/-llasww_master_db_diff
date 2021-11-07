@@ -1274,6 +1274,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002214", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002215", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002216", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002217", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002301", /*message*/"遊玩1次「Dream Land! Dream World!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002302", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002303", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002304", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002305", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002306", /*message*/"於期間內領取3次登入獎勵");
@@ -2341,6 +2344,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400436", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400437", /*message*/"完成10次「Humming Friend」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400438", /*message*/"完成50次「Humming Friend」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400439", /*message*/"完成100次「Humming Friend」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400440", /*message*/"完成10次「Maze Town」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400441", /*message*/"完成50次「Maze Town」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400442", /*message*/"完成100次「Maze Town」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

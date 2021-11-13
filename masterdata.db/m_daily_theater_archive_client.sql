@@ -657,3 +657,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000647, /*year*/2021, /*month*/11, /*day*/10, /*title*/"ツインテールの秘密！？", /*published_at*/1636470000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000648, /*year*/2021, /*month*/11, /*day*/11, /*title*/"プレゼント作り", /*published_at*/1636556400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000649, /*year*/2021, /*month*/11, /*day*/12, /*title*/"おにぎりに合う……？", /*published_at*/1636642800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000650, /*year*/2021, /*month*/11, /*day*/13, /*title*/"ハッピーバースデー、璃奈ちゃん！", /*published_at*/1636729200);

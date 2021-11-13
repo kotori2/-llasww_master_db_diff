@@ -1715,6 +1715,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013601", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013602", /*message*/"[SBL Goal] Clear &quot;Happy Maker!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013603", /*message*/"[SBL Goal] Clear &quot;Mijuku DREAMER&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013604", /*message*/"[SBL Goal] Clear &quot;LIKE IT! LOVE IT!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013701", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013702", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013703", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -1764,6 +1767,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33014", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33014_000", /*message*/"Dream Live Parade: 2nd Anniversary");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015", /*message*/"Dream Live Parade: We Are Challengers");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015_000", /*message*/"Dream Live Parade: We Are Challengers");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016", /*message*/"Dream Live Parade: SP Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016_000", /*message*/"Dream Live Parade: SP Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -3571,6 +3576,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063002_2", /*message*/"Des
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"A New World&apos;s First Page");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_1", /*message*/"Exhilarated Spirit");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_2", /*message*/"Relaxing Costume");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073002_1", /*message*/"Ideas for a Song");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073002_2", /*message*/"Hanamaru&apos;s Notebook of Ideas");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082001_1", /*message*/"Finding a Vision");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082002_1", /*message*/"Sunset Memories");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082003_1", /*message*/"A Pair of Fierce Competitors");
@@ -3592,6 +3599,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013003_1", /*message*/"I&a
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013003_2", /*message*/"Just like a Gerbera");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"Special Bread Rolls For All!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"Victory Clothes Acquired!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022003_1", /*message*/"Kasumin is Always...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"In Search of the Perfect Present");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"Dyed a Shade of Kasumin");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"I Wanna Be Spoiled &apos;Cause It&apos;s You");

@@ -1725,6 +1725,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013601", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013602", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Happy Maker!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013603", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Mijuku DREAMER&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013604", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;LIKE IT! LOVE IT!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013701", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013702", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013703", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -1774,6 +1777,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33014", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33014_000", /*message*/"ดรีมไลฟ์พาเรด ~2nd Anniversary~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015", /*message*/"ดรีมไลฟ์พาเรด ～We Are Challengers～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015_000", /*message*/"ดรีมไลฟ์พาเรด ～We Are Challengers～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท SP ออนสเตจ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท SP ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -3581,6 +3586,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063002_2", /*message*/"ต
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"หนึ่งหน้าที่เปิดโลก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_1", /*message*/"จิตใจที่อยู่ไม่สุข");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_2", /*message*/"ชุดที่ผ่อนคลาย");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073002_1", /*message*/"คำใบ้ในการแต่งเพลง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073002_2", /*message*/"สมุดรวมไอเดียของมารุ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082001_1", /*message*/"ปลายทางของภาพในความคิด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082002_1", /*message*/"Sunset Memory");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082003_1", /*message*/"คนเกลียดความพ่ายแพ้สองคน");
@@ -3602,6 +3609,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013003_1", /*message*/"ฉ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013003_2", /*message*/"เหมือนดอกเยอบีร่า");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"ของฝากคือขนมปังที่ทำเป็นพิเศษ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"ได้ชุดตัวเก่งแล้ว!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022003_1", /*message*/"คาสึมินพร้อมเสมอค่ะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"ตามหาสุดยอดของขวัญ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"ย้อมให้เป็นสีของคาสึมิน♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"เพราะเป็นเธอเลยอยากอ้อน");

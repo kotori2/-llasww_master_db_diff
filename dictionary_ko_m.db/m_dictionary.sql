@@ -1721,6 +1721,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013604", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013701", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013702", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013703", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013802", /*message*/"[캠페인 특별 과제] Not Sad 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"ce4e0d3ded019cf42b17e96493d20963e7e40f4e", /*hash*/"7004fc2e5ca1816a75a9f6a93f0d8e00a000231b", /*size*/9450179);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"a39064ef885ef12245b3f12d0dd503a622757970", /*hash*/"161083a6e4e8030828af17a598b439f4fe8aebe2", /*size*/9450183);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"e687511651f449922bc9d49d46e94f8a40c73016", /*hash*/"ea0abd048c734412d25c3b7de144fc87e318c705", /*size*/88862);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"bf7eff075815a24b4609ffbf3d2b0de24efd054f", /*hash*/"21ba4064f773bb8fba5a60955088e6236b36c6cd", /*size*/10657);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"e6d3e9975e0141e165eee2fa8b840e657ea5c6e4", /*hash*/"694d00b012e7b6873f5f7b9b22070ec99cb28c03", /*size*/1507779);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_inline_image.db", /*keys
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_ios.db", /*keys*/"5a3e8e5d53b16c5a91079a20a49985ec6878acfe", /*hash*/"03d530a69fba8357ea7d263355c577e272005c9d", /*size*/46116);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_v.db", /*keys*/"8cbdc715b63be2a421741024204799d15b2aa004", /*hash*/"23b00992db96fc75bebe1c5b2df461e3bd5c8b03", /*size*/362);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"579b0f6d987a54ea8ba560600734b52ce9b62021", /*hash*/"cbd7c10edcbc3e9bb6a5057040b01d88871d1ed5", /*size*/195513);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"be4634b4381936950933212f46f2b09315e4a73a", /*hash*/"f3bd09479ae23da9cc42c32a6e9be0cef0d715e0", /*size*/11780366);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"be4634b4381936950933212f46f2b09315e4a73a", /*hash*/"cbc4ee35923bafa24e315aed5a7c9045ae6edeb2", /*size*/11778648);

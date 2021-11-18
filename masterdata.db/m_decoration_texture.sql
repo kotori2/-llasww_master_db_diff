@@ -1385,6 +1385,15 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211107/tex_banner_notice_s_2211107", /*path*/"S}C");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211107/tex_banner_gacha_top_2211107_1", /*path*/"~\D");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211107/tex_banner_gacha_text_2211107_1", /*path*/"y-n");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Marathon/30029/tex_banner_notice_l_30029", /*path*/"m>#");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Marathon/30029/tex_banner_notice_s_30029", /*path*/"kR0");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211103/tex_banner_notice_l_2211103", /*path*/"u)1");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211103/tex_banner_notice_s_2211103", /*path*/"~xR");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10118/tex_banner_notice_l_10118", /*path*/"_6N");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10118/tex_banner_notice_s_10118", /*path*/"Zh6");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211109/tex_banner_notice_s_2211109", /*path*/"(c'");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211109/tex_banner_gacha_top_2211109_1", /*path*/"aKK");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211109/tex_banner_gacha_text_2211109_1", /*path*/"*;k");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211102/tex_banner_notice_l_2211102", /*path*/"$c9");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211102/tex_banner_notice_s_2211102", /*path*/"1Lv");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020901/tex_banner_notice_s_4020901", /*path*/"SHV");

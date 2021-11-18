@@ -34,6 +34,7 @@ INSERT INTO `m_story_event_history` VALUES (/*id*/30025, /*banner_image_asset_pa
 INSERT INTO `m_story_event_history` VALUES (/*id*/30026, /*banner_image_asset_path*/"ozJ", /*start_at*/1630389600, /*end_at*/1893423600, /*display_order*/46);
 INSERT INTO `m_story_event_history` VALUES (/*id*/30027, /*banner_image_asset_path*/"*;j", /*start_at*/1632578400, /*end_at*/1893423600, /*display_order*/48);
 INSERT INTO `m_story_event_history` VALUES (/*id*/30028, /*banner_image_asset_path*/"P0~", /*start_at*/1635746400, /*end_at*/1893423600, /*display_order*/50);
+INSERT INTO `m_story_event_history` VALUES (/*id*/30029, /*banner_image_asset_path*/"kR0", /*start_at*/1638252000, /*end_at*/1893423600, /*display_order*/52);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31001, /*banner_image_asset_path*/"5!v", /*start_at*/1592632800, /*end_at*/1893423600, /*display_order*/7);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31002, /*banner_image_asset_path*/"TkL", /*start_at*/1595224800, /*end_at*/1893423600, /*display_order*/9);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31003, /*banner_image_asset_path*/"cNg", /*start_at*/1597557600, /*end_at*/1893423600, /*display_order*/11);

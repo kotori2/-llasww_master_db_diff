@@ -14,6 +14,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"니지가
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021013_02", /*message*/"니지가사키 학원 중앙 정원(밤)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_022012_01", /*message*/"세츠나의 방(크리스마스, 낮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_035003_00", /*message*/"스튜디오");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_002002_00", /*message*/"호무라 주방");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011003_00", /*message*/"우라노호시 여고 옥상(밤: 천체관측)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033008_01", /*message*/"몬젠나카초(비)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033009_00", /*message*/"분수 광장(도쿄)(맑은 낮)");
@@ -350,6 +351,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"이벤트 이용 방법 2");

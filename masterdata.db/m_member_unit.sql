@@ -13,4 +13,4 @@ INSERT INTO `m_member_unit` VALUES (/*member_unit*/6, /*unit_name*/"k.m_dic_unit
 INSERT INTO `m_member_unit` VALUES (/*member_unit*/7, /*unit_name*/"k.m_dic_unit_name_azuna", /*logo_image_asset_path*/"4-x");
 INSERT INTO `m_member_unit` VALUES (/*member_unit*/8, /*unit_name*/"k.m_dic_unit_name_diver_diva", /*logo_image_asset_path*/"-##");
 INSERT INTO `m_member_unit` VALUES (/*member_unit*/9, /*unit_name*/"k.m_dic_unit_name_qu4rtz", /*logo_image_asset_path*/"wo,");
-INSERT INTO `m_member_unit` VALUES (/*member_unit*/10, /*unit_name*/"k.m_dic_unit_name_qu4rtz", /*logo_image_asset_path*/"9BX");
+INSERT INTO `m_member_unit` VALUES (/*member_unit*/10, /*unit_name*/"k.m_dic_unit_name_r3birth", /*logo_image_asset_path*/"9BX");

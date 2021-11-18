@@ -659,3 +659,7 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000649, /*year*/2021, /*month*/11, /*day*/12, /*title*/"おにぎりに合う……？", /*published_at*/1636642800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000650, /*year*/2021, /*month*/11, /*day*/13, /*title*/"ハッピーバースデー、璃奈ちゃん！", /*published_at*/1636729200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000651, /*year*/2021, /*month*/11, /*day*/14, /*title*/"いい石の日", /*published_at*/1636815600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000652, /*year*/2021, /*month*/11, /*day*/15, /*title*/"AZALEA　ユニットライブ１日目！", /*published_at*/1636902000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000653, /*year*/2021, /*month*/11, /*day*/16, /*title*/"暴れるぞー！！", /*published_at*/1636988400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000654, /*year*/2021, /*month*/11, /*day*/17, /*title*/"ピリリと刺激を！", /*published_at*/1637074800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000655, /*year*/2021, /*month*/11, /*day*/18, /*title*/"カワイイお願い", /*published_at*/1637161200);

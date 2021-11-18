@@ -14,6 +14,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"虹咲學
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021013_02", /*message*/"虹咲學園 中庭(夜晚)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_022012_01", /*message*/"雪菜的房間(聖誕風：白天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_035003_00", /*message*/"攝影棚");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_002002_00", /*message*/"穗村 廚房");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011003_00", /*message*/"浦之星女學院　屋頂（夜晚：觀測星象）");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033008_01", /*message*/"門前仲町(雨天)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033009_00", /*message*/"噴水廣場(東京都內：晴朗白天)");
@@ -350,6 +351,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30029_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message*/"活動規則 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"活動規則 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"活動規則 2/6");

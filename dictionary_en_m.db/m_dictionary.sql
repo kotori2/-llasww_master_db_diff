@@ -1739,6 +1739,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013701", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013702", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013703", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013802", /*message*/"[Special Campaign Goals] Clear &quot;Not Sad&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013902", /*message*/"[Special Campaign Goals] Clear &quot;Folklore 〜Kanki no Uta〜&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

@@ -11,7 +11,7 @@ INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0203/mes_0
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0201/mes_0201_03", /*version*/"88966dd408283cef5eff7a09d654467104d7828a", /*pack_num*/38);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:MS/012/ms_012_09", /*version*/"2c55f8f52d88344cf36958691a8b1b286c86e199", /*pack_num*/45);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:ES/0009/es_0009_03", /*version*/"d40904daff3cfcd6d2b9b5efe32a2636711d6c86", /*pack_num*/58);
-INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"aaf12b3e8e8d5b272486564d007d8f512a2fda52", /*pack_num*/10689);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"99502245958fea4cbc1c8bc5cc7b50d0070f503a", /*pack_num*/10692);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MS/014/ms_014_10", /*version*/"b01ecfc98ac8f3f798accd90f3ffb755ab115dd2", /*pack_num*/118);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MS/028/ms_028_10", /*version*/"b47e73e823df581fb3c6a72a746b0c8714775029", /*pack_num*/156);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0205/mes_0205_11", /*version*/"731cebd126d533afedee7dab283c25fad374f7b1", /*pack_num*/52);
@@ -5056,6 +5056,7 @@ INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:102080031", /*versio
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:SS/0204/ss_402043002_02", /*version*/"b1cb294e88b01a88fba90d2497e5a0ce50f2ed22", /*pack_num*/4);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:102060025", /*version*/"58d7edf8b1d09c977ddb6f9efaaeb17892545271", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"music:41014", /*version*/"95d407889346435efa7564ff7fec2846cfae3adc", /*pack_num*/2);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"music:12091", /*version*/"52a1211add2fa419fa2accfe2ebb94f3ef97b886", /*pack_num*/2);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:MES/0004/mes_0004_05", /*version*/"166eb72e0f8261067950633862c4d96f0b8af82a", /*pack_num*/11);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:100010077", /*version*/"e0bb6e0dceaea6e32088e46f4805313fc8cffe77", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"card:400072003", /*version*/"ad7379e5ec5043e419f340ee7c20eb629063c7cc", /*pack_num*/5);

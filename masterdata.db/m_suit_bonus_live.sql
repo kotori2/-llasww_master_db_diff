@@ -144,7 +144,4 @@ INSERT INTO `m_suit_bonus_live` VALUES (/*suit_bonus_master_id*/21102301, /*live
 INSERT INTO `m_suit_bonus_live` VALUES (/*suit_bonus_master_id*/21102301, /*live_master_id*/10006);
 INSERT INTO `m_suit_bonus_live` VALUES (/*suit_bonus_master_id*/21102301, /*live_master_id*/12062);
 INSERT INTO `m_suit_bonus_live` VALUES (/*suit_bonus_master_id*/21102301, /*live_master_id*/12063);
-INSERT INTO `m_suit_bonus_live` VALUES (/*suit_bonus_master_id*/21102301, /*live_master_id*/12090);
-INSERT INTO `m_suit_bonus_live` VALUES (/*suit_bonus_master_id*/21102301, /*live_master_id*/12071);
-INSERT INTO `m_suit_bonus_live` VALUES (/*suit_bonus_master_id*/21102301, /*live_master_id*/12068);
 INSERT INTO `m_suit_bonus_live` VALUES (/*suit_bonus_master_id*/21102301, /*live_master_id*/11036);

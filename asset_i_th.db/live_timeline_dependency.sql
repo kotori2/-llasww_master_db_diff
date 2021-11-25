@@ -1586,6 +1586,17 @@ INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"P\w", /*dependency
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"o0O", /*dependency*/"§Vr");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"o0O", /*dependency*/"gDl");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"\3q", /*dependency*/"gDl");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"}bt", /*dependency*/"§Vr");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"}bt", /*dependency*/"nIW");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"}bt", /*dependency*/"N~9");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"}bt", /*dependency*/"[9;");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"b5b", /*dependency*/"§Vr");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"b5b", /*dependency*/"nIW");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"b5b", /*dependency*/"N~9");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"b5b", /*dependency*/"[9;");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"}C(", /*dependency*/"nIW");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"}C(", /*dependency*/"N~9");
+INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"}C(", /*dependency*/"[9;");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"7P$", /*dependency*/"§Vr");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"7P$", /*dependency*/"@r!");
 INSERT INTO `live_timeline_dependency` VALUES (/*asset_path*/"7P$", /*dependency*/"UWZ");

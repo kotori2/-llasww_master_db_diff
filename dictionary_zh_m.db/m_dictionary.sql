@@ -2373,6 +2373,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400439", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400440", /*message*/"完成10次「Maze Town」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400441", /*message*/"完成50次「Maze Town」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400442", /*message*/"完成100次「Maze Town」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400443", /*message*/"完成10次「MONSTER GIRLS」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400444", /*message*/"完成50次「MONSTER GIRLS」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400445", /*message*/"完成100次「MONSTER GIRLS」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");
@@ -2419,6 +2422,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300024", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300025", /*message*/"以QU4RTZ成員編組的隊伍完成100場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300026", /*message*/"以QU4RTZ成員編組的隊伍完成1,000場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300027", /*message*/"以QU4RTZ成員編組的隊伍完成5,000場LIVE　※跳略券不適用");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300028", /*message*/"以R3BIRTH成員編組的隊伍完成100場LIVE　※跳略券不適用");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300029", /*message*/"以R3BIRTH成員編組的隊伍完成1,000場LIVE　※跳略券不適用");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300030", /*message*/"以R3BIRTH成員編組的隊伍完成5,000場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302400001", /*message*/"以編入高坂穗乃果的隊伍完成10場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302400002", /*message*/"以編入絢瀨繪里的隊伍完成10場LIVE　※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302400003", /*message*/"以編入南琴梨的隊伍完成10場LIVE　※跳略券不適用");

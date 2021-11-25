@@ -53,3 +53,4 @@ INSERT INTO `skill_effect` VALUES (/*asset_path*/"0V", /*pack_name*/"0iw69s", /*
 INSERT INTO `skill_effect` VALUES (/*asset_path*/"|RB", /*pack_name*/"k7mto8", /*head*/523467, /*size*/274314, /*key1*/-318375364, /*key2*/-451210658);
 INSERT INTO `skill_effect` VALUES (/*asset_path*/";`)", /*pack_name*/"k7mto8", /*head*/797781, /*size*/185038, /*key1*/1112847141, /*key2*/839658738);
 INSERT INTO `skill_effect` VALUES (/*asset_path*/"zz\", /*pack_name*/"k7mto8", /*head*/982819, /*size*/174897, /*key1*/-400323861, /*key2*/730302123);
+INSERT INTO `skill_effect` VALUES (/*asset_path*/"MlF", /*pack_name*/"msfyju", /*head*/0, /*size*/171050, /*key1*/-1259765877, /*key2*/-198295626);

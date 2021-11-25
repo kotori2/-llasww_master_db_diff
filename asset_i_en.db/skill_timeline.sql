@@ -52,3 +52,4 @@ INSERT INTO `skill_timeline` VALUES (/*asset_path*/"sI", /*pack_name*/"0iw69s", 
 INSERT INTO `skill_timeline` VALUES (/*asset_path*/"UR-", /*pack_name*/"k7mto8", /*head*/1278842, /*size*/78647, /*key1*/-1124323464, /*key2*/-1996422149);
 INSERT INTO `skill_timeline` VALUES (/*asset_path*/"^eb", /*pack_name*/"k7mto8", /*head*/1357489, /*size*/121814, /*key1*/-261802688, /*key2*/-329451206);
 INSERT INTO `skill_timeline` VALUES (/*asset_path*/"1aq", /*pack_name*/"k7mto8", /*head*/1479303, /*size*/130913, /*key1*/-484491102, /*key2*/-1250578220);
+INSERT INTO `skill_timeline` VALUES (/*asset_path*/"<=/", /*pack_name*/"msfyju", /*head*/171050, /*size*/117565, /*key1*/-1818910451, /*key2*/1554553587);

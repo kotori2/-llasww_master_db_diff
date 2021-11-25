@@ -49,3 +49,4 @@ INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"0V", /*dependency*/
 INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"|RB", /*dependency*/"§Vr");
 INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/";`)", /*dependency*/"§Vr");
 INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"zz\", /*dependency*/"§Vr");
+INSERT INTO `skill_effect_dependency` VALUES (/*asset_path*/"MlF", /*dependency*/"§Vr");

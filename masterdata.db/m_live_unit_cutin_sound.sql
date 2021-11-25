@@ -32,3 +32,6 @@ INSERT INTO `m_live_unit_cutin_sound` VALUES (/*member_master_id*/206, /*unit*/9
 INSERT INTO `m_live_unit_cutin_sound` VALUES (/*member_master_id*/207, /*unit*/7, /*sound*/"vo_ci_unit_0207_0202_001");
 INSERT INTO `m_live_unit_cutin_sound` VALUES (/*member_master_id*/208, /*unit*/9, /*sound*/"vo_ci_unit_0208_0203_001");
 INSERT INTO `m_live_unit_cutin_sound` VALUES (/*member_master_id*/209, /*unit*/9, /*sound*/"vo_ci_unit_0209_0203_001");
+INSERT INTO `m_live_unit_cutin_sound` VALUES (/*member_master_id*/210, /*unit*/10, /*sound*/"vo_ci_unit_0210_0204_001");
+INSERT INTO `m_live_unit_cutin_sound` VALUES (/*member_master_id*/211, /*unit*/10, /*sound*/"vo_ci_unit_0212_0204_001");
+INSERT INTO `m_live_unit_cutin_sound` VALUES (/*member_master_id*/212, /*unit*/10, /*sound*/"vo_ci_unit_0211_0204_001");

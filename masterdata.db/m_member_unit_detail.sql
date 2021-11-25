@@ -33,3 +33,6 @@ INSERT INTO `m_member_unit_detail` VALUES (/*id*/33, /*member_m_id*/206, /*membe
 INSERT INTO `m_member_unit_detail` VALUES (/*id*/34, /*member_m_id*/207, /*member_unit*/7);
 INSERT INTO `m_member_unit_detail` VALUES (/*id*/35, /*member_m_id*/208, /*member_unit*/9);
 INSERT INTO `m_member_unit_detail` VALUES (/*id*/36, /*member_m_id*/209, /*member_unit*/9);
+INSERT INTO `m_member_unit_detail` VALUES (/*id*/37, /*member_m_id*/210, /*member_unit*/10);
+INSERT INTO `m_member_unit_detail` VALUES (/*id*/38, /*member_m_id*/211, /*member_unit*/10);
+INSERT INTO `m_member_unit_detail` VALUES (/*id*/39, /*member_m_id*/212, /*member_unit*/10);

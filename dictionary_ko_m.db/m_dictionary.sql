@@ -2375,6 +2375,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400439", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400440", /*message*/"Maze Town 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400441", /*message*/"Maze Town 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400442", /*message*/"Maze Town 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400443", /*message*/"MONSTER GIRLS 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400444", /*message*/"MONSTER GIRLS 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400445", /*message*/"MONSTER GIRLS 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -2421,6 +2424,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300024", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300025", /*message*/"QU4RTZ 한정으로 구성된 라이브 편성으로 라이브 100회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300026", /*message*/"QU4RTZ 한정으로 구성된 라이브 편성으로 라이브 1,000회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300027", /*message*/"QU4RTZ 한정으로 구성된 라이브 편성으로 라이브 5,000회 클리어　※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300028", /*message*/"R3BIRTH 한정으로 구성된 라이브 편성으로 라이브 100회 클리어　※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300029", /*message*/"R3BIRTH 한정으로 구성된 라이브 편성으로 라이브 1,000회 클리어　※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300030", /*message*/"R3BIRTH 한정으로 구성된 라이브 편성으로 라이브 5,000회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302400001", /*message*/"코우사카 호노카을/를 라이브 편성에 넣고 10회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302400002", /*message*/"아야세 에리을/를 라이브 편성에 넣고 10회 클리어　※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302400003", /*message*/"미나미 코토리을/를 라이브 편성에 넣고 10회 클리어　※스킵 티켓 사용 불가");

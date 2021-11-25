@@ -2372,6 +2372,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400439", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400440", /*message*/"Clear &quot;Maze Town&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400441", /*message*/"Clear &quot;Maze Town&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400442", /*message*/"Clear &quot;Maze Town&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400443", /*message*/"Clear &quot;MONSTER GIRLS&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400444", /*message*/"Clear &quot;MONSTER GIRLS&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400445", /*message*/"Clear &quot;MONSTER GIRLS&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -2418,6 +2421,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300024", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300025", /*message*/"Complete 100 Live Shows with a Show Formation consisting only of QU4RTZ.　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300026", /*message*/"Complete 1,000 Live Shows with a Show Formation consisting only of QU4RTZ.　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300027", /*message*/"Complete 5,000 Live Shows with a Show Formation consisting only of QU4RTZ.　Skip Tickets cannot be used.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300028", /*message*/"Complete 100 Live Shows with a Show Formation consisting only of R3BIRTH.　Skip Tickets cannot be used.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300029", /*message*/"Complete 1,000 Live Shows with a Show Formation consisting only of R3BIRTH.　Skip Tickets cannot be used.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302300030", /*message*/"Complete 5,000 Live Shows with a Show Formation consisting only of R3BIRTH.　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302400001", /*message*/"Clear a Live Show with Honoka Kosaka in Show Formation: x10　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302400002", /*message*/"Clear a Live Show with Eli Ayase in Show Formation: x10　Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_302400003", /*message*/"Clear a Live Show with Kotori Minami in Show Formation: x10　Skip Tickets cannot be used.");

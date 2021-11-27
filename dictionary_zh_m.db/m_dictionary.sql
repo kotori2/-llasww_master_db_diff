@@ -1741,6 +1741,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013702", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013703", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013802", /*message*/"[活動特別課題]完成1次「Not Sad」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013902", /*message*/"[活動特別課題]完成1次「Folklore 〜Kanki no Uta〜」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014002", /*message*/"[活動特別課題]完成1次「Wish Song」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

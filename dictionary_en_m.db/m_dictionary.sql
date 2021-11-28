@@ -3397,6 +3397,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_1", /*message*/"Ins
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033001_2", /*message*/"What Comes to Mind");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033002_1", /*message*/"Take Care of the Finishing Touch");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200033002_2", /*message*/"A World of Imagination");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200042001_1", /*message*/"Mountain View!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_1", /*message*/"Because We&apos;re Together");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_2", /*message*/"Cool and Tense!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043002_1", /*message*/"Tackling a New Hairstyle!");
@@ -3452,6 +3453,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_2", /*message*/"Saf
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_1", /*message*/"Your Cheers");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_2", /*message*/"A Dress Made for Moving");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062001_1", /*message*/"The Chaos within the Crystal");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062002_1", /*message*/"Little Demon Training");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"A Fallen Angel&apos;s Elegant Day Off");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_2", /*message*/"Fallen Angel Friend");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063002_1", /*message*/"The Clothes You Picked for Me");
@@ -3493,9 +3495,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053002_1", /*message*/"A D
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053002_2", /*message*/"To Be Honest...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202063001_1", /*message*/"A Tasty Bite");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202063001_2", /*message*/"A Sleeping Live Show?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202063002_1", /*message*/"The Basics Are Crucial!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202063002_2", /*message*/"Take a Look-See!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202072001_1", /*message*/"Incredible on Every Watch");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202073001_1", /*message*/"Heading Out by Train!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202073001_2", /*message*/"Let Me Hear You!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202073002_1", /*message*/"12 Blades Searing through the Plains!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202073002_2", /*message*/"Waiting in a Forest of Light");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202082001_1", /*message*/"Good Morning, Karin!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_1", /*message*/"Flower of Smiles");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_2", /*message*/"Let&apos;s Dance Together");

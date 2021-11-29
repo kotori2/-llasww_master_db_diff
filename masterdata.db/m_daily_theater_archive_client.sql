@@ -673,3 +673,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000663, /*year*/2021, /*month*/11, /*day*/26, /*title*/"ジャパニーズピクルス！？", /*published_at*/1637852400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000664, /*year*/2021, /*month*/11, /*day*/27, /*title*/"憧れの……？", /*published_at*/1637938800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000665, /*year*/2021, /*month*/11, /*day*/28, /*title*/"新作相談！", /*published_at*/1638025200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000666, /*year*/2021, /*month*/11, /*day*/29, /*title*/"いい肉の日", /*published_at*/1638111600);

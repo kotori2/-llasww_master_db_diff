@@ -1950,6 +1950,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800026", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800027", /*message*/"觀賞完第30章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800028", /*message*/"觀賞完第31章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800029", /*message*/"觀賞完第32章劇情");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800030", /*message*/"觀賞完第33章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"觀賞完1話默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"觀賞完5話默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"觀賞完10話默契篇章");
@@ -2377,6 +2378,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400442", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400443", /*message*/"完成10次「MONSTER GIRLS」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400444", /*message*/"完成50次「MONSTER GIRLS」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400445", /*message*/"完成100次「MONSTER GIRLS」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400446", /*message*/"完成10次「Kitto Seishun ga Kikoeru」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400447", /*message*/"完成50次「Kitto Seishun ga Kikoeru」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400448", /*message*/"完成100次「Kitto Seishun ga Kikoeru」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");
@@ -4213,6 +4217,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_3", /*m
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_30", /*message*/"我們所有人！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_31", /*message*/"嶄新的日常生活");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_32", /*message*/"請μ&apos;s教教我！～前篇～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_33", /*message*/"請μ&apos;s教教我！～後篇～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"尋找專屬光芒 後篇");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"了解μ&apos;s的祕密！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"最後的勝負結果");
@@ -4245,6 +4250,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_3", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_30", /*message*/"第30章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_31", /*message*/"第31章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_32", /*message*/"第32章");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_33", /*message*/"第33章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"第4章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"第5章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"第6章");
@@ -5681,6 +5687,58 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_8", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_32_9", /*message*/"日香一個不經意的話語讓凜大為動搖，
 而打算跟著花陽一起去安慰凜的你
 所看到的景象是……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_33_1", /*message*/"學園偶像粉絲專頁的企劃
+「μ&apos;s的煩惱諮詢室」大獲好評，
+收到的諮詢信也不斷增加。
+然而另一方面，μ&apos;s仍無法決定
+學園偶像展的PV該如何是好，
+因為每首歌都蘊含了滿滿的心意……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_33_10", /*message*/"看了學園偶像展網站上μ&apos;s的PV後，
+虹咲成員皆感到興奮不已。
+畢竟大家都是憧憬著μ&apos;s的這副模樣，
+並追著她們的背影才能一路走到這裡。
+眾人覺得μ&apos;s帶來的力量果真了不起，
+也認為自己不能輸給她們！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_33_2", /*message*/"久違地前往同好會的你，
+得知了同好會成員在你缺席時
+也各自勤加練習的狀況。
+就在這時你突然想起了諮詢信的事，
+便詢問起虹咲成員喜歡學校的原因……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_33_3", /*message*/"μ&apos;s的成員仍無法想出
+「為什麼喜歡學校？」的答案，
+於是決定在想出答案前先回覆其他信件。
+此時眾人見到一封諮詢信，
+內容是「該怎麼做才能成為
+跟繪里一樣帥氣又成熟的人」……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_33_4", /*message*/"繪里在學校裡總是展現出完美的模樣，
+然而希認為繪里還存在著其他魅力，
+於是便向眾人提議前去探尋
+繪里在假日時的模樣！？
+眾人能透過秘密採訪
+揭開繪里的魅力嗎！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_33_5", /*message*/"看見粉絲們熱烈參與粉絲專頁的企劃，
+日香終於決定要主動站出來了！
+她認為現在正是做出最棒的回覆，
+來讓自己變得更受歡迎的時刻！
+但此時向她諮詢的人卻是穗乃果！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_33_6", /*message*/"穗乃果等人在意外的情況下
+得知日香的熱情後受到影響，
+便逗留在公園裡而無法直接回家。
+而此時穗乃果吐露了自己的想法……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_33_7", /*message*/"μ&apos;s一口氣想到了如何解決
+煩惱已久的信件答覆與PV後，
+接下來便要盡全力拍攝PV！
+眾人最喜愛且至今演唱過無數次的歌曲，
+即將轉變為更加重要且無可取代的存在！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_33_8", /*message*/"選用μ&apos;s第一首特別的歌曲，
+並傾注滿滿心意的PV終於完成了！
+看著滿載著μ&apos;s的過去、
+現在與未來等一切的PV，
+你心中湧現的感受是……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_33_9", /*message*/"μ&apos;s將傾注所有心意的PV
+上傳至了學園偶像展網站。
+究竟這份心意能否順利
+傳達給那位提問者呢？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_1", /*message*/"因為想知道Aqours的魅力根源，
 所以你一個人跑到了沼津來。
 但是你突然發現憑著一股衝動來到
@@ -6347,6 +6405,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_7", /*message*/"無法隱瞞的心情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_8", /*message*/"如果與你分開的話？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_32_9", /*message*/"即使分離友情仍長存！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_33_1", /*message*/"無法只選出一首歌！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_33_10", /*message*/"繼續向前邁進！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_33_2", /*message*/"學校「有趣」嗎？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_33_3", /*message*/"令人憧憬的繪里學姐！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_33_4", /*message*/"追尋真實的面貌！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_33_5", /*message*/"開心的事就是開心！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_33_6", /*message*/"想傳達最初的心情！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_33_7", /*message*/"今昔相繫！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_33_8", /*message*/"μ&apos;s的背影");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_33_9", /*message*/"散播出去的心意");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_1", /*message*/"前往沼津");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_10", /*message*/"靜默的守護眼神");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_2", /*message*/"在海邊的邂逅");

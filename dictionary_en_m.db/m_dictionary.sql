@@ -256,6 +256,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000043", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000044", /*message*/"Clear all daily Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"Clear all daily Goals.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000046", /*message*/"Clear a Live Show: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000201", /*message*/"[Special Campaign Goals] Perform Training a total of 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000202", /*message*/"[Special Campaign Goals] Perform Training a total of 2 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000203", /*message*/"[Special Campaign Goals] Perform Training a total of 3 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000204", /*message*/"[Special Campaign Goals] Play a Live Show: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000205", /*message*/"[Special Campaign Goals] Play a Live Show: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_card", /*message*/"School Idol ({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_image", /*message*/"Picture ({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_live", /*message*/"Song ({0})");
@@ -1741,6 +1746,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013802", /*message*/"[Special Campaign Goals] Clear &quot;Not Sad&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013902", /*message*/"[Special Campaign Goals] Clear &quot;Folklore 〜Kanki no Uta〜&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014002", /*message*/"[Special Campaign Goals] Clear &quot;Wish Song&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014101", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014102", /*message*/"[SBL Goal] Clear &quot;KiRa-KiRa Sensation!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014103", /*message*/"[SBL Goal] Clear &quot;Landing action Yeah!!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014104", /*message*/"[SBL Goal] Clear &quot;Marchen Star&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

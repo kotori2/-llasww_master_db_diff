@@ -261,6 +261,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000043", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000044", /*message*/"일일 과제 모두 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"일일 과제 모두 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000046", /*message*/"라이브 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000201", /*message*/"[캠페인 특별 과제] 합숙 1회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000202", /*message*/"[캠페인 특별 과제] 합숙 2회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000203", /*message*/"[캠페인 특별 과제] 합숙 3회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000204", /*message*/"[캠페인 특별 과제] 라이브 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000205", /*message*/"[캠페인 특별 과제] 라이브 3회 플레이");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_card", /*message*/"스쿨 아이돌 ({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_image", /*message*/"이미지 ({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_live", /*message*/"곡 ({0})");
@@ -1744,6 +1749,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013802", /*message*/"[캠페인 특별 과제] Not Sad 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013902", /*message*/"[캠페인 특별 과제] Folklore 〜Kanki no Uta〜 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014002", /*message*/"[캠페인 특별 과제] Wish Song 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014101", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014102", /*message*/"[빅 라이브 과제] KiRa-KiRa Sensation! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014103", /*message*/"[빅 라이브 과제] Landing action Yeah!! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014104", /*message*/"[빅 라이브 과제] Marchen Star 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

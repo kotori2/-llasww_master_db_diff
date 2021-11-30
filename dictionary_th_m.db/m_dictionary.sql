@@ -263,6 +263,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000043", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000044", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"เคลียร์การบ้านประจำวันทั้งหมด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000046", /*message*/"เคลียร์ไลฟ์ 3 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000201", /*message*/"[การบ้านพิเศษในแคมเปญ] ซ้อม 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000202", /*message*/"[การบ้านพิเศษในแคมเปญ] ซ้อม 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000203", /*message*/"[การบ้านพิเศษในแคมเปญ] ซ้อม 3 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000204", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่นไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000205", /*message*/"[การบ้านพิเศษในแคมเปญ] เล่นไลฟ์ 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_card", /*message*/"สคูลไอดอล ({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_image", /*message*/"ภาพ ({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_live", /*message*/"เพลง ({0})");
@@ -1751,6 +1756,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013802", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Not Sad&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013902", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Folklore 〜Kanki no Uta〜&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014002", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Wish Song&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014101", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014102", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;KiRa-KiRa Sensation!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014103", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Landing action Yeah!!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014104", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Marchen Star&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

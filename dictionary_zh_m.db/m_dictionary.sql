@@ -256,6 +256,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000043", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000044", /*message*/"完成所有每日課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000045", /*message*/"完成所有每日課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000046", /*message*/"完成3場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000201", /*message*/"[活動特別課題]進行1次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000202", /*message*/"[活動特別課題]進行2次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000203", /*message*/"[活動特別課題]進行3次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000204", /*message*/"[活動特別課題]遊玩1次LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000205", /*message*/"[活動特別課題]遊玩3次LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_card", /*message*/"學園偶像({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_image", /*message*/"圖片({0})");
 INSERT INTO `m_dictionary` VALUES (/*id*/"download_category_live", /*message*/"歌曲({0})");
@@ -1742,6 +1747,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013802", /*message*/"[活動特別課題]完成1次「Not Sad」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013902", /*message*/"[活動特別課題]完成1次「Folklore 〜Kanki no Uta〜」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014002", /*message*/"[活動特別課題]完成1次「Wish Song」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014101", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014102", /*message*/"[大型合作演唱會課題]完成10次「KiRa-KiRa Sensation!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014103", /*message*/"[大型合作演唱會課題]完成10次「Landing action Yeah!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014104", /*message*/"[大型合作演唱會課題]完成10次「Marchen Star」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

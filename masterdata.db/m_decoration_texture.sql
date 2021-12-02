@@ -1409,5 +1409,7 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10121/tex_banner_notice_s_10121", /*path*/"Lqk");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211105/tex_banner_notice_l_2211105", /*path*/"L+e");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211105/tex_banner_notice_s_2211105", /*path*/"!,<");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211214/tex_banner_notice_l_2211214", /*path*/"SUM");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211214/tex_banner_notice_s_2211214", /*path*/"`\"(");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211110/tex_banner_notice_l_2211110", /*path*/"r#n");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2211110/tex_banner_notice_s_2211110", /*path*/"wR'");

@@ -28,3 +28,4 @@ INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31020, /*tr
 INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31021, /*trade_master_id*/31021);
 INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31022, /*trade_master_id*/31022);
 INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31023, /*trade_master_id*/31023);
+INSERT INTO `m_event_mining_trade` VALUES (/*event_mining_master_id*/31024, /*trade_master_id*/31024);

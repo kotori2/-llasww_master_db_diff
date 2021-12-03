@@ -35,4 +35,5 @@ INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320913, /*view_status*/2, /*
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/402093004, /*view_status*/2, /*model_asset_path*/"\"2_");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320914, /*view_status*/2, /*model_asset_path*/"nuf");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/402092007, /*view_status*/2, /*model_asset_path*/".!/");
+INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/402093005, /*view_status*/2, /*model_asset_path*/"t#V");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320916, /*view_status*/2, /*model_asset_path*/"Iy8");

@@ -677,3 +677,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000667, /*year*/2021, /*month*/11, /*day*/30, /*title*/"例のステージは諦めてない！", /*published_at*/1638198000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000668, /*year*/2021, /*month*/12, /*day*/1, /*title*/"映画の日！", /*published_at*/1638284400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000669, /*year*/2021, /*month*/12, /*day*/2, /*title*/"攻防戦！", /*published_at*/1638370800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000670, /*year*/2021, /*month*/12, /*day*/3, /*title*/"幻惑の戯れにて", /*published_at*/1638457200);

@@ -653,6 +653,10 @@ INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1008202, /
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1008203, /*order_no*/1, /*comment*/"k.vo_ca_2000820013", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1008204, /*order_no*/1, /*comment*/"k.vo_ca_2000820014", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1008205, /*order_no*/1, /*comment*/"k.vo_ca_2000820015", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1008212, /*order_no*/1, /*comment*/"k.vo_ca_4000830062", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1008213, /*order_no*/1, /*comment*/"k.vo_ca_4000830063", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1008214, /*order_no*/1, /*comment*/"k.vo_ca_4000830064", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1008215, /*order_no*/1, /*comment*/"k.vo_ca_4000830065", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1009014, /*order_no*/1, /*comment*/"k.vo_ca_1000910014", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1009015, /*order_no*/1, /*comment*/"k.vo_ca_1000910015", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1009024, /*order_no*/1, /*comment*/"k.vo_ca_1000910024", /*wait_time*/1000);
@@ -733,6 +737,10 @@ INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1009212, /
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1009213, /*order_no*/1, /*comment*/"k.vo_ca_4000930053", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1009214, /*order_no*/1, /*comment*/"k.vo_ca_4000930054", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1009215, /*order_no*/1, /*comment*/"k.vo_ca_4000930055", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1009222, /*order_no*/1, /*comment*/"k.vo_ca_4000920072", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1009223, /*order_no*/1, /*comment*/"k.vo_ca_4000920073", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1009224, /*order_no*/1, /*comment*/"k.vo_ca_4000920074", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1009225, /*order_no*/1, /*comment*/"k.vo_ca_4000920075", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1101014, /*order_no*/1, /*comment*/"k.vo_ca_1010110014", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1101015, /*order_no*/1, /*comment*/"k.vo_ca_1010110015", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1101024, /*order_no*/1, /*comment*/"k.vo_ca_1010110024", /*wait_time*/1000);
@@ -977,6 +985,10 @@ INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1103212, /
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1103213, /*order_no*/1, /*comment*/"k.vo_ca_3010330023", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1103214, /*order_no*/1, /*comment*/"k.vo_ca_3010330024", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1103215, /*order_no*/1, /*comment*/"k.vo_ca_3010330025", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1103222, /*order_no*/1, /*comment*/"k.vo_ca_4010320052", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1103223, /*order_no*/1, /*comment*/"k.vo_ca_4010320053", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1103224, /*order_no*/1, /*comment*/"k.vo_ca_4010320054", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1103225, /*order_no*/1, /*comment*/"k.vo_ca_4010320055", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1104014, /*order_no*/1, /*comment*/"k.vo_ca_1010410014", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1104015, /*order_no*/1, /*comment*/"k.vo_ca_1010410015", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1104024, /*order_no*/1, /*comment*/"k.vo_ca_1010410024", /*wait_time*/1000);
@@ -1137,6 +1149,10 @@ INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1105212, /
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1105213, /*order_no*/1, /*comment*/"k.vo_ca_2010520013", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1105214, /*order_no*/1, /*comment*/"k.vo_ca_2010520014", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1105215, /*order_no*/1, /*comment*/"k.vo_ca_2010520015", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1105222, /*order_no*/1, /*comment*/"k.vo_ca_4010530052", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1105223, /*order_no*/1, /*comment*/"k.vo_ca_4010530053", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1105224, /*order_no*/1, /*comment*/"k.vo_ca_4010530054", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1105225, /*order_no*/1, /*comment*/"k.vo_ca_4010530055", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1106014, /*order_no*/1, /*comment*/"k.vo_ca_1010610014", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1106015, /*order_no*/1, /*comment*/"k.vo_ca_1010610015", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1106024, /*order_no*/1, /*comment*/"k.vo_ca_1010610024", /*wait_time*/1000);
@@ -1921,6 +1937,10 @@ INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1206202, /
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1206203, /*order_no*/1, /*comment*/"k.vo_ca_2020630023", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1206204, /*order_no*/1, /*comment*/"k.vo_ca_2020630024", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1206205, /*order_no*/1, /*comment*/"k.vo_ca_2020630025", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1206212, /*order_no*/1, /*comment*/"k.vo_ca_4020620062", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1206213, /*order_no*/1, /*comment*/"k.vo_ca_4020620063", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1206214, /*order_no*/1, /*comment*/"k.vo_ca_4020620064", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1206215, /*order_no*/1, /*comment*/"k.vo_ca_4020620065", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1207014, /*order_no*/1, /*comment*/"k.vo_ca_1020710014", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1207015, /*order_no*/1, /*comment*/"k.vo_ca_1020710015", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1207024, /*order_no*/1, /*comment*/"k.vo_ca_1020710024", /*wait_time*/1000);
@@ -2147,6 +2167,10 @@ INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1209212, /
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1209213, /*order_no*/1, /*comment*/"k.vo_ca_4020920073", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1209214, /*order_no*/1, /*comment*/"k.vo_ca_4020920074", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1209215, /*order_no*/1, /*comment*/"k.vo_ca_4020920075", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1209222, /*order_no*/1, /*comment*/"k.vo_ca_4020930052", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1209223, /*order_no*/1, /*comment*/"k.vo_ca_4020930053", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1209224, /*order_no*/1, /*comment*/"k.vo_ca_4020930054", /*wait_time*/1000);
+INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1209225, /*order_no*/1, /*comment*/"k.vo_ca_4020930055", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1210014, /*order_no*/1, /*comment*/"k.vo_ca_1021010014", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1210015, /*order_no*/1, /*comment*/"k.vo_ca_1021010015", /*wait_time*/1000);
 INSERT INTO `m_navi_action_comment` VALUES (/*navi_action_comment_id*/1210024, /*order_no*/1, /*comment*/"k.vo_ca_1021010024", /*wait_time*/1000);

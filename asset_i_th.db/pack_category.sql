@@ -26,8 +26,6 @@ INSERT INTO `pack_category` VALUES (/*pack_name*/"gd5row", /*category*/6, /*file
 INSERT INTO `pack_category` VALUES (/*pack_name*/"gd5row", /*category*/7, /*file_size*/1374208);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"b5nkj9", /*category*/6, /*file_size*/8070162);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"b5nkj9", /*category*/7, /*file_size*/1625056);
-INSERT INTO `pack_category` VALUES (/*pack_name*/"31oiz2", /*category*/6, /*file_size*/9838672);
-INSERT INTO `pack_category` VALUES (/*pack_name*/"31oiz2", /*category*/7, /*file_size*/631840);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"yxxv6t", /*category*/6, /*file_size*/5393714);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"yxxv6t", /*category*/7, /*file_size*/5072608);
 INSERT INTO `pack_category` VALUES (/*pack_name*/"ksn74q", /*category*/6, /*file_size*/9236045);

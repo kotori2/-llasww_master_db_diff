@@ -680,3 +680,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000670, /*year*/2021, /*month*/12, /*day*/3, /*title*/"幻惑の戯れにて", /*published_at*/1638457200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000671, /*year*/2021, /*month*/12, /*day*/4, /*title*/"ホッとひといき", /*published_at*/1638543600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000672, /*year*/2021, /*month*/12, /*day*/5, /*title*/"思い出のアルバム", /*published_at*/1638630000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000673, /*year*/2021, /*month*/12, /*day*/6, /*title*/"ハッピーバースデー、ミアちゃん！", /*published_at*/1638716400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000674, /*year*/2021, /*month*/12, /*day*/7, /*title*/"クリスマスツリーの日！", /*published_at*/1638802800);

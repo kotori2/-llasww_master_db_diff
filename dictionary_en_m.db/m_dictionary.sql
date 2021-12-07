@@ -1313,6 +1313,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002312", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002313", /*message*/"Obtain 1 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002314", /*message*/"Obtain 2 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002315", /*message*/"Obtain 3 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002401", /*message*/"Play &quot;SUPER NOVA&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002402", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002403", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002404", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002405", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002406", /*message*/"Collect 3 login bonuses during the event.");
@@ -1776,6 +1779,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"Chapter 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"Chapter 7");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31024", /*message*/"White City Lights");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"Event Rules 1/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"Event Rules 2/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"Event Rules 3/4");
@@ -2176,9 +2180,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400181", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400182", /*message*/"Clear &quot;SKY JOURNEY&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400183", /*message*/"Clear &quot;SKY JOURNEY&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400184", /*message*/"Clear &quot;SKY JOURNEY&quot;: x100");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"Clear &quot;SUPER NOVA (2D)&quot;: x10");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"Clear &quot;SUPER NOVA (2D)&quot;: x50");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"Clear &quot;SUPER NOVA (2D)&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"Clear &quot;SUPER NOVA&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"Clear &quot;SUPER NOVA&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"Clear &quot;SUPER NOVA&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"Clear &quot;Dream Land! Dream World!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"Clear &quot;Dream Land! Dream World!&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"Clear &quot;Dream Land! Dream World!&quot;: x100");
@@ -2401,6 +2405,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400445", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400446", /*message*/"Clear &quot;Kitto Seishun ga Kikoeru&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400447", /*message*/"Clear &quot;Kitto Seishun ga Kikoeru&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400448", /*message*/"Clear &quot;Kitto Seishun ga Kikoeru&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400449", /*message*/"Clear &quot;THE SECRET NiGHT&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400450", /*message*/"Clear &quot;THE SECRET NiGHT&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400451", /*message*/"Clear &quot;THE SECRET NiGHT&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

@@ -1316,6 +1316,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002312", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002313", /*message*/"의상 1벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002314", /*message*/"의상 2벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002315", /*message*/"의상 3벌 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002401", /*message*/"SUPER NOVA 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002402", /*message*/"라이브 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002403", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002404", /*message*/"스쿨 아이돌 1명을 지정 레벨(R:40 SR:60 UR:80)까지 올리기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002405", /*message*/"스쿨 아이돌 2명을 지정 레벨(R:40 SR:60 UR:80)까지 올리기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002406", /*message*/"기간 중, 3회 로그인 보너스 받기");
@@ -1779,6 +1782,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"제5화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"제6화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"제7화");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31024", /*message*/"화이트 시티 라이트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"이벤트 이용 방법 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"이벤트 이용 방법 3");
@@ -2179,9 +2183,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400181", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400182", /*message*/"SKY JOURNEY 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400183", /*message*/"SKY JOURNEY 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400184", /*message*/"SKY JOURNEY 100회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"SUPER NOVA (2D) 10회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"SUPER NOVA (2D) 50회 클리어");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"SUPER NOVA (2D) 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"SUPER NOVA 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"SUPER NOVA 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"SUPER NOVA 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"Dream Land! Dream World! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"Dream Land! Dream World! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"Dream Land! Dream World! 100회 클리어");
@@ -2404,6 +2408,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400445", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400446", /*message*/"Kitto Seishun ga Kikoeru 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400447", /*message*/"Kitto Seishun ga Kikoeru 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400448", /*message*/"Kitto Seishun ga Kikoeru 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400449", /*message*/"THE SECRET NiGHT 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400450", /*message*/"THE SECRET NiGHT 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400451", /*message*/"THE SECRET NiGHT 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");

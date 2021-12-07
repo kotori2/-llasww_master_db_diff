@@ -1314,6 +1314,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002312", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002313", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002314", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002315", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002401", /*message*/"遊玩1次「SUPER NOVA」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002402", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002403", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002404", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002405", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002406", /*message*/"於期間內領取3次登入獎勵");
@@ -1777,6 +1780,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"第5話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"第6話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"第7話");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31024", /*message*/"雪白城市光景");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"活動規則 1/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"活動規則 2/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"活動規則 3/4");
@@ -2177,9 +2181,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400181", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400182", /*message*/"完成10次「SKY JOURNEY」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400183", /*message*/"完成50次「SKY JOURNEY」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400184", /*message*/"完成100次「SKY JOURNEY」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"完成10次「SUPER NOVA (2D)」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"完成50次「SUPER NOVA (2D)」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"完成100次「SUPER NOVA (2D)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"完成10次「SUPER NOVA」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"完成50次「SUPER NOVA」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"完成100次「SUPER NOVA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"完成10次「Dream Land! Dream World!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"完成50次「Dream Land! Dream World!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"完成100次「Dream Land! Dream World!」");
@@ -2402,6 +2406,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400445", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400446", /*message*/"完成10次「Kitto Seishun ga Kikoeru」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400447", /*message*/"完成50次「Kitto Seishun ga Kikoeru」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400448", /*message*/"完成100次「Kitto Seishun ga Kikoeru」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400449", /*message*/"完成10次「THE SECRET NiGHT」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400450", /*message*/"完成50次「THE SECRET NiGHT」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400451", /*message*/"完成100次「THE SECRET NiGHT」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

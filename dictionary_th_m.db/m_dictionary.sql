@@ -1319,6 +1319,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002312", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002313", /*message*/"มีชุด 1 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002314", /*message*/"มีชุด 2 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002315", /*message*/"มีชุด 3 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002401", /*message*/"เล่น &quot;SUPER NOVA&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002402", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002403", /*message*/"ซ้อม 2 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002404", /*message*/"อัปเลเวลของสคูลไอดอล 1 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002405", /*message*/"อัปเลเวลของสคูลไอดอล 2 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002406", /*message*/"รับล็อกอินโบนัส 3 ครั้งในเวลาที่กำหนด");
@@ -1786,6 +1789,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"บทที่ 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"บทที่ 7");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31024", /*message*/"ไวท์ซิตี้ไลท์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"กติกาอีเวนต์ 1/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"กติกาอีเวนต์ 2/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"กติกาอีเวนต์ 3/4");
@@ -2186,9 +2190,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400181", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400182", /*message*/"เคลียร์ &quot;SKY JOURNEY&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400183", /*message*/"เคลียร์ &quot;SKY JOURNEY&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400184", /*message*/"เคลียร์ &quot;SKY JOURNEY&quot; 100 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"เคลียร์ &quot;SUPER NOVA (2D)&quot; 10 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"เคลียร์ &quot;SUPER NOVA (2D)&quot; 50 ครั้ง");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"เคลียร์ &quot;SUPER NOVA (2D)&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400185", /*message*/"เคลียร์ &quot;SUPER NOVA&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400186", /*message*/"เคลียร์ &quot;SUPER NOVA&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400187", /*message*/"เคลียร์ &quot;SUPER NOVA&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400188", /*message*/"เคลียร์ &quot;Dream Land! Dream World!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400189", /*message*/"เคลียร์ &quot;Dream Land! Dream World!&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400190", /*message*/"เคลียร์ &quot;Dream Land! Dream World!&quot; 100 ครั้ง");
@@ -2411,6 +2415,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400445", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400446", /*message*/"เคลียร์ &quot;Kitto Seishun ga Kikoeru&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400447", /*message*/"เคลียร์ &quot;Kitto Seishun ga Kikoeru&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400448", /*message*/"เคลียร์ &quot;Kitto Seishun ga Kikoeru&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400449", /*message*/"เคลียร์ &quot;THE SECRET NiGHT&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400450", /*message*/"เคลียร์ &quot;THE SECRET NiGHT&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400451", /*message*/"เคลียร์ &quot;THE SECRET NiGHT&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

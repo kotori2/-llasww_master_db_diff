@@ -1775,6 +1775,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014101", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014102", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;KiRa-KiRa Sensation!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014103", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Landing action Yeah!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014104", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Marchen Star&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014201", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014202", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014203", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -1826,6 +1829,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015_000", /*message*/"ดรีมไลฟ์พาเรด ～We Are Challengers～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท SP ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท SP ออนสเตจ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Guard ออนสเตจ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Guard ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -3570,6 +3575,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"ช
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"น้ำตารสเปรี้ยว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_1", /*message*/"ทางกลับบ้านที่น่าหวาดกลัว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"ความอ่อนโยนของธรรมชาติ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023002_1", /*message*/"ภาพมายาบนภูเขาหิมะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023002_2", /*message*/"จนกว่าหิมะจะละลาย!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"เมดในตำนานปรากฏตัว!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032002_1", /*message*/"ขอร้องล่ะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"ไปซื้อของด้วยกันนะ♪");
@@ -3685,6 +3692,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"ช
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"ประกายแห่งจิตวิญญาณ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"ความสงบสุขและสิ่งจูงใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042002_1", /*message*/"นี่คือการต่อสู้ที่ไม่ยอมถอย");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042003_1", /*message*/"ไปสถานที่นัดตอนนี้ยังเร็วไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"ดวงตาคือหน้าต่างของหัวใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"จะดึงดูดเธอไว้ไม่ให้ละสายตาไปไหนเลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"แค่มอนจะเท่านั้น");

@@ -1765,6 +1765,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014101", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014102", /*message*/"[SBL Goal] Clear &quot;KiRa-KiRa Sensation!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014103", /*message*/"[SBL Goal] Clear &quot;Landing action Yeah!!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014104", /*message*/"[SBL Goal] Clear &quot;Marchen Star&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014201", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014202", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014203", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -1816,6 +1819,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33015_000", /*message*/"Dream Live Parade: We Are Challengers");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016", /*message*/"Dream Live Parade: SP Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016_000", /*message*/"Dream Live Parade: SP Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017", /*message*/"Dream Live Parade: Guard Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017_000", /*message*/"Dream Live Parade: Guard Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -3560,6 +3565,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"Bou
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"Sour Tears");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_1", /*message*/"A Scaredy-Cat&apos;s Way Home");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"Nature&apos;s Grace");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023002_1", /*message*/"Vision Atop a Snowy Mountain");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023002_2", /*message*/"Hot Enough to Melt Ice!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"The Legendary Maid Appears!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032002_1", /*message*/"Please!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"Shopping Together!");
@@ -3675,6 +3682,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"A P
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"Sparkle of the Soul");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"Peaceful and Exciting");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042002_1", /*message*/"Can&apos;t Back Down from Battle");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042003_1", /*message*/"A Bit Early for the Meeting");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"Eyes Are the Window to the Soul");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"Your Eyes Are Glued to Me");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"You&apos;d Batter Be Kidding");

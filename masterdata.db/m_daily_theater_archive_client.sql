@@ -688,3 +688,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000678, /*year*/2021, /*month*/12, /*day*/11, /*title*/"私の相棒！", /*published_at*/1639148400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000679, /*year*/2021, /*month*/12, /*day*/12, /*title*/"占いはヒント", /*published_at*/1639234800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000680, /*year*/2021, /*month*/12, /*day*/13, /*title*/"リトルデーモンへご褒美", /*published_at*/1639321200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000681, /*year*/2021, /*month*/12, /*day*/14, /*title*/"５０／５０", /*published_at*/1639407600);

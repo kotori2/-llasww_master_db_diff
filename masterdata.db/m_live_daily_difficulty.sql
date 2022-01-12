@@ -13,9 +13,6 @@ INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/1, /*live_difficu
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/2, /*live_difficulty_id*/11066101, /*drop_content_group_id*/320421411, /*rare_drop_content_group_id*/321421411);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/2, /*live_difficulty_id*/11066201, /*drop_content_group_id*/320421421, /*rare_drop_content_group_id*/321421421);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/2, /*live_difficulty_id*/11066301, /*drop_content_group_id*/320421431, /*rare_drop_content_group_id*/321421431);
-INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/3, /*live_difficulty_id*/12033101, /*drop_content_group_id*/360110611, /*rare_drop_content_group_id*/361110611);
-INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/3, /*live_difficulty_id*/12033201, /*drop_content_group_id*/360110612, /*rare_drop_content_group_id*/361210612);
-INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/3, /*live_difficulty_id*/12033301, /*drop_content_group_id*/360110613, /*rare_drop_content_group_id*/361310613);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/4, /*live_difficulty_id*/10076101, /*drop_content_group_id*/320120910, /*rare_drop_content_group_id*/321120910);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/4, /*live_difficulty_id*/10076201, /*drop_content_group_id*/320120920, /*rare_drop_content_group_id*/321120920);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/4, /*live_difficulty_id*/10076301, /*drop_content_group_id*/320120930, /*rare_drop_content_group_id*/321120930);
@@ -34,9 +31,6 @@ INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/10, /*live_diffic
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/11, /*live_difficulty_id*/11064101, /*drop_content_group_id*/320321510, /*rare_drop_content_group_id*/321321510);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/11, /*live_difficulty_id*/11064201, /*drop_content_group_id*/320321520, /*rare_drop_content_group_id*/321321520);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/11, /*live_difficulty_id*/11064301, /*drop_content_group_id*/320321530, /*rare_drop_content_group_id*/321321530);
-INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/12, /*live_difficulty_id*/12033101, /*drop_content_group_id*/360110641, /*rare_drop_content_group_id*/361110641);
-INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/12, /*live_difficulty_id*/12033201, /*drop_content_group_id*/360110642, /*rare_drop_content_group_id*/361210642);
-INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/12, /*live_difficulty_id*/12033301, /*drop_content_group_id*/360110643, /*rare_drop_content_group_id*/361310643);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/13, /*live_difficulty_id*/10061101, /*drop_content_group_id*/320320211, /*rare_drop_content_group_id*/321320211);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/13, /*live_difficulty_id*/10061201, /*drop_content_group_id*/320320221, /*rare_drop_content_group_id*/321320221);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/13, /*live_difficulty_id*/10061301, /*drop_content_group_id*/320320231, /*rare_drop_content_group_id*/321320231);
@@ -55,9 +49,6 @@ INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/18, /*live_diffic
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/19, /*live_difficulty_id*/11065101, /*drop_content_group_id*/320521110, /*rare_drop_content_group_id*/321521110);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/19, /*live_difficulty_id*/11065201, /*drop_content_group_id*/320521120, /*rare_drop_content_group_id*/321521120);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/19, /*live_difficulty_id*/11065301, /*drop_content_group_id*/320521130, /*rare_drop_content_group_id*/321521130);
-INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/21, /*live_difficulty_id*/12033101, /*drop_content_group_id*/380100610, /*rare_drop_content_group_id*/381100610);
-INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/21, /*live_difficulty_id*/12033201, /*drop_content_group_id*/380100620, /*rare_drop_content_group_id*/381100620);
-INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/21, /*live_difficulty_id*/12033301, /*drop_content_group_id*/380100630, /*rare_drop_content_group_id*/381100630);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/22, /*live_difficulty_id*/10073101, /*drop_content_group_id*/340120710, /*rare_drop_content_group_id*/341120710);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/22, /*live_difficulty_id*/10073201, /*drop_content_group_id*/340120720, /*rare_drop_content_group_id*/341120720);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/22, /*live_difficulty_id*/10073301, /*drop_content_group_id*/340120730, /*rare_drop_content_group_id*/341120730);
@@ -91,3 +82,15 @@ INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/36, /*live_diffic
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/37, /*live_difficulty_id*/12088102, /*drop_content_group_id*/370610711, /*rare_drop_content_group_id*/371610711);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/37, /*live_difficulty_id*/12088202, /*drop_content_group_id*/370610721, /*rare_drop_content_group_id*/371610721);
 INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/37, /*live_difficulty_id*/12088302, /*drop_content_group_id*/370610731, /*rare_drop_content_group_id*/371610731);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/38, /*live_difficulty_id*/12092102, /*drop_content_group_id*/360300601, /*rare_drop_content_group_id*/361300601);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/38, /*live_difficulty_id*/12092202, /*drop_content_group_id*/360300602, /*rare_drop_content_group_id*/361300602);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/38, /*live_difficulty_id*/12092302, /*drop_content_group_id*/360300603, /*rare_drop_content_group_id*/361300603);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/39, /*live_difficulty_id*/12092102, /*drop_content_group_id*/360300621, /*rare_drop_content_group_id*/361300621);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/39, /*live_difficulty_id*/12092202, /*drop_content_group_id*/360300622, /*rare_drop_content_group_id*/361300622);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/39, /*live_difficulty_id*/12092302, /*drop_content_group_id*/360300623, /*rare_drop_content_group_id*/361300623);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/40, /*live_difficulty_id*/12092102, /*drop_content_group_id*/380300610, /*rare_drop_content_group_id*/381300610);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/40, /*live_difficulty_id*/12092202, /*drop_content_group_id*/380300620, /*rare_drop_content_group_id*/381300620);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/40, /*live_difficulty_id*/12092302, /*drop_content_group_id*/380300630, /*rare_drop_content_group_id*/381300630);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/41, /*live_difficulty_id*/10011102, /*drop_content_group_id*/500900110, /*rare_drop_content_group_id*/501900110);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/41, /*live_difficulty_id*/10011202, /*drop_content_group_id*/500900120, /*rare_drop_content_group_id*/501900120);
+INSERT INTO `m_live_daily_difficulty` VALUES (/*live_daily_id*/41, /*live_difficulty_id*/10011302, /*drop_content_group_id*/500900130, /*rare_drop_content_group_id*/501900130);

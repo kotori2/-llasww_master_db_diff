@@ -26,3 +26,7 @@ INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/".^^", /*depen
 INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"1xX", /*dependency*/"§v;x");
 INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"1xX", /*dependency*/"§^xP");
 INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"1xX", /*dependency*/"§2/#");
+INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"{Fb", /*dependency*/"§?D#");
+INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"{Fb", /*dependency*/"§gn");
+INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"{Fb", /*dependency*/"§f~");
+INSERT INTO `live_prop_skeleton_dependency` VALUES (/*asset_path*/"{Fb", /*dependency*/"§8X8");

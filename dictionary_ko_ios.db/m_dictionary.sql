@@ -6,13 +6,13 @@ CREATE TABLE m_dictionary(
 INSERT INTO `m_dictionary` VALUES (/*id*/"apple_act_on_specified_commercial_transactions", /*message*/"特定商取引法に基づく表示
 
 販売業者
-        名称：ＫＬａｂ株式会社
-        住所：東京都港区六本木六丁目１０番１号
-        代表者：森田　英克
+        名称：株式会社ブシロード
+        住所：東京都中野区中央1丁目38-1 住友中野坂上ビル
+        代表者：橋本 義賢
 
 お問い合わせ先	
-        メール：	lovelive-as@support.klab.com
-        TEL：	03-4500-9200
+        メール：	support_legal_llas@bushimo.jp
+        TEL：	03-5348-0852
         お電話でのお問い合わせは原則お受けしておりません。メールにてお問い合わせ下さい。
 
 販売価格
@@ -26,7 +26,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"apple_act_on_specified_commercial_tran
 　(1)お支払時期
         サービス提供の前
 　(2)お支払方法
-        ゲーム内仮想通貨ご購入の際はKLab株式会社の定める決済手段によるものとなります。
+        ゲーム内仮想通貨ご購入の際は株式会社ブシロードの定める決済手段によるものとなります。
 
 提供時期
         代金の支払い後、直に利用可能。
@@ -39,11 +39,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"apple_act_on_specified_commercial_tran
         以下の動作環境にてご利用ください。
         対応OS：
         ・iOS 11以上
-
 ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"apple_eea_ad_purpose_of_use", /*message*/"KLAB
-CONSENT FORM (APPSFLYER) – GAME USERS
-KLab Inc. (“KLab”), based in Roppongi Hills Mori Tower 6-10-1 Roppongi Minato-ku, Tokyo 106-6122 Japan, is the parent company of the  Group.  This consent form is issued to you on behalf of the KLab Group companies, which control and process your personal data in the way described below.
+INSERT INTO `m_dictionary` VALUES (/*id*/"apple_eea_ad_purpose_of_use", /*message*/"BUSHIROAD INTERNATIONAL
+CONSENT FORM (APPSFLYER and ADJUST) – GAME USERS
+Bushiroad International Pte. Ltd., based in 331 North Bridge Road, #03-03 Odeon Towers,Singapore 188720.  This consent form is issued to you on behalf of the Bushiroad Group companies, which control and process your personal data in the way described below.
 
 1.        Request for your consent to process your personal data
 We hereby request your consent in order to use your personal data as follows:
@@ -52,7 +51,7 @@ Processed personal data:IP address, cookie data, advertising IDs / IDFA and othe
 Purpose:To analyse your behaviour online (e.g., websites visited by you), and provide behavioural and targeted advertising
 Legal basis:Your consent (article 6(1)(a) GDPR and article 5(3) e-Privacy directive)
 
-The processing of this personal data by AppsFlyer is therefore based on your consent (Article 6(1)(a) GDPR and Article 5(3) e-Privacy Directive).  At any time you may decide to withdraw your consent in relation to the processing of this data.  Until then, we will process this data for the purposes described above.  
+The processing of this personal data by AppsFlyer and Adjust is therefore based on your consent (Article 6(1)(a) GDPR and Article 5(3) e-Privacy Directive).  At any time you may decide to withdraw your consent in relation to the processing of this data.  Until then, we will process this data for the purposes described above.  
 
 2.        How long do we keep your personal data
 We will only retain your information as long as there is a statutory or legal requirement to do so or in order that we are able to meet the above mentioned purposes. This will usually require us to retain your information for a set period of time after any relationship has ended for accounts and records purposes.
@@ -72,7 +71,7 @@ You have the following rights:
 –        Portability of personal data: You may have the right to receive your personal data in a structured and commonly used format, when certain conditions apply.
 –        You also have the right to obtain from us a copy of any Standard Contract Clauses that we use if we transfer your data outside the EEA.
 To exercise your rights, or if you require further information about how we use your personal data, then contact: 
-        gdpr@support.klab.com
+         sg_support@bushiroad.com
 
 In case you are not satisfied with how we have handled your personal data request or how we obtain/use your data, then you may wish to lodge a complaint by contacting a Data Protection Supervisory Authority; for example, the Authority of your place of residence within the EEA.
 ");
@@ -86,11 +85,12 @@ If you choose \"Send\", information such as your device type and where the crash
 
 Please note, if you change the Crash Reporting settings, the app must be rebooted.
 ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"apple_eea_privacy_policy", /*message*/"KLab Inc.
+INSERT INTO `m_dictionary` VALUES (/*id*/"apple_eea_privacy_policy", /*message*/"Bushiroad International Pte. Ltd.
 
 PRIVACY POLICY (EU/EEA)
 
-This privacy policy applies to personal data of individuals located in the European Union (“EU”) and the European Economic Area (“EEA”) that are collected by, transferred to and processed by KLab Inc., Roppongi Hills Mori Tower, 6-10-1 Roppongi, Minato-ku, Tokyo, 106-6122, Japan (“Company”).
+This privacy policy applies to personal data of individuals located in the European Union (“EU”) and the European Economic Area (“EEA”) that are collected by, transferred to and processed by Bushiroad International Pte. Ltd., 331 North Bridge Road, #03-03 Odeon Towers,
+Singapore 188720 (“Company”).
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY
 
@@ -128,7 +128,7 @@ Processed personal data: Device information, application-related data
 Purpose: to detect the use of automated programs in order toprevent cheating
 
 2.2 Subscription to Service-Related Information
-If you would like to be informed about the latest news and upcoming events you will have the option of using your email address for this purpose (or your SNS account). We will use your email address or SNS account for regularly sending you service-related information. Providing your email address or SNS account for this purpose is voluntary. However, without providing your email address or SNS account you will not receive information about news and upcoming events from those sources. The legal basis for the processing of your personal data for sending service-related information is your consent (Art. 6 (1) lit. a GDPR). If you have declared your consent you can withdraw your consent at any time with future effect under: gdpr@support.klab.com. Please note that a withdrawal will not affect the lawfulness of the processing prior to the consent.
+If you would like to be informed about the latest news and upcoming events you will have the option of using your email address for this purpose (or your SNS account). We will use your email address or SNS account for regularly sending you service-related information. Providing your email address or SNS account for this purpose is voluntary. However, without providing your email address or SNS account you will not receive information about news and upcoming events from those sources. The legal basis for the processing of your personal data for sending service-related information is your consent (Art. 6 (1) lit. a GDPR). If you have declared your consent you can withdraw your consent at any time with future effect under: sg_support@bushiroad.com. Please note that a withdrawal will not affect the lawfulness of the processing prior to the consent.
 
 2.3 Website Services
 We automatically collect and process certain information from you via our website. Please refer to our cookie policy regarding the collection of these data. The legal basis for these purposes is our legitimate interest to support the promotion and provision of our Game Services via our website (Art. 6 (1) lit. f GDPR). Within the provision of Website, we process the following personal data for the following purposes:
@@ -137,7 +137,7 @@ Processed personal data: IP address, your country (no other geographical informa
 Purpose: maintain the performance, stability and security of our website, simplify the use and recognize trends and activities associated with our website and make our website more user-friendly and effective overall to assist debugging, and to improve our service and its stability
 
 2.4 Online Advertising and Advertising Measurement
-With your consent (Art. 6 (1) lit. a GDPR), the Company may automatically collect and process certain information from you, which we have received (i) via the applications that you use for the provision of our Game Services and (ii) from your internet browser when you visit our website to analyse your behaviour online (e.g., websites visited by you), and conduct behavioural and targeted advertising to support our efforts to deliver a more valuable service and to send messages with informative or commercial content about the Company and its services and also related third party products and services that we think may be of interest to you. Please refer to our cookie policy regarding the collection of these data. We will not use your personal data for these purposes unless you have consented to such use of your personal data. Please note that without providing your consent, you will be still able to use our Game Services. Providing your consent is voluntary, however, without providing your consent, you will not be able to receive any of the service information. If you have declared your consent you can withdraw your consent at any time with future effect under: gdpr@support.klab.com. Please note that a withdrawal will not affect the lawfulness of the processing prior to the consent.
+With your consent (Art. 6 (1) lit. a GDPR), the Company may automatically collect and process certain information from you, which we have received (i) via the applications that you use for the provision of our Game Services and (ii) from your internet browser when you visit our website to analyse your behaviour online (e.g., websites visited by you), and conduct behavioural and targeted advertising to support our efforts to deliver a more valuable service and to send messages with informative or commercial content about the Company and its services and also related third party products and services that we think may be of interest to you. Please refer to our cookie policy regarding the collection of these data. We will not use your personal data for these purposes unless you have consented to such use of your personal data. Please note that without providing your consent, you will be still able to use our Game Services. Providing your consent is voluntary, however, without providing your consent, you will not be able to receive any of the service information. If you have declared your consent you can withdraw your consent at any time with future effect under: sg_support@bushiroad.com. Please note that a withdrawal will not affect the lawfulness of the processing prior to the consent.
 
 To help the Company develop, deliver, manage and improve the Services and advertising, we process the following personal data for the following purposes:
 No. 1
@@ -157,7 +157,7 @@ Purpose: to audit and analyse data to improve the Services and customer communic
 For the purposes and within the scope set forth in this Data Privacy Policy, we may share your personal data with our affiliated entities and with third party providers, who act as data processors of the Company. When providing their services to the Company, the affiliates and third party providers may have access to and/or may process your personal data and will be subject to contractual obligations under data processing agreements (DPA) to implement appropriate technical and organizational security measures to safeguard the personal data and to process the personal data only as instructed and on a strict need to know basis. Furthermore, the affiliates and third party providers will be bound by applicable data protection laws and the Company will conduct regular data privacy audits on the processing of personal data for the Company. Where we share your data with a data processor, your personal data may be transferred to and processed by processors which are located outside the EU or EEA and which do not provide for an adequate level of data protection from an EU law perspective. To the extent your personal data are transferred to countries that do not provide for an adequate level of data protection from an EU law perspective, we will base the respective transfer on appropriate safeguards, such as standard data protection clauses adopted by the European Commission and such safeguards may be made available on a need to know basis pursuant to the GDPR upon request.
 
 3.1 Affiliated Companies
-For the provision of our Game Services (see above 2.1), we share your personal data with some of our affiliated companies, which are directly or indirectly 100% controlled by the Company. The affiliated company is KLab China Inc. (China).
+For the provision of our Game Services (see above 2.1), we share your personal data with some of our affiliated companies, which are directly or indirectly 100% controlled by the Company. The affiliated company is Mynet Inc. (Japan).
 
 3.2 Service Providers
 
@@ -201,109 +201,110 @@ We may propose hypertext links from the Company`s website to third-party website
 This Privacy Policy applies to all personal data processed from May 25, 2018. We may revise or update this Privacy Policy from time to time and inform you in accordance with the applicable data protection laws.
 
 10. CONTACT
-If you have any questions about this Privacy Policy and the Company’s data processing activities or if you want to exercise any of your rights under GDPR, please contact: gdpr@support.klab.com You can also contact the Company’s data protection officer: 
-AMI Data&amp;Solutions UG
-Address: Marie-Curie-Strasse 6, 85055 Ingolstadt, Germany.
-Telephone: +49 (0) 89-71680318-1
-Email address: dpo@amipartners.de
+If you have any questions about this Privacy Policy and the Company’s data processing activities or if you want to exercise any of your rights under GDPR, please contact: sg_support@bushiroad.com You can also contact the Company’s Information Management Supervisor: Shunichi Taira
+Bushiroad International Pte. Ltd.
+331 North Bridge Road
+#03-03 Odeon Towers, Singapore 188720
+Tel      +65-6337-1153
+Email address: staira@bushiroad.com
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"apple_eea_terms_of_use", /*message*/"Terms of Use
 
-The following are KLab Inc. and its related entities (collectively referred to as “KLab”, “we”, “us”, or “our”) terms and conditions of use (“Terms”):
+The following are Bushiroad International Pte. Ltd. and its related entities (collectively referred to as “Bushiroad International”, “we”, “us”, or “our”) terms and conditions of use (“Terms”):
 
-Please read these Terms carefully because they govern your access to and use of the KLab Services (as defined below), KLab Content, and User Content (defined below) and are legally binding. KLab’s Privacy Policy is incorporated as a part of these Terms and, by installing, accessing or using the KLab Services you explicitly agree with the terms and conditions of KLab’s Privacy Policy and to any terms and conditions included therein by reference.
+Please read these Terms carefully because they govern your access to and use of the Bushiroad International Services (as defined below), Bushiroad International Content, and User Content (defined below) and are legally binding. Bushiroad International’s Privacy Policy is incorporated as a part of these Terms and, by installing, accessing or using the Bushiroad International Services you explicitly agree with the terms and conditions of Bushiroad International’s Privacy Policy and to any terms and conditions included therein by reference.
 
-YOU ACKNOWLEDGE AND AGREE THAT, BY CLICKING ON THE “AGREE” BUTTON WHERE APPLICABLE, OR BY ACCESSING OR USING THE KLAB SERVICES OR BY DOWNLOADING, SENDING OR POSTING ANY CONTENT ON OR THROUGH THE KLAB SERVICES, YOU ARE INDICATING THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, THEN YOU HAVE NO RIGHT TO ACCESS OR USE THE KLAB SERVICES OR KLAB CONTENT.
+YOU ACKNOWLEDGE AND AGREE THAT, BY CLICKING ON THE “AGREE” BUTTON WHERE APPLICABLE, OR BY ACCESSING OR USING THE BUSHIROAD INTERNATIONAL SERVICES OR BY DOWNLOADING, SENDING OR POSTING ANY CONTENT ON OR THROUGH THE BUSHIROAD INTERNATIONAL SERVICES, YOU ARE INDICATING THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, THEN YOU HAVE NO RIGHT TO ACCESS OR USE THE BUSHIROAD INTERNATIONAL SERVICES OR BUSHIROAD INTERNATIONAL CONTENT.
 
-The “KLab Services” means (i) the websites, including any services, applications, games, features and content accessible or downloadable from the websites, and (ii) any other application, game, service, product, feature or content of KLab or its licensors licensed, downloaded, or otherwise assessed by you through any third party website, platform or source. KLab Services also include updates and upgrades as well as accompanying manuals and documentation, and all copies thereof.
+The “Bushiroad International Services” means (i) the websites, including any services, applications, games, features and content accessible or downloadable from the websites, and (ii) any other application, game, service, product, feature or content of Bushiroad International or its licensors licensed, downloaded, or otherwise assessed by you through any third party website, platform or source. Bushiroad International Services also include updates and upgrades as well as accompanying manuals and documentation, and all copies thereof.
 
-Your access to or use of the KLab Services may have different service-specific terms and conditions (“Rules”) posted on our websites or third party websites or platforms (such as terms related to a specific mobile game), or may require you to agree with and accept such additional Rules. If there is a conflict between these Terms and Rules, the applicable Rules will take precedence with respect to your use of, or access to, the KLab Services.
+Your access to or use of the Bushiroad International Services may have different service-specific terms and conditions (“Rules”) posted on our websites or third party websites or platforms (such as terms related to a specific mobile game), or may require you to agree with and accept such additional Rules. If there is a conflict between these Terms and Rules, the applicable Rules will take precedence with respect to your use of, or access to, the Bushiroad International Services.
 
 
 1. Eligibility and Registration
 
-Unless otherwise provided for a specific KLab Service, in order to access the KLab Services, and to post any User Content on or through the KLab Services, you must register through the registration process established by KLab and obtain approval from us to access and use the KLab Services (“Approval”). Upon Approval, you will become an authorized user of the KLab Services (“User”) and may be issued or set a Service ID (“Service ID”) which is necessary to use the KLab Services, and if we determine appropriate, a password for the Service ID may also be issued or you will set it. The Service ID and password can be modified only by means of an authorized function of the applicable KLab Service, The Service ID may contain Personal Information (as defined in KLab’s Privacy Policy) and Non-Identifying Information (as defined in KLab’s Privacy Policy) as well as Virtual Items and Virtual Currency (as defined below).
+Unless otherwise provided for a specific Bushiroad International Service, in order to access the Bushiroad International Services, and to post any User Content on or through the Bushiroad International Services, you must register through the registration process established by Bushiroad International and obtain approval from us to access and use the Bushiroad International Services (“Approval”). Upon Approval, you will become an authorized user of the Bushiroad International Services (“User”) and may be issued or set a Service ID (“Service ID”) which is necessary to use the Bushiroad International Services, and if we determine appropriate, a password for the Service ID may also be issued or you will set it. The Service ID and password can be modified only by means of an authorized function of the applicable Bushiroad International Service, The Service ID may contain Personal Information (as defined in Bushiroad International’s Privacy Policy) and Non-Identifying Information (as defined in Bushiroad International’s Privacy Policy) as well as Virtual Items and Virtual Currency (as defined below).
 
-You agree that if you are under the age of 18 or whatever is the age of legal majority where you access the KLab Services, you represent that your legal guardian has read, understood, and agreed to these Terms.
+You agree that if you are under the age of 18 or whatever is the age of legal majority where you access the Bushiroad International Services, you represent that your legal guardian has read, understood, and agreed to these Terms.
 
-In registering for Approval and a Service ID, you agree to monitor and restrict any use of the KLab Services by minors. You accept full responsibility for any unauthorized use of the KLab Services by minors, and this includes any use of your credit cards or other payment or settlement instruments or devices by minors.
+In registering for Approval and a Service ID, you agree to monitor and restrict any use of the Bushiroad International Services by minors. You accept full responsibility for any unauthorized use of the Bushiroad International Services by minors, and this includes any use of your credit cards or other payment or settlement instruments or devices by minors.
 
-You may not register for Approval or a Service ID if you are below the age of 14. In registering for Approval and a Service ID, you agree to prevent access to anyone under 14. Since the KLab Services are not intended for children under the age of 14 (“children”), access to the KLab Services or issuance of a Service ID is not knowingly granted to children.
+You may not register for Approval or a Service ID if you are below the age of 14. In registering for Approval and a Service ID, you agree to prevent access to anyone under 14. Since the Bushiroad International Services are not intended for children under the age of 14 (“children”), access to the Bushiroad International Services or issuance of a Service ID is not knowingly granted to children.
 
-During the registration process, you will be required to provide certain information, including your email address. You agree to provide accurate, current and complete information during the registration process and to update such information to keep it accurate, current and complete. KLab reserves the right to suspend or terminate your Service ID if any information provided during the registration process or thereafter proves to be inaccurate, not current or incomplete.
+During the registration process, you will be required to provide certain information, including your email address. You agree to provide accurate, current and complete information during the registration process and to update such information to keep it accurate, current and complete. Bushiroad International reserves the right to suspend or terminate your Service ID if any information provided during the registration process or thereafter proves to be inaccurate, not current or incomplete.
 
-If you are issued a password, you are responsible for safeguarding your password. You agree not to disclose your password to any third party or to allow any third party to use your Service ID, and you agree to take sole responsibility for any activities or actions under your Service ID, whether or not you have authorized such activities or actions. You will immediately take appropriate measure (e.g., change of the password, or notify to KLab ) upon any unauthorized use of your Service ID and/or loss of your password. In the event of loss of your password, you agree that you will solely be responsible for any missing items related to the KLab Services, including but not limited to, Virtual Currency (as defined below).
+If you are issued a password, you are responsible for safeguarding your password. You agree not to disclose your password to any third party or to allow any third party to use your Service ID, and you agree to take sole responsibility for any activities or actions under your Service ID, whether or not you have authorized such activities or actions. You will immediately take appropriate measure (e.g., change of the password, or notify to Bushiroad International ) upon any unauthorized use of your Service ID and/or loss of your password. In the event of loss of your password, you agree that you will solely be responsible for any missing items related to the Bushiroad International Services, including but not limited to, Virtual Currency (as defined below).
 
-A Service ID will be issued per a new use of the KLab Service. If you decide to use your Service ID for new usage environment, you will be required to complete KLab’s process for changing usage environment.
+A Service ID will be issued per a new use of the Bushiroad International Service. If you decide to use your Service ID for new usage environment, you will be required to complete Bushiroad International’s process for changing usage environment.
 
 
 2. Modification
 
-KLab reserves the right, at its sole discretion, to modify, discontinue or terminate all or any of the KLab Services, including any portion thereof, on a global or individual basis, or to modify these Terms, at any time and without prior notice. If we modify these Terms or our Privacy Policy, we will post these Terms or Privacy Policy as modified or otherwise provide you with notice of the modification. By continuing to access or use the KLab Services after we have posted a modification to these Terms or Privacy Policy or have provided you with notice of a modification, you are indicating that you agree to be bound by the modified Terms or Privacy Policy. If the modified Terms or Privacy Policy are not acceptable to you, your only recourse is to cease using the KLab Services.
+Bushiroad International reserves the right, at its sole discretion, to modify, discontinue or terminate all or any of the Bushiroad International Services, including any portion thereof, on a global or individual basis, or to modify these Terms, at any time and without prior notice. If we modify these Terms or our Privacy Policy, we will post these Terms or Privacy Policy as modified or otherwise provide you with notice of the modification. By continuing to access or use the Bushiroad International Services after we have posted a modification to these Terms or Privacy Policy or have provided you with notice of a modification, you are indicating that you agree to be bound by the modified Terms or Privacy Policy. If the modified Terms or Privacy Policy are not acceptable to you, your only recourse is to cease using the Bushiroad International Services.
 
 
 3. Content
 
-The following types of content will be made available to you through the KLab Services:
+The following types of content will be made available to you through the Bushiroad International Services:
 
-“KLab Content” means KLab’s and the KLab Services’ name, trademarks, logos, text, data, graphics, images, illustrations, forms, documents, marketing materials, look and feel attributes, or our licensors’ name, trademarks and logos, and other content made available by KLab on or through the KLab Services, but excluding User Content (as defined below).
+“Bushiroad International Content” means Bushiroad International’s and the Bushiroad International Services’ name, trademarks, logos, text, data, graphics, images, illustrations, forms, documents, marketing materials, look and feel attributes, or our licensors’ name, trademarks and logos, and other content made available by Bushiroad International on or through the Bushiroad International Services, but excluding User Content (as defined below).
 
-“User Content” means text, data, graphics, images, photos, and any other content uploaded, transmitted or submitted by you on or through the KLab Services, whether made available to many unspecified persons or privately to specified persons.
+“User Content” means text, data, graphics, images, photos, and any other content uploaded, transmitted or submitted by you on or through the Bushiroad International Services, whether made available to many unspecified persons or privately to specified persons.
 
 
 4. Intellectual Property
 
-The KLab Services and KLab Content are protected by copyright, trademark, and other laws of the United States and foreign countries. Except as expressly provided in these Terms, KLab and our licensors exclusively own all right, title and interest in and to the KLab Services and KLab Content, including all associated intellectual property rights, including any patents, copyrights, trademarks, service marks, trade names, database rights, domain name rights, applications for any of the foregoing, moral rights and trade secret rights (“Intellectual Property Rights”).
+The Bushiroad International Services and Bushiroad International Content are protected by copyright, trademark, and other laws of the United States and foreign countries. Except as expressly provided in these Terms, Bushiroad International and our licensors exclusively own all right, title and interest in and to the Bushiroad International Services and Bushiroad International Content, including all associated intellectual property rights, including any patents, copyrights, trademarks, service marks, trade names, database rights, domain name rights, applications for any of the foregoing, moral rights and trade secret rights (“Intellectual Property Rights”).
 
-You will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the KLab Services or KLab Content.
+You will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Bushiroad International Services or Bushiroad International Content.
 
 
 5. User License
 
-Subject to your compliance with these Terms, KLab hereby grants you a limited, non-exclusive, non-transferable, non-sublicensable license to, in ordinary and reasonably foreseeable ways, access, view, download and print, where applicable, the KLab Content and KLab Services solely for your personal and non-commercial purposes. You will not use, copy, adapt, modify, prepare derivative works based upon, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast or otherwise exploit the KLab Services or KLab Content, except only as expressly permitted by these Terms. No licenses or rights are granted to you by implication or otherwise under any Intellectual Property Rights owned or controlled by KLab or its licensors, except for the licenses and rights expressly granted by these Terms.
+Subject to your compliance with these Terms, Bushiroad International hereby grants you a limited, non-exclusive, non-transferable, non-sublicensable license to, in ordinary and reasonably foreseeable ways, access, view, download and print, where applicable, the Bushiroad International Content and Bushiroad International Services solely for your personal and non-commercial purposes. You will not use, copy, adapt, modify, prepare derivative works based upon, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast or otherwise exploit the Bushiroad International Services or Bushiroad International Content, except only as expressly permitted by these Terms. No licenses or rights are granted to you by implication or otherwise under any Intellectual Property Rights owned or controlled by Bushiroad International or its licensors, except for the licenses and rights expressly granted by these Terms.
 
 
 6. User Content
 
-By making available any User Content on or through the KLab Services, you hereby grant to KLab a worldwide, irrevocable, perpetual, non-exclusive, transferable, royalty-free license, with the right to sublicense, use, copy, adapt, modify, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast and otherwise exploit such User Content only on, through or by means of the KLab Services. KLab does not claim any ownership rights in any such User Content and nothing in these Terms will be deemed to restrict any rights that you may have to use and exploit any such User Content.
+By making available any User Content on or through the Bushiroad International Services, you hereby grant to Bushiroad International a worldwide, irrevocable, perpetual, non-exclusive, transferable, royalty-free license, with the right to sublicense, use, copy, adapt, modify, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast and otherwise exploit such User Content only on, through or by means of the Bushiroad International Services. Bushiroad International does not claim any ownership rights in any such User Content and nothing in these Terms will be deemed to restrict any rights that you may have to use and exploit any such User Content.
 
-If KLab deems it necessary in its sole discretion,  KLab may inspect, modify, change, or remove, in whole or part,  any User Content and may do so without any prior notice or explanation thereof.
+If Bushiroad International deems it necessary in its sole discretion,  Bushiroad International may inspect, modify, change, or remove, in whole or part,  any User Content and may do so without any prior notice or explanation thereof.
 
-You acknowledge and agree that you are solely responsible for all User Content that you make available on or through the KLab Services. Accordingly, you represent and warrant that:
+You acknowledge and agree that you are solely responsible for all User Content that you make available on or through the Bushiroad International Services. Accordingly, you represent and warrant that:
 
- - You either are the sole and exclusive owner of all User Content that you make available on or through the KLab Services or you have all rights, licenses, consents and releases that are necessary to grant to KLab the rights in such User Content as contemplated under these Terms; and
- - Neither the User Content nor your posting, uploading, publication, submission or transmittal of the User Content or KLab’s use of the User Content (or any portion thereof) on, through or by means of the KLab Services will infringe, misappropriate or violate a third party's Intellectual Property Rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.
+ - You either are the sole and exclusive owner of all User Content that you make available on or through the Bushiroad International Services or you have all rights, licenses, consents and releases that are necessary to grant to Bushiroad International the rights in such User Content as contemplated under these Terms; and
+ - Neither the User Content nor your posting, uploading, publication, submission or transmittal of the User Content or Bushiroad International’s use of the User Content (or any portion thereof) on, through or by means of the Bushiroad International Services will infringe, misappropriate or violate a third party's Intellectual Property Rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.
 
 
 7. No Infringing Use
 
-You will not use the KLab Services to offer, display, distribute, transmit, route, provide connections to or store any material that infringes copyrighted works or otherwise infringes, violates, or promotes the infringement or violation of the Intellectual Property Rights of any third party.
+You will not use the Bushiroad International Services to offer, display, distribute, transmit, route, provide connections to or store any material that infringes copyrighted works or otherwise infringes, violates, or promotes the infringement or violation of the Intellectual Property Rights of any third party.
 
 
 8. Virtual Items and Virtual Currency
 
-KLab owns, has licensed, or otherwise has the rights to use all KLab Content and the KLab Services, including virtual items (“Virtual Items”) and virtual currency such as “gold” (“Virtual Currency”).
+Bushiroad International owns, has licensed, or otherwise has the rights to use all Bushiroad International Content and the Bushiroad International Services, including virtual items (“Virtual Items”) and virtual currency such as “gold” (“Virtual Currency”).
 
-Virtual Items and Virtual Currency are provided solely for your personal and entertainment use, they may only be used in the applicable KLab Services, and they have no “real world” value. By purchasing or receiving Virtual Items and Virtual Currency, all that you receive is a limited license to use them in the applicable KLab Services by these Terms or such other terms as may apply; Virtual Items and Virtual Currency are not your personal property, and no ownership interest  or rights related thereto are transferred to you.
+Virtual Items and Virtual Currency are provided solely for your personal and entertainment use, they may only be used in the applicable Bushiroad International Services, and they have no “real world” value. By purchasing or receiving Virtual Items and Virtual Currency, all that you receive is a limited license to use them in the applicable Bushiroad International Services by these Terms or such other terms as may apply; Virtual Items and Virtual Currency are not your personal property, and no ownership interest  or rights related thereto are transferred to you.
 
 The prices for and the amounts and kinds of Virtual Items and Virtual Currency available may be changed at any time without notice. Virtual Items and Virtual Currency that you receive may also be changed or discontinued at any time without notice.
 
-You cannot sell or transfer, or attempt to sell or transfer, Virtual Items, Virtual Currency, or any related rights thereto, except only that where allowed you can exchange, within the applicable KLab Services, those Virtual Items specified by KLab as tradable (“Tradable Items”) for any other User’s Tradable Items so long as no money or anything of monetary value is paid, exchanged or given for Tradable Items; any other purported or attempted exchange is strictly prohibited.
+You cannot sell or transfer, or attempt to sell or transfer, Virtual Items, Virtual Currency, or any related rights thereto, except only that where allowed you can exchange, within the applicable Bushiroad International Services, those Virtual Items specified by Bushiroad International as tradable (“Tradable Items”) for any other User’s Tradable Items so long as no money or anything of monetary value is paid, exchanged or given for Tradable Items; any other purported or attempted exchange is strictly prohibited.
 
-Virtual Items and Virtual Currency may never be redeemed by you for “real world” money, goods, wares, merchandise, services, or anything of monetary value from KLab or any other person.
+Virtual Items and Virtual Currency may never be redeemed by you for “real world” money, goods, wares, merchandise, services, or anything of monetary value from Bushiroad International or any other person.
 
-You are solely responsible for any payments of Virtual Items and Virtual Currency made through a third-party digital media distribution service (“Third-Party Distributor”), and any claims, demands, or complaints made against a Third-Party Distributor shall be resolved between you and such Third-Party Distributor. KLab will not be liable for any claims, demands, or complaints you make against a Third-Party Distributor.
+You are solely responsible for any payments of Virtual Items and Virtual Currency made through a third-party digital media distribution service (“Third-Party Distributor”), and any claims, demands, or complaints made against a Third-Party Distributor shall be resolved between you and such Third-Party Distributor. Bushiroad International will not be liable for any claims, demands, or complaints you make against a Third-Party Distributor.
 
 
 9. Orders and Payment
 
-You agree that if you are under the age of 18 or whatever is the age of legal majority where you access the KLab Services, you may make payments only with the involvement of your legal guardian, and you represent that your legal guardian has read, understood, and agreed to these Terms.
+You agree that if you are under the age of 18 or whatever is the age of legal majority where you access the Bushiroad International Services, you may make payments only with the involvement of your legal guardian, and you represent that your legal guardian has read, understood, and agreed to these Terms.
 
-You may purchase, with “real world” money, limited licenses to use Virtual Items or Virtual Currency from KLab in accordance with these Terms, and you agree that all such purchases are final. If you order licenses for Virtual Items or Virtual Currency from KLab that become unavailable before they can be provided to you, your only remedy is to request a refund of the purchase price from the payment processor of the transaction.
+You may purchase, with “real world” money, limited licenses to use Virtual Items or Virtual Currency from Bushiroad International in accordance with these Terms, and you agree that all such purchases are final. If you order licenses for Virtual Items or Virtual Currency from Bushiroad International that become unavailable before they can be provided to you, your only remedy is to request a refund of the purchase price from the payment processor of the transaction.
 
 Your orders for limited licenses to Virtual Items or Virtual Currency are offers for use of those Virtual Items or Virtual Currency, and if accepted those Virtual Items or Virtual Currency will be immediately downloaded to your Service ID.
 
-You expressly consent to the making available of Virtual Items and Virtual Currency immediately upon acceptance of your order. You understand and agree that KLab provides no refunds for any purchases except only as expressly stated in these Terms.
+You expressly consent to the making available of Virtual Items and Virtual Currency immediately upon acceptance of your order. You understand and agree that Bushiroad International provides no refunds for any purchases except only as expressly stated in these Terms.
 
 
 10. Costs and Taxes
@@ -313,18 +314,18 @@ You are responsible and will pay all costs, expenses (including, but not limited
  
 11. Mobile Operating Software Providers and Third-Party Publishers
 
-Providers of operating software for mobile devices (“OS Providers”) offer virtual storefronts and marketplaces for you to browse, locate and download, among other things, mobile applications. If you download the KLab Services from a virtual storefront or marketplace operated by your OS Provider, please note that, in addition to complying with these Terms (and the terms and conditions of any applicable third-party publisher), you must also comply with the terms and conditions of such virtual storefront or marketplace.
+Providers of operating software for mobile devices (“OS Providers”) offer virtual storefronts and marketplaces for you to browse, locate and download, among other things, mobile applications. If you download the Bushiroad International Services from a virtual storefront or marketplace operated by your OS Provider, please note that, in addition to complying with these Terms (and the terms and conditions of any applicable third-party publisher), you must also comply with the terms and conditions of such virtual storefront or marketplace.
 
-In addition to the above, the KLab Service may have a function which uses the third party’s service.  If you use such function, you must also comply with the terms and conditions of such third party’s service.
+In addition to the above, the Bushiroad International Service may have a function which uses the third party’s service.  If you use such function, you must also comply with the terms and conditions of such third party’s service.
 
 12. Interactions between Users
 
-You are solely responsible for your interactions (including any disputes) with other Users. Even if we choose to offer report user, block user, or similar features on the KLab Services, you will remain solely responsible for, and you must exercise caution, discretion, common sense and judgment in, using the KLab Services and disclosing personal information to other Users. You agree to take reasonable precautions in all interactions with other Users, particularly if you decide to contact or meet another User offline, or in person. Your use of the KLab Services, KLab Content, User Content and any other content made available through the KLab Services is at your sole risk and discretion and KLab hereby disclaims any and all liability to you or any third party relating thereto. KLab reserves the right to contact Users, in compliance with applicable law, in order to evaluate compliance with these Terms and any other applicable Rules. You will cooperate fully with KLab to investigate any suspected unlawful, fraudulent or improper activity, including, without limitation, granting authorized KLab representatives access to any password-protected portions of Service ID.
+You are solely responsible for your interactions (including any disputes) with other Users. Even if we choose to offer report user, block user, or similar features on the Bushiroad International Services, you will remain solely responsible for, and you must exercise caution, discretion, common sense and judgment in, using the Bushiroad International Services and disclosing personal information to other Users. You agree to take reasonable precautions in all interactions with other Users, particularly if you decide to contact or meet another User offline, or in person. Your use of the Bushiroad International Services, Bushiroad International Content, User Content and any other content made available through the Bushiroad International Services is at your sole risk and discretion and Bushiroad International hereby disclaims any and all liability to you or any third party relating thereto. Bushiroad International reserves the right to contact Users, in compliance with applicable law, in order to evaluate compliance with these Terms and any other applicable Rules. You will cooperate fully with Bushiroad International to investigate any suspected unlawful, fraudulent or improper activity, including, without limitation, granting authorized Bushiroad International representatives access to any password-protected portions of Service ID.
 
 
 13. General Prohibitions
 
-You agree not to do any of the following while using the KLab Services or using the KLab Content or User Content:
+You agree not to do any of the following while using the Bushiroad International Services or using the Bushiroad International Content or User Content:
 
 ●        Post, upload, publish, submit or transmit any text, graphics, images, software, music, audio, video, information or other material that:
         a) infringes, misappropriates or violates a third party's Intellectual Property Rights, rights of publicity or privacy, reputation or public standing, or any other properties;
@@ -334,63 +335,63 @@ You agree not to do any of the following while using the KLab Services or using 
         e) is political or religious;
         f) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group;
         g) is violent or threatening or promotes violence or actions that are threatening to any other person;
-        h) impersonates any employee, executive, or customer service support employee of KLab;
+        h) impersonates any employee, executive, or customer service support employee of Bushiroad International;
         i) promotes illegal, harmful, or inappropriate activities or substances (including but not limited to activities that promote or provide instructional information regarding gambling, solicitation for sexual activities or dating, providing alcohol to minors, or the manufacture or purchase of illegal weapons, drugs, or substances); or
-j) uses, in whole or part, any KLab reply to any inquiry or notice by User to KLab.
+j) uses, in whole or part, any Bushiroad International reply to any inquiry or notice by User to Bushiroad International.
 ●        -Take the following actions with respect to Virtual Currency:
 a) to hold or use Virtual Currency for the purpose of deposit;
 b) to hold or use Virtual Currency for the purpose of exchange or refund;
 c) to hold or use Virtual Currency for the purpose of money laundering;
 d) acquiring Virtual Currency by illegal means or using Virtual Currency knowing that it is acquired by illegal means;.
 e) in addition to the above, using our services to perform any act of holding or using Virtual Currency in a manner that is beyond ordinary or reasonable.
-●         - Use, display, mirror, frame or utilize framing techniques to enclose the KLab Services, or any individual element or materials within the KLab Services, KLab Content, or KLab licensors’ trademarks, logos or other proprietary information, the content of any text or the layout and design of any page or form contained on a page, without KLab’s express written consent;
-●         - Access, tamper with, or use non-public areas of the KLab Services, KLab’s computer systems, or the technical delivery systems of KLab’s providers;
-●         - Attempt to probe, scan, or test the vulnerability of any KLab system or network or breach any security or authentication measures;
-●         - Avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by KLab or any of KLab’s providers or any other third party (including another User) to protect the KLab Services or KLab Content;
-●         - Attempt to access or search the KLab Services or KLab Content, or download the KLab Services or KLab Content in the KLab Services, through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by KLab or other generally available third-party web browsers;
+●         - Use, display, mirror, frame or utilize framing techniques to enclose the Bushiroad International Services, or any individual element or materials within the Bushiroad International Services, Bushiroad International Content, or Bushiroad International licensors’ trademarks, logos or other proprietary information, the content of any text or the layout and design of any page or form contained on a page, without Bushiroad International’s express written consent;
+●         - Access, tamper with, or use non-public areas of the Bushiroad International Services, Bushiroad International’s computer systems, or the technical delivery systems of Bushiroad International’s providers;
+●         - Attempt to probe, scan, or test the vulnerability of any Bushiroad International system or network or breach any security or authentication measures;
+●         - Avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by Bushiroad International or any of Bushiroad International’s providers or any other third party (including another User) to protect the Bushiroad International Services or Bushiroad International Content;
+●         - Attempt to access or search the Bushiroad International Services or Bushiroad International Content, or download the Bushiroad International Services or Bushiroad International Content in the Bushiroad International Services, through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by Bushiroad International or other generally available third-party web browsers;
 ●         - Send any unsolicited or unauthorized advertising, promotional materials, email, junk mail, spam, chain letters or other form of solicitation;
-●         - Use any meta tags or other hidden text or metadata utilizing KLab Content or KLab licensor’s trademark, logo URL or product name without KLab’s express written consent;
-●         - Use the KLab Services or KLab Content for any commercial purpose or the benefit of any third party or in any manner not permitted by these Terms;
-●         - Forge any TCP/IP packet header or any part of the header information in any email or newsgroup posting, or in any way the KLab Services or KLab Content to send altered, deceptive or false source-identifying information;
-●         - Attempt to decipher, decompile, disassemble or reverse engineer any of the software used to provide the KLab Services or KLab Content;
-●         - Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the KLab Services;
-●         - Collect, store, or disclose any Personal Information of other Users from the KLab Services, or from other Users, without their express permission;
+●         - Use any meta tags or other hidden text or metadata utilizing Bushiroad International Content or Bushiroad International licensor’s trademark, logo URL or product name without Bushiroad International’s express written consent;
+●         - Use the Bushiroad International Services or Bushiroad International Content for any commercial purpose or the benefit of any third party or in any manner not permitted by these Terms;
+●         - Forge any TCP/IP packet header or any part of the header information in any email or newsgroup posting, or in any way the Bushiroad International Services or Bushiroad International Content to send altered, deceptive or false source-identifying information;
+●         - Attempt to decipher, decompile, disassemble or reverse engineer any of the software used to provide the Bushiroad International Services or Bushiroad International Content;
+●         - Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Bushiroad International Services;
+●         - Collect, store, or disclose any Personal Information of other Users from the Bushiroad International Services, or from other Users, without their express permission;
 ●         - Impersonate or misrepresent your affiliation with any person or entity;
 ●         - Violate any applicable law, regulation or guidelines issued by any government agency;
 ●         - Post User Content or take any action that infringes or violates the rights of another User;
 ●         - Bully, harass or intimidate any User, or cause any User to experience inconvenience or other difficulties;
-●         - Solicit User passwords from another User or collect User Content or otherwise access the KLab Services by automated means including but not limited to, bots, robots, spiders;
+●         - Solicit User passwords from another User or collect User Content or otherwise access the Bushiroad International Services by automated means including but not limited to, bots, robots, spiders;
 ●         - Create a Service ID for anyone other than yourself, or create two or more Service IDs on one device;
-●         - Use cheats, exploits, hacks, bots, mods or third party software designed to gain an advantage, perceived or actual, over other Users, or modify or interfere with the KLab Services;
-●         - Abuse or exploit a bug, glitch or mechanism in the KLab Services;
+●         - Use cheats, exploits, hacks, bots, mods or third party software designed to gain an advantage, perceived or actual, over other Users, or modify or interfere with the Bushiroad International Services;
+●         - Abuse or exploit a bug, glitch or mechanism in the Bushiroad International Services;
 ●         - Engage in any fraudulent behavior, including but not limited to credit card scams or credit card misappropriation;
-●         - Provides, states or reports any false or untrue fact upon any contact, inquiry, notice, or consultation to or with KLab, whether or not made through or related to KLab Services; 
+●         - Provides, states or reports any false or untrue fact upon any contact, inquiry, notice, or consultation to or with Bushiroad International, whether or not made through or related to Bushiroad International Services; 
 ●         - Cooperate with or participate in any anti-social forces or organized criminal organizations or groups of any kind or solicit or encourage any other User to do so; or
 ●         - Encourage or enable any other individual to do any of the foregoing.
 
-KLab will have the right to investigate and prosecute violations of any of the above, including Intellectual Property Rights infringement and KLab Services security issues, to the fullest extent of the law. KLab may involve and cooperate with law enforcement authorities in prosecuting users who violate these Terms.
+Bushiroad International will have the right to investigate and prosecute violations of any of the above, including Intellectual Property Rights infringement and Bushiroad International Services security issues, to the fullest extent of the law. Bushiroad International may involve and cooperate with law enforcement authorities in prosecuting users who violate these Terms.
 
-You acknowledge that KLab has no obligation to monitor or record your access to or use of the KLab Services or KLab Content, or to monitor, record, or edit any User Content, but agree that we have the right to do so for the purpose of operating the KLab Services, to ensure your compliance with these Terms, or to comply with applicable law or the order or requirement of a court, administrative agency or other governmental body. You acknowledge and agree that you have no expectation of privacy concerning uploads, transmissions, or submissions of any User Content. KLab reserves the right, at any time and without prior notice, to remove or disable access to any User Content that KLab, in its sole discretion, considers to be in violation of these Terms or otherwise harmful to the KLab Services.
+You acknowledge that Bushiroad International has no obligation to monitor or record your access to or use of the Bushiroad International Services or Bushiroad International Content, or to monitor, record, or edit any User Content, but agree that we have the right to do so for the purpose of operating the Bushiroad International Services, to ensure your compliance with these Terms, or to comply with applicable law or the order or requirement of a court, administrative agency or other governmental body. You acknowledge and agree that you have no expectation of privacy concerning uploads, transmissions, or submissions of any User Content. Bushiroad International reserves the right, at any time and without prior notice, to remove or disable access to any User Content that Bushiroad International, in its sole discretion, considers to be in violation of these Terms or otherwise harmful to the Bushiroad International Services.
 
-We encourage Users to report any suspected misconduct or misuse of the KLab Services by sending us an email to email address designated by KLab for a specific KLab Service.
+We encourage Users to report any suspected misconduct or misuse of the Bushiroad International Services by sending us an email to email address designated by Bushiroad International for a specific Bushiroad International Service.
 
 
 14. Sweepstakes and Contests
 
-KLab may permit the offer of sweepstakes, contests and similar promotions (collectively, “Promotions”) through the KLab Services. You should carefully review the rules of each Promotion in which you participate through the KLab Services, as they may contain additional important information about KLab’s rights to and ownership of the submissions you make as part of the Promotions and as a result of your participation in such Promotion. To the extent that the terms and conditions of such rules conflict with these Terms, the terms and conditions of such rules will control.
+Bushiroad International may permit the offer of sweepstakes, contests and similar promotions (collectively, “Promotions”) through the Bushiroad International Services. You should carefully review the rules of each Promotion in which you participate through the Bushiroad International Services, as they may contain additional important information about Bushiroad International’s rights to and ownership of the submissions you make as part of the Promotions and as a result of your participation in such Promotion. To the extent that the terms and conditions of such rules conflict with these Terms, the terms and conditions of such rules will control.
 
 
 15. Transfer of user data
 
-In the event you intend to transfer any of your data concerning your use of any KLab Services (including, but not limited to, User Content, Virtual Items and Virtual Currency, collectively, “User Data”) to another mobile devices or to a reinstalled version of any KLab Services, you shall comply with the procedures specified by KLab.
+In the event you intend to transfer any of your data concerning your use of any Bushiroad International Services (including, but not limited to, User Content, Virtual Items and Virtual Currency, collectively, “User Data”) to another mobile devices or to a reinstalled version of any Bushiroad International Services, you shall comply with the procedures specified by Bushiroad International.
 
 Upon User Data transfers,  available platform transferred to and transferred User Data (e.g., Virtual Currency and Virtual Items) maybe limited.
 
 16. Termination of Service ID
 
-Without limiting other remedies, KLab may at any time suspend or terminate your Service ID and refuse to provide you access to all or any of the KLab Services if KLab suspects or determines, in its own discretion, that you may have or there is a significant risk that you have: (i) failed to comply with any provision of these Terms or any policies or Rules established by KLab; (ii) engaged in actions relating to or in the course of accessing or using the KLab Services that may be illegal or cause liability, harm, embarrassment, harassment, abuse or disruption for you, other Users, KLab or any other third parties or any KLab Services; or (iii) infringed the proprietary rights, rights of privacy, or Intellectual Property Rights of any person, including as a repeat infringer. In addition, KLab may notify authorities or take any other actions it deems appropriate, without notice to you, in the event of any of the above.
+Without limiting other remedies, Bushiroad International may at any time suspend or terminate your Service ID and refuse to provide you access to all or any of the Bushiroad International Services if Bushiroad International suspects or determines, in its own discretion, that you may have or there is a significant risk that you have: (i) failed to comply with any provision of these Terms or any policies or Rules established by Bushiroad International; (ii) engaged in actions relating to or in the course of accessing or using the Bushiroad International Services that may be illegal or cause liability, harm, embarrassment, harassment, abuse or disruption for you, other Users, Bushiroad International or any other third parties or any Bushiroad International Services; or (iii) infringed the proprietary rights, rights of privacy, or Intellectual Property Rights of any person, including as a repeat infringer. In addition, Bushiroad International may notify authorities or take any other actions it deems appropriate, without notice to you, in the event of any of the above.
 
-You may terminate your Service ID at any time and for any reason by sending an email to email address designated by KLab for a specific KLab Service.
+You may terminate your Service ID at any time and for any reason by sending an email to email address designated by Bushiroad International for a specific Bushiroad International Service.
 
 
 17. Effects of Termination, Suspension of Service ID
@@ -399,43 +400,43 @@ Upon termination of your Service ID for any reason by you or us, you will lose a
 
 If your Service ID is terminated for any reason by you or us, you understand and agree that any Virtual Items to which you had access via your Service ID at the time of termination will be lost and no longer be available to you, and you will have no right to them.
 
-If your Service ID is terminated for any reason by you or us, you understand and agree that KLab may redeem and use the Virtual Currency in the Service ID at the time of termination for any purpose that it may choose, and that on termination you will have no right to that Virtual Currency.
+If your Service ID is terminated for any reason by you or us, you understand and agree that Bushiroad International may redeem and use the Virtual Currency in the Service ID at the time of termination for any purpose that it may choose, and that on termination you will have no right to that Virtual Currency.
 
-In addition, if your Service ID is not used to use the KLab Services for a period of three (3) or more years (“Inactive Service ID”), you understand and agree that (i) KLab may redeem and use the Virtual Currency in the Inactive Service ID at such time for any purpose that it may choose, and that on the account becoming an Inactive Service ID you will have no right to that Virtual Currency; and (ii) any Virtual Items to which you had access via the Inactive Service ID up to the ID becoming an Inactive Service ID will be lost and no longer be available to you, and you will have no right to them.
+In addition, if your Service ID is not used to use the Bushiroad International Services for a period of three (3) or more years (“Inactive Service ID”), you understand and agree that (i) Bushiroad International may redeem and use the Virtual Currency in the Inactive Service ID at such time for any purpose that it may choose, and that on the account becoming an Inactive Service ID you will have no right to that Virtual Currency; and (ii) any Virtual Items to which you had access via the Inactive Service ID up to the ID becoming an Inactive Service ID will be lost and no longer be available to you, and you will have no right to them.
 
-YOU AGREE THAT KLAB IS NOT REQUIRED TO PROVIDE A REFUND FOR ANY REASON, AND THAT YOU WILL NOT RECEIVE MONEY OR OTHER COMPENSATION FOR UNUSED VIRTUAL ITEMS OR VIRTUAL CURRENCY IN AN INACTIVE SERVICE ID OR THAT WAS IN A TERMINATED SERVICE ID, NO MATTER HOW EITHER CAME ABOUT.
+YOU AGREE THAT BUSHIROAD INTERNATIONAL IS NOT REQUIRED TO PROVIDE A REFUND FOR ANY REASON, AND THAT YOU WILL NOT RECEIVE MONEY OR OTHER COMPENSATION FOR UNUSED VIRTUAL ITEMS OR VIRTUAL CURRENCY IN AN INACTIVE SERVICE ID OR THAT WAS IN A TERMINATED SERVICE ID, NO MATTER HOW EITHER CAME ABOUT.
 
-After any termination, you understand and acknowledge that we will have no further obligation to provide the KLab Services and all licenses and other rights granted to you by these Terms will immediately cease. KLab will not be liable to you or any third party for termination of the Service ID or termination of your use of the KLab Services. UPON ANY TERMINATION OR SUSPENSION OF YOUR SERVICE ID, ANY CONTENT, MATERIALS OR INFORMATION (INCLUDING USER CONTENT) THAT YOU HAVE SUBMITTED ON THE KLAB SERVICES OR THAT WHICH IS RELATED TO YOUR SERVICE ID MAY NO LONGER BE ACCESSED BY YOU. Furthermore, KLab will have no obligation to maintain any information stored in our database related to your Service ID or to forward any information to you or any third party.
+After any termination, you understand and acknowledge that we will have no further obligation to provide the Bushiroad International Services and all licenses and other rights granted to you by these Terms will immediately cease. Bushiroad International will not be liable to you or any third party for termination of the Service ID or termination of your use of the Bushiroad International Services. UPON ANY TERMINATION OR SUSPENSION OF YOUR SERVICE ID, ANY CONTENT, MATERIALS OR INFORMATION (INCLUDING USER CONTENT) THAT YOU HAVE SUBMITTED ON THE BUSHIROAD INTERNATIONAL SERVICES OR THAT WHICH IS RELATED TO YOUR SERVICE ID MAY NO LONGER BE ACCESSED BY YOU. Furthermore, Bushiroad International will have no obligation to maintain any information stored in our database related to your Service ID or to forward any information to you or any third party.
 
-Any suspension, termination or cancellation will not affect your obligations to KLab under these Terms (including, without limitation, proprietary rights and ownership, indemnification and limitation of liability), which by their sense and context are intended to survive such suspension, termination or cancellation.
+Any suspension, termination or cancellation will not affect your obligations to Bushiroad International under these Terms (including, without limitation, proprietary rights and ownership, indemnification and limitation of liability), which by their sense and context are intended to survive such suspension, termination or cancellation.
 
 
 18. Disclaimers
 
-THE KLAB SERVICES, KLAB CONTENT, AND USER CONTENT ARE PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. WITHOUT LIMITING THE FOREGOING, KLAB EXPLICITLY DISCLAIMS ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+THE BUSHIROAD INTERNATIONAL SERVICES, BUSHIROAD INTERNATIONAL CONTENT, AND USER CONTENT ARE PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. WITHOUT LIMITING THE FOREGOING, BUSHIROAD INTERNATIONAL EXPLICITLY DISCLAIMS ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
 
-KLAB MAKES NO WARRANTY THAT THE KLAB SERVICES, KLAB CONTENT, USER CONTENT, OR USER DATA WILL (I) MEET YOUR REQUIREMENTS (II) NOT BE DELETED, ERASED OR LOST, OR (III) BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS. KLAB MAKES NO WARRANTY REGARDING THE QUALITY OF ANY PRODUCTS, SERVICES OR CONTENT PURCHASED OR OBTAINED THROUGH THE KLAB SERVICES OR THE ACCURACY, TIMELINESS, TRUTHFULNESS, COMPLETENESS OR RELIABILITY OF ANY CONTENT OBTAINED THROUGH THE KLAB SERVICES.
+BUSHIROAD INTERNATIONAL MAKES NO WARRANTY THAT THE BUSHIROAD INTERNATIONAL SERVICES, BUSHIROAD INTERNATIONAL CONTENT, USER CONTENT, OR USER DATA WILL (I) MEET YOUR REQUIREMENTS (II) NOT BE DELETED, ERASED OR LOST, OR (III) BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS. BUSHIROAD INTERNATIONAL MAKES NO WARRANTY REGARDING THE QUALITY OF ANY PRODUCTS, SERVICES OR CONTENT PURCHASED OR OBTAINED THROUGH THE BUSHIROAD INTERNATIONAL SERVICES OR THE ACCURACY, TIMELINESS, TRUTHFULNESS, COMPLETENESS OR RELIABILITY OF ANY CONTENT OBTAINED THROUGH THE BUSHIROAD INTERNATIONAL SERVICES.
 
-NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM KLAB OR THROUGH THE KLAB SERVICES, KLAB CONTENT OR USER CONTENT, WILL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM BUSHIROAD INTERNATIONAL OR THROUGH THE BUSHIROAD INTERNATIONAL SERVICES, BUSHIROAD INTERNATIONAL CONTENT OR USER CONTENT, WILL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.
 
 
 19. Indemnity
 
-You agree to defend, indemnify, and hold KLab, its officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with User Content you submit to KLab, your access to and use of the KLab Services or KLab Content, or your violation of these Terms.
+You agree to defend, indemnify, and hold Bushiroad International, its officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with User Content you submit to Bushiroad International, your access to and use of the Bushiroad International Services or Bushiroad International Content, or your violation of these Terms.
 
 
 20. Limitation of Liability
 
-YOU ACKNOWLEDGE AND AGREE THAT, TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE ENTIRE RISK ARISING OUT OF YOUR ACCESS TO AND USE OF THE KLAB SERVICES, KLAB CONTENT, AND USER CONTENT THEREIN REMAINS WITH YOU. NEITHER KLAB NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE KLAB SERVICES OR KLAB CONTENT WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, LOSS OF DATA OR LOSS OF GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE PRODUCTS OR SERVICES, ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE KLAB SERVICES OR KLAB CONTENT THEREIN, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT KLAB HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+YOU ACKNOWLEDGE AND AGREE THAT, TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE ENTIRE RISK ARISING OUT OF YOUR ACCESS TO AND USE OF THE BUSHIROAD INTERNATIONAL SERVICES, BUSHIROAD INTERNATIONAL CONTENT, AND USER CONTENT THEREIN REMAINS WITH YOU. NEITHER BUSHIROAD INTERNATIONAL NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE BUSHIROAD INTERNATIONAL SERVICES OR BUSHIROAD INTERNATIONAL CONTENT WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, LOSS OF DATA OR LOSS OF GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE PRODUCTS OR SERVICES, ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE BUSHIROAD INTERNATIONAL SERVICES OR BUSHIROAD INTERNATIONAL CONTENT THEREIN, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT BUSHIROAD INTERNATIONAL HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
-YOU SPECIFICALLY ACKNOWLEDGE THAT KLAB IS NOT LIABLE FOR THE DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES AND THAT THE RISK OF INJURY FROM THE FOREGOING RESTS ENTIRELY WITH YOU.
+YOU SPECIFICALLY ACKNOWLEDGE THAT BUSHIROAD INTERNATIONAL IS NOT LIABLE FOR THE DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES AND THAT THE RISK OF INJURY FROM THE FOREGOING RESTS ENTIRELY WITH YOU.
 
-IN NO EVENT WILL KLAB’S AGGREGATE LIABILITY ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE KLAB SERVICES OR KLAB CONTENT OR USER CONTENT THEREIN OR PROVIDED THEREBY EXCEED ONE HUNDRED SINGAPORE DOLLARS ($100). THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN KLAB AND YOU. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY OF CONSEQUENTIAL OR INCIDENTAL DAMAGES, AND SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+IN NO EVENT WILL BUSHIROAD INTERNATIONAL’S AGGREGATE LIABILITY ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE BUSHIROAD INTERNATIONAL SERVICES OR BUSHIROAD INTERNATIONAL CONTENT OR USER CONTENT THEREIN OR PROVIDED THEREBY EXCEED ONE HUNDRED SINGAPORE DOLLARS ($100). THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN BUSHIROAD INTERNATIONAL AND YOU. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY OF CONSEQUENTIAL OR INCIDENTAL DAMAGES, AND SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
 
 
 21. Trademarks &amp; Other Proprietary Rights Notices
 
-All trademarks, service marks, logos, trade names and any other proprietary designations of KLab or our licensors used in association with the KLab Services are trademarks or registered trademarks of KLab or our licensors. Any other trademarks, service marks, logos, trade names and any other proprietary designations are the trademarks or registered trademarks of the respective owners of same.
+All trademarks, service marks, logos, trade names and any other proprietary designations of Bushiroad International or our licensors used in association with the Bushiroad International Services are trademarks or registered trademarks of Bushiroad International or our licensors. Any other trademarks, service marks, logos, trade names and any other proprietary designations are the trademarks or registered trademarks of the respective owners of same.
 
 
 22. Controlling Law and Jurisdiction
@@ -445,22 +446,22 @@ These Terms and any action related thereto will be governed by the laws of Japan
 
 23. Entire Agreement
 
-These Terms (including KLab’s Privacy Policy) constitute the entire and exclusive understanding and agreement between KLab and you regarding the KLab Services and KLab Content, and these Terms supersede and replace any and all prior oral or written understandings or agreements between KLab and you regarding the KLab Services and KLab Content.
+These Terms (including Bushiroad International’s Privacy Policy) constitute the entire and exclusive understanding and agreement between Bushiroad International and you regarding the Bushiroad International Services and Bushiroad International Content, and these Terms supersede and replace any and all prior oral or written understandings or agreements between Bushiroad International and you regarding the Bushiroad International Services and Bushiroad International Content.
 
 
 24. Assignment
 
-You may not assign or transfer these Terms, by operation of law or otherwise, without KLab’s prior written consent. Any attempt by you to assign or transfer these Terms, without such consent, will be null and of no effect. KLab may freely assign these Terms. Subject to the foregoing, these Terms will bind and inure to the benefit of the parties, their successors and permitted assigns.
+You may not assign or transfer these Terms, by operation of law or otherwise, without Bushiroad International’s prior written consent. Any attempt by you to assign or transfer these Terms, without such consent, will be null and of no effect. Bushiroad International may freely assign these Terms. Subject to the foregoing, these Terms will bind and inure to the benefit of the parties, their successors and permitted assigns.
 
 
 25. Notices
 
-You consent to the use of: (i) electronic means to complete these Terms and to deliver any notices or other communications permitted or required hereunder; and (ii) electronic records to store information related to these Terms or your use of the KLab Services. Any notices or other communications permitted or required hereunder, including those regarding modifications to these Terms, will be in writing and given: (x) by KLab via email (in each case to the address that you provide) or (y) by posting on or through the KLab Services. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted.
+You consent to the use of: (i) electronic means to complete these Terms and to deliver any notices or other communications permitted or required hereunder; and (ii) electronic records to store information related to these Terms or your use of the Bushiroad International Services. Any notices or other communications permitted or required hereunder, including those regarding modifications to these Terms, will be in writing and given: (x) by Bushiroad International via email (in each case to the address that you provide) or (y) by posting on or through the Bushiroad International Services. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted.
 
 
 26. General
 
-The failure of KLab to enforce any right or provision of these Terms will not constitute a waiver of future enforcement of that right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of KLab. Except as expressly set forth in these Terms, the exercise by either party of any of its remedies under these Terms will be without prejudice to its other remedies under these Terms or otherwise. If for any reason a court of competent jurisdiction finds any provision of these Terms invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms will remain in full force and effect. You agree that (i) these Terms are intended to cover any third-party publisher who is an affiliate of KLab (“Affiliate Publisher”); (ii) your obligations to KLab under these Terms extend to Affiliate Publishers as applicable unless otherwise agreed under any third-party terms with any such Affiliate Publisher; and (iii) Affiliate Publishers are third party beneficiaries under these Terms who may rely on and directly enforce these Terms against you as such.
+The failure of Bushiroad International to enforce any right or provision of these Terms will not constitute a waiver of future enforcement of that right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of Bushiroad International. Except as expressly set forth in these Terms, the exercise by either party of any of its remedies under these Terms will be without prejudice to its other remedies under these Terms or otherwise. If for any reason a court of competent jurisdiction finds any provision of these Terms invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms will remain in full force and effect. You agree that (i) these Terms are intended to cover any third-party publisher who is an affiliate of Bushiroad International (“Affiliate Publisher”); (ii) your obligations to Bushiroad International under these Terms extend to Affiliate Publishers as applicable unless otherwise agreed under any third-party terms with any such Affiliate Publisher; and (iii) Affiliate Publishers are third party beneficiaries under these Terms who may rely on and directly enforce these Terms against you as such.
 
 
 27. Language
@@ -470,28 +471,28 @@ The controlling language of these Terms is English; any provided translation of 
 
 28. Contacting Us
 
-If you have any questions about these Terms, please contact KLab to email address designated by KLab for a specific KLab Service.
+If you have any questions about these Terms, please contact Bushiroad International to email address designated by Bushiroad International for a specific Bushiroad International Service.
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"apple_eea_update_overview", /*message*/"【GDPR対応 更新履歴】Apple
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"apple_payment_services_act", /*message*/"資金決済法に基づく表示
 
 発行事業者
-        名称：ＫＬａｂ株式会社
-        住所：東京都港区六本木六丁目１０番１号
+        名称：株式会社ブシロード
+        住所：東京都中野区中央1丁目38-1 住友中野坂上ビル
 
 前払式支払手段及び支払可能金額
         「ラブカスター」
                 ラブカスターの購入・保有の上限はありません。
         「プレミアムガチャチケット」（各種）
-        （名称に「プレミアム」と付くガチャチケットをいいます。以下同じ）
+        （名称に「プレミアム」と付くガチャチケットを言います。以下同じ）
                 プレミアムガチャチケットの購入・保有の上限はありません。
 有効期間
         有効期間はありません。
 
 ご相談窓口
-         メール：lovelive-as@support.klab.com
-         TEL：03-4500-9200
+         メール：support_legal_llas@bushimo.jp
+         TEL：03-5348-0852
         ※お電話でのお問い合わせは原則お受けしておりません。メールにてお問い合わせ下さい。
 
 利用可能範囲
@@ -529,11 +530,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"apple_payment_services_act", /*message
         （2）お客様のアカウントに紐付いたクレジットカード、各配信プラットフォームにおけるポイントその他の第三者が提供する決済サービスの利用に関しては、すべてお客様ご自身の管理と責任において当該決済サービスをご利用いただく必要があります。これらの決済サービスに関するお客様の損失（当該決済サービス提供上の瑕疵又は第三者による不正の利用によるものを含みますがこれらに限られません）について、当社は一切の責任を負いません。
         （3）お客様からのご相談・お問い合わせにつきましては、上記「ご相談窓口」に記載の窓口から承っております。上記（1）及び（2）、利用規約並びに適用される法令に従い対応させていただきますので、予めご了承ください。
         （4）当社のサービスの利用においてお客様が第三者の不正な行為により損失を受けた場合、当該損失の程度、同様の損失が発生したお客様の数その他の当該損失が発生している状況に照らして当社にて公表が適切であると判断したときは、これを公表する場合があります。
+
 ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"apple_privacy_policy", /*message*/"　　KLab 주식회사 개인 정보 취급 방침 
+INSERT INTO `m_dictionary` VALUES (/*id*/"apple_privacy_policy", /*message*/"　　Bushiroad International 주식회사 개인 정보 취급 방침 
 　　개인 정보 취급 방침 
 
-　　Klab 주식 회사 (이하 KLab)는 서비스 이용자의 개인 정보를 다음과 같이 취급합니다 
+　　Bushiroad International 주식 회사 (이하 Bushiroad International)는 서비스 이용자의 개인 정보를 다음과 같이 취급합니다 
 
 　　수집하는 개인 정보 항목
 　　●IP 주소
@@ -547,16 +549,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"apple_privacy_policy", /*message*/"　
 　　●그 외의 정보는 어플리케이션 이용시에 자동적으로 수집됩니다.
 
 　　개인 정보의 수집 또는 이용 목적 
-　　Klab는 수집 한 정보를 이하의 목적에 이용합니다 
+　　Bushiroad International는 수집 한 정보를 이하의 목적에 이용합니다 
 　　●서비스의 제공 
 　　●어플리케이션의 품질 개선
 　　●유저로부터의 Q &amp; A 대응. 
-　　●Klab 또는 관계 회사가 제공하는 이벤트 나 서비스와 관련된 안내 메일 전송 개인 정보의 제 3 자 제공에 대하여 
+　　●Bushiroad International 또는 관계 회사가 제공하는 이벤트 나 서비스와 관련된 안내 메일 전송 개인 정보의 제 3 자 제공에 대하여 
 　　개인 정보는 이하의 정해진 경우를 제외하고는 제 3 자에게 제공하지 않습니다, 
 　　이용자가 사전에 동의 한경우 
 　　제 법령의 규정에 의한 경우 
 　　개인 정보의 취급 위탁
-　　KLab 서비스를 제공하기 위하여 이하와 같은 개인 정보 취급을 위탁하고 있으며, 위탁 계약시에 개인 정보가 안전하게 관리되도록 필요한 사항을 규정하고 있습니다 회사의 개인 정보 위 탁 처리 기관 및 위탁 업무 내용은 이하와 같습니다. 
+　　Bushiroad International 서비스를 제공하기 위하여 이하와 같은 개인 정보 취급을 위탁하고 있으며, 위탁 계약시에 개인 정보가 안전하게 관리되도록 필요한 사항을 규정하고 있습니다 회사의 개인 정보 위 탁 처리 기관 및 위탁 업무 내용은 이하와 같습니다. 
 　　위탁자 : e-guardian 주식회사 
 　　위탁하는 업무 내용 : 이용자로부터의 Q &amp; A 대응 업무 
 　　위탁자 Zendesk, Inc. 
@@ -574,10 +576,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"apple_privacy_policy", /*message*/"　
 
 
 　　개인 정보의 보유 및 이용 기간 
-　　Klab는 원칙적으로 개인 정보를 이용자의 서비스 이용 개시로부터 서비스 제공 종료시까지 이용합니다. 단, 「KLab 또는 관계 회사가 제공하는 서비스에 관한 안내 메일의 송신」에 동의 한 이용자의 개인 정보에 대해서는 서비스 종료 후 고객이 송신 정지를 희망하는 시점까지 이용합니다. 또한 회사의 내부 방침과 관계 법령의 규정에 의해 보존 할 필요가있는 경우에는 일정 기간 개인 정 보를 보관하는 경우가 있습니다. 
+　　Bushiroad International는 원칙적으로 개인 정보를 이용자의 서비스 이용 개시로부터 서비스 제공 종료시까지 이용합니다. 단, 「Bushiroad International 또는 관계 회사가 제공하는 서비스에 관한 안내 메일의 송신」에 동의 한 이용자의 개인 정보에 대해서는 서비스 종료 후 고객이 송신 정지를 희망하는 시점까지 이용합니다. 또한 회사의 내부 방침과 관계 법령의 규정에 의해 보존 할 필요가있는 경우에는 일정 기간 개인 정 보를 보관하는 경우가 있습니다. 
 
 　　개인 정보 파기 절차 및 방법
-　　KLab는 원칙적으로 개인 정보의 수집 및 이용 목적이 달성 또는 이용 기간이 경과 한 뒤에는이 용자의 개인 정보를 파기합니다. 
+　　Bushiroad International는 원칙적으로 개인 정보의 수집 및 이용 목적이 달성 또는 이용 기간이 경과 한 뒤에는이 용자의 개인 정보를 파기합니다. 
 
 　　파기 절차 
 　　이용자가 서비스의 이용 등을 위해 입력 한 정보는 목적이 달성 된 후 내부 방침 및 그 외 관련 법령에 의해 정보 보호 사유 (보유 및 이용 기간 참조)에 의거하여 일정 기간 보존 된 후 파 기됩니다
@@ -586,14 +588,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"apple_privacy_policy", /*message*/"　
 　　종이로 출력 된 개인 정보는 문서 절단기로 분쇄하며, 전자 문서 형식으로 보존 된 개인 정 보는 기록을 재생할 수없는 기술적 방법을 사용하여 삭제합니다 
 
 　　개인 정보 보호 업무 및 클레임을 처리하는 부서
-　　\"개인 정보 관리 담당 부서 메일 주소 : lovelive-as-ko@support.klab.com\"
+　　\"개인 정보 관리 담당 부서 메일 주소 : sg_support@bushiroad.com\"
 
 　　적용 범위
 　　개인 정보 취급 방침은 서비스를 이용하는 한국 내의 이용자만을 대상으로 적용됩니다. 한국 이외 지역의 서비스를 이용하는 경우에는 각각의 개인 정보 취급 방침이 적용됩니다. 
 　　또한 링크 페이지 등의 다른 사업자에 의한 개인 정보 수집은 본 개인 정보 취급 방침의 적 용 범위가 아닙니다.
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"apple_terms_of_use", /*message*/"이용 규약
-KLab주식회사 및 그 관계 회사(KLab Global Pte. Ltd.를 포함하지만 이에 한정되지 않는다. 이하 총칭해서 ‘당사’라고 한다)의 이용 규약(이하 ‘본 규약’이라고 한다)을 다음과 같이 규정합니다.
+Bushiroad International주식회사 및 그 관계 회사(Bushiroad International Pte. Ltd.를 포함하지만 이에 한정되지 않는다. 이하 총칭해서 ‘당사’라고 한다)의 이용 규약(이하 ‘본 규약’이라고 한다)을 다음과 같이 규정합니다.
 본 규약은 고객에 의한 당사의 서비스(아래에 정의되는 것을 말하며, 이하 동일하다), 당사의 콘텐츠 및 사용자의 콘텐츠(아래에 정의되는 것을 말하며, 이하 동일하다)의 이용(접속하는 경우를 포함하여 이하 동일하다) 시에 적용되는 법적 구속력을 가진 규약이므로 세심한 주의를 기울여 확인해 주십시오. 또한 당사의 개인정보보호정책은 본 규약의 일부를 구성하며 고객이 당사의 서비스를 설치 또는 이용했을 경우에는 당사의 개인정보보호정책 및 관련되는 모든 규약에 동의한 것으로 간주됩니다.
 고객이 ‘동의’버튼 클릭, 당사의 서비스 이용 또는 당사의 서비스나 당사의 서비스를 통해서 콘텐츠를 다운로드, 업로드, 송신 또는 투고했을 경우, 고객은 본 규약의 내용을 확실하게 확인한 후에 본 규약이 적용되는 것에 동의한 것으로 간주됩니다. 본 규약에 동의하실 수 없는 경우, 고객은 당사의 서비스 또는 당사의 콘텐츠를 이용하실 수 없습니다.
 본 규약에서 ‘당사의 서비스’란, 웹사이트, 플랫폼 또는 서비스(제3자가 제공하는 것을 포함한다)를 통하여 고객에게 라이선스, 다운로드 및 그 밖에 고객에게 제공된 아래의 것을 말합니다.
@@ -614,13 +616,13 @@ KLab주식회사 및 그 관계 회사(KLab Global Pte. Ltd.를 포함하지만 
 당사는 그 판단과 결정에 따라 언제든지 사전 통지 없이 고객 전체 또는 특정한 고객을 대상으로 하여 당사의 서비스의 전부 또는 일부를 변경, 중단, 종료하거나 또는 본 규약을 변경할 수 있습니다. 당사가 본 규약 또는 개인정보보호정책을 변경할 경우, 변경 후의 본 규약 또는 개인정보보호정책을 게재하거나 또는 변경 내용을 고객에게 통지합니다. 이러한 게재 또는 변경 통지 후에 고객이 당사의 서비스를 계속 이용하는 경우, 고객은 변경 후의 본 규약 또는 개인정보보호정책에 동의한 것으로 간주됩니다. 변경 후의 본 규약 또는 개인정보보호정책에 동의하지 않는 경우, 고객은 당사의 서비스 이용을 중지할 필요가 있습니다.
 3. 콘텐츠
 당사의 서비스에서 고객이 이용 가능한 콘텐츠는 아래와 같습니다.
-‘KLab콘텐츠’란, 당사 및 당사의 서비스 명칭, 상표, 로고, 텍스트, 데이터, 그래픽, 이미지, 일러스트, 폰트, 문서, 광고소재, 사용자 인터페이스, 당사에 대하여 이들의 이용을 허락하는 자(이하 ‘라이센서’라고 한다)의 명칭, 상표 및 로고 및 당사 또는 당사의 서비스에 의해 이용할 수 있는 기타 콘텐츠를 말합니다. 단, 다음에 정의되는 사용자 콘텐츠는 제외합니다.
+‘Bushiroad International콘텐츠’란, 당사 및 당사의 서비스 명칭, 상표, 로고, 텍스트, 데이터, 그래픽, 이미지, 일러스트, 폰트, 문서, 광고소재, 사용자 인터페이스, 당사에 대하여 이들의 이용을 허락하는 자(이하 ‘라이센서’라고 한다)의 명칭, 상표 및 로고 및 당사 또는 당사의 서비스에 의해 이용할 수 있는 기타 콘텐츠를 말합니다. 단, 다음에 정의되는 사용자 콘텐츠는 제외합니다.
 ‘사용자 콘텐츠’란, 당사의 서비스 상에 또는 당사의 서비스를 이용하여 고객에 의해 업로드, 송신 또는 투고(불특정 다수의 고객이 열람 가능한지 여부 또는 특정한 고객에 대한 비공개 여부를 불문하며, 이하 ‘투고 등’이라고 한다)된 텍스트, 데이터, 일러스트, 이미지, 사진 및 기타의 콘텐츠를 의미합니다.
 4.지식재산
-당사의 서비스 및 KLab콘텐츠는 일본 및 여러 외국의 저작권법, 상표법 및 기타 법률 및 국제 조약에 의해 보호되고 있습니다. 본 규약에 별도의 규정이 명기되어 있는 범위를 제외하고 당사 및 라이센서는 당사의 서비스 및 KLab콘텐츠에 관한 모든 권리, 권원 및 이익(특허권, 저작권, 상표, 서비스마크, 상호, 데이터베이스권, 도메인명권 및 이들의 신청, 저작자 인격권 및 기업 비밀에 관한 권리 등의 당사의 서비스 및 KLab콘텐츠에 부수되는 지식재산권을 포함한다)을 독점적으로 보유합니다.
-고객은 당사의 서비스 또는 KLab콘텐츠에 포함 또는 첨부되어 있는 저작권, 상표, 서비스마크의 표기 및 기타 권리의 표기를 삭제, 변경 또는 불명료화하지 아니한다.
+당사의 서비스 및 Bushiroad International콘텐츠는 일본 및 여러 외국의 저작권법, 상표법 및 기타 법률 및 국제 조약에 의해 보호되고 있습니다. 본 규약에 별도의 규정이 명기되어 있는 범위를 제외하고 당사 및 라이센서는 당사의 서비스 및 Bushiroad International콘텐츠에 관한 모든 권리, 권원 및 이익(특허권, 저작권, 상표, 서비스마크, 상호, 데이터베이스권, 도메인명권 및 이들의 신청, 저작자 인격권 및 기업 비밀에 관한 권리 등의 당사의 서비스 및 Bushiroad International콘텐츠에 부수되는 지식재산권을 포함한다)을 독점적으로 보유합니다.
+고객은 당사의 서비스 또는 Bushiroad International콘텐츠에 포함 또는 첨부되어 있는 저작권, 상표, 서비스마크의 표기 및 기타 권리의 표기를 삭제, 변경 또는 불명료화하지 아니한다.
 5. 사용자 라이선스
-고객이 본 규약의 전부를 준수하는 것을 전제로서 당사는 고객에 대하여 고객이 개인적인 목적(상업목적 및 영리목적은 제외한다)만을 위해 일반적으로 상정되는 방법에 의해 당사의 서비스 및 KLab콘텐츠를 접속, 열람, 조작, 다운로드 및 인쇄하는 이용을 비독점적으로 허락합니다. 단, 고객은 허락받은 해당 이용 권한을 제3자에게 양도 또는 재허락(서브 라이선스)할 수 없습니다. 고객은 법령 또는 본 규약에 의해 명시적으로 허가된 범위를 제외하고 당사의 서비스 또는 KLab콘텐츠를 사용, 복제, 개변, 수정, 배포, 사용 허락, 판매, 양도, 공표, 상영, 공중송신, 스트리밍, 방송 또는 이용하거나 또는 당사의 서비스 혹은 KLab콘텐츠에 근거한 파생물을 제작할 수 없습니다. 당사 또는 라이센서가 보유 또는 관리하는 지식재산권을 본 규약에 의해 명시적으로 허가된 범위를 제외하고 암시적 또는 기타 방법에 의해 고객에게 이용을 허락하거나 또는 권리를 부여하는 일은 없습니다.
+고객이 본 규약의 전부를 준수하는 것을 전제로서 당사는 고객에 대하여 고객이 개인적인 목적(상업목적 및 영리목적은 제외한다)만을 위해 일반적으로 상정되는 방법에 의해 당사의 서비스 및 Bushiroad International콘텐츠를 접속, 열람, 조작, 다운로드 및 인쇄하는 이용을 비독점적으로 허락합니다. 단, 고객은 허락받은 해당 이용 권한을 제3자에게 양도 또는 재허락(서브 라이선스)할 수 없습니다. 고객은 법령 또는 본 규약에 의해 명시적으로 허가된 범위를 제외하고 당사의 서비스 또는 Bushiroad International콘텐츠를 사용, 복제, 개변, 수정, 배포, 사용 허락, 판매, 양도, 공표, 상영, 공중송신, 스트리밍, 방송 또는 이용하거나 또는 당사의 서비스 혹은 Bushiroad International콘텐츠에 근거한 파생물을 제작할 수 없습니다. 당사 또는 라이센서가 보유 또는 관리하는 지식재산권을 본 규약에 의해 명시적으로 허가된 범위를 제외하고 암시적 또는 기타 방법에 의해 고객에게 이용을 허락하거나 또는 권리를 부여하는 일은 없습니다.
 6. 사용자 콘텐츠
 고객이 사용자 콘텐츠를 투고한 경우 등에는 고객은 당사에 대하여 당사의 서비스에 관한 범위 내에서 해당 사용자 콘텐츠를 전세계적으로 서브 라이선스, 사용, 복제, 개변, 수정, 배포, 사용 허락, 판매, 양도, 공표, 공연, 공중송신, 스트리밍, 방송 및 이용하는 권리를 무상, 비독점적 그리고 항구적으로 허락한 것으로 간주합니다. 또한 해당 허락은 취소되지 않습니다. 당사는 해당 사용자 콘텐츠에 관련되는 지식재산권을 주장하는 것이 아닙니다. 또한 본 규약의 어떠한 규정도 해당 사용자 콘텐츠를 사용 및 이용하는 고객의 권리를 제한하지 않습니다.
 당사는 고객이 투고 등을 한 사용자 콘텐츠에 대해서 필요하다고 판단한 경우에는 사전 통지 없이 또한 아무런 이유도 설명하지 않고 이 전부 또는 일부를 열람한 후에 개변 또는 삭제할 수 있습니다.
@@ -630,7 +632,7 @@ KLab주식회사 및 그 관계 회사(KLab Global Pte. Ltd.를 포함하지만 
 7. 사용에 의한 침해의 부정
 고객은 제3자의 저작물 및 기타의 지식재산권을 침해하는 소재 또는 해당 침해를 촉진하는 소재 혹은 링크의 게재, 공개, 배포, 송신, 전송 또는 저장을 목적으로 당사의 서비스를 사용할 수는 없습니다.
 8. 가상 아이템 및 가상 통화
-당사는 가상 아이템(이하 ‘가상 아이템’이라고 한다) 및 가상 통화(이하 ‘가상 통화’라고 한다)를 포함한 모든 KLab콘텐츠 및 당사의 서비스를 보유하거나, 라이선스를 받거나 또는 이용하는 권리를 보유하고 있습니다.
+당사는 가상 아이템(이하 ‘가상 아이템’이라고 한다) 및 가상 통화(이하 ‘가상 통화’라고 한다)를 포함한 모든 Bushiroad International콘텐츠 및 당사의 서비스를 보유하거나, 라이선스를 받거나 또는 이용하는 권리를 보유하고 있습니다.
 가상 아이템 및 가상 통화는 당사의 서비스를 고객이 개인적으로 즐기는 용도에 한하여 제공됩니다. 가상 아이템 및 가상 통화는 이용하는 당사 서비스 내에서만 사용 가능하며 『현실 세계』에서는 가치가 없습니다. 고객은 가상 아이템 및 가상 통화를 구입 또는 수령함으로써 본 규약 또는 적용되는 기타 제반 조건에 따라 이용하는 당사 서비스 내에서 해당 가상 아이템 및 가상 통화의 이용 허락을 받는 것으로 합니다. 가상 아이템 및 가상 통화는 고객의 개인적인 소유물이 아니며, 가상 아이템 및 가상 통화를 보유하는 권리 및 이에 관한 일체의 권리는 고객에게 양도되는 것이 아닙니다.
 가상 아이템 및 가상 통화의 판매가격, 수량 및 종류는 아무런 통지 없이 언제든지 변경될 수가 있습니다. 고객이 수령한 가상 아이템 및 가상 통화는 아무런 통지 없이 언제든지 변경 또는 사용하지 못하게 되는 경우가 있습니다.
 고객은 가상 아이템, 가상 통화 및 사용자ID 및 이들에 관한 일체의 권리를 판매, 대여, 양도하거나 또는 이러한 행위를 시도해서는 아니됩니다. 단, 이용하는 당사 서비스에서 허가된 범위 내에서 당사가 교환 가능하다고 지정한 가상 아이템(이하 ‘트레이드 가능 아이템’이라고 한다)에 한하여 다른 고객의 트레이드 가능 아이템과 교환할 수도 있습니다. 단, 해당 트레이드 가능 아이템에 대하여 금전 또는 금전적 가치가 있는 물품이 고객 간에 일체 지불되지 않고 또한 수수하거나 제공되지 않는 것을 조건으로 합니다. 그 밖의 가상 아이템, 가상 통화 및 사용자ID 및 이들에 관한 일체의 권리 교환은 엄격하게 금지됩니다.
@@ -648,9 +650,9 @@ KLab주식회사 및 그 관계 회사(KLab Global Pte. Ltd.를 포함하지만 
 또한 상기 이외에 당사의 서비스에서 제3자가 제공하는 서비스를 이용하는 기능이 포함되는 경우가 있습니다. 해당 기능을 이용할 경우에는 고객은 해당 서비스의 제반 조건도 준수하는 것으로 합니다.
 12. 사용자 간의 교류
 고객은 다른 사용자와의(분쟁을 포함한다) 커뮤니케이션 등의 관계에 있어서 단독으로 책임을 집니다. 당사가 당사의 서비스 상에 사용자 보고 기능, 사용자 블록 기능 또는 동일한 기능을 제공하는 것을 선택한 경우에도 고객은 당사의 서비스 사용 및 다른 고객에 대한 개인정보의 공개에 있어서 세심한 주의를 기울여 자신의 판단에 의해 일반적인 상식에 근거하여 행동할 필요가 있으며, 그 전부에 대해서 단독으로 책임을 집니다.
-고객은 다른 고객 사용자와의 모든 커뮤니케이션 등의 관계에 있어서, 특히 다른 고객 사용자와 개인적인 연락을 취하거나 또는 실제로 만날 경우에는 세심한 주의를 기울여야 합니다. 당사의 서비스, KLab콘텐츠, 사용자 콘텐츠 및 당사의 서비스를 이용하여 게재 등이 된 기타 콘텐츠를 고객이 이용할 경우에는 고객이 단독으로 모든 책임을 지고 또한 고객의 재량으로 이루어지는 것으로 하며, 당사는 고객 또는 해당 사용에 관련되는 제3자에 대한 일체의 책임을 지지 않습니다. 당사는 준거법에 따라 본 규약 및 기타의 적용 규칙에 대한 준수 상황을 확인하기 위해서 고객에게 연락을 취할 수 있는 것으로 합니다. 고객은 위법, 부정 또는 부적절한 의혹이 있는 행동에 대하여 당사가 조사(사용자ID의 비밀번호로 보호된 부분에 대한 접속 허가를 포함하지만 이에 한정되지 않는다)하는 것에 완전히 협력하는 것으로 합니다.
+고객은 다른 고객 사용자와의 모든 커뮤니케이션 등의 관계에 있어서, 특히 다른 고객 사용자와 개인적인 연락을 취하거나 또는 실제로 만날 경우에는 세심한 주의를 기울여야 합니다. 당사의 서비스, Bushiroad International콘텐츠, 사용자 콘텐츠 및 당사의 서비스를 이용하여 게재 등이 된 기타 콘텐츠를 고객이 이용할 경우에는 고객이 단독으로 모든 책임을 지고 또한 고객의 재량으로 이루어지는 것으로 하며, 당사는 고객 또는 해당 사용에 관련되는 제3자에 대한 일체의 책임을 지지 않습니다. 당사는 준거법에 따라 본 규약 및 기타의 적용 규칙에 대한 준수 상황을 확인하기 위해서 고객에게 연락을 취할 수 있는 것으로 합니다. 고객은 위법, 부정 또는 부적절한 의혹이 있는 행동에 대하여 당사가 조사(사용자ID의 비밀번호로 보호된 부분에 대한 접속 허가를 포함하지만 이에 한정되지 않는다)하는 것에 완전히 협력하는 것으로 합니다.
 13. 일반금지 사항
-고객은 당사의 서비스, KLab콘텐츠 또는 사용자 콘텐츠의 사용에 있어서 아래의 사항이 금지됩니다.
+고객은 당사의 서비스, Bushiroad International콘텐츠 또는 사용자 콘텐츠의 사용에 있어서 아래의 사항이 금지됩니다.
 ●아래의 어느 하나에 해당하는 문장, 그래픽, 이미지, 소프트웨어, 음악, 오디오, 동영상, 정보 및 기타 소재를 투고, 업로드, 공표, 제공 또는 송신하는 행위
 o 당사 또는 제3자의 지식재산권, 퍼블리시티권, 프라이버시권, 명예 혹은 신용 또는 재산을 침해, 훼손, 부정이용 혹은 방해하는 것
 o 적용되는 어느 법령을 위반하거나 또는 위반을 촉진시키는 것. 또한 민사상 책임을 지는 것
@@ -661,15 +663,15 @@ o 특정 또는 불특정한 개인 또는 단체에 대한 차별, 편견, 인�
 o 폭력적 혹은 협박적인 것 또는 다른 고객 또는 제3자를 위협하는 폭력 및 기타 행위를 조장하는 것
 o 당사의 종업원, 이사 또는 고객 서비스 지원 담당자를 사칭하는 것
 o 위법, 유해 또는 부적절한 행동 혹은 내용을 조장하는 것(도박, 외설 행위, 성적 행위 혹은 불순 이성교류 권유, 이성과의 만남, 미성년자에 대한 알코올 제공 또는 위법인 무기, 약품 혹은 물질의 제조 혹은 구입에 관한 정보를 포함하지만 이에 한정되지 않는다) 고객의 문의에 대한 당사의 답변 또는 통지의 전부 또는 일부
-● (i)당사의 서비스에서 사용되고 있는 프레임 기술 또는 (ii)당사의 서비스, KLab콘텐츠, 라이센서의 상표, 로고 혹은 기타의 권리 표기 또는 웹페이지의 텍스트, 레이아웃 및 디자인에 포함되는 각각의 콘텐츠 또는 소재를, 당사로부터 서면에 의한 명백한 동의 없이 사용, 공개, 모방, 실시 또는 이용하는 행위
+● (i)당사의 서비스에서 사용되고 있는 프레임 기술 또는 (ii)당사의 서비스, Bushiroad International콘텐츠, 라이센서의 상표, 로고 혹은 기타의 권리 표기 또는 웹페이지의 텍스트, 레이아웃 및 디자인에 포함되는 각각의 콘텐츠 또는 소재를, 당사로부터 서면에 의한 명백한 동의 없이 사용, 공개, 모방, 실시 또는 이용하는 행위
 ●당사의 서비스, 당사의 컴퓨터 시스템 또는 제3 전송 사업자의 기술적 전송 시스템의 비공유 공간에 대한 접속 또는 이들의 개찬 혹은 사용 당사의 시스템 또는 네트워크의 취약성에 대한 조사, 스캔 또는 테스트 또는 보안 대책 혹은 인증 수단의 부정회피를 시도하는 행위
-●당사의 서비스 또는 KLab콘텐츠를 보호하기 위해서 당사 또는 제3 전송 사업자 혹은 기타의 제3자(기타 사용자를 포함한다)에 의해 구현된 기술적 대책을 회피, 무시, 삭제, 기능 해제, 무효화, 디스크램블 또는 우회하는 행위
-●당사가 제공하는 소프트웨어 혹은 검색 엔진 또는 일반적으로 이용 가능한 제3자 웹브라우저 이외의 어떠한 엔진, 소프트웨어, 툴, 에이전트, 디바이스 또는 메커니즘(스파이더, 로봇, 크롤러, 데이터마이닝 툴 또는 이들과 유사한 것을 포함한다)의 이용에 의한 당사의 서비스 또는 KLab콘텐츠에 대한 접속 혹은 검색 또는 당사의 서비스 혹은 당사의 서비스 내의 KLab콘텐츠의 다운로드를 시도하는 행위
+●당사의 서비스 또는 Bushiroad International콘텐츠를 보호하기 위해서 당사 또는 제3 전송 사업자 혹은 기타의 제3자(기타 사용자를 포함한다)에 의해 구현된 기술적 대책을 회피, 무시, 삭제, 기능 해제, 무효화, 디스크램블 또는 우회하는 행위
+●당사가 제공하는 소프트웨어 혹은 검색 엔진 또는 일반적으로 이용 가능한 제3자 웹브라우저 이외의 어떠한 엔진, 소프트웨어, 툴, 에이전트, 디바이스 또는 메커니즘(스파이더, 로봇, 크롤러, 데이터마이닝 툴 또는 이들과 유사한 것을 포함한다)의 이용에 의한 당사의 서비스 또는 Bushiroad International콘텐츠에 대한 접속 혹은 검색 또는 당사의 서비스 혹은 당사의 서비스 내의 Bushiroad International콘텐츠의 다운로드를 시도하는 행위
 ●미승낙 또는 미허가의 광고, 광고 소재, 이메일, 정크메일, 스팸메일, 체인메일 또는 기타 형식의 광고물을 송신하는 행위
-●당사로부터 서면에 의한 명백한 동의를 받지 않은 KLab콘텐츠 또는 당사의 라이센서 상표, 로고, URL 혹은 제품명을 이용한 메타태그 또는 기타 히든텍스트 혹은 메타데이터를 사용하는 행위
-●영리목적, 상업목적 혹은 제3자의 이익을 위한 또는 본 규약에 의해 허가되지 않는 방법에 의한 당사의 서비스 또는 KLab콘텐츠를 사용하는 행위
-●이메일 또는 뉴스 그룹의 투고의 TCP/IP패킷 헤더 혹은 해당 헤더 정보의 일부 위조 또는 변경된 허위 혹은 부정한 소스 특정 정보를 당사의 서비스 혹은 KLab콘텐츠에 송신시키는 행위
-●당사의 서비스 또는 KLab콘텐츠를 제공하기 위해서 사용되고 있는 소프트웨어의 암호 해독, 역컴파일, 역어셈블 또는 리버스 엔지니어링을 시도하려는 행위
+●당사로부터 서면에 의한 명백한 동의를 받지 않은 Bushiroad International콘텐츠 또는 당사의 라이센서 상표, 로고, URL 혹은 제품명을 이용한 메타태그 또는 기타 히든텍스트 혹은 메타데이터를 사용하는 행위
+●영리목적, 상업목적 혹은 제3자의 이익을 위한 또는 본 규약에 의해 허가되지 않는 방법에 의한 당사의 서비스 또는 Bushiroad International콘텐츠를 사용하는 행위
+●이메일 또는 뉴스 그룹의 투고의 TCP/IP패킷 헤더 혹은 해당 헤더 정보의 일부 위조 또는 변경된 허위 혹은 부정한 소스 특정 정보를 당사의 서비스 혹은 Bushiroad International콘텐츠에 송신시키는 행위
+●당사의 서비스 또는 Bushiroad International콘텐츠를 제공하기 위해서 사용되고 있는 소프트웨어의 암호 해독, 역컴파일, 역어셈블 또는 리버스 엔지니어링을 시도하려는 행위
 ●당사의 서비스의 관리, 운영 혹은 제공, 다른 고객, 호스트컴퓨터 또는 네트워크의 접속을 방해 또는 방해하려고 하는 행위(당사의 서비스에 대한 바이러스 송신, 오버로딩, 오버플로, Dos공격, 스팸메일 송신 행위, 메일 폭탄을 포함하지만 이에 한정되지 않는다)
 ●당사의 서비스 또는 다른 고객으로부터 명백한 허가를 받지 않고 해당 고객으로부터의 해당 고객의 모종의 개인정보 및 기타 고객에 관한 정보를 수집, 저장 또는 공개 혹은 투고 등을 하는 행위
 ●어떠한 개인 또는 기업을 사칭하거나 또는 해당 개인 또는 기업과 고객의 관계를 잘못 표명하는 행위
@@ -685,7 +687,7 @@ o 위법, 유해 또는 부적절한 행동 혹은 내용을 조장하는 것(�
 ●반사회적 세력(‘폭력단원에 의한 부당한 행위 방지 등에 관한 법률’에서 정의하는 폭력단 및 그 관계 단체 등을 말한다)에 협력·관여하는 행위 또는 반사회적 세력에 권유하는 행위
 ●제3자에 대한 위 각호의 어느 행위를 권장 또는 허가하는 행위
 당사는 법령에 의해 허가되는 최대한의 범위 내에서 지식재산권의 침해, 당사의 서비스 보안에 관한 사항, 그 밖에 위의 어느 사항을 위반했을 때는 조사하고 소추할 수 있는 것으로 합니다. 당사는 본 규약을 위반한 사용자의 소추에 있어서 경찰당국에 통보 및 협력할 경우가 있습니다.
-당사는 고객에 의한 당사의 서비스 또는 KLab콘텐츠에 대한 접속 또는 해당 이용을 감시 또는 기록하는 의무 또한 어떠한 사용자 콘텐츠를 감시, 기록 또는 편집하는 의무를 지지 않습니다. 단, 당사는 당사의 서비스를 운영할 목적으로 고객에 의한 본 규약에 대한 준수를 확보하기 위해서 또는 준거법 혹은 재판소, 행정기관 혹은 그 밖의 관공처의 명령 혹은 요구를 따르기 위해서 해당 감시, 기록 또는 편집을 할 수 있는 권리를 가집니다. 고객은 사용자 콘텐츠의 업로드, 송신 또는 투고에 관련하여 프라이버시가 확보되지 않는다는 사실을 인식하고 이에 동의합니다. 당사는 언제든지 사전 통지 없이 단독 재량에 의해 본 규약을 위반하거나 또는 당사의 서비스에 손해를 입힌다고 판단한 사용자 콘텐츠를 삭제하거나 또는 해당 콘텐츠에 대한 접속을 차단할 수 있습니다.
+당사는 고객에 의한 당사의 서비스 또는 Bushiroad International콘텐츠에 대한 접속 또는 해당 이용을 감시 또는 기록하는 의무 또한 어떠한 사용자 콘텐츠를 감시, 기록 또는 편집하는 의무를 지지 않습니다. 단, 당사는 당사의 서비스를 운영할 목적으로 고객에 의한 본 규약에 대한 준수를 확보하기 위해서 또는 준거법 혹은 재판소, 행정기관 혹은 그 밖의 관공처의 명령 혹은 요구를 따르기 위해서 해당 감시, 기록 또는 편집을 할 수 있는 권리를 가집니다. 고객은 사용자 콘텐츠의 업로드, 송신 또는 투고에 관련하여 프라이버시가 확보되지 않는다는 사실을 인식하고 이에 동의합니다. 당사는 언제든지 사전 통지 없이 단독 재량에 의해 본 규약을 위반하거나 또는 당사의 서비스에 손해를 입힌다고 판단한 사용자 콘텐츠를 삭제하거나 또는 해당 콘텐츠에 대한 접속을 차단할 수 있습니다.
 당사는, 고객께서 당사 서비스가 부적절하거나 또는 부정하게 이용되고 있다는 사실을 발견했을 때는 이용하는 당사 서비스의 소정의 이메일 주소로 연락해 주시기 바랍니다.
 14. 현상모집 및 콘테스트
 당사는 당사의 서비스를 이용한 현상모집, 콘테스트 및 이와 유사한 프로모션 활동(이하, 총칭하여 ‘프로모션 활동’이라고 한다)을 개최할 경우가 있습니다. 고객은 당사의 서비스를 이용하여 참가하는 각 프로모션 활동의 규칙을 꼼꼼하게 확인할 필요가 있습니다. 해당 규칙에는 해당 프로모션 활동에 대한 참가 결과, 프로모션 활동에 있어서 고객에게 제공 받은 제공물의 당사의 권리 및 소유권 등에 관한 중요한 정보가 포함되어 있는 경우가 있습니다. 해당 규칙에 정해져 있는 제반 조건이 본 규약과 모순되지 않는 한, 해당 규칙의 제반 조건이 적용됩니다.
@@ -704,21 +706,21 @@ o 위법, 유해 또는 부적절한 행동 혹은 내용을 조장하는 것(�
 사용자ID의 이용 정지 후, 당사는 당사의 서비스를 계속 제공하는 의무를 지지 않으며 또한 본 규약에 근거하여 고객에게 제공된 모든 라이선스 및 기타 권리는 즉시 무효가 되는 것으로 합니다. 당사는 사용자ID의 이용 정지 또는 고객에 의한 당사의 서비스 사용 정지에 관하여 고객 또는 제3자에 대해서 책임을 지지 않습니다. 고객의 사용자ID 이용 정지 또는 일시 중단 시에 당사의 서비스에 고객이 제공한 또는 고객의 사용자ID에 관련되는(사용자 콘텐츠를 포함한다) 콘텐츠, 소재 또는 정보에 대하여 고객이 접속할 수 없게 되는 경우가 있습니다. 더욱이 당사는 고객의 사용자ID에 관련되는 당사의 데이터베이스에 저장된 정보를 유지하는 의무 또는 해당 정보를 고객 혹은 제3자에게 전송하는 의무를 지지 않습니다.
 일시 중단, 해지 또는 이용 정지는 해당 중단, 해지 또는 이용 정지 후에도 존속하는 것이 내용 상 또는 문맥 상 의도되는(점유권 및 소유권, 보상 및 책임 제한을 포함하지만 이에 한정되지 않는다) 본 규약에 의거하는 당사에 대한 고객의 의무에 영향을 미치지 않는 것으로 하며, 해당 의무는 일시 중단, 해지 또는 이용 정지 후에도 유효하게 존속하는 것으로 합니다.
 18. 보증의 부정
-당사의 서비스, KLab콘텐츠 및 사용자 콘텐츠는 명시적 또는 묵시적인 어떠한 보증도 없이 현재 상태 그대로 제공됩니다. 또한 당사는 상용성, 특정 목적에 대한 적합성, 평온한 이용 또는 제3자의 권리에 대한 비침해를 일체 보증하지 않습니다. 또한 거래의 과정 및 이용에 관해서 어떠한 보증도 하지 않습니다.
-당사는 당사의 서비스, KLab콘텐츠, 사용자 콘텐츠 또는 사용자 데이터(가상 통화 및 가상 통화를 포함한다)가 고객의 요구에 적합할 것, 소실되지 않을 것, 또는 연속적으로 안전하게 에러 없이 사용할 수 있다는 것을 보증하지 않습니다. 당사는 당사의 서비스에 의해 구입 또는 취득하신 제품, 서비스 혹은 콘텐츠의 품질 또는 당사의 서비스에 의해 취득하신 콘텐츠의 정확성, 적시성, 진실성, 완전성 혹은 신뢰성에 대해 보증하지 않습니다.
-당사로부터 취득하거나 또는 당사의 서비스, KLab콘텐츠 혹은 사용자 콘텐츠를 통해서 취득한 정보는 모두, 이들이 구두 또는 서면에 의한 것을 막론하고 본 규약에 명시적으로 정해진 범위를 넘어서는 보증하지 않습니다.
+당사의 서비스, Bushiroad International콘텐츠 및 사용자 콘텐츠는 명시적 또는 묵시적인 어떠한 보증도 없이 현재 상태 그대로 제공됩니다. 또한 당사는 상용성, 특정 목적에 대한 적합성, 평온한 이용 또는 제3자의 권리에 대한 비침해를 일체 보증하지 않습니다. 또한 거래의 과정 및 이용에 관해서 어떠한 보증도 하지 않습니다.
+당사는 당사의 서비스, Bushiroad International콘텐츠, 사용자 콘텐츠 또는 사용자 데이터(가상 통화 및 가상 통화를 포함한다)가 고객의 요구에 적합할 것, 소실되지 않을 것, 또는 연속적으로 안전하게 에러 없이 사용할 수 있다는 것을 보증하지 않습니다. 당사는 당사의 서비스에 의해 구입 또는 취득하신 제품, 서비스 혹은 콘텐츠의 품질 또는 당사의 서비스에 의해 취득하신 콘텐츠의 정확성, 적시성, 진실성, 완전성 혹은 신뢰성에 대해 보증하지 않습니다.
+당사로부터 취득하거나 또는 당사의 서비스, Bushiroad International콘텐츠 혹은 사용자 콘텐츠를 통해서 취득한 정보는 모두, 이들이 구두 또는 서면에 의한 것을 막론하고 본 규약에 명시적으로 정해진 범위를 넘어서는 보증하지 않습니다.
 19. 보상
-고객은 고객이 당사에 제출한 사용자 콘텐츠 또는 고객에 의한 당사의 서비스 혹은 KLab콘텐츠에 대한 접속 및 해당 이용 또는 고객에 의한 본 규약의 위반에 의해 발생하거나 혹은 어떠한 형태로 이에 관련되어 발생한 모든 청구, 책임, 손해, 손실 및 지출(합리적인 변호사비용 및 처리 수수료를 포함하지만 이에 한정되지 않는다)에 대하여 당사, 그 임원, 이사, 종업원 및 대리인을 방어하고, 보상하고, 면책하는 것으로 합니다.
+고객은 고객이 당사에 제출한 사용자 콘텐츠 또는 고객에 의한 당사의 서비스 혹은 Bushiroad International콘텐츠에 대한 접속 및 해당 이용 또는 고객에 의한 본 규약의 위반에 의해 발생하거나 혹은 어떠한 형태로 이에 관련되어 발생한 모든 청구, 책임, 손해, 손실 및 지출(합리적인 변호사비용 및 처리 수수료를 포함하지만 이에 한정되지 않는다)에 대하여 당사, 그 임원, 이사, 종업원 및 대리인을 방어하고, 보상하고, 면책하는 것으로 합니다.
 20. 책임의 제한
-법령에 의해 허용되는 최대한의 범위 내에서 고객에 의한 당사의 서비스, KLab콘텐츠 및 이에 포함되는 사용자 콘텐츠에 대한 이용에 의해 고객에게 발생한 모든 손해에 대해서는 고객이 책임을 지는 것으로 합니다. 또한 당사 및 당사의 서비스 또는 KLab콘텐츠의 작성, 제작 또는 전송에 관련되는 제3자는 본 규약의 적용, 실시 혹은 본 규약에서 정해지는 권리의 행사 또는 당사의 서비스 혹은 당사의 서비스 내의 KLab콘텐츠의 사용 혹은 사용 불능에 기인 또는 관련되어 발생한 일실이익, 데이터의 손실(사용자 데이터, 가상 통화 또는 가상 아이템의 소실을 포함한다), 신뢰의 손실, 서비스의 방해, 컴퓨터의 손해, 시스템 장해 또는 대체 제품 혹은 대체 서비스의 비용을 포함한 어떠한 우발적, 특별, 징벌적 또는 간접적인 손해에 대하여 이들이 보증, 계약, (과실을 포함한다)불법 행위, 제조물 책임 또는 기타의 법리론에 의거하는지 여부를 막론하고 또한 당사가 해당 손해의 가능성에 대해서 알고 있었는지 여부를 막론하고 본 규약에서 정해져 있는 한정된 구제 수단이 그 본질적인 목적을 달성할 수 없다는 사실이 밝혀졌을 경우에도 책임을 지지 않습니다.
-당사는 다른 고객 또는 제3자에 의한 중상적, 모욕적 또는 위법인 행위에 대하여 책임을 지지 아니하며 또한 해당 행위에 의한 일체의 손해는 완전히 고객이 부담하는 것으로 합니다. 그 어떠한 경우에 있어서도 본 규약, 당사의 서비스 또는 당사의 서비스에 포함되거나 혹은 해당 서비스에 의해 제공되는 KLab콘텐츠 혹은 사용자 콘텐츠의 사용 또는 사용 불능에 기인 또는 관련되어 발생하는 당사의 모든 책임은 100달러(US $100)를 초과하지 않습니다. 이 손해 배상의 제한은 당사 및 고객 간의 모든 거래의 전제가 됩니다. 단, 법령의 적용 범위에 따라서는 간접적 또는 우발적으로 발생한 손해에 대한 책임의 배제 또는 제한이 허가되지 않을 경우가 있어, 이 제한이 고객에게 적용되지 않는 경우가 있습니다.
-일본 국내에서 본 규약의 적용 혹은 실시, 당사의 서비스 또는 당사의 서비스에 포함되거나 혹은 해당 서비스에 의해 제공되는 KLab콘텐츠 혹은 사용자 콘텐츠의 사용 또는 사용 불능에 기인 또는 관련되어 당사의 채무 불이행에 의해 고객에게 손해가 발생했을 경우에는 위의 규정에 관계 없이 일본엔 1만엔을 초과하지 않는 범위 내에서 당사는 고객에게 배상 책임을 지도록 합니다. 단, 당사의 고의 또는 중대한 과실에 의한 경우에는 예외로 합니다.
+법령에 의해 허용되는 최대한의 범위 내에서 고객에 의한 당사의 서비스, Bushiroad International콘텐츠 및 이에 포함되는 사용자 콘텐츠에 대한 이용에 의해 고객에게 발생한 모든 손해에 대해서는 고객이 책임을 지는 것으로 합니다. 또한 당사 및 당사의 서비스 또는 Bushiroad International콘텐츠의 작성, 제작 또는 전송에 관련되는 제3자는 본 규약의 적용, 실시 혹은 본 규약에서 정해지는 권리의 행사 또는 당사의 서비스 혹은 당사의 서비스 내의 Bushiroad International콘텐츠의 사용 혹은 사용 불능에 기인 또는 관련되어 발생한 일실이익, 데이터의 손실(사용자 데이터, 가상 통화 또는 가상 아이템의 소실을 포함한다), 신뢰의 손실, 서비스의 방해, 컴퓨터의 손해, 시스템 장해 또는 대체 제품 혹은 대체 서비스의 비용을 포함한 어떠한 우발적, 특별, 징벌적 또는 간접적인 손해에 대하여 이들이 보증, 계약, (과실을 포함한다)불법 행위, 제조물 책임 또는 기타의 법리론에 의거하는지 여부를 막론하고 또한 당사가 해당 손해의 가능성에 대해서 알고 있었는지 여부를 막론하고 본 규약에서 정해져 있는 한정된 구제 수단이 그 본질적인 목적을 달성할 수 없다는 사실이 밝혀졌을 경우에도 책임을 지지 않습니다.
+당사는 다른 고객 또는 제3자에 의한 중상적, 모욕적 또는 위법인 행위에 대하여 책임을 지지 아니하며 또한 해당 행위에 의한 일체의 손해는 완전히 고객이 부담하는 것으로 합니다. 그 어떠한 경우에 있어서도 본 규약, 당사의 서비스 또는 당사의 서비스에 포함되거나 혹은 해당 서비스에 의해 제공되는 Bushiroad International콘텐츠 혹은 사용자 콘텐츠의 사용 또는 사용 불능에 기인 또는 관련되어 발생하는 당사의 모든 책임은 100달러(US $100)를 초과하지 않습니다. 이 손해 배상의 제한은 당사 및 고객 간의 모든 거래의 전제가 됩니다. 단, 법령의 적용 범위에 따라서는 간접적 또는 우발적으로 발생한 손해에 대한 책임의 배제 또는 제한이 허가되지 않을 경우가 있어, 이 제한이 고객에게 적용되지 않는 경우가 있습니다.
+일본 국내에서 본 규약의 적용 혹은 실시, 당사의 서비스 또는 당사의 서비스에 포함되거나 혹은 해당 서비스에 의해 제공되는 Bushiroad International콘텐츠 혹은 사용자 콘텐츠의 사용 또는 사용 불능에 기인 또는 관련되어 당사의 채무 불이행에 의해 고객에게 손해가 발생했을 경우에는 위의 규정에 관계 없이 일본엔 1만엔을 초과하지 않는 범위 내에서 당사는 고객에게 배상 책임을 지도록 합니다. 단, 당사의 고의 또는 중대한 과실에 의한 경우에는 예외로 합니다.
 21. 상표 및 기타 권리 표기
 당사의 서비스에 관련되어 사용되고 있는 당사 또는 라이센서의 상표, 서비스마크, 로고, 상호 및 기타 권리 표기는 모두, 당사 또는 라이센서의 상표 또는 등록상표입니다. 이 밖의 상표, 서비스마크, 로고, 상호 및 기타 권리 표기는 해당 각 권리자의 상표 또는 등록상표입니다.
 22. 준거법 및 관할권
 본 규약 및 본 규약에 관련되는 모든 사항은 저촉법의 규정에 관계 없이 일본국법에 준거합니다. 본 규약의 주제에 관련되는 모든 소송의 제1심의 전속적 합의 관할 법원은 도쿄 지방법원으로 하며, 본 규약의 각 당사자는 해당 법원의 관할권 및 재판 적에 대하여 이의를 제기할 권리를 포기하는 것으로 합니다.
 23. 완전합의
-본 규약 및 당사의 개인정보보호정책은 당사의 서비스 및 KLab콘텐츠에 관한 당사 및 고객 간의 완전하고 배타적인 모든 합의 내용을 결정하는 것으로 합니다. 본 규약은 당사의 서비스 및 KLab콘텐츠에 관한 당사 및 고객 간의 종전의 구두 또는 서면에 의한 모든 합의된 내용에 우선하며, 해당 합의 내용을 대신합니다.
+본 규약 및 당사의 개인정보보호정책은 당사의 서비스 및 Bushiroad International콘텐츠에 관한 당사 및 고객 간의 완전하고 배타적인 모든 합의 내용을 결정하는 것으로 합니다. 본 규약은 당사의 서비스 및 Bushiroad International콘텐츠에 관한 당사 및 고객 간의 종전의 구두 또는 서면에 의한 모든 합의된 내용에 우선하며, 해당 합의 내용을 대신합니다.
 24. 양도
 고객은 당사로부터 서면을 통한 사전 동의를 받지 아니하고, 법률의 규정에 의거하거나 또는 기타 방법에 의해 본 규약 상의 지위 또는 권리를 양도 또는 이양하지 않습니다. 해당 당사의 동의를 받지 아니한 고객의 본 규약 상의 지위 또는 권리의 양도 또는 양도하려는 행위는 모두 무효가 됩니다. 당사는 본 규약 상의 지위 또는 권리를 자유롭게 양도할 수 있습니다. 본조의 규정에 따라서 본 규약은 당사 및 고객, 해당 승계인 및 허락된 양도인에 대하여 유효하게 적용됩니다.
 25. 통지

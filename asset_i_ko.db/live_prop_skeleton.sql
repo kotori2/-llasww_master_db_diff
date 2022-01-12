@@ -13,3 +13,4 @@ INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/"XZZ", /*pack_name*/"lql0
 INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/"{`F", /*pack_name*/"05gyme", /*head*/0, /*size*/294982, /*key1*/-1625211145, /*key2*/428981851);
 INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/".^^", /*pack_name*/"lifjp1", /*head*/0, /*size*/144063, /*key1*/-1895913146, /*key2*/-141726870);
 INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/"1xX", /*pack_name*/"2luuvq", /*head*/0, /*size*/487036, /*key1*/-999884230, /*key2*/1901164981);
+INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/"{Fb", /*pack_name*/"nfma3y", /*head*/0, /*size*/485072, /*key1*/1978600368, /*key2*/668422982);

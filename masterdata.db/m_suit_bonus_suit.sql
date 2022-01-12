@@ -17,3 +17,12 @@ INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21102301, /*suit
 INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21102301, /*suit_master_id*/321015);
 INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21102301, /*suit_master_id*/321103);
 INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21102301, /*suit_master_id*/321203);
+INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21122001, /*suit_master_id*/300115);
+INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21122001, /*suit_master_id*/300215);
+INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21122001, /*suit_master_id*/300315);
+INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21122001, /*suit_master_id*/300415);
+INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21122001, /*suit_master_id*/300515);
+INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21122001, /*suit_master_id*/300615);
+INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21122001, /*suit_master_id*/300715);
+INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21122001, /*suit_master_id*/300815);
+INSERT INTO `m_suit_bonus_suit` VALUES (/*suit_bonus_master_id*/21122001, /*suit_master_id*/300913);

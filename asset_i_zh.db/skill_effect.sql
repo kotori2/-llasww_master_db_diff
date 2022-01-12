@@ -39,7 +39,7 @@ INSERT INTO `skill_effect` VALUES (/*asset_path*/"^,", /*pack_name*/"0iw69s", /*
 INSERT INTO `skill_effect` VALUES (/*asset_path*/"Xq", /*pack_name*/"0iw69s", /*head*/7921020, /*size*/164790, /*key1*/-912705063, /*key2*/1622794611);
 INSERT INTO `skill_effect` VALUES (/*asset_path*/"Uq", /*pack_name*/"0iw69s", /*head*/8199227, /*size*/177658, /*key1*/-395238818, /*key2*/1988999195);
 INSERT INTO `skill_effect` VALUES (/*asset_path*/"J{|", /*pack_name*/"u6rpmf", /*head*/0, /*size*/195414, /*key1*/-1897649297, /*key2*/-1343272404);
-INSERT INTO `skill_effect` VALUES (/*asset_path*/"@5e", /*pack_name*/"ipze0f", /*head*/0, /*size*/139499, /*key1*/-2123274771, /*key2*/730063224);
+INSERT INTO `skill_effect` VALUES (/*asset_path*/"@5e", /*pack_name*/"vd5wqm", /*head*/0, /*size*/145858, /*key1*/-86617664, /*key2*/-1425767521);
 INSERT INTO `skill_effect` VALUES (/*asset_path*/"'zr", /*pack_name*/"ipze0f", /*head*/139499, /*size*/291480, /*key1*/326615242, /*key2*/1485488613);
 INSERT INTO `skill_effect` VALUES (/*asset_path*/"eJ", /*pack_name*/"0iw69s", /*head*/259985, /*size*/124654, /*key1*/771145633, /*key2*/674969345);
 INSERT INTO `skill_effect` VALUES (/*asset_path*/"ni", /*pack_name*/"0iw69s", /*head*/502935, /*size*/117895, /*key1*/1344106974, /*key2*/39126648);

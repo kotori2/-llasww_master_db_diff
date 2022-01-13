@@ -1812,6 +1812,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014304", /*message*/"[빅 라이브 과제] Margaret 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014403", /*message*/"[CD 발매 기념] Step! ZERO to ONE 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014404", /*message*/"[CD 발매 기념] 쿠로사와 다이아이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014501", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014502", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014503", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -1865,6 +1868,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016_000", /*message*/"드림 라이브 퍼레이드 ~SP 타입 온스테이지~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017", /*message*/"드림 라이브 퍼레이드 ~가드 타입 온스테이지~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017_000", /*message*/"드림 라이브 퍼레이드 ~가드 타입 온스테이지~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018", /*message*/"드림 라이브 퍼레이드 ~볼티지 타입 온스테이지~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018_000", /*message*/"드림 라이브 퍼레이드 ~볼티지 타입 온스테이지~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019", /*message*/"스쿠스타 Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019_000", /*message*/"스쿠스타 Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
@@ -3615,6 +3620,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103002_2", /*message*/"프
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012001_1", /*message*/"리더의 소질");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"꿈의 나라를 즐기자");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"가장 귀여운 눈사람!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012004_1", /*message*/"더, 조금 더!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"동물과 호노카");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"우리 집이 용궁?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_1", /*message*/"달콤한 오후");
@@ -3776,6 +3782,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"방
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"일렉트로닉 아이돌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"보드에 가려진 얼굴");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_2", /*message*/"같이하자, 응?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093003_1", /*message*/"이 &quot;포근함&quot;은 어디에서?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093003_2", /*message*/"고양이 정원에 온 걸 환영해");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"어색하지만 솔직하게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_1", /*message*/"맛있는 미소");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_2", /*message*/"고요한 분위기 속에서");

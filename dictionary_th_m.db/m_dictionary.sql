@@ -1819,6 +1819,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014304", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Margaret&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014403", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;Step! ZERO to ONE&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014404", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีคุโรซาวะ ไดยะ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014501", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014502", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014503", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -1872,6 +1875,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท SP ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Guard ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Guard ออนสเตจ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Voltage ออนสเตจ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Voltage ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019", /*message*/"ออลสตาร์ Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019_000", /*message*/"ออลสตาร์ Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
@@ -3622,6 +3627,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103002_2", /*message*/"โ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012001_1", /*message*/"คุณสมบัติของลีดเดอร์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"มาสนุกกับดินแดนแห่งความฝัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"ตุ๊กตาหิมะที่น่ารักที่สุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012004_1", /*message*/"เอาอีก มากกว่านี้!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"โฮโนกะกับสัตว์น้อยใหญ่");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"บ้านของฉันคือวังมังกร!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_1", /*message*/"ยามบ่ายแสนหวาน");
@@ -3783,6 +3789,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"Electronic Idol");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"ใบหน้าที่แท้จริงด้านหลังบอร์ด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_2", /*message*/"ด้วยกันเนอะ?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093003_1", /*message*/"ความ &quot;อบอุ่น&quot; นี้มาจากไหนกันนะ?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093003_2", /*message*/"ยินดีต้อนรับสู่สวนของเจ้าเหมียว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"แม้ไม่ชำนาญแต่ก็มุ่งหน้าตรงไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_1", /*message*/"รอยยิ้มจากความอร่อย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_2", /*message*/"ท่ามกลางบรรยากาศที่เงียบสงบ");

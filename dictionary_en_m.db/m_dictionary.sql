@@ -1809,6 +1809,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014304", /*message*/"[SBL Goal] Clear &quot;Margaret&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014403", /*message*/"[CD Release Celebration] Clear &quot;Step! ZERO to ONE&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014404", /*message*/"[CD Release Celebration] Use an SP Skill including Dia Kurosawa 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014501", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014502", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014503", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -1862,6 +1865,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016_000", /*message*/"Dream Live Parade: SP Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017", /*message*/"Dream Live Parade: Guard Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017_000", /*message*/"Dream Live Parade: Guard Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018", /*message*/"Dream Live Parade: Voltage Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018_000", /*message*/"Dream Live Parade: Voltage Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019", /*message*/"All Stars Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019_000", /*message*/"All Stars Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
@@ -3612,6 +3617,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103002_2", /*message*/"A F
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012001_1", /*message*/"What Makes a Leader");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"Let&apos;s Enjoy the Land of Dreams");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"The Cutest Snowman!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012004_1", /*message*/"More, More!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"Animals and Honoka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"My Home is an Undersea Palace?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_1", /*message*/"A Sweet Afternoon");
@@ -3773,6 +3779,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"VR 
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"Electronic Idol");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"The Smile Behind the Board");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_2", /*message*/"Together, Okay?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093003_1", /*message*/"What Caused This Fuzzy Feeling?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093003_2", /*message*/"Welcome to the Meow Meow Garden");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"Awkward Yet Straightforward");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_1", /*message*/"A Delicious Smile");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_2", /*message*/"In a Peaceful Mood");

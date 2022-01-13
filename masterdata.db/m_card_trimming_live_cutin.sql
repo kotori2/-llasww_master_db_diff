@@ -1228,3 +1228,7 @@ INSERT INTO `m_card_trimming_live_cutin` VALUES (/*card_m_id*/400082005, /*appea
 INSERT INTO `m_card_trimming_live_cutin` VALUES (/*card_m_id*/400082005, /*appearance_type*/2, /*offset_x*/-1125000, /*offset_y*/706998, /*rotation*/0, /*scale*/9300);
 INSERT INTO `m_card_trimming_live_cutin` VALUES (/*card_m_id*/402072005, /*appearance_type*/1, /*offset_x*/1971999, /*offset_y*/-100197, /*rotation*/-60000, /*scale*/6998);
 INSERT INTO `m_card_trimming_live_cutin` VALUES (/*card_m_id*/402072005, /*appearance_type*/2, /*offset_x*/428612, /*offset_y*/1235000, /*rotation*/0, /*scale*/10499);
+INSERT INTO `m_card_trimming_live_cutin` VALUES (/*card_m_id*/302093003, /*appearance_type*/1, /*offset_x*/295000, /*offset_y*/387007, /*rotation*/-79999, /*scale*/9300);
+INSERT INTO `m_card_trimming_live_cutin` VALUES (/*card_m_id*/302093003, /*appearance_type*/2, /*offset_x*/2629999, /*offset_y*/-381999, /*rotation*/-79998, /*scale*/8999);
+INSERT INTO `m_card_trimming_live_cutin` VALUES (/*card_m_id*/300012004, /*appearance_type*/1, /*offset_x*/563800, /*offset_y*/821052, /*rotation*/0, /*scale*/9499);
+INSERT INTO `m_card_trimming_live_cutin` VALUES (/*card_m_id*/300012004, /*appearance_type*/2, /*offset_x*/598414, /*offset_y*/1543904, /*rotation*/80000, /*scale*/11000);

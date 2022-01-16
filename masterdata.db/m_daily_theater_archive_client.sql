@@ -720,3 +720,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000710, /*year*/2022, /*month*/1, /*day*/12, /*title*/"眠りのスーパーバイザー・彼方！", /*published_at*/1641913200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000711, /*year*/2022, /*month*/1, /*day*/13, /*title*/"着せ替え真姫ちゃん", /*published_at*/1641999600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000712, /*year*/2022, /*month*/1, /*day*/14, /*title*/"大好物をあなたに", /*published_at*/1642086000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000713, /*year*/2022, /*month*/1, /*day*/15, /*title*/"いたずらとほのぼの", /*published_at*/1642172400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000714, /*year*/2022, /*month*/1, /*day*/16, /*title*/"２倍おいしい１０倍うれしい", /*published_at*/1642258800);

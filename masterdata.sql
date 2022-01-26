@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"c0d25577f536bd71be66d76a1e6623a64ddb3d14", /*hash*/"4dd42f597317921fe01d4e5d673952c9f2849386", /*size*/9824458);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"623ef8044e5449f7169fb32dfd5262c1d44cd46f", /*hash*/"ad8dadaa298b2824c991a7251b55a1719563599e", /*size*/9824474);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_ios.db", /*keys*/"aa29054d4702007206b97b59e407a42a0aeb66bb", /*hash*/"4fc9e9fdba480d6ab94fb3bdce5bd3361ffb2e86", /*size*/46577);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"390fd23c173be11416de7d512e22c3577b8ff83c", /*hash*/"5ac2e3056fcefa285b2a3db9c6b685321bee5219", /*size*/89116);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"bf7eff075815a24b4609ffbf3d2b0de24efd054f", /*hash*/"48485090864a7275c71c8eb4de7298e2ebe703cb", /*size*/10657);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"f1a1c0d3
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_v.db", /*keys*/"8cbdc715b63be2a421741024204799d15b2aa004", /*hash*/"1b550efe592b09f47329469f29f941d4b698ff82", /*size*/362);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_dummy.db", /*keys*/"5919a597121b36732b1a3fa3f0913f002b3b40ee", /*hash*/"0423596fb5142bcb44284f9546482d3545ac5b86", /*size*/6771);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"8c5b2f8286f48eb53e68a776ab7cca7b97eaee06", /*hash*/"993e50eb356e4e3d0cfc033ef5ac8d1c95c53ebd", /*size*/204093);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"7380314342f202c5fd515050c329cf5487956792", /*hash*/"6329da9b9557e3ef70666c0c3139caebf587c22a", /*size*/12536837);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"7380314342f202c5fd515050c329cf5487956792", /*hash*/"a14c5439430d10d10312cfad014724d743fe6d57", /*size*/12537184);

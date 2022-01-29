@@ -34,3 +34,5 @@ INSERT INTO `m_member_guild_challenge_live` VALUES (/*member_guild_period_master
 INSERT INTO `m_member_guild_challenge_live` VALUES (/*member_guild_period_master_id*/1, /*live_master_id*/12006, /*order_num*/26);
 INSERT INTO `m_member_guild_challenge_live` VALUES (/*member_guild_period_master_id*/1, /*live_master_id*/12010, /*order_num*/27);
 INSERT INTO `m_member_guild_challenge_live` VALUES (/*member_guild_period_master_id*/1, /*live_master_id*/10002, /*order_num*/28);
+INSERT INTO `m_member_guild_challenge_live` VALUES (/*member_guild_period_master_id*/1, /*live_master_id*/12036, /*order_num*/29);
+INSERT INTO `m_member_guild_challenge_live` VALUES (/*member_guild_period_master_id*/1, /*live_master_id*/12035, /*order_num*/30);

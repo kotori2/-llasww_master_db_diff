@@ -731,3 +731,7 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000721, /*year*/2022, /*month*/1, /*day*/23, /*title*/"R3BIRTHユニットライブ＆ファンミ２日目！　そして……", /*published_at*/1642863600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000722, /*year*/2022, /*month*/1, /*day*/24, /*title*/"コントロール", /*published_at*/1642950000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000723, /*year*/2022, /*month*/1, /*day*/25, /*title*/"教え上手？", /*published_at*/1643036400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000724, /*year*/2022, /*month*/1, /*day*/26, /*title*/"風邪撃退メニュー！", /*published_at*/1643122800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000725, /*year*/2022, /*month*/1, /*day*/27, /*title*/"それもこれも愛！", /*published_at*/1643209200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000726, /*year*/2022, /*month*/1, /*day*/28, /*title*/"ハッスル彼方！", /*published_at*/1643295600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000727, /*year*/2022, /*month*/1, /*day*/29, /*title*/"モデルさんを観察！", /*published_at*/1643382000);

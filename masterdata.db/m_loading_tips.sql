@@ -11,7 +11,6 @@ INSERT INTO `m_loading_tips` VALUES (/*id*/2, /*title*/"k.tips_title_3", /*descr
 INSERT INTO `m_loading_tips` VALUES (/*id*/3, /*title*/"k.tips_title_4", /*description*/"k.tips_desc_4", /*image_asset_path*/"");
 INSERT INTO `m_loading_tips` VALUES (/*id*/4, /*title*/"k.tips_title_5", /*description*/"k.tips_desc_5", /*image_asset_path*/"");
 INSERT INTO `m_loading_tips` VALUES (/*id*/5, /*title*/"k.tips_title_6", /*description*/"k.tips_desc_6", /*image_asset_path*/"");
-INSERT INTO `m_loading_tips` VALUES (/*id*/6, /*title*/"k.tips_title_7", /*description*/"k.tips_desc_7", /*image_asset_path*/"");
 INSERT INTO `m_loading_tips` VALUES (/*id*/7, /*title*/"k.tips_title_8", /*description*/"k.tips_desc_8", /*image_asset_path*/"");
 INSERT INTO `m_loading_tips` VALUES (/*id*/8, /*title*/"k.tips_title_9", /*description*/"k.tips_desc_9", /*image_asset_path*/"");
 INSERT INTO `m_loading_tips` VALUES (/*id*/9, /*title*/"k.tips_title_10", /*description*/"k.tips_desc_10", /*image_asset_path*/"");

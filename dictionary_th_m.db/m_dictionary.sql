@@ -3525,6 +3525,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_2", /*message*/"ห
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043002_1", /*message*/"ท้าทายการทำผม!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043002_2", /*message*/"ที่ที่สงบสุข");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200052001_1", /*message*/"อยากได้เด็กน่ารักๆ ตัวนั้นจัง!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200052002_1", /*message*/"ความตื่นเต้นในวันหิมะตก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053001_1", /*message*/"ไปเดตที่สวนสนุกล่ะเมี้ยว~!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053001_2", /*message*/"คอลเลกชันลับของริน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053002_1", /*message*/"ถ้าได้อยู่ด้วยกันก็ไม่หนาวหรอก!");
@@ -3564,6 +3565,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033001_1", /*message*/"ม
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033001_2", /*message*/"เวทีที่พร่างพราวไปด้วยดาว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_1", /*message*/"นานๆ ทีก็มีวันแบบนี้บ้าง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_2", /*message*/"อัศวินของเธอ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033003_1", /*message*/"มินิไลฟ์ของสองเรา");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033003_2", /*message*/"เสียงเพลงที่ทำให้ลุ่มหลง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201042001_1", /*message*/"รอยยิ้มผลิบาน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_1", /*message*/"เมนูแนะนำของคุณไดยะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"เสริมความน่ารัก!");
@@ -3599,6 +3602,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_1", /*message*/"พ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_2", /*message*/"เจ้าสาวของเธอเท่านั้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013002_1", /*message*/"ถึงจะหนาว แต่ถ้าได้อยู่กับเธอละก็");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013002_2", /*message*/"ณ ที่แห่งนี้ สักวันหนึ่ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202022001_1", /*message*/"จดหมายที่น่ายินดี");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_1", /*message*/"คุณหนูผู้อยากได้รับความรัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_2", /*message*/"สายตาของคนขี้อาย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_1", /*message*/"สาวน้อยที่น่ารักที่สุดในโลกคือใครเอ่ย?");
@@ -3643,6 +3647,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_1", /*message*/"พ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_2", /*message*/"ค่ำคืนที่ฉันเป็นฝ่ายควบคุม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103002_1", /*message*/"คำตอบที่ถูกต้องอยู่ที่ไหนกัน!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103002_2", /*message*/"โลกแห่งจีบระบาย");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202123001_1", /*message*/"โค้ชสุดโหด!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202123001_2", /*message*/"ใต้ตึกระฟ้า");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012001_1", /*message*/"คุณสมบัติของลีดเดอร์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"มาสนุกกับดินแดนแห่งความฝัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"ตุ๊กตาหิมะที่น่ารักที่สุด");

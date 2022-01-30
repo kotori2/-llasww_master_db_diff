@@ -735,3 +735,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000725, /*year*/2022, /*month*/1, /*day*/27, /*title*/"それもこれも愛！", /*published_at*/1643209200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000726, /*year*/2022, /*month*/1, /*day*/28, /*title*/"ハッスル彼方！", /*published_at*/1643295600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000727, /*year*/2022, /*month*/1, /*day*/29, /*title*/"モデルさんを観察！", /*published_at*/1643382000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000728, /*year*/2022, /*month*/1, /*day*/30, /*title*/"嵐と平和な日常", /*published_at*/1643468400);

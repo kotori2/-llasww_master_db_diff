@@ -2051,6 +2051,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800028", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800029", /*message*/"스토리 32장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800030", /*message*/"스토리 33장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800031", /*message*/"스토리 34장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800032", /*message*/"스토리 35장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"인연 에피소드 1화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"인연 에피소드 5화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"인연 에피소드 10화 보기");
@@ -2490,6 +2491,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400454", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400455", /*message*/"Swinging! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400456", /*message*/"Swinging! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400457", /*message*/"Swinging! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400458", /*message*/"Yume Kataruyori Yume Utaou 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400459", /*message*/"Yume Kataruyori Yume Utaou 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400460", /*message*/"Yume Kataruyori Yume Utaou 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -4344,6 +4348,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_31", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_32", /*message*/"도와줘요! μ&apos;s! ~전편~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_33", /*message*/"도와줘요! μ&apos;s! ~후편~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_34", /*message*/"보고 싶어! Aqours! ~전편~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_35", /*message*/"보고 싶어! Aqours! ~후편~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine · 후편");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"μ&apos;s의 비밀을 찾아라!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"승부의 향방");
@@ -4378,6 +4383,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_31", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_32", /*message*/"제32장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_33", /*message*/"제33장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_34", /*message*/"제34장");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_35", /*message*/"제35장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"제4장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"제5장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"제6장");
@@ -4696,6 +4702,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_34_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_34_7", /*message*/"　치카가 제안한 Aqours 챌린지를 달성하기 위해 혹독한 연습을 이어 가는 Aqours 멤버들. 오랜만에 찾아온 휴식일에 3학년들은 마리의 방에 모여 비밀 회의를 하는데?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_34_8", /*message*/"　자신들의 Aqours 챌린지를 발견한 3학년들은 일과 연습이 끝난 후 셋이서 따로 비밀 특훈을 거듭하기로 한다. 훈련은 힘들지만, 그곳에는 웃음이 함께했다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_34_9", /*message*/"　다음 날 스쿨 아이돌 대회를 앞둔 마리, 카난, 다이아는 도쿄로 이동했다. 니지가사키에도 들러 3학년끼리 이야기꽃을 피운 후, 대회 전 마지막 밤을 지내는 세 사람은….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_1", /*message*/"　하나마루와 다른 멤버들의 Aqours 챌린지를 보고 더욱더 의욕을 불태우던 치카는, 최고의 평가를 받을 만한 PV를 만들기 위해 밤을 새워 μ&apos;s를 연구하는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_10", /*message*/"　PV에 쓸 곡도 정해져서 다시 혹독한 트레이닝을 시작한 Aqours 멤버들은 순조롭게 PV를 제작해 간다. 그리고 마침내 PV가 완성되는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_2", /*message*/"　차례차례 Aqours 챌린지에 성공하는 멤버들을 보고 이에 질세라 자신의 Aqours 챌린지를 모색하는 요시코. 늘 하는 인터넷 방송을 통해 리틀 데몬들에게 어떤 도전이 좋을지 상의하는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_3", /*message*/"　행운의 여신상을 손에 넣기 위해 누마즈 워크 랠리 대회에 출전한 요시코. 트레이닝으로 단련한 다리 힘을 살려서 재빠르게 출발한 것은 좋지만, 가는 곳마다 불행이 찾아오는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_4", /*message*/"　행운의 여신상을 손에 넣어서 요시코의 Aqours 챌린지는 성공으로 끝났다. 그러던 어느 날, Aqours에게 홍보를 도와 달라는 요청이 들어오는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_5", /*message*/"　미토 씨 파라다이스의 홍보 대사를 맡게 된 Aqours. 그 리더가 된 루비는 사전 준비를 위해 동분서주한다. 그리고 드디어 홍보 대사 첫날이 찾아왔다!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_6", /*message*/"　홍보 대사 첫날, 해프닝도 있었지만 Aqours 멤버들은 금세 홍보 대사 활동에 익숙해졌다. 그리고 홍보 대사 활동도 후반에 접어든 어느 날, 당신도 미토 씨 파라다이스를 방문하는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_7", /*message*/"　멤버들의 Aqours 챌린지가 순조롭게 진행되던 어느 날, 당신은 다시 한번 Aqours 멤버들을 만나러 우치우라를 찾았다. Aqours 챌린지를 집중 취재하려던 차에 당신이 듣게 된 이야기란…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_8", /*message*/"　Aqours 챌린지를 본 사람들이 보내 준 수많은 메시지, 그중에는 Aqours를 보고 스쿨 아이돌을 시작했다는 내용도 있었다. 그 메시지를 읽고 떠올린 추억은…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_9", /*message*/"　μ&apos;s와 같이 했던 합동 라이브를 떠올린 덕분에 PV의 방향성을 잡은 Aqours 멤버들. 곧바로 인터넷 사이트를 통해 팬들의 생각을 모집하자 눈 깜짝할 새에 많은 반응이 왔다! 멤버들이 그것들을 하나씩 확인해 보니….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_1", /*message*/"　Aqours의 비밀을 알아보기 위해 홀로 누마즈로 향한 당신. 
 하지만 충동적으로 떠난 탓에 어디로 가야 Aqours를 만날 수 있는지도 확인하지 않은 걸 깨닫는다.
 일단 Aqours가 다니는 우라노호시 여고에 가 보기로 하는데.");
@@ -5126,6 +5142,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_34_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_34_7", /*message*/"남겨 두고 온 것");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_34_8", /*message*/"재도전!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_34_9", /*message*/"다시 찾으러 왔어!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_1", /*message*/"동경하는 마음을 품은 채로!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_10", /*message*/"동경심을 품고, 짊어지며");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_2", /*message*/"나에게 딱 맞는 도전!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_3", /*message*/"목표는 여신상!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_4", /*message*/"뒤를 쫓아가고 싶어!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_5", /*message*/"홍보 대사 리더 루비!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_6", /*message*/"커다란 한 걸음을 내딛자!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_7", /*message*/"중요한 도전");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_8", /*message*/"동경하는 마음으로부터");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_9", /*message*/"당신의 Aqours는?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_1", /*message*/"누마즈로");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_10", /*message*/"지켜보는 눈동자");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_2", /*message*/"해변에서의 만남");

@@ -2048,6 +2048,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800028", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800029", /*message*/"Finish Story Chapter 32.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800030", /*message*/"Finish Story Chapter 33.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800031", /*message*/"Finish Story Chapter 34.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800032", /*message*/"Finish Story Chapter 35.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"Read a Bond Episode: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"Read a Bond Episode: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"Read a Bond Episode: x10");
@@ -2487,6 +2488,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400454", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400455", /*message*/"Clear &quot;Swinging!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400456", /*message*/"Clear &quot;Swinging!&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400457", /*message*/"Clear &quot;Swinging!&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400458", /*message*/"Clear &quot;Yume Kataruyori Yume Utaou&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400459", /*message*/"Clear &quot;Yume Kataruyori Yume Utaou&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400460", /*message*/"Clear &quot;Yume Kataruyori Yume Utaou&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -4338,6 +4342,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_31", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_32", /*message*/"Help Us, μ&apos;s! Part 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_33", /*message*/"Help Us, μ&apos;s! Part 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_34", /*message*/"Show Me Aqours! Part 1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_35", /*message*/"Show Me Aqours! Part 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"Our Own Shine - Part 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"Find μ&apos;s&apos; Secret!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"Contest Progression");
@@ -4372,6 +4377,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_31", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_32", /*message*/"Chapter 32");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_33", /*message*/"Chapter 33");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_34", /*message*/"Chapter 34");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_35", /*message*/"Chapter 35");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"Chapter 4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"Chapter 6");
@@ -4660,6 +4666,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_34_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_34_7", /*message*/"The Aqours girls continue their intense training to clear Chika&apos;s suggested Aqours challenge. On their first day off in a while, the third years gather in Mari&apos;s room for some secret talks.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_34_8", /*message*/"The third years find their own Aqours challenge. They decide to carry out some secret training after their daily practice. Smiles spread across their faces despite the grueling training.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_34_9", /*message*/"Mari, Dia, and Kanan go to Tokyo on the day prior to the school idol contest to prepare. They drop by Nijigasaki where all the third years chat up a storm. What do the three Aqours girls get up to on the night before the contest?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_1", /*message*/"After seeing Hanamaru and the others&apos; Aqours Challenges, Chika is getting more and more motivated. She stays up late to research μ&apos;s in order to make a promo video that people will say they like the most.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_10", /*message*/"Now that they&apos;ve picked the song to use for their video and resumed their rigorous training, production is going smoothly for the Aqours promotional video. What happens when it&apos;s finally complete?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_2", /*message*/"Seeing the others succeed in their own challenges one after another, Yoshiko is determined to find her own. She discusses it with her little demons in her usual live stream, but what suggestions do they have for her?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_3", /*message*/"Yoshiko participates in the Numazu Walk Rally in order to get a statue of the Goddess of Fortune. The strength she built up from training gave her a good leg up, but misfortune follows wherever she goes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_4", /*message*/"The day after Yoshiko successfully completes her Aqours Challenge by obtaining the goddess statue, Aqours receives an unexpected public relations request.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_5", /*message*/"Aqours are appointed as the promotional ambassadors for Izu Mito Sea Paradise. Ruby becomes the leader and works hard to prepare for the event. Then her first day of helping as an ambassador arrives!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_6", /*message*/"Though Aqours had some troubles on their first day as promotional ambassadors, they soon got used to their roles. One day into the second half of the month-long project, you hurry over to see how things are going at Mito Sea.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_7", /*message*/"You decide to check up on Aqours again in Uchiura while they are making progress on their challenges. What do you hear when you begin to interview them more deeply?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_8", /*message*/"Many messages arrive from people who have been following the Aqours Challenges. Among them is a letter from a small group who started a school idol club because of Aqours. What memories does the letter evoke?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_9", /*message*/"After recalling their joint live show with μ&apos;s, Aqours grasps the direction of their own promo video. As soon as they put out a request for contributions on the website, they get a ton of responses! What do they all say?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_1", /*message*/"You&apos;ve come to Numazu to look into Aqours&apos; secret. However, since you&apos;ve come on a whim, you realize you don&apos;t know where to go to meet them. For now, you just decide to go to their school, Uranohoshi Girls&apos; High School.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_10", /*message*/"Ruby and Hanamaru&apos;s tourism guide is polished up and truly shows the appeal of Numazu. You watch their dance lesson, and during a break you find Dia intently writing something in a notebook. What could it be?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_2", /*message*/"You&apos;ve come to Numazu with no plan. Even after asking around the school, no one seems to know where Aqours is, so you&apos;re running out of steam. You follow some advice that since you&apos;ve come this far, you should go see the ocean.");
@@ -5006,6 +5022,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_34_6", /*message*/"My
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_34_7", /*message*/"What We Left Behind");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_34_8", /*message*/"Here We Go Again!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_34_9", /*message*/"Back for Our Dreams!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_1", /*message*/"Keep Admiring Them!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_10", /*message*/"Embody Admiration");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_2", /*message*/"A Challenge Made for Me!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_3", /*message*/"Eyes on the Goddess!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_4", /*message*/"Pursuing That Dream!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_5", /*message*/"Promotional Leader Ruby!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_6", /*message*/"Take a Big Step Forward!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_7", /*message*/"An Important Challenge");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_8", /*message*/"What Admiration Inspires");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_9", /*message*/"What Is Your Aqours?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_1", /*message*/"To Numazu!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_10", /*message*/"Protective Eyes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_2", /*message*/"Encounter at the Beach");

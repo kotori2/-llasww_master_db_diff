@@ -135,6 +135,11 @@ INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32024, /*page_number*/3, /*title*/"dummy.event_coop_rule_title_3202403", /*image_asset_path*/"zsZ");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32024, /*page_number*/4, /*title*/"dummy.event_coop_rule_title_3202404", /*image_asset_path*/"`E*");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32024, /*page_number*/5, /*title*/"dummy.event_coop_rule_title_3202405", /*image_asset_path*/"!Ta");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32025, /*page_number*/1, /*title*/"dummy.event_coop_rule_title_3202501", /*image_asset_path*/"/K,");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32025, /*page_number*/2, /*title*/"dummy.event_coop_rule_title_3202502", /*image_asset_path*/"8<V");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32025, /*page_number*/3, /*title*/"dummy.event_coop_rule_title_3202503", /*image_asset_path*/"zsZ");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32025, /*page_number*/4, /*title*/"dummy.event_coop_rule_title_3202504", /*image_asset_path*/"`E*");
+INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/32025, /*page_number*/5, /*title*/"dummy.event_coop_rule_title_3202505", /*image_asset_path*/"!Ta");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33009, /*page_number*/1, /*title*/"dummy.event_tower_rule_title_001_2", /*image_asset_path*/":?7");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33009, /*page_number*/2, /*title*/"dummy.event_tower_rule_title_002_2", /*image_asset_path*/"$W~");
 INSERT INTO `m_event_common_rule_description_page` VALUES (/*event_master_id*/33009, /*page_number*/3, /*title*/"dummy.event_tower_rule_title_003_2", /*image_asset_path*/")44");

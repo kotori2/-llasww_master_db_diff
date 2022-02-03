@@ -7056,3 +7056,15 @@ INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002512, /*display_order*
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002513, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002514, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002515, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002604, /*display_order*/1, /*content_type*/28, /*content_id*/16001, /*content_amount*/10);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002605, /*display_order*/1, /*content_type*/28, /*content_id*/16001, /*content_amount*/10);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002606, /*display_order*/1, /*content_type*/16, /*content_id*/2200, /*content_amount*/3);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002607, /*display_order*/1, /*content_type*/16, /*content_id*/2200, /*content_amount*/3);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002608, /*display_order*/1, /*content_type*/28, /*content_id*/16001, /*content_amount*/10);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002609, /*display_order*/1, /*content_type*/28, /*content_id*/16001, /*content_amount*/10);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002610, /*display_order*/1, /*content_type*/12, /*content_id*/8206, /*content_amount*/10);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002611, /*display_order*/1, /*content_type*/12, /*content_id*/8208, /*content_amount*/10);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002612, /*display_order*/1, /*content_type*/12, /*content_id*/8108, /*content_amount*/10);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002613, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002614, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/20);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/401002615, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/20);

@@ -1386,6 +1386,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002512", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002513", /*message*/"의상 1벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002514", /*message*/"의상 2벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002515", /*message*/"의상 3벌 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002601", /*message*/"Oh, Love &amp; Peace! 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002602", /*message*/"라이브 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002603", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002604", /*message*/"스쿨 아이돌 1명을 지정 레벨(R:40 SR:60 UR:80)까지 올리기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002605", /*message*/"스쿨 아이돌 2명을 지정 레벨(R:40 SR:60 UR:80)까지 올리기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002606", /*message*/"기간 중, 3회 로그인 보너스 받기");
@@ -1851,6 +1854,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014601", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014602", /*message*/"[빅 라이브 과제] It&apos;s our miraculous time 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014603", /*message*/"[빅 라이브 과제] MIRAI TICKET 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014604", /*message*/"[빅 라이브 과제] I&apos;m Still... 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014703", /*message*/"[CD 발매 기념] HAPPY PARTY TRAIN 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014704", /*message*/"[CD 발매 기념] 마츠우라 카난이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

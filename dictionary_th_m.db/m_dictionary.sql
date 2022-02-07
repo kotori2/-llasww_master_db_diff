@@ -1389,6 +1389,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002512", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002513", /*message*/"มีชุด 1 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002514", /*message*/"มีชุด 2 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002515", /*message*/"มีชุด 3 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002601", /*message*/"เล่น &quot;Oh, Love &amp; Peace!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002602", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002603", /*message*/"ซ้อม 2 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002604", /*message*/"อัปเลเวลของสคูลไอดอล 1 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002605", /*message*/"อัปเลเวลของสคูลไอดอล 2 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002606", /*message*/"รับล็อกอินโบนัส 3 ครั้งในเวลาที่กำหนด");
@@ -1858,6 +1861,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014601", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014602", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;It&apos;s our miraculous time&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014603", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;MIRAI TICKET&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014604", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;I&apos;m Still...&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014703", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;HAPPY PARTY TRAIN&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014704", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีมัตสึอุระ คานัน 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

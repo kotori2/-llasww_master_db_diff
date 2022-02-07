@@ -1384,6 +1384,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002512", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002513", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002514", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002515", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002601", /*message*/"遊玩1次「Oh, Love &amp; Peace!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002602", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002603", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002604", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002605", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002606", /*message*/"於期間內領取3次登入獎勵");
@@ -1849,6 +1852,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014601", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014602", /*message*/"[大型合作演唱會課題]完成10次「It&apos;s our miraculous time」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014603", /*message*/"[大型合作演唱會課題]完成10次「MIRAI TICKET」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014604", /*message*/"[大型合作演唱會課題]完成10次「I&apos;m Still...」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014703", /*message*/"[CD發行紀念]完成10次「HAPPY PARTY TRAIN」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014704", /*message*/"[CD發行紀念]使用20次發動成員包含松浦果南的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

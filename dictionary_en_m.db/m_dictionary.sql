@@ -1383,6 +1383,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002512", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002513", /*message*/"Obtain 1 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002514", /*message*/"Obtain 2 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002515", /*message*/"Obtain 3 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002601", /*message*/"Play &quot;Oh, Love &amp; Peace!&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002602", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002603", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002604", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002605", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002606", /*message*/"Collect 3 login bonuses during the event.");
@@ -1848,6 +1851,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014601", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014602", /*message*/"[SBL Goal] Clear &quot;It&apos;s our miraculous time&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014603", /*message*/"[SBL Goal] Clear &quot;MIRAI TICKET&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014604", /*message*/"[SBL Goal] Clear &quot;I&apos;m Still...&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014703", /*message*/"[CD Release Celebration] Clear &quot;HAPPY PARTY TRAIN&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014704", /*message*/"[CD Release Celebration] Use an SP Skill including Kanan Matsuura 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

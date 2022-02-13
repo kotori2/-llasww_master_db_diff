@@ -223,6 +223,7 @@ INSERT INTO `m_training_tree` VALUES (/*id*/300042001, /*training_tree_mapping_m
 INSERT INTO `m_training_tree` VALUES (/*id*/300042002, /*training_tree_mapping_m_id*/120043, /*training_tree_card_param_m_id*/300042002, /*training_tree_card_passive_skill_increase_m_id*/1);
 INSERT INTO `m_training_tree` VALUES (/*id*/300042003, /*training_tree_mapping_m_id*/120041, /*training_tree_card_param_m_id*/300042003, /*training_tree_card_passive_skill_increase_m_id*/1);
 INSERT INTO `m_training_tree` VALUES (/*id*/300042004, /*training_tree_mapping_m_id*/120042, /*training_tree_card_param_m_id*/300042004, /*training_tree_card_passive_skill_increase_m_id*/1);
+INSERT INTO `m_training_tree` VALUES (/*id*/300042005, /*training_tree_mapping_m_id*/120042, /*training_tree_card_param_m_id*/300042005, /*training_tree_card_passive_skill_increase_m_id*/1);
 INSERT INTO `m_training_tree` VALUES (/*id*/300043001, /*training_tree_mapping_m_id*/130041, /*training_tree_card_param_m_id*/300043001, /*training_tree_card_passive_skill_increase_m_id*/1);
 INSERT INTO `m_training_tree` VALUES (/*id*/300052001, /*training_tree_mapping_m_id*/120054, /*training_tree_card_param_m_id*/300052001, /*training_tree_card_passive_skill_increase_m_id*/1);
 INSERT INTO `m_training_tree` VALUES (/*id*/300052002, /*training_tree_mapping_m_id*/120051, /*training_tree_card_param_m_id*/300052002, /*training_tree_card_passive_skill_increase_m_id*/1);
@@ -325,6 +326,7 @@ INSERT INTO `m_training_tree` VALUES (/*id*/302093003, /*training_tree_mapping_m
 INSERT INTO `m_training_tree` VALUES (/*id*/302102001, /*training_tree_mapping_m_id*/122101, /*training_tree_card_param_m_id*/302102001, /*training_tree_card_passive_skill_increase_m_id*/1);
 INSERT INTO `m_training_tree` VALUES (/*id*/302103001, /*training_tree_mapping_m_id*/332102, /*training_tree_card_param_m_id*/302103001, /*training_tree_card_passive_skill_increase_m_id*/2);
 INSERT INTO `m_training_tree` VALUES (/*id*/302122001, /*training_tree_mapping_m_id*/122124, /*training_tree_card_param_m_id*/302122001, /*training_tree_card_passive_skill_increase_m_id*/1);
+INSERT INTO `m_training_tree` VALUES (/*id*/302123001, /*training_tree_mapping_m_id*/332121, /*training_tree_card_param_m_id*/302123001, /*training_tree_card_passive_skill_increase_m_id*/2);
 INSERT INTO `m_training_tree` VALUES (/*id*/400012001, /*training_tree_mapping_m_id*/120011, /*training_tree_card_param_m_id*/400012001, /*training_tree_card_passive_skill_increase_m_id*/1);
 INSERT INTO `m_training_tree` VALUES (/*id*/400012002, /*training_tree_mapping_m_id*/120013, /*training_tree_card_param_m_id*/400012002, /*training_tree_card_passive_skill_increase_m_id*/1);
 INSERT INTO `m_training_tree` VALUES (/*id*/400012003, /*training_tree_mapping_m_id*/120012, /*training_tree_card_param_m_id*/400012003, /*training_tree_card_passive_skill_increase_m_id*/1);

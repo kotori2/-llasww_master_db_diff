@@ -1853,6 +1853,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014603", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014604", /*message*/"[SBL Goal] Clear &quot;I&apos;m Still...&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014703", /*message*/"[CD Release Celebration] Clear &quot;HAPPY PARTY TRAIN&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014704", /*message*/"[CD Release Celebration] Use an SP Skill including Kanan Matsuura 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014801", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014802", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014803", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -1910,6 +1913,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018_000", /*message*/"Dream Live Parade: Voltage Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019", /*message*/"All Stars Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019_000", /*message*/"All Stars Special Dream Live Parade 2021");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020", /*message*/"Dream Live Parade: Skill Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020_000", /*message*/"Dream Live Parade: Skill Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -3690,6 +3695,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"Pow
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"Inspiration and Good Taste");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042003_1", /*message*/"Warm Hands");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042004_1", /*message*/"No Secrets from You");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042005_1", /*message*/"A Friend You Want to Watch Over");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"A Beautiful Heart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"Built Piece by Piece");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"The Joy of Enjoying");
@@ -3836,6 +3842,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"Awk
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_1", /*message*/"A Delicious Smile");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_2", /*message*/"In a Peaceful Mood");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302112001_1", /*message*/"A Request");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302113001_1", /*message*/"Amusement Park Date");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302113001_2", /*message*/"Lanzhu&apos;s Special Room");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012001_1", /*message*/"Another Event?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012002_1", /*message*/"Yaaay! I Love You, Umi!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012003_1", /*message*/"Linked Hearts");

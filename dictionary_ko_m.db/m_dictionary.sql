@@ -1856,6 +1856,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014603", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014604", /*message*/"[빅 라이브 과제] I&apos;m Still... 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014703", /*message*/"[CD 발매 기념] HAPPY PARTY TRAIN 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014704", /*message*/"[CD 발매 기념] 마츠우라 카난이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014801", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014802", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014803", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -1913,6 +1916,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018_000", /*message*/"드림 라이브 퍼레이드 ~볼티지 타입 온스테이지~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019", /*message*/"스쿠스타 Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019_000", /*message*/"스쿠스타 Special Dream Live Parade 2021");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020", /*message*/"드림 라이브 퍼레이드 ~스킬 타입 온스테이지~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020_000", /*message*/"드림 라이브 퍼레이드 ~스킬 타입 온스테이지~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");
@@ -3693,6 +3698,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"파
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"발상과 센스");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042003_1", /*message*/"따뜻한 손");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042004_1", /*message*/"마음을 숨길 순 없어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042005_1", /*message*/"손이 많이 가는 소꿉친구");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"아름다운 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"하나하나 쌓아 올린 것");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"좋아한다는 건 행복해");
@@ -3839,6 +3845,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"어
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_1", /*message*/"맛있는 미소");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_2", /*message*/"고요한 분위기 속에서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302112001_1", /*message*/"신청곡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302113001_1", /*message*/"놀이공원 데이트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302113001_2", /*message*/"란쥬의 스페셜 룸");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012001_1", /*message*/"이벤트, 한 번 더?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012002_1", /*message*/"야호~! 우미, 사랑해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012003_1", /*message*/"이심전심?");

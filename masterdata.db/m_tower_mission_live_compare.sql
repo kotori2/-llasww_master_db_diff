@@ -157,3 +157,4 @@ INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52080, /*mission_l
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52081, /*mission_live_id*/12081);
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52082, /*mission_live_id*/12082);
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52083, /*mission_live_id*/12083);
+INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52084, /*mission_live_id*/12084);

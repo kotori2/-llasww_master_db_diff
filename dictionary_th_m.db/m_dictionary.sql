@@ -1863,6 +1863,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014603", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014604", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;I&apos;m Still...&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014703", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;HAPPY PARTY TRAIN&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014704", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีมัตสึอุระ คานัน 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014801", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014802", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014803", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -1920,6 +1923,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Voltage ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019", /*message*/"ออลสตาร์ Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019_000", /*message*/"ออลสตาร์ Special Dream Live Parade 2021");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Skill ออนสเตจ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Skill ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -3700,6 +3705,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"Pow
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"ความคิดที่ผุดขึ้นมากับเซนส์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042003_1", /*message*/"มือที่อบอุ่น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042004_1", /*message*/"ปิดบังไม่ได้เลยนะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042005_1", /*message*/"เพื่อนสมัยเด็กที่ต้องคอยดูแล");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"หัวใจอันงดงาม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"ทีละเล็กทีละน้อย ค่อยๆ สะสมไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"ความสุขที่ได้ทำในสิ่งที่ชอบ");
@@ -3846,6 +3852,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"แ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_1", /*message*/"รอยยิ้มจากความอร่อย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_2", /*message*/"ท่ามกลางบรรยากาศที่เงียบสงบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302112001_1", /*message*/"รีเควสต์");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302113001_1", /*message*/"เดตที่สวนสนุก");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302113001_2", /*message*/"ห้องแสนพิเศษของหลานจู");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012001_1", /*message*/"เริ่มอีเวนต์อีกครั้ง?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012002_1", /*message*/"เย้! รักอุมิจังที่สุดเลย!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012003_1", /*message*/"สื่อใจถึงกัน?");

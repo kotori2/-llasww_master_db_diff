@@ -597,4 +597,12 @@ INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332101, /*training_tree_cell
 INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332102, /*training_tree_cell_content_m_id*/332102, /*training_tree_design_m_id*/14);
 INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332103, /*training_tree_cell_content_m_id*/332103, /*training_tree_design_m_id*/14);
 INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332104, /*training_tree_cell_content_m_id*/332104, /*training_tree_design_m_id*/14);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332111, /*training_tree_cell_content_m_id*/332111, /*training_tree_design_m_id*/14);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332112, /*training_tree_cell_content_m_id*/332112, /*training_tree_design_m_id*/14);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332113, /*training_tree_cell_content_m_id*/332113, /*training_tree_design_m_id*/14);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332114, /*training_tree_cell_content_m_id*/332114, /*training_tree_design_m_id*/14);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332121, /*training_tree_cell_content_m_id*/332121, /*training_tree_design_m_id*/14);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332122, /*training_tree_cell_content_m_id*/332122, /*training_tree_design_m_id*/14);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332123, /*training_tree_cell_content_m_id*/332123, /*training_tree_design_m_id*/14);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/332124, /*training_tree_cell_content_m_id*/332124, /*training_tree_design_m_id*/14);
 INSERT INTO `m_training_tree_mapping` VALUES (/*id*/930032, /*training_tree_cell_content_m_id*/930032, /*training_tree_design_m_id*/13);

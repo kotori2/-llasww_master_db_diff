@@ -750,3 +750,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000740, /*year*/2022, /*month*/2, /*day*/11, /*title*/"別の自分？", /*published_at*/1644505200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000741, /*year*/2022, /*month*/2, /*day*/12, /*title*/"Aqoursライブ スタート！", /*published_at*/1644591600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000742, /*year*/2022, /*month*/2, /*day*/13, /*title*/"グロリアスチョコレート", /*published_at*/1644678000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000743, /*year*/2022, /*month*/2, /*day*/14, /*title*/"ハッピーバレンタイン！", /*published_at*/1644764400);

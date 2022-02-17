@@ -753,3 +753,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000743, /*year*/2022, /*month*/2, /*day*/14, /*title*/"ハッピーバレンタイン！", /*published_at*/1644764400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000744, /*year*/2022, /*month*/2, /*day*/15, /*title*/"ハッピーバースデー、ランジュ先輩！", /*published_at*/1644850800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000745, /*year*/2022, /*month*/2, /*day*/16, /*title*/"○○カフェでひと休み", /*published_at*/1644937200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000746, /*year*/2022, /*month*/2, /*day*/17, /*title*/"ここからは私の時間！", /*published_at*/1645023600);

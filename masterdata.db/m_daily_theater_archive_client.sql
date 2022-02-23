@@ -754,3 +754,9 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000744, /*year*/2022, /*month*/2, /*day*/15, /*title*/"ハッピーバースデー、ランジュ先輩！", /*published_at*/1644850800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000745, /*year*/2022, /*month*/2, /*day*/16, /*title*/"○○カフェでひと休み", /*published_at*/1644937200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000746, /*year*/2022, /*month*/2, /*day*/17, /*title*/"ここからは私の時間！", /*published_at*/1645023600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000747, /*year*/2022, /*month*/2, /*day*/18, /*title*/"流行りが気になる！", /*published_at*/1645110000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000748, /*year*/2022, /*month*/2, /*day*/19, /*title*/"演技の練習！", /*published_at*/1645196400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000749, /*year*/2022, /*month*/2, /*day*/20, /*title*/"想いの大きさ", /*published_at*/1645282800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000750, /*year*/2022, /*month*/2, /*day*/21, /*title*/"グッドモーニング、ニジガク寮！", /*published_at*/1645369200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000751, /*year*/2022, /*month*/2, /*day*/22, /*title*/"ニジガクライブが待ちきれない！・１", /*published_at*/1645455600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000752, /*year*/2022, /*month*/2, /*day*/23, /*title*/"ニジガクライブが待ちきれない！・２", /*published_at*/1645542000);

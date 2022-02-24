@@ -760,3 +760,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000750, /*year*/2022, /*month*/2, /*day*/21, /*title*/"グッドモーニング、ニジガク寮！", /*published_at*/1645369200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000751, /*year*/2022, /*month*/2, /*day*/22, /*title*/"ニジガクライブが待ちきれない！・１", /*published_at*/1645455600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000752, /*year*/2022, /*month*/2, /*day*/23, /*title*/"ニジガクライブが待ちきれない！・２", /*published_at*/1645542000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000753, /*year*/2022, /*month*/2, /*day*/24, /*title*/"ニジガクライブが待ちきれない！・３", /*published_at*/1645628400);

@@ -3552,6 +3552,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_1", /*message*/"Han
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_2", /*message*/"Your Voice");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_1", /*message*/"Showing Off Is Important!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_2", /*message*/"An Unfamiliar Lady?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023003_1", /*message*/"View from up Close");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023003_2", /*message*/"Relaxing Tea Time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032001_1", /*message*/"Kotori&apos;s Spell");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032002_1", /*message*/"Dance How We Want To!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032003_1", /*message*/"Cold Day Delights");
@@ -3613,6 +3615,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"Mak
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043002_1", /*message*/"Let Your Spirit Burst Forth!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043002_2", /*message*/"Magical Dia");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201052001_1", /*message*/"Uchicchi?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201052002_1", /*message*/"This Time is Bliss");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"Beach Date!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_2", /*message*/"Safe From Soaking");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_1", /*message*/"Your Cheers");
@@ -3654,6 +3657,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_1", /*message*/"In 
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_2", /*message*/"Together Forever");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033002_1", /*message*/"Shizuku&apos;s Relaxation Routine");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033002_2", /*message*/"Please Do It for Me, Prez");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033003_1", /*message*/"Posing Practice");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033003_2", /*message*/"Modern Girl");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202042001_1", /*message*/"Kanata&apos;s Cookies");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_1", /*message*/"On a Splendid Evening");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_2", /*message*/"You Want to Be Punished?");
@@ -3683,6 +3688,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"The
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_1", /*message*/"Practicing with You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_2", /*message*/"Rina&apos;s Wonder Game City");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202102001_1", /*message*/"A Lovely Encounter");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202102002_1", /*message*/"It&apos;s Out of Love!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_1", /*message*/"Diligence Is the Only Way!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_2", /*message*/"The Night of My Domination");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103002_1", /*message*/"Where&apos;s the Right Answer?!");

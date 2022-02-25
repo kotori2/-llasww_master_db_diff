@@ -3553,6 +3553,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_1", /*message*/"手
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_2", /*message*/"你的聲音");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_1", /*message*/"如何表現很重要！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_2", /*message*/"陌生的大姊姊？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023003_1", /*message*/"近距離注視");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023003_2", /*message*/"放鬆愜意的午茶時光");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032001_1", /*message*/"琴梨的魔法");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032002_1", /*message*/"自由地跳舞！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032003_1", /*message*/"冷天裡的樂趣");
@@ -3614,6 +3616,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"展
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043002_1", /*message*/"奏響你的靈魂吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043002_2", /*message*/"魔術黛雅");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201052001_1", /*message*/"塢奇奇？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201052002_1", /*message*/"這段時光十分幸福");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"海洋風情的約會☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_2", /*message*/"淋濕也不用擔心");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_1", /*message*/"你的聲援");
@@ -3655,6 +3658,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_1", /*message*/"與
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033001_2", /*message*/"到哪裡都要在一起");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033002_1", /*message*/"雫的放鬆時光");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033002_2", /*message*/"前輩，請聽聽我的願望♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033003_1", /*message*/"練習擺動作");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202033003_2", /*message*/"摩登女孩");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202042001_1", /*message*/"彼方的餅乾");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_1", /*message*/"最棒的夜晚");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_2", /*message*/"你想被我處罰嗎？");
@@ -3684,6 +3689,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"過
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_1", /*message*/"和你一起練習");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_2", /*message*/"小璃奈的驚奇遊戲城");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202102001_1", /*message*/"美好的邂逅");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202102002_1", /*message*/"因為愛！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_1", /*message*/"唯有精益求精！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103001_2", /*message*/"由我主宰的夜晚");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103002_1", /*message*/"什麼才是正確答案！？");

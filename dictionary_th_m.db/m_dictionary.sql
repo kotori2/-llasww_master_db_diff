@@ -2105,6 +2105,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800029", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800030", /*message*/"เคลียร์สตอรี่ 33 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800031", /*message*/"เคลียร์สตอรี่ 34 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800032", /*message*/"เคลียร์สตอรี่ 35 บท");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800033", /*message*/"เคลียร์สตอรี่ 36 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 1 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 5 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 10 ตอน");
@@ -2547,6 +2548,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400457", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400458", /*message*/"เคลียร์ &quot;Yume Kataruyori Yume Utaou&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400459", /*message*/"เคลียร์ &quot;Yume Kataruyori Yume Utaou&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400460", /*message*/"เคลียร์ &quot;Yume Kataruyori Yume Utaou&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400461", /*message*/"เคลียร์ &quot;Oh, Love &amp; Peace!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400462", /*message*/"เคลียร์ &quot;Oh, Love &amp; Peace!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400463", /*message*/"เคลียร์ &quot;Oh, Love &amp; Peace!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400464", /*message*/"เคลียร์ &quot;MY Mai☆TONIGHT&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400465", /*message*/"เคลียร์ &quot;MY Mai☆TONIGHT&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400466", /*message*/"เคลียร์ &quot;MY Mai☆TONIGHT&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");
@@ -4462,6 +4469,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_32", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_33", /*message*/"ช่วยบอกหน่อยสิ! μ&apos;s! ครึ่งหลัง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_34", /*message*/"อยากเห็นจัง! Aqours! ครึ่งแรก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_35", /*message*/"อยากเห็นจัง! Aqours! ครึ่งหลัง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_36", /*message*/"ช่วยบอกหน่อยสิ! นิจิกาคุ! ครึ่งแรก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine・ตอนจบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"ค้นหาความลับของ μ&apos;s!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"ทิศทางการดวล");
@@ -4497,6 +4505,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_32", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_33", /*message*/"บทที่ 33");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_34", /*message*/"บทที่ 34");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_35", /*message*/"บทที่ 35");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_36", /*message*/"บทที่ 36");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"บทที่ 4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"บทที่ 6");
@@ -6284,6 +6293,52 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_35_9", /*message*/"
 บางอย่างในเว็บก็มีเสียงตอบรับ
 เข้ามามากมายทันที! 
 เมื่อไล่อ่านไปทีละข้อความก็...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_36_1", /*message*/"หลังจากได้ดู PV ของ Aqours 
+คุณที่เกิดแรงมุ่งมั่นจึงเอาง่วนกับ
+การเขียนบทความในแฟนไซต์
+สคูลไอดอลอยู่ทุกคืน อายูมุที่สังเกต
+ถึงเรื่องนั้นเข้าจึง...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_36_10", /*message*/"ทุกชมรมรับปากเรื่องร่วมแสดง
+ใน PV สำหรับงาน School Idol Exhibition
+อย่างเป็นทางการแล้ว! คุณกับเหล่า
+เมมเบอร์จึงตั้งใจไปหาแต่ละชมรม
+เพื่อสอนท่าเต้นให้...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_36_2", /*message*/"ในที่สุดนิจิกาคุก็ได้รับโปรเจกต์บางอย่าง
+จากทางแฟนไซต์สคูลไอดอลบ้างแล้ว! 
+และรายละเอียดของโปรเจกต์นั้นคือ...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_36_3", /*message*/"ระยะนี้เด็กๆ ม.4  มักไปรวมตัวกัน
+ในห้องสภานักเรียนก่อนจะเริ่มทำ
+กิจกรรมชมรม มีอะไรเกิดขึ้น
+ในห้องนั้นกันแน่นะ...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_36_4", /*message*/"เหล่า ม.4 สนใจในโยคะที่อุตสึกิ
+กับซัตสึกิสอนให้อย่างเกินคาด 
+แม้แต่เวลาอยู่บ้าน คาสึมิที่โทรคุย
+กับชิสึคุก็เล่นโยคะไปด้วย...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_36_5", /*message*/"หลังคุยโทรศัพท์กับคาสึมิ 
+ชิสึคุก็นึกถึงตอนที่ตัวเองเข้าชมรม
+สคูลไอดอล เหตุผลที่เข้าชมรมนั้น
+มีเพียงอย่างเดียว คือ 
+&quot;เพื่อให้ตัวเองเก่งขึ้นในฐานะนักแสดง&quot;
+และในตอนนี้เธอก็...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_36_6", /*message*/"เหล่า ม.4 ตัดสินใจเลือกหัวข้อ 
+&quot;ความงาม&quot; ที่ตัวเองกำลังสนใจ 
+วันนี้ทุกคนจึงไปห้างสรรพสินค้า
+เพื่อถ่ายคลิป โดยมีเป้าหมายอยู่ที่...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_36_7", /*message*/"พอเหล่า ม.4 ถ่ายคลิปแนะนำความงาม
+กันเสร็จ รินะก็ลองใช้ของที่ซื้อมา
+ในห้องของตัวเอง ตั้งแต่เริ่มเป็น
+สคูลไอดอล มีอะไรหลายๆ อย่าง
+ที่เป็น &quot;ครั้งแรก&quot;  และเรื่องราวที่รินะ
+นึกออกหลังใช้ไอเท็มเสริมความงาม
+เป็นครั้งแรกก็คือ...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_36_8", /*message*/"&quot;ลองมองดูจุดกำเนิดของตัวเองอีกครั้ง&quot; 
+ชิโอริโกะคิดถึงคำพูดนั้นของคุณอยู่
+ตลอดเวลา แต่เธอกลับรู้สึกเหมือนตัวเอง
+ไม่มีจุดกำเนิดที่ว่านั้น...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_36_9", /*message*/"เพราะคลิปเลือกเครื่องสำอาง
+มีเนื้อหาน้อยเกินไป เหล่า ม.4 
+จึงตัดสินใจถ่ายคลิปเพิ่มอีก 1 คลิป
+และหัวข้อในครั้งนี้ก็คือ...?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_1", /*message*/"เพื่อค้นหาความลับของ Aqours คุณจึงมา
 ที่นูมาสึเพียงลำพัง แต่ด้วยความใจร้อนจึง
 ไม่ทันคิดว่าจะไปหา Aqours ได้ที่ไหน
@@ -6950,6 +7005,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_7", /*message*/"การท้าทายครั้งสำคัญ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_8", /*message*/"สิ่งที่ความหลงใหลปลุกให้ตื่นขึ้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_35_9", /*message*/"Aqours สำหรับคุณคือ?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_1", /*message*/"เรื่องลับในยามค่ำคืน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_10", /*message*/"เริ่มถ่ายทำ PV !");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_2", /*message*/"ออกตัวกันเลย! นิจิกาคุ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_3", /*message*/"ความลับในห้องสภานักเรียน?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_4", /*message*/"ความลับของทั้งสองที่ถูกเก็บไว้");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_5", /*message*/"หนึ่งเดียวที่เข้มแข็งที่สุด!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_6", /*message*/"เส้นทางแห่งความงาม ภาค 1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_7", /*message*/"ปาฏิหาริย์แห่งการเชื่อมโยง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_8", /*message*/"รอยยิ้มที่อยู่เคียงข้าง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_9", /*message*/"เส้นทางแห่งความงาม ภาค 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_1", /*message*/"สู่นูมาสึ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_10", /*message*/"ตาที่คอยเฝ้ามอง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_2", /*message*/"การพบกันที่หาดทราย");

@@ -1284,3 +1284,15 @@ INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_car
 INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_201052002_1_t", /*asset_path*/"V*&");
 INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_202102002_0_t", /*asset_path*/"7H~");
 INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_202102002_1_t", /*asset_path*/"~\l");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_402103002_0_t", /*asset_path*/"\9z");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_402103002_1_t", /*asset_path*/"7oJ");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_400082006_0_t", /*asset_path*/"(uy");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_400082006_1_t", /*asset_path*/"IF}");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_400013006_0_t", /*asset_path*/"fY,");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_400013006_1_t", /*asset_path*/"?jj");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_402073005_0_t", /*asset_path*/"|XF");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_402073005_1_t", /*asset_path*/"Ui&");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_401072008_0_t", /*asset_path*/"Zij");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_401072008_1_t", /*asset_path*/"Cp_");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_402052006_0_t", /*asset_path*/"$-5");
+INSERT INTO `m_card_trimming_live_deck` VALUES (/*id*/"Card/CardTrimAuto/tex_card_402052006_1_t", /*asset_path*/"[?D");

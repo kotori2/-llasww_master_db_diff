@@ -178,6 +178,7 @@ INSERT INTO `stage_dependency` VALUES (/*asset_path*/"EF7", /*dependency*/"§{;"
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"@\G", /*dependency*/"§{;");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"kbS", /*dependency*/"§{;");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"V\"/", /*dependency*/"§{;");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"jqB", /*dependency*/"§{;");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"v+,", /*dependency*/"§?D#");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"v+,", /*dependency*/"§j^");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"v+,", /*dependency*/"§f~");

@@ -1897,6 +1897,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014903", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014904", /*message*/"[SBL Goal] Clear &quot;Cheer for you!!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015003", /*message*/"[CD Release Celebration] Clear &quot;MITAIKEN HORIZON&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015004", /*message*/"[CD Release Celebration] Use an SP Skill including Hanamaru Kunikida 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015101", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015102", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015103", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -3752,6 +3755,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042004_1", /*message*/"No 
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042005_1", /*message*/"A Friend You Want to Watch Over");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"A Beautiful Heart");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"Built Piece by Piece");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043002_1", /*message*/"Umi in a Field of Flowers");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043002_2", /*message*/"Being Bold Is Brutal");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"The Joy of Enjoying");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052002_1", /*message*/"A Delectable Dream");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_1", /*message*/"Your Choice of Ramen");
@@ -3815,6 +3820,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301053002_1", /*message*/"A C
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301053002_2", /*message*/"I Sure Hope So");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062001_1", /*message*/"Behind the White");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062002_1", /*message*/"The Jet-Black Darkness Defines Me");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062003_1", /*message*/"The Strongest Team");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_1", /*message*/"Yohane&apos;s Human World Record");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_2", /*message*/"Fallen Angel&apos;s Majesty");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063002_1", /*message*/"You&apos;re Also My Little Demon");

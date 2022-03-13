@@ -1898,6 +1898,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014903", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014904", /*message*/"[大型合作演唱會課題]完成10次「Cheer for you!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015003", /*message*/"[CD發行紀念]完成10次「MITAIKEN HORIZON」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015004", /*message*/"[CD發行紀念]使用20次發動成員包含國木田花丸的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015101", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015102", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015103", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -3753,6 +3756,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042004_1", /*message*/"我
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042005_1", /*message*/"令人放心不下的兒時玩伴");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"美麗的心");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"一點一滴累積");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043002_1", /*message*/"花海中的你");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043002_2", /*message*/"困難的大膽風格");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"能一直喜歡的幸福");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052002_1", /*message*/"美味的夢");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_1", /*message*/"你喜歡什麼口味的拉麵？");
@@ -3816,6 +3821,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301053002_1", /*message*/"在
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301053002_2", /*message*/"要是這樣就好了");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062001_1", /*message*/"白色的背後");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062002_1", /*message*/"漆黑幽暗是個人特色");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062003_1", /*message*/"最強的隊伍");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_1", /*message*/"夜羽的人界活動紀錄");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_2", /*message*/"墮天使的威嚴");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063002_1", /*message*/"你也是我的小惡魔");

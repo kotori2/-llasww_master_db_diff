@@ -1900,6 +1900,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014903", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014904", /*message*/"[빅 라이브 과제] Cheer for you!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015003", /*message*/"[CD 발매 기념] MITAIKEN HORIZON 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015004", /*message*/"[CD 발매 기념] 쿠니키다 하나마루이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015101", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015102", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015103", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -3755,6 +3758,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042004_1", /*message*/"마
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042005_1", /*message*/"손이 많이 가는 소꿉친구");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"아름다운 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"하나하나 쌓아 올린 것");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043002_1", /*message*/"꽃밭에 있는 당신");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043002_2", /*message*/"용기를 내는 건 어려워");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"좋아한다는 건 행복해");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052002_1", /*message*/"맛있는 꿈");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_1", /*message*/"어떤 라면이 좋아?");
@@ -3818,6 +3823,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301053002_1", /*message*/"어
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301053002_2", /*message*/"그랬으면 좋겠다");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062001_1", /*message*/"하얀색의 뒷면");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062002_1", /*message*/"칠흑의 어둠이 아이덴티티");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062003_1", /*message*/"최강의 팀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_1", /*message*/"요하네의 인간계 활동기록");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_2", /*message*/"타락천사의 위엄");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063002_1", /*message*/"너도 나의 리틀 데몬");

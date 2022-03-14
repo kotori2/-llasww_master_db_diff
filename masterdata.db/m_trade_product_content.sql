@@ -1280,6 +1280,16 @@ INSERT INTO `m_trade_product_content` VALUES (/*id*/2106101001, /*trade_product_
 INSERT INTO `m_trade_product_content` VALUES (/*id*/2106101101, /*trade_product_master_id*/21061011, /*content_display_order*/1);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/2106101201, /*trade_product_master_id*/21061012, /*content_display_order*/1);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/2106101301, /*trade_product_master_id*/21061013, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2106200101, /*trade_product_master_id*/21062001, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2106200201, /*trade_product_master_id*/21062002, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2106200301, /*trade_product_master_id*/21062003, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2106200401, /*trade_product_master_id*/21062004, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2106200501, /*trade_product_master_id*/21062005, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2106200601, /*trade_product_master_id*/21062006, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2106200701, /*trade_product_master_id*/21062007, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2106200801, /*trade_product_master_id*/21062008, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2106200901, /*trade_product_master_id*/21062009, /*content_display_order*/1);
+INSERT INTO `m_trade_product_content` VALUES (/*id*/2106201001, /*trade_product_master_id*/21062010, /*content_display_order*/1);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/3200000101, /*trade_product_master_id*/32000001, /*content_display_order*/0);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/3200000201, /*trade_product_master_id*/32000002, /*content_display_order*/0);
 INSERT INTO `m_trade_product_content` VALUES (/*id*/3200000301, /*trade_product_master_id*/32000003, /*content_display_order*/0);

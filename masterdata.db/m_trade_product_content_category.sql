@@ -1330,4 +1330,13 @@ INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_p
 INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/15, /*content_type*/7, /*content_id*/321018);
 INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/15, /*content_type*/7, /*content_id*/321106);
 INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/15, /*content_type*/7, /*content_id*/321206);
+INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/13, /*content_type*/7, /*content_id*/300116);
+INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/13, /*content_type*/7, /*content_id*/300216);
+INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/13, /*content_type*/7, /*content_id*/300316);
+INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/13, /*content_type*/7, /*content_id*/300416);
+INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/13, /*content_type*/7, /*content_id*/300516);
+INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/13, /*content_type*/7, /*content_id*/300616);
+INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/13, /*content_type*/7, /*content_id*/300716);
+INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/13, /*content_type*/7, /*content_id*/300816);
+INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/13, /*content_type*/7, /*content_id*/300916);
 INSERT INTO `m_trade_product_content_category` VALUES (/*trade_category_master_pattern_id*/0, /*trade_category_master_id*/4, /*content_type*/21, /*content_id*/21053);

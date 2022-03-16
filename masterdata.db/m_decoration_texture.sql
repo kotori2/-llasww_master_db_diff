@@ -1589,3 +1589,4 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gach
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220302/tex_banner_notice_s_2220302", /*path*/"WOp");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10139/tex_banner_notice_l_10139", /*path*/"z@n");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10139/tex_banner_notice_s_10139", /*path*/"'wd");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220314/tex_banner_notice_l_2220314", /*path*/"TOx");

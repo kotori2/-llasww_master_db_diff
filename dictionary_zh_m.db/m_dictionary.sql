@@ -1901,6 +1901,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015004", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015101", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015102", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015103", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015207", /*message*/"[活動特別課題]進行10次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015208", /*message*/"[活動特別課題]進行20次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015209", /*message*/"[活動特別課題]進行30次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015210", /*message*/"[活動特別課題]完成3次「Bokura wa Ima no Naka de」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015211", /*message*/"[活動特別課題]完成3次「Aozora Jumping Heart」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015212", /*message*/"[活動特別課題]完成3次「Nijiiro Passions!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

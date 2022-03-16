@@ -1910,6 +1910,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015004", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015101", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015102", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015103", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015207", /*message*/"[การบ้านพิเศษในแคมเปญ] ซ้อม 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015208", /*message*/"[การบ้านพิเศษในแคมเปญ] ซ้อม 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015209", /*message*/"[การบ้านพิเศษในแคมเปญ] ซ้อม 30 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015210", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Bokura wa Ima no Naka de&quot; 3 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015211", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Aozora Jumping Heart&quot; 3 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015212", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Nijiiro Passions!&quot; 3 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

@@ -1900,6 +1900,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015004", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015101", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015102", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015103", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015207", /*message*/"[Special Campaign Goals] Perform Training a total of 10 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015208", /*message*/"[Special Campaign Goals] Perform Training a total of 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015209", /*message*/"[Special Campaign Goals] Perform Training a total of 30 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015210", /*message*/"[Special Campaign Goals] Clear &quot;Bokura wa Ima no Naka de&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015211", /*message*/"[Special Campaign Goals] Clear &quot;Aozora Jumping Heart&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015212", /*message*/"[Special Campaign Goals] Clear &quot;Nijiiro Passions!&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

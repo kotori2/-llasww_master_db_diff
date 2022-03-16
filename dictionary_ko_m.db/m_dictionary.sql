@@ -1903,6 +1903,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015004", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015101", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015102", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015103", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015207", /*message*/"[캠페인 특별 과제] 합숙 10회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015208", /*message*/"[캠페인 특별 과제] 합숙 20회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015209", /*message*/"[캠페인 특별 과제] 합숙 30회 수행");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015210", /*message*/"[캠페인 특별 과제] Bokura wa Ima no Naka de 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015211", /*message*/"[캠페인 특별 과제] Aozora Jumping Heart 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015212", /*message*/"[캠페인 특별 과제] Nijiiro Passions! 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

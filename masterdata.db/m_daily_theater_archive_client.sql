@@ -784,3 +784,9 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000774, /*year*/2022, /*month*/3, /*day*/17, /*title*/"確実に持ってるはず！", /*published_at*/1647442800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000775, /*year*/2022, /*month*/3, /*day*/18, /*title*/"クリア後の楽しみ！", /*published_at*/1647529200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000776, /*year*/2022, /*month*/3, /*day*/19, /*title*/"フワフワ？", /*published_at*/1647615600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000777, /*year*/2022, /*month*/3, /*day*/20, /*title*/"遥か目指すもの", /*published_at*/1647702000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000778, /*year*/2022, /*month*/3, /*day*/21, /*title*/"春暁", /*published_at*/1647788400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000779, /*year*/2022, /*month*/3, /*day*/22, /*title*/"目標に向かって針路をとれ！", /*published_at*/1647874800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000780, /*year*/2022, /*month*/3, /*day*/23, /*title*/"熱血指導はお任せ！", /*published_at*/1647961200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000781, /*year*/2022, /*month*/3, /*day*/24, /*title*/"懐かしの空気", /*published_at*/1648047600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000782, /*year*/2022, /*month*/3, /*day*/25, /*title*/"思い出再訪！", /*published_at*/1648134000);

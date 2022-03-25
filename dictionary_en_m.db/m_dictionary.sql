@@ -1926,6 +1926,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015209", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015210", /*message*/"[Special Campaign Goals] Clear &quot;Bokura wa Ima no Naka de&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015211", /*message*/"[Special Campaign Goals] Clear &quot;Aozora Jumping Heart&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015212", /*message*/"[Special Campaign Goals] Clear &quot;Nijiiro Passions!&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015304", /*message*/"[Special Campaign Goals] Complete 3 Live Shows with a Show Formation consisting only of μ&apos;s.Skip Tickets cannot be used.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015305", /*message*/"[Special Campaign Goals] Complete 3 Live Shows with a Show Formation consisting only of Aqours.Skip Tickets cannot be used.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015306", /*message*/"[Special Campaign Goals] Complete 3 Live Shows with a Show Formation consisting only of Nijigasaki.Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -3605,6 +3608,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_2", /*message*/"Clo
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013002_1", /*message*/"The Mummy Hunter Gets Mummified");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013002_2", /*message*/"The Allure of a Proper Lady");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200022001_1", /*message*/"Eli&apos;s Dance Lesson");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200022002_1", /*message*/"The Person That Keeps Coming to Mind");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_1", /*message*/"Hand in Hand");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_2", /*message*/"Your Voice");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_1", /*message*/"Showing Off Is Important!");
@@ -3667,6 +3671,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_2", /*message*/"You
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033003_1", /*message*/"A Mini Live Show Just for Us");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033003_2", /*message*/"Siren Song");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201042001_1", /*message*/"A Nice, Big Smile");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201042002_1", /*message*/"The Kurosawa Sisters&apos; Study Session");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_1", /*message*/"Dia&apos;s Recommendation");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"Make It Cute!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043002_1", /*message*/"Let Your Spirit Burst Forth!");
@@ -3677,6 +3682,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"Bea
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_2", /*message*/"Safe From Soaking");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_1", /*message*/"Your Cheers");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_2", /*message*/"A Dress Made for Moving");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_1", /*message*/"A Starry Sky Just for Two");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_2", /*message*/"I&apos;m You the Magical Girl!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062001_1", /*message*/"The Chaos within the Crystal");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062002_1", /*message*/"Little Demon Training");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"A Fallen Angel&apos;s Elegant Day Off");
@@ -3707,6 +3714,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_1", /*message*/"A L
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_2", /*message*/"Shy Gaze");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_1", /*message*/"Who&apos;s the Cutest Girl in the World?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_2", /*message*/"My Knight");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023003_1", /*message*/"Gotta Be Cuter than Everyone!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023003_2", /*message*/"Little Devil Kasumin");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202032001_1", /*message*/"Puppy-Lover Pride!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202032002_1", /*message*/"That&apos;s What I Was Hoping For!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202032003_1", /*message*/"Lookalikes");

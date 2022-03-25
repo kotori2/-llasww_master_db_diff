@@ -1927,6 +1927,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015209", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015210", /*message*/"[活動特別課題]完成3次「Bokura wa Ima no Naka de」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015211", /*message*/"[活動特別課題]完成3次「Aozora Jumping Heart」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015212", /*message*/"[活動特別課題]完成3次「Nijiiro Passions!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015304", /*message*/"[活動特別課題]以μ&apos;s成員編組的隊伍完成3場LIVE※跳略券不適用");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015305", /*message*/"[活動特別課題]以Aqours成員編組的隊伍完成3場LIVE※跳略券不適用");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015306", /*message*/"[活動特別課題]以虹咲成員編組的隊伍完成3場LIVE※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -3606,6 +3609,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_2", /*message*/"在
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013002_1", /*message*/"適得其反");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013002_2", /*message*/"大小姐的誘惑");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200022001_1", /*message*/"繪里的舞蹈課程");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200022002_1", /*message*/"腦海中無意間浮現出那個人");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_1", /*message*/"手牽手");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_2", /*message*/"你的聲音");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_1", /*message*/"如何表現很重要！");
@@ -3668,6 +3672,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_2", /*message*/"你
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033003_1", /*message*/"只屬於兩人的小型LIVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033003_2", /*message*/"魅惑的歌聲");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201042001_1", /*message*/"綻放笑容");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201042002_1", /*message*/"黑澤姊妹的讀書會");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_1", /*message*/"黛雅學姐的個人推薦");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"展現可愛風采！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043002_1", /*message*/"奏響你的靈魂吧！");
@@ -3678,6 +3683,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"海
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_2", /*message*/"淋濕也不用擔心");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_1", /*message*/"你的聲援");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_2", /*message*/"舞動中華！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_1", /*message*/"只屬於兩人的星空");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_2", /*message*/"魔法少女小曜！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062001_1", /*message*/"凝視混沌的水晶");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062002_1", /*message*/"為了成為小惡魔");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"墮天使大人的優雅假日");
@@ -3708,6 +3715,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_1", /*message*/"大
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_2", /*message*/"靦腆的視線");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_1", /*message*/"誰是這個世界上最可愛的女孩啊？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_2", /*message*/"我的騎士大人");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023003_1", /*message*/"得比誰都可愛才行！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023003_2", /*message*/"小惡魔小霞霞");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202032001_1", /*message*/"狗狗就是正義！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202032002_1", /*message*/"那就是我的目的！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202032003_1", /*message*/"一模一樣的孩子");

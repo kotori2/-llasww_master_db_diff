@@ -356,3 +356,6 @@ INSERT INTO `m_petag` VALUES (/*id*/"petag_lesson_menu_campaign_member_guild_ite
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9037_empty", /*petag*/"petag.petag_icon_gacha_ticket_9037_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9037_32_empty", /*petag*/"petag.petag_icon_gacha_ticket_9037_32_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9037_28_empty", /*petag*/"petag.petag_icon_gacha_ticket_9037_28_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9038_empty", /*petag*/"petag.petag_icon_gacha_ticket_9038_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9038_32_empty", /*petag*/"petag.petag_icon_gacha_ticket_9038_32_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9038_28_empty", /*petag*/"petag.petag_icon_gacha_ticket_9038_28_empty");

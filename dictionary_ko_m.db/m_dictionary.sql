@@ -1929,6 +1929,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015209", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015210", /*message*/"[캠페인 특별 과제] Bokura wa Ima no Naka de 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015211", /*message*/"[캠페인 특별 과제] Aozora Jumping Heart 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015212", /*message*/"[캠페인 특별 과제] Nijiiro Passions! 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015304", /*message*/"[캠페인 특별 과제] μ&apos;s 한정으로 구성된 라이브 편성으로 라이브 3회 클리어※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015305", /*message*/"[캠페인 특별 과제] Aqours 한정으로 구성된 라이브 편성으로 라이브 3회 클리어※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015306", /*message*/"[캠페인 특별 과제] 니지가사키 한정으로 구성된 라이브 편성으로 라이브 3회 클리어※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -3608,6 +3611,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_2", /*message*/"가
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013002_1", /*message*/"물귀신 작전");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013002_2", /*message*/"숙녀의 유혹");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200022001_1", /*message*/"에리의 댄스 레슨");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200022002_1", /*message*/"자기도 모르게 떠오르는 그 사람");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_1", /*message*/"손을 잡고");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_2", /*message*/"너의 목소리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023002_1", /*message*/"어필은 중요해!");
@@ -3670,6 +3674,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033002_2", /*message*/"당
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033003_1", /*message*/"둘만의 미니 라이브");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201033003_2", /*message*/"유혹하는 노랫소리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201042001_1", /*message*/"배어나는 미소");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201042002_1", /*message*/"쿠로사와 자매의 공부 시간");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_1", /*message*/"다이아의 추천 메뉴");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"귀여운 스타일로!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043002_1", /*message*/"폭발하라! 영혼이여!");
@@ -3680,6 +3685,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"바
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_2", /*message*/"물에 젖어도 안심");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_1", /*message*/"네가 보내주는 응원");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053002_2", /*message*/"차이나는 움직임!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_1", /*message*/"둘이서 보는 별하늘");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_2", /*message*/"마법 소녀 요우!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062001_1", /*message*/"카오스를 응시하는 수정");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062002_1", /*message*/"리틀 데몬이 되기 위해");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"타락천사님의 우아한 휴일");
@@ -3710,6 +3717,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_1", /*message*/"사
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_2", /*message*/"부끄럼쟁이의 시선");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_1", /*message*/"세상에서 제일 귀여운 여자아이는 누구?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023002_2", /*message*/"나의 기사님");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023003_1", /*message*/"누구보다도 귀여워야 해요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023003_2", /*message*/"소악마 카스밍");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202032001_1", /*message*/"강아지는 항상 옳다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202032002_1", /*message*/"그걸 노렸어요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202032003_1", /*message*/"꼭 닮은 아이");

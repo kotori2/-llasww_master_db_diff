@@ -1198,6 +1198,8 @@ INSERT INTO `m_dic` VALUES (/*id*/340013, /*text*/"k.live_set_l_721");
 INSERT INTO `m_dic` VALUES (/*id*/340014, /*text*/"k.live_set_l_p1701");
 INSERT INTO `m_dic` VALUES (/*id*/340015, /*text*/"k.live_set_l_p1703");
 INSERT INTO `m_dic` VALUES (/*id*/340016, /*text*/"k.live_set_l_p1702");
+INSERT INTO `m_dic` VALUES (/*id*/340017, /*text*/"k.live_set_l_722");
+INSERT INTO `m_dic` VALUES (/*id*/340018, /*text*/"k.live_set_l_723");
 INSERT INTO `m_dic` VALUES (/*id*/360000, /*text*/"k.shop_l_501");
 INSERT INTO `m_dic` VALUES (/*id*/360001, /*text*/"k.exchanges_l_p201");
 INSERT INTO `m_dic` VALUES (/*id*/360002, /*text*/"k.exchanges_l_p101");

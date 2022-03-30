@@ -2150,6 +2150,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800030", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800031", /*message*/"觀賞完第34章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800032", /*message*/"觀賞完第35章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800033", /*message*/"觀賞完第36章劇情");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800034", /*message*/"觀賞完第37章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"觀賞完1話默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"觀賞完5話默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"觀賞完10話默契篇章");
@@ -2598,6 +2599,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400463", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400464", /*message*/"完成10次「MY Mai☆TONIGHT」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400465", /*message*/"完成50次「MY Mai☆TONIGHT」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400466", /*message*/"完成100次「MY Mai☆TONIGHT」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400467", /*message*/"完成10次「MOMENT RING」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400468", /*message*/"完成50次「MOMENT RING」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400469", /*message*/"完成100次「MOMENT RING」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");
@@ -4546,6 +4550,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_33", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_34", /*message*/"大家想看的Aqours！～前篇～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_35", /*message*/"大家想看的Aqours！～後篇～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_36", /*message*/"請虹咲告訴大家吧！～前篇～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_37", /*message*/"請虹咲告訴大家吧！～中篇～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"尋找專屬光芒 後篇");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"了解μ&apos;s的祕密！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"最後的勝負結果");
@@ -4582,6 +4587,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_33", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_34", /*message*/"第34章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_35", /*message*/"第35章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_36", /*message*/"第36章");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_37", /*message*/"第37章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"第4章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"第5章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"第6章");
@@ -6220,6 +6226,50 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_36_9", /*message*/"
 對美容的介紹不夠充分，
 一年級生們決定再拍一支影片。
 這次的話題會是……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_37_1", /*message*/"二年級生現正著迷於「戶外活動」，
+這是因為愛去各社團當幫手後，
+開始會和在那裡交到的朋友們
+一起進行戶外活動，
+於是其他二年級生也對此產生興趣。
+而由於眾人決定下次放假要一起去露營，
+今天便聚在一起採買露營用品。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_37_10", /*message*/"「虹咲的大家都閃閃發亮的，
+我想拍出以耀眼的虹咲全校學生
+為主角的PV！」
+你正為此煩惱該怎麼辦才好，
+而步夢似乎注意到了你的煩惱……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_37_2", /*message*/"採買完露營用品的當晚，
+二年級生因仍聊得不夠過癮，
+於是開了語音聊天室繼續閒談。
+而聊天中雪菜展現了她的露營知識……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_37_3", /*message*/"同好會陸續收到
+拜託各社團及委員會拍攝的舞蹈影片，
+且從每支影片都能感受到
+大家對舞蹈的熱情。
+而成員們看了這些影片後的反應是……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_37_4", /*message*/"終於到了盼望已久的露營當日，
+眾人在晴朗的天空下直奔露營地。
+雪菜也總算能展現
+她在動畫裡學到的露營知識了！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_37_5", /*message*/"你們搭好帳篷後，
+決定在當地蒐集
+晚餐用的野草、菇類和魚！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_37_6", /*message*/"期待已久的晚餐時間到來！
+大家蒐集的山珍海味
+及嵐珠帶來的大量肉品，
+將為快樂的夜晚揭開序幕！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_37_7", /*message*/"快樂的晚餐已結束，
+眾人也盡情聊天至深夜。
+這之後睡不著的愛溜出了帳篷……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_37_8", /*message*/"在製作二年級生
+熱衷戶外活動的影片的同時，
+虹咲的PV也一步步完成了。
+而影片中各社團的舞蹈整齊劃一……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_37_9", /*message*/"PV的製作過程應該是十分順利的，
+你卻覺得哪裡有些不對勁。
+雖然不知道感到不對勁的原因是什麼，
+但你仍決定去向
+協助你們的社團和委員會道謝……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_1", /*message*/"因為想知道Aqours的魅力根源，
 所以你一個人跑到了沼津來。
 但是你突然發現憑著一股衝動來到
@@ -6926,6 +6976,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_7", /*message*/"奇蹟的羈絆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_8", /*message*/"體貼的笑容");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_36_9", /*message*/"美容之道・第二部");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_37_1", /*message*/"著迷於戶外活動！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_37_10", /*message*/"我相信你！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_37_2", /*message*/"我的原動力！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_37_3", /*message*/"陸續收到影片！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_37_4", /*message*/"出發去露營！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_37_5", /*message*/"尋找食材！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_37_6", /*message*/"正因為「愛」！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_37_7", /*message*/"始終如一？意志堅定！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_37_8", /*message*/"融為一體的虹咲？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_37_9", /*message*/"展現這道光芒！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_1", /*message*/"前往沼津");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_10", /*message*/"靜默的守護眼神");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_2", /*message*/"在海邊的邂逅");

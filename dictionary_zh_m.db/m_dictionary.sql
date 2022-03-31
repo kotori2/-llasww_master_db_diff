@@ -1930,6 +1930,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015212", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015304", /*message*/"[活動特別課題]以μ&apos;s成員編組的隊伍完成3場LIVE※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015305", /*message*/"[活動特別課題]以Aqours成員編組的隊伍完成3場LIVE※跳略券不適用");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015306", /*message*/"[活動特別課題]以虹咲成員編組的隊伍完成3場LIVE※跳略券不適用");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015401", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015402", /*message*/"[大型合作演唱會課題]完成10次「Oh, Love &amp; Peace!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015403", /*message*/"[大型合作演唱會課題]完成10次「Landing action Yeah!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*message*/"[大型合作演唱會課題]完成10次「L! L! L! (Love the Life We Live)」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

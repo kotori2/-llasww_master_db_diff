@@ -1929,6 +1929,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015212", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015304", /*message*/"[Special Campaign Goals] Complete 3 Live Shows with a Show Formation consisting only of μ&apos;s.Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015305", /*message*/"[Special Campaign Goals] Complete 3 Live Shows with a Show Formation consisting only of Aqours.Skip Tickets cannot be used.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015306", /*message*/"[Special Campaign Goals] Complete 3 Live Shows with a Show Formation consisting only of Nijigasaki.Skip Tickets cannot be used.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015401", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015402", /*message*/"[SBL Goal] Clear &quot;Oh, Love &amp; Peace!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015403", /*message*/"[SBL Goal] Clear &quot;Landing action Yeah!!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*message*/"[SBL Goal] Clear &quot;L! L! L! (Love the Life We Live)&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

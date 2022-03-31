@@ -1939,6 +1939,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015212", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015304", /*message*/"[การบ้านพิเศษในแคมเปญ] μ&apos;s เคลียร์ไลฟ์ 3 ครั้ง※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015305", /*message*/"[การบ้านพิเศษในแคมเปญ] Aqours เคลียร์ไลฟ์ 3 ครั้ง※ไม่สามารถใช้ตั๋วข้ามได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015306", /*message*/"[การบ้านพิเศษในแคมเปญ] นิจิกาคุ เคลียร์ไลฟ์ 3 ครั้ง※ไม่สามารถใช้ตั๋วข้ามได้");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015401", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015402", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Oh, Love &amp; Peace!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015403", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Landing action Yeah!!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;L! L! L! (Love the Life We Live)&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

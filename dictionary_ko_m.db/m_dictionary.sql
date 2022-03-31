@@ -1932,6 +1932,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015212", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015304", /*message*/"[캠페인 특별 과제] μ&apos;s 한정으로 구성된 라이브 편성으로 라이브 3회 클리어※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015305", /*message*/"[캠페인 특별 과제] Aqours 한정으로 구성된 라이브 편성으로 라이브 3회 클리어※스킵 티켓 사용 불가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015306", /*message*/"[캠페인 특별 과제] 니지가사키 한정으로 구성된 라이브 편성으로 라이브 3회 클리어※스킵 티켓 사용 불가");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015401", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015402", /*message*/"[빅 라이브 과제] Oh, Love &amp; Peace! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015403", /*message*/"[빅 라이브 과제] Landing action Yeah!! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*message*/"[빅 라이브 과제] L! L! L! (Love the Life We Live) 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

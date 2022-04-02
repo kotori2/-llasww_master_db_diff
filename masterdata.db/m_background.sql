@@ -287,6 +287,7 @@ INSERT INTO `m_background` VALUES (/*id*/140011, /*prefab_asset_path*/"", /*back
 INSERT INTO `m_background` VALUES (/*id*/140012, /*prefab_asset_path*/"", /*background_asset_path*/"8~J");
 INSERT INTO `m_background` VALUES (/*id*/140013, /*prefab_asset_path*/"", /*background_asset_path*/"%=N");
 INSERT INTO `m_background` VALUES (/*id*/140027, /*prefab_asset_path*/"", /*background_asset_path*/"(qD");
+INSERT INTO `m_background` VALUES (/*id*/140028, /*prefab_asset_path*/"", /*background_asset_path*/",Vw");
 INSERT INTO `m_background` VALUES (/*id*/140127, /*prefab_asset_path*/"", /*background_asset_path*/"Kw0");
 INSERT INTO `m_background` VALUES (/*id*/400001, /*prefab_asset_path*/"", /*background_asset_path*/"Ez'");
 INSERT INTO `m_background` VALUES (/*id*/999999, /*prefab_asset_path*/"k2d", /*background_asset_path*/"");

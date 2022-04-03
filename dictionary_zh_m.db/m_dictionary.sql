@@ -1934,6 +1934,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015401", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015402", /*message*/"[大型合作演唱會課題]完成10次「Oh, Love &amp; Peace!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015403", /*message*/"[大型合作演唱會課題]完成10次「Landing action Yeah!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*message*/"[大型合作演唱會課題]完成10次「L! L! L! (Love the Life We Live)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015502", /*message*/"[活動特別課題]完成1次「Yumega Bokurano Taiyosa」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015602", /*message*/"[活動特別課題]完成1次「Eutopia」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2606,6 +2608,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400466", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400467", /*message*/"完成10次「MOMENT RING」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400468", /*message*/"完成50次「MOMENT RING」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400469", /*message*/"完成100次「MOMENT RING」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400473", /*message*/"完成10次「Yumega Bokurano Taiyosa」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400474", /*message*/"完成50次「Yumega Bokurano Taiyosa」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400475", /*message*/"完成100次「Yumega Bokurano Taiyosa」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400476", /*message*/"完成10次「Eutopia」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400477", /*message*/"完成50次「Eutopia」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400478", /*message*/"完成100次「Eutopia」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");
@@ -4453,11 +4461,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_7", /*message*/"近江彼方 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_8", /*message*/"櫻坂雫 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"朝香果林 新服裝解鎖特訓套組");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_1", /*message*/"上原步夢 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"使用獲得的道具來進行<color value=\"#ffa800\">特訓</color>，
 即可獲得新服裝、使學園偶像覺醒等。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"獲得特訓道具");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_900001", /*message*/"這些是紀念TV動畫播映的特別劇情！敬請搭配動畫內容一同欣賞。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_900002", /*message*/"這些是紀念TV動畫播映的特別劇情！敬請搭配動畫內容一同欣賞。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /*message*/"TV動畫「Love Live! 虹咲學園 學園偶像同好會」連動劇情");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900002", /*message*/"TV動畫「Love Live! 虹咲學園 學園偶像同好會」第2季播映紀念特別默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"你和步夢是兒時玩伴。
 某天你們走在路上時，
 想起了往事……");
@@ -4509,6 +4520,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"總是受到艾瑪照顧的果林，
 她覺得再這樣下去不行，
 因而打算自立自強，結果……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_1", /*message*/"某天社團活動結束後，
+你突然問步夢
+「你今後想成為什麼樣的學園偶像呢？」
+同時也想起以前曾經問過同樣的問題……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"無論是什麼樣的回憶都……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"一年級三人組不會輸的！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"為了那女孩！");
@@ -4522,6 +4537,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_6", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_7", /*message*/"甜點派對的秘密");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*message*/"逼真的……！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"互相幫助……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*message*/"我想成為的模樣");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"大家合力實現夢想");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"新學生會長出的刁難課題！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"目標學園偶像祭！

@@ -1936,6 +1936,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015401", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015402", /*message*/"[빅 라이브 과제] Oh, Love &amp; Peace! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015403", /*message*/"[빅 라이브 과제] Landing action Yeah!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*message*/"[빅 라이브 과제] L! L! L! (Love the Life We Live) 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015502", /*message*/"[캠페인 특별 과제] Yumega Bokurano Taiyosa 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015602", /*message*/"[캠페인 특별 과제] Eutopia 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -2608,6 +2610,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400466", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400467", /*message*/"MOMENT RING 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400468", /*message*/"MOMENT RING 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400469", /*message*/"MOMENT RING 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400473", /*message*/"Yumega Bokurano Taiyosa 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400474", /*message*/"Yumega Bokurano Taiyosa 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400475", /*message*/"Yumega Bokurano Taiyosa 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400476", /*message*/"Eutopia 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400477", /*message*/"Eutopia 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400478", /*message*/"Eutopia 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -4455,11 +4463,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_7", /*message*/"코노에 카나타 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_8", /*message*/"오사카 시즈쿠 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"아사카 카린 신규 의상 획득 특훈 세트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_1", /*message*/"우에하라 아유무 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"획득한 아이템을 사용해 <color value=\"#ffa800\">특훈</color>을 하면
 신규 의상 획득, 스쿨 아이돌 각성 등이 가능합니다");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"특훈 아이템 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_900001", /*message*/"TV 애니메이션 방영 기념 특별 스토리입니다! 애니메이션의 내용과 연관된 스토리를 즐겨보세요!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_900002", /*message*/"TV 애니메이션 방영 기념 특별 스토리입니다! 애니메이션의 내용과 연관된 스토리를 즐겨보세요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /*message*/"TV 애니메이션 &quot;러브라이브! 니지가사키 학원 스쿨 아이돌 동호회&quot; 연동 스토리");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900002", /*message*/"TV 애니메이션 &quot;러브라이브! 니지가사키 학원 스쿨 아이돌 동호회&quot; 2기 방송 기념 스페셜 인연 에피소드");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"　소꿉친구인 아유무와 당신은 어느 날, 거리를 걷다 옛날 일을 떠올리는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_10", /*message*/"　어느 날 연습 시간, 강력한 라이벌이기도 한 니지가사키 선배들에게 지지 않도록 비밀 특훈을 해야 한다고 카스미가 의지를 불태우고 있었는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_11", /*message*/"　어느 날 점심, 왠지 기운이 없는 아유무를 보고 걱정하는 아이와 세츠나. 두 사람이 아유무에게 이유를 물어봤더니….");
@@ -4473,6 +4484,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_6", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_7", /*message*/"　오늘은 한 달마다 돌아오는 카나타의 디저트 파티! 항상 맛있는 과자를 만들어 주는 카나타에게 보답하고 싶다는 시즈쿠의 말은 들은 카나타는….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*message*/"　어느 날, 연습 중에 갑자기 뛰쳐나간 시즈쿠. 그런 시즈쿠가 걱정되어 쫓아 나온 카스미에게 시즈쿠는….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"　항상 엠마에게 많은 도움을 받고 있는 카린. 이대로는 안 되겠다는 생각이 들어서 자립하려고 했지만….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_1", /*message*/"　어느 날, 부활동을 마친 당신은 문득 아유무에게 앞으로 어떤 스쿨 아이돌이 되고 싶은지 묻는다. 그리고 전에 같은 질문을 했을 때를 떠올리는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"어떤 추억도….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"지지 않을 거야! 1학년 트리오!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"그 애를 위해서!");
@@ -4486,6 +4498,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_6", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_7", /*message*/"디저트 파티의 비밀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*message*/"박진감 넘치는…!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"상부상조…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*message*/"되고 싶은 내 모습");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"모두 함께 이뤄가는 이야기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"새 학생회장의 어려운 요구!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"스쿠페스를 위해!

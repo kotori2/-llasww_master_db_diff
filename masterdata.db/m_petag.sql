@@ -362,3 +362,12 @@ INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9038_28_empty", /*p
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9039_empty", /*petag*/"petag.petag_icon_gacha_ticket_9039_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9039_32_empty", /*petag*/"petag.petag_icon_gacha_ticket_9039_32_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9039_28_empty", /*petag*/"petag.petag_icon_gacha_ticket_9039_28_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9040_empty", /*petag*/"petag.petag_icon_gacha_ticket_9040_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9040_32_empty", /*petag*/"petag.petag_icon_gacha_ticket_9040_32_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9040_28_empty", /*petag*/"petag.petag_icon_gacha_ticket_9040_28_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9041_empty", /*petag*/"petag.petag_icon_gacha_ticket_9041_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9041_32_empty", /*petag*/"petag.petag_icon_gacha_ticket_9041_32_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9041_28_empty", /*petag*/"petag.petag_icon_gacha_ticket_9041_28_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9042_empty", /*petag*/"petag.petag_icon_gacha_ticket_9042_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9042_32_empty", /*petag*/"petag.petag_icon_gacha_ticket_9042_32_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9042_28_empty", /*petag*/"petag.petag_icon_gacha_ticket_9042_28_empty");

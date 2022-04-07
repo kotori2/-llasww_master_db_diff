@@ -1456,6 +1456,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002712", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002713", /*message*/"의상 1벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002714", /*message*/"의상 2벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002715", /*message*/"의상 3벌 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002801", /*message*/"Just Believe!!! (12 People Ver.) 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002802", /*message*/"라이브 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002803", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002804", /*message*/"스쿨 아이돌 1명을 지정 레벨(R:40 SR:60 UR:80)까지 올리기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002805", /*message*/"스쿨 아이돌 2명을 지정 레벨(R:40 SR:60 UR:80)까지 올리기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002806", /*message*/"기간 중, 3회 로그인 보너스 받기");
@@ -2179,7 +2182,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900004", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900005", /*message*/"인연 에피소드 50화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900006", /*message*/"인연 에피소드 100화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900007", /*message*/"인연 에피소드 150화 보기");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301000001", /*message*/"SIF ID 연동하기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100001", /*message*/"유저 Rank 5 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100002", /*message*/"유저 Rank 10 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100003", /*message*/"유저 Rank 15 달성");
@@ -3494,7 +3496,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700003", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"인연Lv");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"액세서리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"캠페인");
-INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_12", /*message*/"ID 연동");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_13", /*message*/"라이브 편성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_16", /*message*/"컴플리트 과제");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_18", /*message*/"라이브");

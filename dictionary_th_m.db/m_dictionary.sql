@@ -1459,6 +1459,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002712", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002713", /*message*/"มีชุด 1 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002714", /*message*/"มีชุด 2 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002715", /*message*/"มีชุด 3 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002801", /*message*/"เล่น &quot;Just Believe!!! (12 People Ver.)&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002802", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002803", /*message*/"ซ้อม 2 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002804", /*message*/"อัปเลเวลของสคูลไอดอล 1 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002805", /*message*/"อัปเลเวลของสคูลไอดอล 2 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002806", /*message*/"รับล็อกอินโบนัส 3 ครั้งในเวลาที่กำหนด");
@@ -2186,7 +2189,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900004", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900005", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 50 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900006", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 100 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900007", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 150 ตอน");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301000001", /*message*/"เชื่อม SIF ID");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100001", /*message*/"ผู้เล่นถึง Rank 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100002", /*message*/"ผู้เล่นถึง Rank 10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100003", /*message*/"ผู้เล่นถึง Rank 15");
@@ -3501,7 +3503,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700003", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"Lv.ความสนิท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"เครื่องประดับ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"แคมเปญ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_12", /*message*/"เชื่อม ID");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_13", /*message*/"จัดทีมไลฟ์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_16", /*message*/"เคลียร์การบ้านครบทุกอัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_18", /*message*/"ไลฟ์");

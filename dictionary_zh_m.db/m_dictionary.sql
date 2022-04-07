@@ -1454,6 +1454,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002712", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002713", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002714", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002715", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002801", /*message*/"遊玩1次「Just Believe!!! (12 People Ver.)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002802", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002803", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002804", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002805", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002806", /*message*/"於期間內領取3次登入獎勵");
@@ -2177,7 +2180,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900004", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900005", /*message*/"觀賞完50話默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900006", /*message*/"觀賞完100話默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900007", /*message*/"觀賞完150話默契篇章");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301000001", /*message*/"完成學園偶像祭ID連動");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100001", /*message*/"把玩家RANK提升到5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100002", /*message*/"把玩家RANK提升到10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100003", /*message*/"把玩家RANK提升到15");
@@ -3492,7 +3494,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700003", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"默契Lv.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"飾品");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"特別活動");
-INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_12", /*message*/"帳號連動");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_13", /*message*/"LIVE隊伍編組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_16", /*message*/"完成課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_18", /*message*/"LIVE");

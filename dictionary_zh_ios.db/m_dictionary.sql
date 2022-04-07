@@ -115,7 +115,7 @@ No. 1
 Processed personal data: IP address, UUID (universal unique identifier) , and Instance IDs
 Purpose: to identify you as a game user and provide you our Game Services
 No. 2
-Processed personal data: Game Center ID, Google ID, SIFID, or Facebook ID
+Processed personal data: Game Center ID, Google ID or Facebook ID
 Purpose: to enable you to save and continue your games within your profile across multiple devices
 No. 3
 Processed personal data: IP address, your country (no other geographical information will be included), and other similar technologies

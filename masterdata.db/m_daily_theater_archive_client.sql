@@ -799,3 +799,7 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000789, /*year*/2022, /*month*/4, /*day*/1, /*title*/"エイプリルフール！", /*published_at*/1648738800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000790, /*year*/2022, /*month*/4, /*day*/2, /*title*/"２年生デート！", /*published_at*/1648825200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000791, /*year*/2022, /*month*/4, /*day*/3, /*title*/"ハッピーバースデー、しずく！", /*published_at*/1648911600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000792, /*year*/2022, /*month*/4, /*day*/4, /*title*/"誇らしいあなた", /*published_at*/1648998000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000793, /*year*/2022, /*month*/4, /*day*/5, /*title*/"導く桜を抱きしめる！", /*published_at*/1649084400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000794, /*year*/2022, /*month*/4, /*day*/6, /*title*/"理事長のお仕事", /*published_at*/1649170800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000795, /*year*/2022, /*month*/4, /*day*/7, /*title*/"唯一知る人", /*published_at*/1649257200);

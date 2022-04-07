@@ -1453,6 +1453,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002712", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002713", /*message*/"Obtain 1 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002714", /*message*/"Obtain 2 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002715", /*message*/"Obtain 3 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002801", /*message*/"Play &quot;Just Believe!!! (12 People Ver.)&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002802", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002803", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002804", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002805", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002806", /*message*/"Collect 3 login bonuses during the event.");
@@ -2176,7 +2179,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900004", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900005", /*message*/"Read a Bond Episode: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900006", /*message*/"Read a Bond Episode: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900007", /*message*/"Read a Bond Episode: x150");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301000001", /*message*/"Link to your SlF ID.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100001", /*message*/"Reach Player Rank 5.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100002", /*message*/"Reach Player Rank 10.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100003", /*message*/"Reach Player Rank 15.");
@@ -3491,7 +3493,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_309700003", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"Bond Level");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"Accessory");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"Campaign");
-INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_12", /*message*/"ID Link");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_13", /*message*/"Show Formation");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_16", /*message*/"Completed Goals");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_18", /*message*/"Live Show");

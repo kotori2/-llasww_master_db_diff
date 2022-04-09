@@ -803,3 +803,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000793, /*year*/2022, /*month*/4, /*day*/5, /*title*/"導く桜を抱きしめる！", /*published_at*/1649084400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000794, /*year*/2022, /*month*/4, /*day*/6, /*title*/"理事長のお仕事", /*published_at*/1649170800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000795, /*year*/2022, /*month*/4, /*day*/7, /*title*/"唯一知る人", /*published_at*/1649257200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000796, /*year*/2022, /*month*/4, /*day*/8, /*title*/"ダイビング体験！", /*published_at*/1649343600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000797, /*year*/2022, /*month*/4, /*day*/9, /*title*/"私たちもやりたい！", /*published_at*/1649430000);

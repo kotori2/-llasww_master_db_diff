@@ -1951,6 +1951,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015403", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*message*/"[大型合作演唱會課題]完成10次「L! L! L! (Love the Life We Live)」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015502", /*message*/"[活動特別課題]完成1次「Yumega Bokurano Taiyosa」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015602", /*message*/"[活動特別課題]完成1次「Eutopia」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015702", /*message*/"[活動特別課題]完成1次「Colorful Dreams! Colorful Smiles!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2623,6 +2624,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400466", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400467", /*message*/"完成10次「MOMENT RING」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400468", /*message*/"完成50次「MOMENT RING」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400469", /*message*/"完成100次「MOMENT RING」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400470", /*message*/"完成10次「Colorful Dreams! Colorful Smiles!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400471", /*message*/"完成50次「Colorful Dreams! Colorful Smiles!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400472", /*message*/"完成100次「Colorful Dreams! Colorful Smiles!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400473", /*message*/"完成10次「Yumega Bokurano Taiyosa」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400474", /*message*/"完成50次「Yumega Bokurano Taiyosa」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400475", /*message*/"完成100次「Yumega Bokurano Taiyosa」");
@@ -4485,6 +4489,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_8", /*message*/"櫻坂雫 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"朝香果林 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_1", /*message*/"上原步夢 新服裝解鎖特訓套組");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_2", /*message*/"中須霞 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"使用獲得的道具來進行<color value=\"#ffa800\">特訓</color>，
 即可獲得新服裝、使學園偶像覺醒等。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"獲得特訓道具");
@@ -4547,6 +4552,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_1", /*mes
 你突然問步夢
 「你今後想成為什麼樣的學園偶像呢？」
 同時也想起以前曾經問過同樣的問題……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"霞想不到和你出門時
+要帶什麼新口味的餐包，
+因而為此苦惱著……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"無論是什麼樣的回憶都……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"一年級三人組不會輸的！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"為了那女孩！");
@@ -4561,6 +4569,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_7", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*message*/"逼真的……！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"互相幫助……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*message*/"我想成為的模樣");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"發自內心感謝你");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"大家合力實現夢想");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"新學生會長出的刁難課題！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"目標學園偶像祭！

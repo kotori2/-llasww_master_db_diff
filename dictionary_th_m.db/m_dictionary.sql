@@ -1961,6 +1961,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015502", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Yumega Bokurano Taiyosa&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015602", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Eutopia&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015702", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Colorful Dreams! Colorful Smiles!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015801", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015802", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015803", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -3841,6 +3844,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_1", /*message*/"ร
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_2", /*message*/"อยากน่ารักบ้าง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_1", /*message*/"อาหารที่เติมเต็มจิตใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_2", /*message*/"พลังแห่งราเม็ง!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_1", /*message*/"หมวกหูแมวเจ้าปัญหา");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_2", /*message*/"เอาล่ะ ไปกันเถอะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"นิโกะจังก็คือนิโกะจัง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062002_1", /*message*/"ไม่ว่าเมื่อไหร่ก็ต้องทำให้สมกับเป็นฉัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"เสียงรองเท้าที่ทำให้ใจเต้น");
@@ -3957,6 +3962,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063002_2", /*message*/"ส
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"จับมือไว้แล้วไปด้วยกัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"สิ่งที่ฉันรัก☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072003_1", /*message*/"ยังไม่ชิน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072004_1", /*message*/"ชีวิตประจำวันของA・ZU・NA");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"สายสัมพันธ์แห่งน้ำแข็ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"MC เลือดร้อน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073002_1", /*message*/"ไปให้ไกลกว่านี้อีก");

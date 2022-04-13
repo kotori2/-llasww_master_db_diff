@@ -1954,6 +1954,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015502", /*message*/"[캠페인 특별 과제] Yumega Bokurano Taiyosa 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015602", /*message*/"[캠페인 특별 과제] Eutopia 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015702", /*message*/"[캠페인 특별 과제] Colorful Dreams! Colorful Smiles! 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015801", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015802", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015803", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -3834,6 +3837,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_1", /*message*/"어
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_2", /*message*/"귀여워지고 싶어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_1", /*message*/"마음이 든든한 식사");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_2", /*message*/"라면 파워!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_1", /*message*/"고양이 모자의 함정");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_2", /*message*/"그럼 출발!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"니코는 니코!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062002_1", /*message*/"언제나 나답게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"설레는 구두 소리");
@@ -3950,6 +3955,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063002_2", /*message*/"솜
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"손과 손을 마주 잡고");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"내가 가장 사랑하는 것☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072003_1", /*message*/"아직 익숙하지 않아서");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072004_1", /*message*/"A·ZU·NA의 일상");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"얼음으로 맺은 인연");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"열혈 MC");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073002_1", /*message*/"더 멀리까지");

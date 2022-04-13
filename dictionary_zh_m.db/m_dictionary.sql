@@ -1952,6 +1952,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015502", /*message*/"[活動特別課題]完成1次「Yumega Bokurano Taiyosa」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015602", /*message*/"[活動特別課題]完成1次「Eutopia」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015702", /*message*/"[活動特別課題]完成1次「Colorful Dreams! Colorful Smiles!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015801", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015802", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015803", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -3832,6 +3835,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_1", /*message*/"你
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_2", /*message*/"想變得可愛");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_1", /*message*/"令人滿足的一餐");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_2", /*message*/"拉麵力量！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_1", /*message*/"貓耳帽圈套");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_2", /*message*/"出發吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"小香還是小香！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062002_1", /*message*/"無論何時，都要忠於自我");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"怦然心動的腳步聲");
@@ -3948,6 +3953,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063002_2", /*message*/"令
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"攜手合作");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"我最熱愛的事物☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072003_1", /*message*/"還不習慣");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072004_1", /*message*/"A・ZU・NA的日常");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"冰之羈絆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"熱血MC");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073002_1", /*message*/"到達更遠的地方");

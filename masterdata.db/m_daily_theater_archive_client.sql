@@ -809,3 +809,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000799, /*year*/2022, /*month*/4, /*day*/11, /*title*/"潮干狩りに行こう！", /*published_at*/1649602800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000800, /*year*/2022, /*month*/4, /*day*/12, /*title*/"春のステージ", /*published_at*/1649689200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000801, /*year*/2022, /*month*/4, /*day*/13, /*title*/"璃奈におまかせ", /*published_at*/1649775600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000802, /*year*/2022, /*month*/4, /*day*/14, /*title*/"朝の時間は有効に", /*published_at*/1649862000);

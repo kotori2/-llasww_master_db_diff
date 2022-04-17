@@ -1956,6 +1956,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015802", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015803", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015903", /*message*/"[CD Release Celebration] Clear &quot;Koini Naritai AQUARIUM&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015904", /*message*/"[CD Release Celebration] Use an SP Skill including You Watanabe 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900016002", /*message*/"[Special Campaign Goals] Clear &quot;NEO SKY, NEO MAP!&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900016102", /*message*/"[Special Campaign Goals] Clear &quot;ENJOY IT！&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -2637,6 +2639,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400475", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400476", /*message*/"Clear &quot;Eutopia&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400477", /*message*/"Clear &quot;Eutopia&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400478", /*message*/"Clear &quot;Eutopia&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400479", /*message*/"Clear &quot;ENJOY IT！&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400480", /*message*/"Clear &quot;ENJOY IT！&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400481", /*message*/"Clear &quot;ENJOY IT！&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -4497,6 +4502,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"Special costume practice set: Karin Asaka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_1", /*message*/"Special costume practice set: Ayumu Uehara");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_2", /*message*/"Special costume practice set: Kasumi Nakasu");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_3", /*message*/"Special costume practice set: Shizuku Osaka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"Use the items you obtain to <color value=\"#ffa800\">Practice</color> and unlock new costumes, Idolize school idols, or gain other power ups.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"Practice Items Gained");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_900001", /*message*/"These special stories are to celebrate the broadcast of the TV anime! Enjoy them alongside the anime story!");
@@ -4518,6 +4524,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"Karin is always receiving help from Emma. She begins to think that it cannot go on like this and moves to be more independent. However, what happens next?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_1", /*message*/"One day after practice, you suddenly ask Ayumu what kind of school idol she wants to be from here on out. You then remember how you asked her the same question once before.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"Kasumi is having trouble coming up with a new recipe for the bread rolls she&apos;s taking with her on her outing with you.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_3", /*message*/"You&apos;ve been asked for a favor by Shizuku. To your surprise, she wants you to practice volleyball with her!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"All of Our Memories");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"Formidable First-Years!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"For Her!");
@@ -4533,6 +4540,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"Give-and-Take?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*message*/"Who I Want to Be");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"My Heartfelt Thanks");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"Support Makes Me Capable!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"A Dream Realized Together");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"Unreasonable Demands?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"School Idol Festival Getaway!");

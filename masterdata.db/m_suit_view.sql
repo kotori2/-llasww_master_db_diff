@@ -41,3 +41,4 @@ INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320917, /*view_status*/2, /*
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320918, /*view_status*/2, /*model_asset_path*/"hr^");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/302093003, /*view_status*/2, /*model_asset_path*/"15b");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/302093103, /*view_status*/2, /*model_asset_path*/"15b");
+INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/402092008, /*view_status*/2, /*model_asset_path*/"}K{");

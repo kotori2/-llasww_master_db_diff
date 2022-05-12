@@ -187,6 +187,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202702", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202703", /*message*/"กติกาอีเวนต์ 3/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202704", /*message*/"กติกาอีเวนต์ 4/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202705", /*message*/"กติกาอีเวนต์ 5/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202801", /*message*/"กติกาอีเวนต์ 1/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202802", /*message*/"กติกาอีเวนต์ 2/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202803", /*message*/"กติกาอีเวนต์ 3/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202804", /*message*/"กติกาอีเวนต์ 4/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3202805", /*message*/"กติกาอีเวนต์ 5/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_03", /*message*/"");

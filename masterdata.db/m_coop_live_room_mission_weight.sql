@@ -515,6 +515,16 @@ INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42024, /*positi
 INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42024, /*position*/3, /*mission_m_id*/30005002);
 INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42024, /*position*/3, /*mission_m_id*/30005003);
 INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42024, /*position*/3, /*mission_m_id*/30005004);
+INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42025, /*position*/1, /*mission_m_id*/10001001);
+INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42025, /*position*/1, /*mission_m_id*/10002001);
+INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42025, /*position*/1, /*mission_m_id*/10011001);
+INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42025, /*position*/2, /*mission_m_id*/20001001);
+INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42025, /*position*/2, /*mission_m_id*/20002001);
+INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42025, /*position*/2, /*mission_m_id*/20011001);
+INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42025, /*position*/3, /*mission_m_id*/30005001);
+INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42025, /*position*/3, /*mission_m_id*/30005002);
+INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42025, /*position*/3, /*mission_m_id*/30005003);
+INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42025, /*position*/3, /*mission_m_id*/30005004);
 INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42026, /*position*/1, /*mission_m_id*/10001001);
 INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42026, /*position*/1, /*mission_m_id*/10002001);
 INSERT INTO `m_coop_live_room_mission_weight` VALUES (/*live_id*/42026, /*position*/1, /*mission_m_id*/10011001);

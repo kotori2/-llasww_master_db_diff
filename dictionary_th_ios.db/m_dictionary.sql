@@ -41,7 +41,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"apple_act_on_specified_commercial_tran
         ・iOS 11以上
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"apple_eea_ad_purpose_of_use", /*message*/"BUSHIROAD INTERNATIONAL
-CONSENT FORM (APPSFLYER and ADJUST) – GAME USERS
+CONSENT FORM (ADJUST) – GAME USERS
 Bushiroad International Pte. Ltd., based in 331 North Bridge Road, #03-03 Odeon Towers,Singapore 188720.  This consent form is issued to you on behalf of the Bushiroad Group companies, which control and process your personal data in the way described below.
 
 1.        Request for your consent to process your personal data
@@ -51,7 +51,7 @@ Processed personal data:IP address, cookie data, advertising IDs / IDFA and othe
 Purpose:To analyse your behaviour online (e.g., websites visited by you), and provide behavioural and targeted advertising
 Legal basis:Your consent (article 6(1)(a) GDPR and article 5(3) e-Privacy directive)
 
-The processing of this personal data by AppsFlyer and Adjust is therefore based on your consent (Article 6(1)(a) GDPR and Article 5(3) e-Privacy Directive).  At any time you may decide to withdraw your consent in relation to the processing of this data.  Until then, we will process this data for the purposes described above.  
+The processing of this personal data by Adjust is therefore based on your consent (Article 6(1)(a) GDPR and Article 5(3) e-Privacy Directive).  At any time you may decide to withdraw your consent in relation to the processing of this data.  Until then, we will process this data for the purposes described above.  
 
 2.        How long do we keep your personal data
 We will only retain your information as long as there is a statutory or legal requirement to do so or in order that we are able to meet the above mentioned purposes. This will usually require us to retain your information for a set period of time after any relationship has ended for accounts and records purposes.

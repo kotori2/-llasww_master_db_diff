@@ -2009,6 +2009,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017102", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017202", /*message*/"[Special Campaign Goals] Clear &quot;La Bella Patria&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017302", /*message*/"[Special Campaign Goals] Clear &quot;Tsunagaru Connect&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017402", /*message*/"[Special Campaign Goals] Clear &quot;Infinity！Our wings!!&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017501", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017502", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017503", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -3982,6 +3985,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082002_1", /*message*/"Sun
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082003_1", /*message*/"A Pair of Fierce Competitors");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_1", /*message*/"Let&apos;s Make a Shiny Stage!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"Dance Till You Drop!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083002_1", /*message*/"A Lady&apos;s Etiquette?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083002_2", /*message*/"Fire Me Up!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092001_1", /*message*/"Our Summer Promise");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"A Date?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"Too Embarrassed to Live");
@@ -4027,6 +4032,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"Han
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"Something I Love");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072003_1", /*message*/"I&apos;m Not Used to It Yet");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072004_1", /*message*/"A·ZU·NA&apos;s Day-To-Day");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072005_1", /*message*/"Turn Out Tasty!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"Ice Bonds");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"Passionate MC");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073002_1", /*message*/"Go Even Further");

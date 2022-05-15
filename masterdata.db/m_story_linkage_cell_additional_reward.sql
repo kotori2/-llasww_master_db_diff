@@ -27,3 +27,4 @@ INSERT INTO `m_story_linkage_cell_additional_reward` VALUES (/*story_linkage_cel
 INSERT INTO `m_story_linkage_cell_additional_reward` VALUES (/*story_linkage_cell_master_id*/9000017, /*content_type*/1, /*content_id*/0, /*content_amount*/50, /*display_order*/1);
 INSERT INTO `m_story_linkage_cell_additional_reward` VALUES (/*story_linkage_cell_master_id*/9000018, /*content_type*/1, /*content_id*/0, /*content_amount*/50, /*display_order*/1);
 INSERT INTO `m_story_linkage_cell_additional_reward` VALUES (/*story_linkage_cell_master_id*/9000019, /*content_type*/1, /*content_id*/0, /*content_amount*/50, /*display_order*/1);
+INSERT INTO `m_story_linkage_cell_additional_reward` VALUES (/*story_linkage_cell_master_id*/9000020, /*content_type*/1, /*content_id*/0, /*content_amount*/50, /*display_order*/1);

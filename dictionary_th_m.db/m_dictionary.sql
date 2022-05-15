@@ -2022,6 +2022,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017402", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017501", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017502", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017503", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017602", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;EMOTION&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -2716,6 +2717,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400487", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400488", /*message*/"เคลียร์ &quot;Infinity！Our wings!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400489", /*message*/"เคลียร์ &quot;Infinity！Our wings!!&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400490", /*message*/"เคลียร์ &quot;Infinity！Our wings!!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400491", /*message*/"เคลียร์ &quot;EMOTION&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400492", /*message*/"เคลียร์ &quot;EMOTION&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400493", /*message*/"เคลียร์ &quot;EMOTION&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");
@@ -4607,6 +4611,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_4", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ อาซากะ คาริน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_5", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ มิยาชิตะ ไอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_6", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ โคโนเอะ คานาตะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_7", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ ยูกิ เซ็ตสึนะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"สามารถนำไอเท็มที่ได้รับไป<color value=\"#ffa800\">ฝึกพิเศษ</color>
 เพื่อรับชุดใหม่ แปลงการ์ดสคูลไอดอล และปลดล็อกต่างๆ ได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"ได้รับไอเท็มฝึกพิเศษ");
@@ -4683,6 +4688,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_5", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_6", /*message*/"คานาตะเรียกคุณมาที่บ้านและให้สัญญา
 ว่าจะมอบการหลับใหลชั้นเลิศให้กับคุณ
 ในวันนี้...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_7", /*message*/"คุณเอ่ยทักเซ็ตสึนะ
+ที่เล่นโทรศัพท์มือถืออยู่ในห้องชมรม 
+แอปพลิเคชันที่เซ็ตสึนะกำลังเล่นอยู่นั้น
+คือแอปทดสอบค่าความสนิท...!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"ไม่ว่าความทรงจำแบบไหน...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"ไม่แพ้หรอกนะ! แก๊งทรีโอ้ม.4!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"เพื่อเด็กคนนั้น!");
@@ -4702,6 +4711,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"รูปถ่ายลับ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_5", /*message*/"ทิวทัศน์ที่ไม่เคยเห็นมาก่อน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_6", /*message*/"มอบการหลับใหลชั้นเลิศให้เธอ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_7", /*message*/"ค่าความสนิทที่ค้างคาใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"เรื่องราวที่ทำให้เป็นจริงได้กับทุกคน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"ข้อเรียกร้องที่เป็นไปไม่ได้ของประธานนักเรียนคนใหม่!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"เข้าค่าย 3 โรงเรียน!

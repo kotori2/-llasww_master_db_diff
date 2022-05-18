@@ -18,8 +18,8 @@ INSERT INTO `m_live_daily` VALUES (/*id*/7, /*live_id*/10066, /*limit_count*/5, 
 INSERT INTO `m_live_daily` VALUES (/*id*/8, /*live_id*/11068, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_14008", /*weekday*/3, /*start_at*/31503600, /*end_at*/2145880800);
 INSERT INTO `m_live_daily` VALUES (/*id*/10, /*live_id*/10067, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_15010", /*weekday*/4, /*start_at*/31503600, /*end_at*/2145880800);
 INSERT INTO `m_live_daily` VALUES (/*id*/11, /*live_id*/11064, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_15011", /*weekday*/4, /*start_at*/31503600, /*end_at*/2145880800);
-INSERT INTO `m_live_daily` VALUES (/*id*/13, /*live_id*/10061, /*limit_count*/5, /*max_limit_count_recover*/1, /*appeal_text*/"k.live_campaign_16013", /*weekday*/5, /*start_at*/31503600, /*end_at*/2145880800);
-INSERT INTO `m_live_daily` VALUES (/*id*/14, /*live_id*/11067, /*limit_count*/5, /*max_limit_count_recover*/1, /*appeal_text*/"k.live_campaign_16014", /*weekday*/5, /*start_at*/31503600, /*end_at*/2145880800);
+INSERT INTO `m_live_daily` VALUES (/*id*/13, /*live_id*/10061, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_16013", /*weekday*/5, /*start_at*/31503600, /*end_at*/2145880800);
+INSERT INTO `m_live_daily` VALUES (/*id*/14, /*live_id*/11067, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_16014", /*weekday*/5, /*start_at*/31503600, /*end_at*/2145880800);
 INSERT INTO `m_live_daily` VALUES (/*id*/16, /*live_id*/10064, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_17016", /*weekday*/6, /*start_at*/31503600, /*end_at*/2145880800);
 INSERT INTO `m_live_daily` VALUES (/*id*/17, /*live_id*/10054, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_17017", /*weekday*/6, /*start_at*/31503600, /*end_at*/2145880800);
 INSERT INTO `m_live_daily` VALUES (/*id*/18, /*live_id*/11070, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_17018", /*weekday*/6, /*start_at*/31503600, /*end_at*/2145880800);
@@ -30,7 +30,7 @@ INSERT INTO `m_live_daily` VALUES (/*id*/24, /*live_id*/11069, /*limit_count*/5,
 INSERT INTO `m_live_daily` VALUES (/*id*/25, /*live_id*/11062, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_11025", /*weekday*/7, /*start_at*/31503600, /*end_at*/2145880800);
 INSERT INTO `m_live_daily` VALUES (/*id*/31, /*live_id*/12074, /*limit_count*/3, /*max_limit_count_recover*/0, /*appeal_text*/"", /*weekday*/"", /*start_at*/1634968800, /*end_at*/1636092000);
 INSERT INTO `m_live_daily` VALUES (/*id*/32, /*live_id*/12090, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_13006", /*weekday*/2, /*start_at*/1636264800, /*end_at*/2145880800);
-INSERT INTO `m_live_daily` VALUES (/*id*/33, /*live_id*/12090, /*limit_count*/5, /*max_limit_count_recover*/1, /*appeal_text*/"k.live_campaign_16015", /*weekday*/5, /*start_at*/1636264800, /*end_at*/2145880800);
+INSERT INTO `m_live_daily` VALUES (/*id*/33, /*live_id*/12090, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_16015", /*weekday*/5, /*start_at*/1636264800, /*end_at*/2145880800);
 INSERT INTO `m_live_daily` VALUES (/*id*/34, /*live_id*/12090, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_11026", /*weekday*/7, /*start_at*/1636264800, /*end_at*/2145880800);
 INSERT INTO `m_live_daily` VALUES (/*id*/35, /*live_id*/12088, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_14009", /*weekday*/3, /*start_at*/1638856800, /*end_at*/2145880800);
 INSERT INTO `m_live_daily` VALUES (/*id*/36, /*live_id*/12088, /*limit_count*/5, /*max_limit_count_recover*/9, /*appeal_text*/"k.live_campaign_17020", /*weekday*/6, /*start_at*/1638856800, /*end_at*/2145880800);

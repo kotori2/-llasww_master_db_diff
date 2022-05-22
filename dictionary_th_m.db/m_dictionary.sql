@@ -2043,6 +2043,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017502", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017503", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017602", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;EMOTION&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017802", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;TOKIMEKI Runners&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -4640,6 +4641,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_5", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ มิยาชิตะ ไอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_6", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ โคโนเอะ คานาตะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_7", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ ยูกิ เซ็ตสึนะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_8", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ เอ็มม่า เวอร์เด้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"สามารถนำไอเท็มที่ได้รับไป<color value=\"#ffa800\">ฝึกพิเศษ</color>
 เพื่อรับชุดใหม่ แปลงการ์ดสคูลไอดอล และปลดล็อกต่างๆ ได้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"ได้รับไอเท็มฝึกพิเศษ");
@@ -4720,6 +4722,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_7", /*mes
 ที่เล่นโทรศัพท์มือถืออยู่ในห้องชมรม 
 แอปพลิเคชันที่เซ็ตสึนะกำลังเล่นอยู่นั้น
 คือแอปทดสอบค่าความสนิท...!?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_8", /*message*/"คุณได้เรียนเรื่องเกี่ยวกับ
+สวิตเซอร์แลนด์ในคาบภูมิศาสตร์
+จึงขอให้เอ็มม่าช่วยสอนเรื่อง
+สวิตเซอร์แลนด์มากกว่านี้ให้หน่อย
+คุณมาที่ห้องของเอ็มม่าเพื่อฟัง
+เรื่องราวที่สวิตเซอร์แลนด์และได้รับ
+การต้อนรับเป็นอย่างดี...!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"ไม่ว่าความทรงจำแบบไหน...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"ไม่แพ้หรอกนะ! แก๊งทรีโอ้ม.4!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"เพื่อเด็กคนนั้น!");
@@ -4740,6 +4749,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_5", /*message*/"ทิวทัศน์ที่ไม่เคยเห็นมาก่อน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_6", /*message*/"มอบการหลับใหลชั้นเลิศให้เธอ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_7", /*message*/"ค่าความสนิทที่ค้างคาใจ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_8", /*message*/"แนะนำบ้านเกิด!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"เรื่องราวที่ทำให้เป็นจริงได้กับทุกคน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"ข้อเรียกร้องที่เป็นไปไม่ได้ของประธานนักเรียนคนใหม่!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"เข้าค่าย 3 โรงเรียน!

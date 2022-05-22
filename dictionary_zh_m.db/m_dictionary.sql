@@ -2034,6 +2034,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017502", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017503", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017602", /*message*/"[活動特別課題]完成1次「EMOTION」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017802", /*message*/"[活動特別課題]完成1次「TOKIMEKI Runners」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -4631,6 +4632,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_5", /*message*/"宮下愛 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_6", /*message*/"近江彼方 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_7", /*message*/"優木雪菜 新服裝解鎖特訓套組");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_8", /*message*/"艾瑪・薇蒂 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"使用獲得的道具來進行<color value=\"#ffa800\">特訓</color>，
 即可獲得新服裝、使學園偶像覺醒等。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"獲得特訓道具");
@@ -4710,6 +4712,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_6", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_7", /*message*/"你向在社團教室玩手機的雪菜搭話。
 雪菜在玩的竟然是
 可以測出友好程度的APP……！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_8", /*message*/"你在地理課上學到瑞士的知識後，
+拜託艾瑪告訴你更多瑞士的事。
+你因此前往艾瑪的房間
+邊聽她說瑞士的事邊接受款待……！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"無論是什麼樣的回憶都……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"一年級三人組不會輸的！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"為了那女孩！");
@@ -4730,6 +4736,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_5", /*message*/"從未見過的景色");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_6", /*message*/"為你獻上頂級睡眠！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_7", /*message*/"好在意我們的友好程度");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_8", /*message*/"介紹故鄉！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"大家合力實現夢想");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"新學生會長出的刁難課題！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"目標學園偶像祭！

@@ -855,3 +855,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000845, /*year*/2022, /*month*/5, /*day*/27, /*title*/"どれにしようかな？", /*published_at*/1653577200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000846, /*year*/2022, /*month*/5, /*day*/28, /*title*/"しずく監督！", /*published_at*/1653663600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000847, /*year*/2022, /*month*/5, /*day*/29, /*title*/"ふわふわのお友達", /*published_at*/1653750000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000848, /*year*/2022, /*month*/5, /*day*/30, /*title*/"ハッピーバースデー、愛！", /*published_at*/1653836400);

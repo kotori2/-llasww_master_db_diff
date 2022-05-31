@@ -2036,6 +2036,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017503", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017602", /*message*/"[活動特別課題]完成1次「EMOTION」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017702", /*message*/"[活動特別課題]完成1次「stars we chase」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017802", /*message*/"[活動特別課題]完成1次「TOKIMEKI Runners」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017901", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017902", /*message*/"[大型合作演唱會課題]完成10次「Yume no Tobira」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017903", /*message*/"[大型合作演唱會課題]完成10次「Kimino Kokorowa Kagayaiterukai?」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*message*/"[大型合作演唱會課題]完成10次「Nijiiro Passions!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

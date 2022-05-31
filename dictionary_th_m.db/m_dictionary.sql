@@ -2045,6 +2045,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017503", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017602", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;EMOTION&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017702", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;stars we chase&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017802", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;TOKIMEKI Runners&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017901", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017902", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Yume no Tobira&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017903", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Kimino Kokorowa Kagayaiterukai?&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Nijiiro Passions!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

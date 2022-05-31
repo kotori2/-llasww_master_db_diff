@@ -1750,9 +1750,16 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gach
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220516/tex_banner_notice_s_2220516", /*path*/"OAt");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220516/tex_banner_gacha_top_2220516_1", /*path*/"gdD");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220516/tex_banner_gacha_text_2220516_1", /*path*/"[oy");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220610/tex_banner_notice_s_2220610", /*path*/"pW/");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220610/tex_banner_gacha_top_2220610_1", /*path*/"XZ4");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220610/tex_banner_gacha_text_2220610_1", /*path*/"E\&");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Notice/90017/tex_banner_notice_90017_01", /*path*/";h:");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020502/tex_banner_notice_s_4020502", /*path*/"#mJ");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020502/tex_banner_gacha_top_4020502_1", /*path*/"~\"V");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020502/tex_banner_gacha_text_4020502_1", /*path*/"v`4");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/Birthday/0205/tex_banner_notice_birthday_l_0205_3", /*path*/"\Dy");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/Birthday/0205/tex_banner_notice_birthday_s_0205_3", /*path*/"D-2");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220620/tex_banner_gacha_top_2220620_1", /*path*/"{s)");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220620/tex_banner_gacha_text_2220620_1", /*path*/"DSe");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220620/tex_banner_notice_l_2220620", /*path*/"2gy");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220620/tex_banner_notice_s_2220620", /*path*/">$-");

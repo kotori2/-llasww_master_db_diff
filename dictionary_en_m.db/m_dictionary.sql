@@ -2035,6 +2035,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017503", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017602", /*message*/"[Special Campaign Goals] Clear &quot;EMOTION&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017702", /*message*/"[Special Campaign Goals] Clear &quot;stars we chase&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017802", /*message*/"[Special Campaign Goals] Clear &quot;TOKIMEKI Runners&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017901", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017902", /*message*/"[SBL Goal] Clear &quot;Yume no Tobira&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017903", /*message*/"[SBL Goal] Clear &quot;Kimino Kokorowa Kagayaiterukai?&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*message*/"[SBL Goal] Clear &quot;Nijiiro Passions!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

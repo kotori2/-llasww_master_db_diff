@@ -70,3 +70,4 @@ INSERT INTO `m_story_event_history` VALUES (/*id*/31026, /*banner_image_asset_pa
 INSERT INTO `m_story_event_history` VALUES (/*id*/31027, /*banner_image_asset_path*/"lT^", /*start_at*/1647324000, /*end_at*/1893423600, /*display_order*/59);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31028, /*banner_image_asset_path*/"dx2", /*start_at*/1650002400, /*end_at*/1893423600, /*display_order*/61);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31029, /*banner_image_asset_path*/"sD'", /*start_at*/1652594400, /*end_at*/1893423600, /*display_order*/63);
+INSERT INTO `m_story_event_history` VALUES (/*id*/31030, /*banner_image_asset_path*/"v<8", /*start_at*/1655272800, /*end_at*/1893423600, /*display_order*/65);

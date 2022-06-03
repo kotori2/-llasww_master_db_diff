@@ -1529,6 +1529,18 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002912", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002913", /*message*/"มีชุด 1 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002914", /*message*/"มีชุด 2 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002915", /*message*/"มีชุด 3 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003004", /*message*/"อัปเลเวลของสคูลไอดอล 1 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003005", /*message*/"อัปเลเวลของสคูลไอดอล 2 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003006", /*message*/"รับล็อกอินโบนัส 3 ครั้งในเวลาที่กำหนด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003007", /*message*/"รับล็อกอินโบนัส 6 ครั้งในเวลาที่กำหนด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003008", /*message*/"ซ้อม 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003009", /*message*/"ซ้อม 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003010", /*message*/"เคลียร์ไลฟ์ 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003011", /*message*/"เคลียร์ไลฟ์ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003012", /*message*/"เคลียร์ไลฟ์ 30 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003013", /*message*/"มีชุด 1 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003014", /*message*/"มีชุด 2 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003015", /*message*/"มีชุด 3 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300101", /*message*/"เล่น &quot;Bokura wa Ima no Naka de&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300102", /*message*/"เล่น &quot;Bokura wa Ima no Naka de&quot; 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300103", /*message*/"เล่นไลฟ์ 10 ครั้ง");
@@ -2063,6 +2075,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"บทที่ 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"บทที่ 7");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31030", /*message*/"ขับขานเพลงแห่งจิตวิญญาณ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"กติกาอีเวนต์ 1/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"กติกาอีเวนต์ 2/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"กติกาอีเวนต์ 3/4");
@@ -4115,6 +4128,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012002_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012003_1", /*message*/"สื่อใจถึงกัน?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012004_1", /*message*/"ไม่ว่าจะเป็นเรื่องราวแบบไหน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012005_1", /*message*/"หวั่นไหวไปกับสิ่งรอบตัว");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012006_1", /*message*/"อิมแพกต์ด้วยท่าทาง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_1", /*message*/"การต่อสู้ด้วยคำขอบคุณ!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_2", /*message*/"เธอก็ไปงานเต้นรำได้แล้วสิ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013002_1", /*message*/"เวทมนตร์ที่จะคลายในหนึ่งวัน");
@@ -4145,6 +4159,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023004_1", /*message*/"ส
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023004_2", /*message*/"ถ้าอยู่กับเธอถึงฝนตกก็ไม่เป็นไร");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023005_1", /*message*/"ที่ที่ใกล้ยิ่งกว่าดวงจันทร์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023005_2", /*message*/"เสน่ห์เย้ายวนของดวงจันทร์");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023006_1", /*message*/"พี่สาวที่ทั้งเท่และน่ารัก");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400023006_2", /*message*/"ไลฟ์จากเสียงกู่ร้องของจิตวิญญาณ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400032001_1", /*message*/"เพื่อนของเหล่าตุ๊กตา");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400032002_1", /*message*/"เรื่องธรรมดา");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400032003_1", /*message*/"มาเจอมินาลินสกี้กัน!");
@@ -4338,6 +4354,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042001_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042002_1", /*message*/"พี่สาว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042003_1", /*message*/"ชวนไปปาร์ตี้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042004_1", /*message*/"ช่วงเวลาที่แทบรอไม่ไหว");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042005_1", /*message*/"เมื่อเข้าใจเสน่ห์แล้ว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043001_1", /*message*/"อ้อมกอดของไดยะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043001_2", /*message*/"ไม่กล้าพูดต่อหน้า");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043002_1", /*message*/"เป้าหมายคือร้านราเม็งคุโรซาวะ");
@@ -4414,6 +4431,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401082004_1", /*message*/"ร
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401082005_1", /*message*/"ปลายทางของปลาคาร์ฟ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401082006_1", /*message*/"เวลาน้ำชาไอเดียบรรเจิด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401082007_1", /*message*/"ปาร์ตี้ช็อกโกแลตของมาริ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401082008_1", /*message*/"เพลงแนะนำของมาริ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401083001_1", /*message*/"ความรู้สึกที่แท้จริง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401083001_2", /*message*/"Mari Full Throttle");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401083002_1", /*message*/"กลยุทธ์ขาวดำ");
@@ -4519,6 +4537,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402043005_1", /*message*/"ท
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402043005_2", /*message*/"จะไปแบบสะดุดตาละนะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402043006_1", /*message*/"เธอคืออัศวิน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402043006_2", /*message*/"เดี๋ยวจับเลยนะ♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402043007_1", /*message*/"เพลงแนะนำของคาริน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402043007_2", /*message*/"จะให้ฟังเสียงแห่งจิตวิญญาณ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402052001_1", /*message*/"แผนที่เส้นทางใหม่");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402052002_1", /*message*/"ขอความช่วยเหลือคุณไอ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402052003_1", /*message*/"จะถ่ายละนะ!");
@@ -4556,6 +4576,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402063004_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402063004_2", /*message*/"วันหยุดของคานาตะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402063005_1", /*message*/"หัวใจบริการของคานาตะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402063005_2", /*message*/"ช่อดอกไม้ของคานาตะจัง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402063006_1", /*message*/"พอคิดถึงเรื่องของคนที่ชอบ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402063006_2", /*message*/"ร่าเริงขึ้นสิ ด้วยเสียงของทุกคน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402072001_1", /*message*/"ขนมแนะนำ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402072002_1", /*message*/"เพิ่มพลังทวีคูณ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402072003_1", /*message*/"ถูกสาดส่องด้วยแสงในอุดมคติด");

@@ -860,3 +860,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000850, /*year*/2022, /*month*/6, /*day*/1, /*title*/"愛さんの日！？", /*published_at*/1654009200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000851, /*year*/2022, /*month*/6, /*day*/2, /*title*/"堪能！", /*published_at*/1654095600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000852, /*year*/2022, /*month*/6, /*day*/3, /*title*/"凛が！！", /*published_at*/1654182000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000853, /*year*/2022, /*month*/6, /*day*/4, /*title*/"おかわり！", /*published_at*/1654268400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000854, /*year*/2022, /*month*/6, /*day*/5, /*title*/"ふたりにだけわかること", /*published_at*/1654354800);

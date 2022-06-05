@@ -2054,6 +2054,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017901", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017902", /*message*/"[빅 라이브 과제] Yume no Tobira 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017903", /*message*/"[빅 라이브 과제] Kimino Kokorowa Kagayaiterukai? 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*message*/"[빅 라이브 과제] Nijiiro Passions! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018002", /*message*/"[캠페인 특별 과제] Love U my friends 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -4668,6 +4669,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_8", /*message*/"오사카 시즈쿠 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"아사카 카린 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_1", /*message*/"우에하라 아유무 신규 의상 획득 특훈 세트");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_10", /*message*/"미후네 시오리코 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_2", /*message*/"나카스 카스미 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_3", /*message*/"오사카 시즈쿠 신규 의상 획득 특훈 세트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_4", /*message*/"아사카 카린 신규 의상 획득 특훈 세트");
@@ -4697,6 +4699,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_7", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*message*/"　어느 날, 연습 중에 갑자기 뛰쳐나간 시즈쿠. 그런 시즈쿠가 걱정되어 쫓아 나온 카스미에게 시즈쿠는….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"　항상 엠마에게 많은 도움을 받고 있는 카린. 이대로는 안 되겠다는 생각이 들어서 자립하려고 했지만….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_1", /*message*/"　어느 날, 부활동을 마친 당신은 문득 아유무에게 앞으로 어떤 스쿨 아이돌이 되고 싶은지 묻는다. 그리고 전에 같은 질문을 했을 때를 떠올리는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_10", /*message*/"　시오리코와 둘이서 패밀리 레스토랑에 온 당신. 시오리코는 그곳에 있는 드링크 바에서 오리지널 드링크를 만들어 주었다. 아무래도 시오리코는 패밀리 레스토랑의 오리지널 드링크에 특별한 추억이 있는 모양인데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"　카스미는 당신과 나들이 갈 때 가져갈 새로운 쿠페빵 레시피가 떠오르지 않아서 고민에 빠져 있었다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_3", /*message*/"　당신은 시즈쿠에게 한 가지 부탁을 받는다. 그 부탁이란 바로 &apos;배구 연습&apos;…?!　");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_4", /*message*/"　카린이 아마추어 모델로 출연하는 잡지에서 &apos;당신의 소중한 사람과 찍은 기념사진&apos;이라는 기획 코너를 진행하게 되었다. 카린의 &apos;소중한 사람&apos;으로 선택된 사람은…?");
@@ -4719,6 +4722,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_7", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*message*/"박진감 넘치는…!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"상부상조…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*message*/"되고 싶은 내 모습");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_10", /*message*/"당신의 이미지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"진심 어린 감사를 당신에게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"응원이 있으면 뭐든지!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"비밀의 스냅 사진");

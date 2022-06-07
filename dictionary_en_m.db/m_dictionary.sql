@@ -1523,6 +1523,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002912", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002913", /*message*/"Obtain 1 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002914", /*message*/"Obtain 2 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002915", /*message*/"Obtain 3 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003001", /*message*/"Play &quot;Aqours HEROES&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003002", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003003", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003004", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003005", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003006", /*message*/"Collect 3 login bonuses during the event.");
@@ -2052,6 +2055,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017902", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017903", /*message*/"[SBL Goal] Clear &quot;Kimino Kokorowa Kagayaiterukai?&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*message*/"[SBL Goal] Clear &quot;Nijiiro Passions!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018002", /*message*/"[Special Campaign Goals] Clear &quot;Love U my friends&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018103", /*message*/"[CD Release Celebration] Clear &quot;Hop? Stop? Nonstop!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018104", /*message*/"[CD Release Celebration] Use an SP Skill including Mari Ohara 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

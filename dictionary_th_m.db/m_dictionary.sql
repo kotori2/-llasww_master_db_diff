@@ -1529,6 +1529,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002912", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002913", /*message*/"มีชุด 1 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002914", /*message*/"มีชุด 2 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002915", /*message*/"มีชุด 3 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003001", /*message*/"เล่น &quot;Aqours HEROES&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003002", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003003", /*message*/"ซ้อม 2 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003004", /*message*/"อัปเลเวลของสคูลไอดอล 1 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003005", /*message*/"อัปเลเวลของสคูลไอดอล 2 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003006", /*message*/"รับล็อกอินโบนัส 3 ครั้งในเวลาที่กำหนด");
@@ -2062,6 +2065,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017902", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017903", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Kimino Kokorowa Kagayaiterukai?&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Nijiiro Passions!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018002", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Love U my friends&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018103", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;Hop? Stop? Nonstop!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018104", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีโอฮาระ มาริ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

@@ -1524,6 +1524,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002912", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002913", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002914", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002915", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003001", /*message*/"遊玩1次「Aqours HEROES」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003002", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003003", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003004", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003005", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003006", /*message*/"於期間內領取3次登入獎勵");
@@ -2053,6 +2056,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017902", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017903", /*message*/"[大型合作演唱會課題]完成10次「Kimino Kokorowa Kagayaiterukai?」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*message*/"[大型合作演唱會課題]完成10次「Nijiiro Passions!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018002", /*message*/"[活動特別課題]完成1次「Love U my friends」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018103", /*message*/"[CD發行紀念]完成10次「Hop? Stop? Nonstop!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018104", /*message*/"[CD發行紀念]使用20次發動成員包含小原鞠莉的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

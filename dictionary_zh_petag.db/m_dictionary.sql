@@ -401,3 +401,4 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch0212_empty", /*message*/"<s
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch1001_empty", /*message*/"<span size=\"32\">〜一段時間後〜");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch1002_empty", /*message*/"<span size=\"32\">（SE）</span><br/><span size=\"28\">");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch1003_empty", /*message*/"<span size=\"32\">全員</span><br/><span size=\"28\">");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_th_ch5206_empty", /*message*/"<span size=\"32\">はんぺん</span><br/><span size=\"28\">");

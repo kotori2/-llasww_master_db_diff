@@ -1489,6 +1489,11 @@ INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/120053
 INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/12005301, /*evaluation_type*/30);
 INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/12005301, /*evaluation_type*/40);
 INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/12005301, /*evaluation_type*/50);
+INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/12005401, /*evaluation_type*/10);
+INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/12005401, /*evaluation_type*/20);
+INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/12005401, /*evaluation_type*/30);
+INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/12005401, /*evaluation_type*/40);
+INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/12005401, /*evaluation_type*/50);
 INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/12006101, /*evaluation_type*/10);
 INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/12006101, /*evaluation_type*/20);
 INSERT INTO `m_live_evaluation_drop` VALUES (/*live_difficulty_master_id*/12006101, /*evaluation_type*/30);

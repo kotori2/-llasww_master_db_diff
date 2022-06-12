@@ -2058,6 +2058,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018002", /*message*/"[活動特別課題]完成1次「Love U my friends」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018103", /*message*/"[CD發行紀念]完成10次「Hop? Stop? Nonstop!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018104", /*message*/"[CD發行紀念]使用20次發動成員包含小原鞠莉的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018202", /*message*/"[活動特別課題]完成1次「Mirai Harmony」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -4673,6 +4674,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"朝香果林 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_1", /*message*/"上原步夢 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_10", /*message*/"三船栞子 新服裝解鎖特訓套組");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_12", /*message*/"米雅・泰勒 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_2", /*message*/"中須霞 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_3", /*message*/"櫻坂雫 新服裝解鎖特訓套組");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_4", /*message*/"朝香果林 新服裝解鎖特訓套組");
@@ -4747,6 +4749,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_10", /*me
 栞子在飲料吧為你製作了獨家特調。
 栞子對家庭餐廳的獨家特調
 似乎有著特別的感情……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_11", /*message*/"米雅正在作新的曲子。
+你問米雅這是否是她的下首新歌，
+她卻回答這是她的姊姊的曲子……！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"霞想不到和你出門時
 要帶什麼新口味的餐包，
 因而為此苦惱著……");
@@ -4786,6 +4791,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"互相幫助……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*message*/"我想成為的模樣");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_10", /*message*/"你在她心中的形象");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_11", /*message*/"因為有你");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"發自內心感謝你");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"只要有你的聲援就什麼都辦得到！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"秘密抓拍照片");

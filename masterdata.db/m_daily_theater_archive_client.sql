@@ -868,3 +868,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000858, /*year*/2022, /*month*/6, /*day*/9, /*title*/"ハッピーバースデー、希さん！", /*published_at*/1654700400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000859, /*year*/2022, /*month*/6, /*day*/10, /*title*/"止まらない！", /*published_at*/1654786800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000860, /*year*/2022, /*month*/6, /*day*/11, /*title*/"頼れる仲間！", /*published_at*/1654873200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000861, /*year*/2022, /*month*/6, /*day*/12, /*title*/"準備はもうすぐ！", /*published_at*/1654959600);

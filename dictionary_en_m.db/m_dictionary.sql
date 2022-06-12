@@ -2057,6 +2057,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018002", /*message*/"[Special Campaign Goals] Clear &quot;Love U my friends&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018103", /*message*/"[CD Release Celebration] Clear &quot;Hop? Stop? Nonstop!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018104", /*message*/"[CD Release Celebration] Use an SP Skill including Mari Ohara 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018202", /*message*/"[Special Campaign Goals] Clear &quot;Mirai Harmony&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -4672,6 +4673,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"Special costume practice set: Karin Asaka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_1", /*message*/"Special costume practice set: Ayumu Uehara");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_10", /*message*/"Special costume practice set: Shioriko Mifune");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_12", /*message*/"Special costume practice set: Mia Taylor");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_2", /*message*/"Special costume practice set: Kasumi Nakasu");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_3", /*message*/"Special costume practice set: Shizuku Osaka");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_4", /*message*/"Special costume practice set: Karin Asaka");
@@ -4701,6 +4703,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"Karin is always receiving help from Emma. She begins to think that it cannot go on like this and moves to be more independent. However, what happens next?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_1", /*message*/"One day after practice, you suddenly ask Ayumu what kind of school idol she wants to be from here on out. You then remember how you asked her the same question once before.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_10", /*message*/"You and Shioriko go to a diner, where she makes you an original drink of hers at the self-service station. It seems that she&apos;s put a lot of thought into this drink...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_11", /*message*/"Mia is writing a new song. You ask her if it&apos;s her new single, but it&apos;s actually for her older sister!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"Kasumi is having trouble coming up with a new recipe for the bread rolls she&apos;s taking with her on her outing with you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_3", /*message*/"You&apos;ve been asked for a favor by Shizuku. To your surprise, she wants you to practice volleyball with her!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_4", /*message*/"The magazine Karin appears in as an amateur model wants to publish a column featuring photos of models with their loved ones. Who does Karin pick for hers?");
@@ -4724,6 +4727,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"Give-and-Take?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*message*/"Who I Want to Be");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_10", /*message*/"Inspired by You");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_11", /*message*/"Thanks to You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"My Heartfelt Thanks");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"Support Makes Me Capable!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"Secret Snaps");

@@ -2067,6 +2067,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018002", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Love U my friends&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018103", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;Hop? Stop? Nonstop!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018104", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีโอฮาระ มาริ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018202", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Mirai Harmony&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -4682,6 +4683,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ อาซากะ คาริน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_1", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ อุเอฮาระ อายูมุ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_10", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ มิฟุเนะ ชิโอริโกะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_12", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ มีอา เทเลอร์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_2", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ นากาสึ คาสึมิ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_3", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ โอซากะ ชิสึคุ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_4", /*message*/"เซ็ตฝึกพิเศษปลดล็อกชุดใหม่ อาซากะ คาริน");
@@ -4754,6 +4756,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_10", /*me
 ดูเหมือนว่าออริจินอลดริงก์ของ
 ร้านอาหารครอบครัวจะเป็นสิ่งที่พิเศษ
 สำหรับชิโอริโกะ...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_11", /*message*/"มีอากำลังแต่งเพลงใหม่อยู่ 
+เมื่อคุณถามว่าแต่งเพลงใหม่
+ของตัวเองอยู่เหรอ? แต่กลับไม่ใช่
+อย่างนั้น เพลงที่มีอากำลังแต่งอยู่
+คือเพลงของพี่ต่างหาก...!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"คาสึมิกลุ้มใจที่คิดสูตรขนมปังฮอตด็อก
 ใหม่ๆ ที่จะนำไปกินตอนไปเที่ยวกับคุณ
 ไม่ออก...");
@@ -4802,6 +4809,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"ต่างฝ่ายต่างช่วยเหลือกัน...?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*message*/"ตัวฉันที่อยากเป็น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_10", /*message*/"อิมเมจของคุณ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_11", /*message*/"เพราะเธอเลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"ขอบคุณจากใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"ถ้ามีเสียงเชียร์! ก็ทำได้ทุกอย่าง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"รูปถ่ายลับ");

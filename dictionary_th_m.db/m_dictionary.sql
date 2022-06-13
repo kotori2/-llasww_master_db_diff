@@ -2068,6 +2068,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018002", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018103", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;Hop? Stop? Nonstop!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018104", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีโอฮาระ มาริ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018202", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Mirai Harmony&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018301", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018302", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018303", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -2127,6 +2130,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019_000", /*message*/"ออลสตาร์ Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Skill ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Skill ออนสเตจ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024", /*message*/"ดรีมไลฟ์พาเรด -มัธยม 4 ออนสเตจ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024_000", /*message*/"ดรีมไลฟ์พาเรด -มัธยม 4 ออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -3964,6 +3969,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023002_1", /*message*/"ภ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023002_2", /*message*/"จนกว่าหิมะจะละลาย!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"เมดในตำนานปรากฏตัว!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032002_1", /*message*/"ขอร้องล่ะ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032003_1", /*message*/"พักสักหน่อย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"ไปซื้อของด้วยกันนะ♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"ดั่งกุลสตรี");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033002_1", /*message*/"ระเบียงบ้านในหน้าร้อน");
@@ -4019,6 +4025,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"ส
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"เธอผู้เป็นที่รัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"ความเร่าร้อนที่สงบเงียบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"สาวน้อยแห่งดอกไม้");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_1", /*message*/"สิ่งที่รู้สึกว่าดี");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_2", /*message*/"งานดนตรีกลางป่า");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"จิตใจที่สงบนิ่ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032002_1", /*message*/"คิดไปเองน่า คิดไปเอง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"ทันสมัยนี่ยากจัง");

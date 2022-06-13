@@ -21,6 +21,7 @@ INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/50015, /*mission_l
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/50016, /*mission_live_id*/10016);
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/50017, /*mission_live_id*/10017);
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/50021, /*mission_live_id*/10021);
+INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/50023, /*mission_live_id*/10023);
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/50025, /*mission_live_id*/10025);
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/50032, /*mission_live_id*/10032);
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/50036, /*mission_live_id*/10036);

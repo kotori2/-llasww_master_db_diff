@@ -2059,6 +2059,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018002", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018103", /*message*/"[CD發行紀念]完成10次「Hop? Stop? Nonstop!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018104", /*message*/"[CD發行紀念]使用20次發動成員包含小原鞠莉的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018202", /*message*/"[活動特別課題]完成1次「Mirai Harmony」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018301", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018302", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018303", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2118,6 +2121,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019_000", /*message*/"2021學園偶像祭AS Special夢幻遊行演唱會");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020", /*message*/"夢幻遊行演唱會～技能型亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020_000", /*message*/"夢幻遊行演唱會～技能型亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024", /*message*/"夢幻遊行演唱會～一年級亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024_000", /*message*/"夢幻遊行演唱會～一年級亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");
@@ -3955,6 +3960,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023002_1", /*message*/"寒
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023002_2", /*message*/"連大雪都能融化！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"傳說中的女僕降臨！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032002_1", /*message*/"拜託你！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032003_1", /*message*/"小憩片刻");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"一起買東西♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"像淑女一樣");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033002_1", /*message*/"夏天的外廊");
@@ -4010,6 +4016,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"秘
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"親愛的你");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"靜謐的熱情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"花之少女");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_1", /*message*/"覺得漂亮的事物");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_2", /*message*/"森林音樂會");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"心情風平浪靜");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032002_1", /*message*/"這是錯覺、一定是錯覺");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"時尚真難懂");

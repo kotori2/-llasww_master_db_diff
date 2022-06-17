@@ -2075,7 +2075,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"Chapter 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"Chapter 7");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31030", /*message*/"Hear the Sound of My Soul!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"Event Rules 1/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"Event Rules 2/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"Event Rules 3/4");

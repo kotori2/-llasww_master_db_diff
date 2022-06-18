@@ -640,3 +640,9 @@ INSERT INTO `m_training_tree_card_suit` VALUES (/*card_m_id*/401042005, /*traini
 INSERT INTO `m_training_tree_card_suit` VALUES (/*card_m_id*/400012006, /*training_content_no*/1, /*suit_m_id*/400012006);
 INSERT INTO `m_training_tree_card_suit` VALUES (/*card_m_id*/301023002, /*training_content_no*/1, /*suit_m_id*/301023002);
 INSERT INTO `m_training_tree_card_suit` VALUES (/*card_m_id*/300032003, /*training_content_no*/1, /*suit_m_id*/300032003);
+INSERT INTO `m_training_tree_card_suit` VALUES (/*card_m_id*/401013007, /*training_content_no*/1, /*suit_m_id*/401013007);
+INSERT INTO `m_training_tree_card_suit` VALUES (/*card_m_id*/400052007, /*training_content_no*/1, /*suit_m_id*/400052007);
+INSERT INTO `m_training_tree_card_suit` VALUES (/*card_m_id*/400063007, /*training_content_no*/1, /*suit_m_id*/400063007);
+INSERT INTO `m_training_tree_card_suit` VALUES (/*card_m_id*/402113002, /*training_content_no*/1, /*suit_m_id*/402113002);
+INSERT INTO `m_training_tree_card_suit` VALUES (/*card_m_id*/402012007, /*training_content_no*/1, /*suit_m_id*/402012007);
+INSERT INTO `m_training_tree_card_suit` VALUES (/*card_m_id*/401052006, /*training_content_no*/1, /*suit_m_id*/401052006);

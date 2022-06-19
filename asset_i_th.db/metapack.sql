@@ -5273,6 +5273,7 @@ INSERT INTO `metapack` VALUES (/*metapack_name*/"ie2vx2", /*file_size*/1938624, 
 INSERT INTO `metapack` VALUES (/*metapack_name*/"kzk88j", /*file_size*/140288, /*category*/1);
 INSERT INTO `metapack` VALUES (/*metapack_name*/"ke5f4c", /*file_size*/723168, /*category*/1);
 INSERT INTO `metapack` VALUES (/*metapack_name*/"2231kf", /*file_size*/1680128, /*category*/1);
+INSERT INTO `metapack` VALUES (/*metapack_name*/"0hrafn", /*file_size*/690272, /*category*/1);
 INSERT INTO `metapack` VALUES (/*metapack_name*/"9vbjyw", /*file_size*/364544, /*category*/1);
 INSERT INTO `metapack` VALUES (/*metapack_name*/"tnp17f", /*file_size*/53696, /*category*/2);
 INSERT INTO `metapack` VALUES (/*metapack_name*/"459bwn", /*file_size*/106798, /*category*/2);

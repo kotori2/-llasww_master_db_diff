@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"efce3e59f1d8e0aa5e0be809486d831c38d2957d", /*hash*/"16a9e6c3a9b16c621ce46ef0de5afaf3a1c32ccd", /*size*/10218723);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"4ae98b46e5e3b758b4c60581db208a28c35915b4", /*hash*/"702c7b080de376c9227b6303df78274334f6f41b", /*size*/10270156);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"67cf95b6c24569c3bae021ebb1f6e44dd9c1e300", /*hash*/"c768a124f41cfd847b2c91283f04064bb427795f", /*size*/1764914);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"54672e2df55ab3c9bd87894f71c76ae544896743", /*size*/716);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"975c4a22a4ac3f10cde7f63602ca9969a18197d4", /*hash*/"c021d7461f76b48e8074ecd0ff196da17866504f", /*size*/223146);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_dummy.db", /*keys*/"c6bf
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"e46297c79da7b194e172b47bea1eb8996465692e", /*hash*/"608aa19b2731015f5236557af17e7304c41772ea", /*size*/10782);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_ios.db", /*keys*/"1faf0a28c126a8531f6cc4c5030c26d46aa6d14e", /*hash*/"57c57ae69de37324160becc92a99303c46188bb6", /*size*/46870);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"390fd23c173be11416de7d512e22c3577b8ff83c", /*hash*/"98bdd8b26a3ffa9574a9f740d094191dbf44145d", /*size*/86621);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"2df85993d8c940c884960430f333b00522535273", /*hash*/"233c13fd01391180506525a620782e2fe2adc165", /*size*/14053948);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"a63e66ba585d80603081a306bbf0cc0622b382f1", /*hash*/"49321eb47bf7f7f32e2e6872e68ec7504f8a89b4", /*size*/14057456);

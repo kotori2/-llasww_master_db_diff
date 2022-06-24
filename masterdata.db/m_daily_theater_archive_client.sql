@@ -876,3 +876,8 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000866, /*year*/2022, /*month*/6, /*day*/17, /*title*/"高く跳ねる", /*published_at*/1655391600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000867, /*year*/2022, /*month*/6, /*day*/18, /*title*/"秘密の招待状", /*published_at*/1655478000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000868, /*year*/2022, /*month*/6, /*day*/19, /*title*/"全力投球！", /*published_at*/1655564400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000869, /*year*/2022, /*month*/6, /*day*/20, /*title*/"内浦を知れ！", /*published_at*/1655650800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000870, /*year*/2022, /*month*/6, /*day*/21, /*title*/"遊び尽くせ！", /*published_at*/1655737200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000871, /*year*/2022, /*month*/6, /*day*/22, /*title*/"野生のはんぺん", /*published_at*/1655823600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000872, /*year*/2022, /*month*/6, /*day*/23, /*title*/"パークヨガ", /*published_at*/1655910000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000873, /*year*/2022, /*month*/6, /*day*/24, /*title*/"あなたの努力", /*published_at*/1655996400);

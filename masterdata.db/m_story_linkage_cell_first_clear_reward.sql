@@ -494,3 +494,4 @@ INSERT INTO `m_story_linkage_cell_first_clear_reward` VALUES (/*story_linkage_ce
 INSERT INTO `m_story_linkage_cell_first_clear_reward` VALUES (/*story_linkage_cell_master_id*/9000025, /*content_type*/12, /*content_id*/1960, /*content_amount*/35, /*display_order*/3);
 INSERT INTO `m_story_linkage_cell_first_clear_reward` VALUES (/*story_linkage_cell_master_id*/9000025, /*content_type*/12, /*content_id*/1961, /*content_amount*/20, /*display_order*/2);
 INSERT INTO `m_story_linkage_cell_first_clear_reward` VALUES (/*story_linkage_cell_master_id*/9000025, /*content_type*/12, /*content_id*/1962, /*content_amount*/10, /*display_order*/1);
+INSERT INTO `m_story_linkage_cell_first_clear_reward` VALUES (/*story_linkage_cell_master_id*/9000026, /*content_type*/13, /*content_id*/1805, /*content_amount*/30, /*display_order*/1);

@@ -2082,6 +2082,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018202", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018301", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018302", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018303", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018402", /*message*/"[活動特別課題]完成1次「Future Parade」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018611", /*message*/"[活動特別課題]完成1次「Yumega Bokurano Taiyosa」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018612", /*message*/"[活動特別課題]完成1次「Eutopia」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018613", /*message*/"[活動特別課題]完成1次「Colorful Dreams! Colorful Smiles!」");
@@ -2797,6 +2798,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400496", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400497", /*message*/"完成10次「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400498", /*message*/"完成50次「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400499", /*message*/"完成100次「A song for You! You? You!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400500", /*message*/"完成10次「Future Parade」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400501", /*message*/"完成50次「Future Parade」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400502", /*message*/"完成100次「Future Parade」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");
@@ -4802,6 +4806,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_11", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_12", /*message*/"某天嵐珠和你一起來到購物中心買東西，
 嵐珠似乎在找
 要送給同好會成員的禮物……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_13", /*message*/"你為了音樂科的課外活動「學園音樂會」
+正在拼命練習。
+而看著你最近的模樣，
+步夢似乎有些擔心……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"霞想不到和你出門時
 要帶什麼新口味的餐包，
 因而為此苦惱著……");
@@ -4843,6 +4851,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_10", /*message*/"你在她心中的形象");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_11", /*message*/"因為有你");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_12", /*message*/"嵐珠是「特別」的！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_13", /*message*/"想為你加油打氣！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"發自內心感謝你");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"只要有你的聲援就什麼都辦得到！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"秘密抓拍照片");

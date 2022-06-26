@@ -882,3 +882,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000872, /*year*/2022, /*month*/6, /*day*/23, /*title*/"パークヨガ", /*published_at*/1655910000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000873, /*year*/2022, /*month*/6, /*day*/24, /*title*/"あなたの努力", /*published_at*/1655996400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000874, /*year*/2022, /*month*/6, /*day*/25, /*title*/"風吹く丘へ！", /*published_at*/1656082800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000875, /*year*/2022, /*month*/6, /*day*/26, /*title*/"完全燃焼、依然燃焼！", /*published_at*/1656169200);

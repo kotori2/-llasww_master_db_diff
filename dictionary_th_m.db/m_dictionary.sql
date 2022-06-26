@@ -2091,6 +2091,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018202", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018301", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018302", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018303", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018402", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Future Parade&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018611", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Yumega Bokurano Taiyosa&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018612", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Eutopia&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018613", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Colorful Dreams! Colorful Smiles!&quot; 1 ครั้ง");
@@ -2806,6 +2807,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400496", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400497", /*message*/"เคลียร์ &quot;A song for You! You? You!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400498", /*message*/"เคลียร์ &quot;A song for You! You? You!!&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400499", /*message*/"เคลียร์ &quot;A song for You! You? You!!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400500", /*message*/"เคลียร์ &quot;Future Parade&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400501", /*message*/"เคลียร์ &quot;Future Parade&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400502", /*message*/"เคลียร์ &quot;Future Parade&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");
@@ -4812,6 +4816,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_12", /*me
 ที่ห้างสรรพสินค้ากับหลานจู 
 และดูเหมือนว่าหลานจูกำลังหา
 ของขวัญให้สมาชิกในชมรมอยู่...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_13", /*message*/"คุณกำลังฝึกซ้อมเพื่อแสดงใน 
+&quot;งานสคูลคอนเสิร์ต&quot; ที่เป็นกิจกรรม
+นอกชั้นเรียนของภาควิชาดนตรี 
+แต่ดูเหมือนว่าอายูมุเห็นคุณพักนี้แล้ว
+จะแอบเป็นห่วงอยู่นิดๆ...?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"คาสึมิกลุ้มใจที่คิดสูตรขนมปังฮอตด็อก
 ใหม่ๆ ที่จะนำไปกินตอนไปเที่ยวกับคุณ
 ไม่ออก...");
@@ -4862,6 +4871,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_10", /*message*/"อิมเมจของคุณ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_11", /*message*/"เพราะเธอเลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_12", /*message*/"หลานจูน่ะ &quot;พิเศษ&quot; นะ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_13", /*message*/"อยากเชียร์เธอนะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"ขอบคุณจากใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"ถ้ามีเสียงเชียร์! ก็ทำได้ทุกอย่าง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"รูปถ่ายลับ");

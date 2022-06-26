@@ -2081,6 +2081,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018202", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018301", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018302", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018303", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018402", /*message*/"[Special Campaign Goals] Clear &quot;Future Parade&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018611", /*message*/"[Special Campaign Goals] Clear &quot;Yumega Bokurano Taiyosa&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018612", /*message*/"[Special Campaign Goals] Clear &quot;Eutopia&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018613", /*message*/"[Special Campaign Goals] Clear &quot;Colorful Dreams! Colorful Smiles!&quot;: x1");
@@ -2796,6 +2797,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400496", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400497", /*message*/"Clear &quot;A song for You! You? You!!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400498", /*message*/"Clear &quot;A song for You! You? You!!&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400499", /*message*/"Clear &quot;A song for You! You? You!!&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400500", /*message*/"Clear &quot;Future Parade&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400501", /*message*/"Clear &quot;Future Parade&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400502", /*message*/"Clear &quot;Future Parade&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -4752,6 +4756,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_1", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_10", /*message*/"You and Shioriko go to a diner, where she makes you an original drink of hers at the self-service station. It seems that she&apos;s put a lot of thought into this drink...");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_11", /*message*/"Mia is writing a new song. You ask her if it&apos;s her new single, but it&apos;s actually for her older sister!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_12", /*message*/"One day, Lanzhu comes along with you to do some shopping at the mall. It seems she&apos;s looking for presents to give to the School Idol Club members.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_13", /*message*/"You are in an extracurricular music lesson, practicing for a school recital. But Ayumu, who&apos;s been keeping her eye on you lately, seems a little concerned.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"Kasumi is having trouble coming up with a new recipe for the bread rolls she&apos;s taking with her on her outing with you.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_3", /*message*/"You&apos;ve been asked for a favor by Shizuku. To your surprise, she wants you to practice volleyball with her!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_4", /*message*/"The magazine Karin appears in as an amateur model wants to publish a column featuring photos of models with their loved ones. Who does Karin pick for hers?");
@@ -4777,6 +4782,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_10", /*message*/"Inspired by You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_11", /*message*/"Thanks to You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_12", /*message*/"Special Lanzhu!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_13", /*message*/"We Want to Cheer You On!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"My Heartfelt Thanks");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"Support Makes Me Capable!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"Secret Snaps");

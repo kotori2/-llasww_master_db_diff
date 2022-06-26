@@ -2084,6 +2084,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018202", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018301", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018302", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018303", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018402", /*message*/"[캠페인 특별 과제] Future Parade 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018611", /*message*/"[캠페인 특별 과제] Yumega Bokurano Taiyosa 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018612", /*message*/"[캠페인 특별 과제] Eutopia 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018613", /*message*/"[캠페인 특별 과제] Colorful Dreams! Colorful Smiles! 1회 클리어");
@@ -2799,6 +2800,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400496", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400497", /*message*/"A song for You! You? You!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400498", /*message*/"A song for You! You? You!! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400499", /*message*/"A song for You! You? You!! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400500", /*message*/"Future Parade 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400501", /*message*/"Future Parade 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400502", /*message*/"Future Parade 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -4756,6 +4760,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_1", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_10", /*message*/"　시오리코와 둘이서 패밀리 레스토랑에 온 당신. 시오리코는 그곳에 있는 드링크 바에서 오리지널 드링크를 만들어 주었다. 아무래도 시오리코는 패밀리 레스토랑의 오리지널 드링크에 특별한 추억이 있는 모양인데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_11", /*message*/"　신곡을 만들고 있는 미아. 당신이 미아의 다음 신곡이냐고 묻자 아니라고 한다. 미아가 작업 중인 곡은 다름 아닌 언니가 부를 곡이었다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_12", /*message*/"　어느 날 란쥬와 당신은 쇼핑몰에 물건을 사러 왔다. 란쥬는 동호회 멤버들에게 줄 선물을 찾고 있는 모양인데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_13", /*message*/"　음악과 현장 학습인 &apos;스쿨 콘서트&apos;에 대비해 연습하는 당신. 하지만 아유무는 요즘 당신의 모습을 보고 약간 걱정하는 모양인데…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"　카스미는 당신과 나들이 갈 때 가져갈 새로운 쿠페빵 레시피가 떠오르지 않아서 고민에 빠져 있었다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_3", /*message*/"　당신은 시즈쿠에게 한 가지 부탁을 받는다. 그 부탁이란 바로 &apos;배구 연습&apos;…?!　");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_4", /*message*/"　카린이 아마추어 모델로 출연하는 잡지에서 &apos;당신의 소중한 사람과 찍은 기념사진&apos;이라는 기획 코너를 진행하게 되었다. 카린의 &apos;소중한 사람&apos;으로 선택된 사람은…?");
@@ -4781,6 +4786,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_10", /*message*/"당신의 이미지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_11", /*message*/"네 덕분이야");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_12", /*message*/"란쥬는 &apos;특별&apos;해!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_13", /*message*/"너를 응원하고 싶어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"진심 어린 감사를 당신에게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"응원이 있으면 뭐든지!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"비밀의 스냅 사진");

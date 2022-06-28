@@ -1960,3 +1960,5 @@ INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/
 INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1000875, /*member_master_id*/210);
 INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1000875, /*member_master_id*/211);
 INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1000875, /*member_master_id*/212);
+INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1000876, /*member_master_id*/9);
+INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1000876, /*member_master_id*/208);

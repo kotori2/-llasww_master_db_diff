@@ -2320,6 +2320,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800033", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800034", /*message*/"스토리 37장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800035", /*message*/"스토리 38장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800036", /*message*/"스토리 39장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800037", /*message*/"스토리 40장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"인연 에피소드 1화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"인연 에피소드 5화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"인연 에피소드 10화 보기");
@@ -2806,6 +2807,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400502", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400503", /*message*/"Nando datte YAKUSOKU! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400504", /*message*/"Nando datte YAKUSOKU! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400505", /*message*/"Nando datte YAKUSOKU! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400506", /*message*/"Aqours HEROES 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400507", /*message*/"Aqours HEROES 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400508", /*message*/"Aqours HEROES 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -4870,6 +4874,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_37", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_38", /*message*/"들려줘! 니지가사키! · 후편");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_39", /*message*/"PV가 움직인 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine · 후편");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_40", /*message*/"서쪽을 향해 출발");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"μ&apos;s의 비밀을 찾아라!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"승부의 향방");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
@@ -4909,6 +4914,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_37", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_38", /*message*/"제38장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_39", /*message*/"제39장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"제4장");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_40", /*message*/"제40장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"제5장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"제6장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"제7장");
@@ -5304,6 +5310,16 @@ Aqours는 역시 체력도 굉장했다….
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_9", /*message*/"　요시코가 고안한 개성적인 메뉴도 상식적인 수준이 되어 한시름 놓은 당신.
 다음은 루비와 하나마루가 맡은 누마즈 관광 안내를 도울 차례. 
 하나마루가 보여주는 지식의 깊이에 놀란 당신은….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_1", /*message*/"　누마즈 라이브를 앞둔 Aqours 멤버들은 관객들에게 나눠줄 안내 책자를 만들기 시작했다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_10", /*message*/"　카오루코에게 고민을 털어놓고 마음이 조금 편해진 당신. 한숨 자고 나니 드디어 누마즈에 도착했다! 샤워하고 아침 식사를 마친 뒤의 머릿속은 라이브 생각으로 가득했는데…?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_2", /*message*/"　요즘 들어 답답한 마음이 가시지 않던 당신은 잠을 설치는 바람에 늦잠을 자고 만다. 당신을 깨우러 온 아유무와 함께 학교로 출발하자 그곳에는….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_3", /*message*/"　어느 날 방과 후, 당신은 카나타의 부탁으로 요리를 시식하게 되었다. 카나타가 내놓은 음식은 바로….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_4", /*message*/"　이번 주말은 기다리고 기다리던 Aqours의 라이브다! 아침에 어디서 모일지 상의하던 멤버들 곁에 카오루코가 찾아오더니….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_5", /*message*/"　드디어 누마즈로 출발하는 밤이 되었다. 카오루코는 시오리코와 기숙사 멤버들을 태운 뒤 당신과 아유무가 사는 아파트로 찾아왔다. 지금부터 나머지 멤버들을 한 명씩 데리러 가자!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_6", /*message*/"　잠시 쉬려고 휴게소에 들른 일행. 야간에 찾은 휴게소가 신기한 멤버들은 호기심을 감추지 못한다. 과연 어떤 것들이 있을까?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_7", /*message*/"　휴게소를 한껏 만끽하고 다시 출발한 동호회 멤버들. 차 안에서는 주제별 토크로 이야기꽃이 피었는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_8", /*message*/"　깊은 밤, 신나게 이야기꽃을 피우던 멤버들도 모두 잠들었다. 통 잠을 못 이루는 당신이 혼자 깨어 있는 걸 눈치챈 카오루코는….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_9", /*message*/"　당신의 답답한 마음을 눈치챈 카오루코는 자신의 경험을 당신에게 이야기해 주었다. 그것을 들은 당신의 마음속에 떠오른 생각이란…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"　Aqours의 모든 것을 꼼꼼하게 기록하는 다이아를 보고 자신도 저렇게 니지가사키 멤버들을 지원해야겠다고 다짐하는 당신.
 보람찬 시간은 눈 깜짝할 사이에 지나가고,
 서머 페스티벌까지 딱 일주일밖에 남지 않았다.");
@@ -5766,6 +5782,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_6", /*message*/"반
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_7", /*message*/"아침 일찍 트레이닝!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_8", /*message*/"두근두근 시식 대회!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_9", /*message*/"누마즈의 히스토리");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_1", /*message*/"관객 맞이는 정성껏!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_10", /*message*/"누마즈 도착!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_2", /*message*/"눈부신 아침");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_3", /*message*/"행복의 레시피 만들기!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_4", /*message*/"카오루코의 비책");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_5", /*message*/"미니버스를 타고");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_6", /*message*/"가슴 설레는 휴게소!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_7", /*message*/"한밤중의 주제별 토크!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_8", /*message*/"카오루코의 원점");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_9", /*message*/"아침 안개 속에 서서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"높아지는 기대");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"이별의 아침");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"축제의 꽃");

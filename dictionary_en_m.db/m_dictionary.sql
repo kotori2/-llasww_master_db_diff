@@ -2082,6 +2082,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018301", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018302", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018303", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018402", /*message*/"[Special Campaign Goals] Clear &quot;Future Parade&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018501", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018502", /*message*/"[SBL Goal] Clear &quot;No Brand Girls&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018503", /*message*/"[SBL Goal] Clear &quot;MY Mai☆TONIGHT&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018504", /*message*/"[SBL Goal] Clear &quot;Yume e no Ippo&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018611", /*message*/"[Special Campaign Goals] Clear &quot;Yumega Bokurano Taiyosa&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018612", /*message*/"[Special Campaign Goals] Clear &quot;Eutopia&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018613", /*message*/"[Special Campaign Goals] Clear &quot;Colorful Dreams! Colorful Smiles!&quot;: x1");

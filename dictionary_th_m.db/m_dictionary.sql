@@ -2092,6 +2092,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018301", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018302", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018303", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018402", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Future Parade&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018501", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018502", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;No Brand Girls&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018503", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;MY Mai☆TONIGHT&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018504", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Yume e no Ippo&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018611", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Yumega Bokurano Taiyosa&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018612", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Eutopia&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018613", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Colorful Dreams! Colorful Smiles!&quot; 1 ครั้ง");

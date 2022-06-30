@@ -2083,6 +2083,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018301", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018302", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018303", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018402", /*message*/"[活動特別課題]完成1次「Future Parade」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018501", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018502", /*message*/"[大型合作演唱會課題]完成10次「No Brand Girls」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018503", /*message*/"[大型合作演唱會課題]完成10次「MY Mai☆TONIGHT」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018504", /*message*/"[大型合作演唱會課題]完成10次「Yume e no Ippo」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018611", /*message*/"[活動特別課題]完成1次「Yumega Bokurano Taiyosa」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018612", /*message*/"[活動特別課題]完成1次「Eutopia」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018613", /*message*/"[活動特別課題]完成1次「Colorful Dreams! Colorful Smiles!」");

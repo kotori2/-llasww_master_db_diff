@@ -1852,3 +1852,7 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10149/tex_banner_notice_s_10149", /*path*/"G&a");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Mining/31031/tex_banner_notice_l_31031", /*path*/"7dR");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Mining/31031/tex_banner_notice_s_31031", /*path*/"pYr");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220711/tex_banner_notice_l_2220711", /*path*/"RR<");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220711/tex_banner_notice_s_2220711", /*path*/"1lc");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220711/tex_banner_gacha_top_2220711_1", /*path*/"#j^");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2220711/tex_banner_gacha_text_2220711_1", /*path*/"6M[");

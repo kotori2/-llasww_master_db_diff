@@ -1559,6 +1559,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003012", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003013", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003014", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003015", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003101", /*message*/"遊玩1次「Miracle STAY TUNE!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003102", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003103", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003104", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003105", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003106", /*message*/"於期間內領取3次登入獎勵");

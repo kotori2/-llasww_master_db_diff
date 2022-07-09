@@ -2121,6 +2121,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018617", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018618", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;stars we chase&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018619", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;Nijiiro Passions!&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018620", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;NEO SKY, NEO MAP!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018703", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;KOWAREYASUKI&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018704", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีสึชิมะ โยชิโกะ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

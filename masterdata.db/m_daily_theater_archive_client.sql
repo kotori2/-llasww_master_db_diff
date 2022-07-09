@@ -894,3 +894,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000884, /*year*/2022, /*month*/7, /*day*/5, /*title*/"キモチを伝えたい！", /*published_at*/1656946800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000885, /*year*/2022, /*month*/7, /*day*/6, /*title*/"妥協できない！", /*published_at*/1657033200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000886, /*year*/2022, /*month*/7, /*day*/7, /*title*/"お願い、なあに？", /*published_at*/1657119600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000887, /*year*/2022, /*month*/7, /*day*/8, /*title*/"見張りの理由？", /*published_at*/1657206000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000888, /*year*/2022, /*month*/7, /*day*/9, /*title*/"準備は任せて！", /*published_at*/1657292400);

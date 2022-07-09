@@ -2112,6 +2112,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018617", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018618", /*message*/"[活動特別課題]完成1次「stars we chase」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018619", /*message*/"[活動特別課題]完成1次「Nijiiro Passions!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018620", /*message*/"[活動特別課題]完成1次「NEO SKY, NEO MAP!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018703", /*message*/"[CD發行紀念]完成10次「KOWAREYASUKI」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018704", /*message*/"[CD發行紀念]使用20次發動成員包含津島善子的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

@@ -2111,6 +2111,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018617", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018618", /*message*/"[Special Campaign Goals] Clear &quot;stars we chase&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018619", /*message*/"[Special Campaign Goals] Clear &quot;Nijiiro Passions!&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018620", /*message*/"[Special Campaign Goals] Clear &quot;NEO SKY, NEO MAP!&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018703", /*message*/"[CD Release Celebration] Clear &quot;KOWAREYASUKI&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018704", /*message*/"[CD Release Celebration] Use an SP Skill including Yoshiko Tsushima 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

@@ -2114,6 +2114,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018617", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018618", /*message*/"[캠페인 특별 과제] stars we chase 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018619", /*message*/"[캠페인 특별 과제] Nijiiro Passions! 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018620", /*message*/"[캠페인 특별 과제] NEO SKY, NEO MAP! 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018703", /*message*/"[CD 발매 기념] KOWAREYASUKI 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018704", /*message*/"[CD 발매 기념] 츠시마 요시코이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

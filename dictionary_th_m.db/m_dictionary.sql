@@ -2123,6 +2123,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018619", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018620", /*message*/"[การบ้านพิเศษในแคมเปญ] เคลียร์ &quot;NEO SKY, NEO MAP!&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018703", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;KOWAREYASUKI&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018704", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีสึชิมะ โยชิโกะ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018801", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018802", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018803", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -2184,6 +2187,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Skill ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024", /*message*/"ดรีมไลฟ์พาเรด -มัธยม 4 ออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024_000", /*message*/"ดรีมไลฟ์พาเรด -มัธยม 4 ออนสเตจ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025", /*message*/"ดรีมไลฟ์พาเรด -มัธยม 5 ออนสเตจ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025_000", /*message*/"ดรีมไลฟ์พาเรด -มัธยม 5 ออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -4107,6 +4112,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"ช
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082003_1", /*message*/"รักสคูลไอดอล! ที่สุดเลย!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"หวงเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"ความรู้สึกนุ่มละมุน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083002_1", /*message*/"หิมะที่ร่ายรำกลางฤดูร้อน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083002_2", /*message*/"Popping street!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"ความพยายามที่เป็นความลับ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092002_1", /*message*/"เข้าครัวยาซาวะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"ข้าวกล่องเลิฟนิโกะ♡");
@@ -4187,6 +4194,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"ย
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"เพราะเป็นเธอเลยอยากอ้อน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_2", /*message*/"ฉันที่แตกต่างไปจากปกติ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"ฉันรักการแสดง!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032002_1", /*message*/"ตั้งใจศึกษา!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"ช่วงเวลาแสนสำคัญ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"ประกายแห่งจิตวิญญาณ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"ความสงบสุขและสิ่งจูงใจ");

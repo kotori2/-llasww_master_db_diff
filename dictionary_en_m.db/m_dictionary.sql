@@ -2113,6 +2113,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018619", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018620", /*message*/"[Special Campaign Goals] Clear &quot;NEO SKY, NEO MAP!&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018703", /*message*/"[CD Release Celebration] Clear &quot;KOWAREYASUKI&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018704", /*message*/"[CD Release Celebration] Use an SP Skill including Yoshiko Tsushima 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018801", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018802", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018803", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -2174,6 +2177,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020_000", /*message*/"Dream Live Parade: Skill Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024", /*message*/"Dream Live Parade: 1st Years on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024_000", /*message*/"Dream Live Parade: 1st Years on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025", /*message*/"Dream Live Parade: 2nd Years on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025_000", /*message*/"Dream Live Parade: 2nd Years on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -4097,6 +4102,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"Qui
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082003_1", /*message*/"I Love School Idols!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"Jealous?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"Floating Sensation");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083002_1", /*message*/"A Summer Snowfall");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083002_2", /*message*/"Popping Street!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"Secret Efforts");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092002_1", /*message*/"Cooking Yazawa");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"Nico&apos;s Lovely Lunch Box");
@@ -4177,6 +4184,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"Dye
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"I Wanna Be Spoiled &apos;Cause It&apos;s You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_2", /*message*/"A Different Me");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"I Love Theater!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032002_1", /*message*/"So Hardworking!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"A Precious Time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"Sparkle of the Soul");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"Peaceful and Exciting");

@@ -900,3 +900,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000890, /*year*/2022, /*month*/7, /*day*/11, /*title*/"夏といえば？", /*published_at*/1657465200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000891, /*year*/2022, /*month*/7, /*day*/12, /*title*/"クタクタなかすみん", /*published_at*/1657551600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000892, /*year*/2022, /*month*/7, /*day*/13, /*title*/"ハッピーバースデー、善子ちゃん！", /*published_at*/1657638000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000893, /*year*/2022, /*month*/7, /*day*/14, /*title*/"スパークルスペシャル！", /*published_at*/1657724400);

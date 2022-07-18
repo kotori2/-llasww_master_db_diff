@@ -91,3 +91,9 @@ INSERT INTO `m_event_marathon_bonus_member` VALUES (/*event_marathon_master_id*/
 INSERT INTO `m_event_marathon_bonus_member` VALUES (/*event_marathon_master_id*/30036, /*member_master_id*/211, /*event_bonus_type*/1, /*value*/1000);
 INSERT INTO `m_event_marathon_bonus_member` VALUES (/*event_marathon_master_id*/30036, /*member_master_id*/201, /*event_bonus_type*/1, /*value*/1000);
 INSERT INTO `m_event_marathon_bonus_member` VALUES (/*event_marathon_master_id*/30036, /*member_master_id*/105, /*event_bonus_type*/1, /*value*/1000);
+INSERT INTO `m_event_marathon_bonus_member` VALUES (/*event_marathon_master_id*/30037, /*member_master_id*/107, /*event_bonus_type*/1, /*value*/1000);
+INSERT INTO `m_event_marathon_bonus_member` VALUES (/*event_marathon_master_id*/30037, /*member_master_id*/6, /*event_bonus_type*/1, /*value*/1000);
+INSERT INTO `m_event_marathon_bonus_member` VALUES (/*event_marathon_master_id*/30037, /*member_master_id*/210, /*event_bonus_type*/1, /*value*/1000);
+INSERT INTO `m_event_marathon_bonus_member` VALUES (/*event_marathon_master_id*/30037, /*member_master_id*/103, /*event_bonus_type*/1, /*value*/1000);
+INSERT INTO `m_event_marathon_bonus_member` VALUES (/*event_marathon_master_id*/30037, /*member_master_id*/202, /*event_bonus_type*/1, /*value*/1000);
+INSERT INTO `m_event_marathon_bonus_member` VALUES (/*event_marathon_master_id*/30037, /*member_master_id*/205, /*event_bonus_type*/1, /*value*/1000);

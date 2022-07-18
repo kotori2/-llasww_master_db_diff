@@ -918,6 +918,26 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003617", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003618", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003619", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003620", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003701", /*message*/"遊玩1次「Miracle STAY TUNE!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003702", /*message*/"獲得900點活動集點");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003703", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003704", /*message*/"進行2次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003705", /*message*/"於期間內領取1次登入獎勵");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003706", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003707", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003708", /*message*/"獲得5000點活動集點");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003709", /*message*/"獲得20000點活動集點");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003710", /*message*/"進行10次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003711", /*message*/"進行20次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003712", /*message*/"進行30次集訓");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003713", /*message*/"完成10場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003714", /*message*/"完成20場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003715", /*message*/"完成30場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003716", /*message*/"於期間內領取3次登入獎勵");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003717", /*message*/"於期間內領取6次登入獎勵");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003718", /*message*/"獲得1件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003719", /*message*/"獲得2件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400003720", /*message*/"獲得3件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100101", /*message*/"獲得5000點活動集點");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100102", /*message*/"獲得20000點活動集點");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400400101", /*message*/"將任一成員的默契Lv.提升至5");
@@ -2131,7 +2151,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"第5話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"第6話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"第7話");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31031", /*message*/"跨越銀河與你相繫！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"活動規則 1/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"活動規則 2/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"活動規則 3/4");
@@ -4335,6 +4354,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400062004_1", /*message*/"大
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400062005_1", /*message*/"和曜漫步海邊");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400062006_1", /*message*/"無限的可能性！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400062007_1", /*message*/"因為太期待了！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400062008_1", /*message*/"和霞出去玩之前");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063001_1", /*message*/"兩人的光輝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063001_2", /*message*/"溫柔的氛圍");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400063002_1", /*message*/"如果是和你一起去的話……");
@@ -4469,6 +4489,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033004_1", /*message*/"名
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033004_2", /*message*/"放聲大喊吧");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033005_1", /*message*/"你願意陪我一起去購物嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033005_2", /*message*/"盡情享受度假氛圍！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033006_1", /*message*/"這真是最棒的暑假了！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401033006_2", /*message*/"能夠得知命運的花");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042001_1", /*message*/"身為學生會長常有的事");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042002_1", /*message*/"姊姊");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042003_1", /*message*/"派對的邀請");
@@ -4546,6 +4568,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073005_1", /*message*/"浦
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073005_2", /*message*/"收集風兒");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073006_1", /*message*/"貓耳的誘惑");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073006_2", /*message*/"如老虎一般");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073007_1", /*message*/"相約暑假碰面");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401073007_2", /*message*/"要不要來杯冰淇淋汽水呢？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401082001_1", /*message*/"時代變化之中");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401082002_1", /*message*/"後仰式鞠莉鮑爾之謎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401082003_1", /*message*/"回憶的照片");
@@ -4614,6 +4638,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402022003_1", /*message*/"回
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402022004_1", /*message*/"報仇……失敗？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402022005_1", /*message*/"好吃又健康～！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402022006_1", /*message*/"一起跳草裙舞吧！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402022007_1", /*message*/"夏日大豐收");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023001_1", /*message*/"變好吃吧！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023001_2", /*message*/"小霞霞的魔法");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402023002_1", /*message*/"前輩的療癒專員！");
@@ -4669,6 +4694,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402052003_1", /*message*/"要
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402052004_1", /*message*/"新年的樂趣");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402052005_1", /*message*/"接下來還有更多的樂趣");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402052006_1", /*message*/"嚮往的柔順秀髮");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402052007_1", /*message*/"只是因為有趣才做的！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402053001_1", /*message*/"喚來奇蹟的冷笑話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402053001_2", /*message*/"就算打開寶箱");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402053002_1", /*message*/"嶄新的世界");
@@ -4761,6 +4787,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402103001_1", /*message*/"惡
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402103001_2", /*message*/"虎視眈眈");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402103002_1", /*message*/"甜蜜的回禮");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402103002_2", /*message*/"栞子的特別回禮");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402103003_1", /*message*/"夏天的學生會室");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402103003_2", /*message*/"玩水的回憶");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402112001_1", /*message*/"走廊上的巧遇");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402112002_1", /*message*/"向上心的化身！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402113001_1", /*message*/"嵐珠的最愛");

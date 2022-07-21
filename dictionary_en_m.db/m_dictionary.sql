@@ -2136,6 +2136,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018704", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018801", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018802", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018803", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018903", /*message*/"[CD Release Celebration] Clear &quot;Aozora Jumping Heart&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018904", /*message*/"[CD Release Celebration] Use an SP Skill including Chika Takami 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

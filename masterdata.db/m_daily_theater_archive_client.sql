@@ -905,3 +905,6 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000895, /*year*/2022, /*month*/7, /*day*/16, /*title*/"バレエ特訓！", /*published_at*/1657897200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000896, /*year*/2022, /*month*/7, /*day*/17, /*title*/"絵馬のご利益！", /*published_at*/1657983600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000897, /*year*/2022, /*month*/7, /*day*/18, /*title*/"海の日", /*published_at*/1658070000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000898, /*year*/2022, /*month*/7, /*day*/19, /*title*/"ホラーゲームを克服！？", /*published_at*/1658156400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000899, /*year*/2022, /*month*/7, /*day*/20, /*title*/"ハンバーガーの日", /*published_at*/1658242800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000900, /*year*/2022, /*month*/7, /*day*/21, /*title*/"スイーツパーティ", /*published_at*/1658329200);

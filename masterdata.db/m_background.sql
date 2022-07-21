@@ -205,8 +205,12 @@ INSERT INTO `m_background` VALUES (/*id*/40236, /*prefab_asset_path*/"", /*backg
 INSERT INTO `m_background` VALUES (/*id*/40237, /*prefab_asset_path*/"", /*background_asset_path*/"5xt");
 INSERT INTO `m_background` VALUES (/*id*/40238, /*prefab_asset_path*/"", /*background_asset_path*/"O|,");
 INSERT INTO `m_background` VALUES (/*id*/40239, /*prefab_asset_path*/"", /*background_asset_path*/"V@^");
+INSERT INTO `m_background` VALUES (/*id*/40240, /*prefab_asset_path*/"", /*background_asset_path*/"itI");
 INSERT INTO `m_background` VALUES (/*id*/40241, /*prefab_asset_path*/"", /*background_asset_path*/"zB+");
 INSERT INTO `m_background` VALUES (/*id*/40242, /*prefab_asset_path*/"", /*background_asset_path*/")nc");
+INSERT INTO `m_background` VALUES (/*id*/40243, /*prefab_asset_path*/"", /*background_asset_path*/"8Q^");
+INSERT INTO `m_background` VALUES (/*id*/40244, /*prefab_asset_path*/"", /*background_asset_path*/"[E#");
+INSERT INTO `m_background` VALUES (/*id*/40245, /*prefab_asset_path*/"", /*background_asset_path*/"0FX");
 INSERT INTO `m_background` VALUES (/*id*/41001, /*prefab_asset_path*/"", /*background_asset_path*/"HZT");
 INSERT INTO `m_background` VALUES (/*id*/100101, /*prefab_asset_path*/"", /*background_asset_path*/"Ci)");
 INSERT INTO `m_background` VALUES (/*id*/100102, /*prefab_asset_path*/"", /*background_asset_path*/"N02");
@@ -233,6 +237,7 @@ INSERT INTO `m_background` VALUES (/*id*/100802, /*prefab_asset_path*/"", /*back
 INSERT INTO `m_background` VALUES (/*id*/100803, /*prefab_asset_path*/"", /*background_asset_path*/"QBq");
 INSERT INTO `m_background` VALUES (/*id*/100901, /*prefab_asset_path*/"", /*background_asset_path*/"B2g");
 INSERT INTO `m_background` VALUES (/*id*/100902, /*prefab_asset_path*/"", /*background_asset_path*/"k=w");
+INSERT INTO `m_background` VALUES (/*id*/100903, /*prefab_asset_path*/"", /*background_asset_path*/"SpB");
 INSERT INTO `m_background` VALUES (/*id*/110101, /*prefab_asset_path*/"", /*background_asset_path*/"/k)");
 INSERT INTO `m_background` VALUES (/*id*/110102, /*prefab_asset_path*/"", /*background_asset_path*/"(8#");
 INSERT INTO `m_background` VALUES (/*id*/110103, /*prefab_asset_path*/"", /*background_asset_path*/"(8#");

@@ -714,7 +714,9 @@ INSERT INTO `static_text` VALUES (/*textid*/114950088311426864, /*guid*/"63c858b
 ©Bushiroad International ©SUNRISE ©bushiroad");
 INSERT INTO `static_text` VALUES (/*textid*/114975660973232210, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"First");
 INSERT INTO `static_text` VALUES (/*textid*/2114035015707683791, /*guid*/"655528915c659400c9fbfd97ededcd22", /*message*/"Average Voltage:");
+INSERT INTO `static_text` VALUES (/*textid*/2390997320694204352, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"特定商取引法に基づく表示");
 INSERT INTO `static_text` VALUES (/*textid*/3897628058791381417, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"→");
+INSERT INTO `static_text` VALUES (/*textid*/5895937549236898664, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"Notation Based on Payment Services Act");
 INSERT INTO `static_text` VALUES (/*textid*/886955751, /*guid*/"671df7d9625a4a247bf848a377bf51b6", /*message*/"Select");
 INSERT INTO `static_text` VALUES (/*textid*/114380655973642474, /*guid*/"676658ea2a767d64aab1c46336f4b4df", /*message*/"Live Show");
 INSERT INTO `static_text` VALUES (/*textid*/1224190052, /*guid*/"67af678a954a2244a927fc6488999d70", /*message*/"Free Star Gems will be used first, and paid Star Gems will be used from the oldest first.");
@@ -1048,9 +1050,11 @@ INSERT INTO `static_text` VALUES (/*textid*/114145642929382142, /*guid*/"a1144c2
 INSERT INTO `static_text` VALUES (/*textid*/114774833220878520, /*guid*/"a1144c225749d4071b3e7bb7ba22cd19", /*message*/"今月の購入額");
 INSERT INTO `static_text` VALUES (/*textid*/114283779716164936, /*guid*/"a58002c3c13f7410b9565739f102ea4e", /*message*/"No");
 INSERT INTO `static_text` VALUES (/*textid*/114863613859598442, /*guid*/"a58002c3c13f7410b9565739f102ea4e", /*message*/"The more you use, the more drop rewards, player EXP, and event points you will receive.");
+INSERT INTO `static_text` VALUES (/*textid*/1790277301500774808, /*guid*/"a7c0f69491db3db42939d885fe438129", /*message*/"Notation Based on Payment Services Act");
 INSERT INTO `static_text` VALUES (/*textid*/2047738695184938024, /*guid*/"a7c0f69491db3db42939d885fe438129", /*message*/"→");
 INSERT INTO `static_text` VALUES (/*textid*/5828143990037097226, /*guid*/"a7c0f69491db3db42939d885fe438129", /*message*/"Please select a way to restore LP.");
 INSERT INTO `static_text` VALUES (/*textid*/6904396036866441001, /*guid*/"a7c0f69491db3db42939d885fe438129", /*message*/"LP Restoration Chances");
+INSERT INTO `static_text` VALUES (/*textid*/7451369703936067351, /*guid*/"a7c0f69491db3db42939d885fe438129", /*message*/"特定商取引法に基づく表示");
 INSERT INTO `static_text` VALUES (/*textid*/939334977, /*guid*/"a7f40f2b975611443939c2885e2c3236", /*message*/"No Pinned Present campaigns are currently being held.");
 INSERT INTO `static_text` VALUES (/*textid*/108636411, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"Max Voltage");
 INSERT INTO `static_text` VALUES (/*textid*/1173483809, /*guid*/"a8003ac140ed24626aa861f7b1377adb", /*message*/"Message");
@@ -1247,9 +1251,13 @@ INSERT INTO `static_text` VALUES (/*textid*/8660775035244031406, /*guid*/"c7df28
 INSERT INTO `static_text` VALUES (/*textid*/114135628741789652, /*guid*/"c890a188e44c1894cbb3a992251b0efe", /*message*/"Training");
 INSERT INTO `static_text` VALUES (/*textid*/1088557555, /*guid*/"c896de1b26446498a9fe7f59c046b1a7", /*message*/"Event P");
 INSERT INTO `static_text` VALUES (/*textid*/335285378417004766, /*guid*/"c896de1b26446498a9fe7f59c046b1a7", /*message*/"Entered Ranking!");
+INSERT INTO `static_text` VALUES (/*textid*/47154017736829268, /*guid*/"ca4fa2608905f418d9ce35b571e55cba", /*message*/"特定商取引法に基づく表示");
+INSERT INTO `static_text` VALUES (/*textid*/7822584682750220153, /*guid*/"ca4fa2608905f418d9ce35b571e55cba", /*message*/"Notation Based on Payment Services Act");
 INSERT INTO `static_text` VALUES (/*textid*/8829771249561120738, /*guid*/"ca4fa2608905f418d9ce35b571e55cba", /*message*/"Price");
 INSERT INTO `static_text` VALUES (/*textid*/1029762217138950269, /*guid*/"caf49c2d06c214883ad9b05ee6b14ea5", /*message*/"Please select the number of slots to add.");
+INSERT INTO `static_text` VALUES (/*textid*/3260952546349350829, /*guid*/"caf49c2d06c214883ad9b05ee6b14ea5", /*message*/"特定商取引法に基づく表示");
 INSERT INTO `static_text` VALUES (/*textid*/4491435552290609945, /*guid*/"caf49c2d06c214883ad9b05ee6b14ea5", /*message*/"→");
+INSERT INTO `static_text` VALUES (/*textid*/5976832974163767586, /*guid*/"caf49c2d06c214883ad9b05ee6b14ea5", /*message*/"Notation Based on Payment Services Act");
 INSERT INTO `static_text` VALUES (/*textid*/889853472229676697, /*guid*/"cc530688b652e42acbfe958b6fb29b9f", /*message*/"Rewards will be sent to your Present Box.");
 INSERT INTO `static_text` VALUES (/*textid*/7496588878708285336, /*guid*/"cd732d8c266e04ecbafe9e00b809059b", /*message*/"Copy");
 INSERT INTO `static_text` VALUES (/*textid*/4484663503752486812, /*guid*/"ce544a77139e7c1438a232ecc4fb1b3d", /*message*/"↓");
@@ -1434,8 +1442,10 @@ INSERT INTO `static_text` VALUES (/*textid*/1153412662, /*guid*/"e8108c9a497aedf
 INSERT INTO `static_text` VALUES (/*textid*/963810223, /*guid*/"e8108c9a497aedf4cbe16dee1adb57e0", /*message*/"Member Details");
 INSERT INTO `static_text` VALUES (/*textid*/999595778, /*guid*/"e8108c9a497aedf4cbe16dee1adb57e0", /*message*/"Details");
 INSERT INTO `static_text` VALUES (/*textid*/1957222087647942948, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"AP Restoration Chances");
+INSERT INTO `static_text` VALUES (/*textid*/242466013636110351, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"Notation Based on Payment Services Act");
 INSERT INTO `static_text` VALUES (/*textid*/4685575867685015143, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"→");
 INSERT INTO `static_text` VALUES (/*textid*/714908319619401493, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"→");
+INSERT INTO `static_text` VALUES (/*textid*/9002039737048049280, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"特定商取引法に基づく表示");
 INSERT INTO `static_text` VALUES (/*textid*/243166013177292380, /*guid*/"e8c934180193b9841b59363f6504735e", /*message*/"Rewards will be sent to your Present Box.");
 INSERT INTO `static_text` VALUES (/*textid*/8947221868180909886, /*guid*/"e9b6d5da176424947abc705c57922864", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_skill_03\" offsety=\"-6px\" height=\"1.5\" width=\"1.5\"/>Insight Skill");
 INSERT INTO `static_text` VALUES (/*textid*/114878291117172738, /*guid*/"ebfde3c9b9c9e457c9eed55cc6cfcd0c", /*message*/"★ TIP ★");
@@ -1472,8 +1482,12 @@ INSERT INTO `static_text` VALUES (/*textid*/114806586042085574, /*guid*/"edde761
 INSERT INTO `static_text` VALUES (/*textid*/275552487048197795, /*guid*/"edde761e01518ec419c2ded09411d116", /*message*/"Leader");
 INSERT INTO `static_text` VALUES (/*textid*/6599302043999333416, /*guid*/"edde761e01518ec419c2ded09411d116", /*message*/"In Use");
 INSERT INTO `static_text` VALUES (/*textid*/114334771759384528, /*guid*/"ee42bd60a211041de96a8626d9b4337c", /*message*/"Today&apos;s Restorations");
+INSERT INTO `static_text` VALUES (/*textid*/3141080995777999382, /*guid*/"ee42bd60a211041de96a8626d9b4337c", /*message*/"特定商取引法に基づく表示");
 INSERT INTO `static_text` VALUES (/*textid*/3775814281143224686, /*guid*/"ee42bd60a211041de96a8626d9b4337c", /*message*/"→");
 INSERT INTO `static_text` VALUES (/*textid*/3897628058791381417, /*guid*/"ee42bd60a211041de96a8626d9b4337c", /*message*/"→");
+INSERT INTO `static_text` VALUES (/*textid*/6063989670843415705, /*guid*/"ee42bd60a211041de96a8626d9b4337c", /*message*/"Notation Based on Payment Services Act");
+INSERT INTO `static_text` VALUES (/*textid*/2896543133638256642, /*guid*/"ee4675ef1dd824a1f990e79f67d3f280", /*message*/"Notation Based on Payment Services Act");
+INSERT INTO `static_text` VALUES (/*textid*/7649980418973564111, /*guid*/"ee4675ef1dd824a1f990e79f67d3f280", /*message*/"特定商取引法に基づく表示");
 INSERT INTO `static_text` VALUES (/*textid*/288389893, /*guid*/"ef5e443de8142d248b62964b98e38ae4", /*message*/"Tap to Start");
 INSERT INTO `static_text` VALUES (/*textid*/698697884, /*guid*/"f05c452edc2e31c40bfadd071e062379", /*message*/"Skip");
 INSERT INTO `static_text` VALUES (/*textid*/1570036909088739867, /*guid*/"f0627819754de491389c2bb5b6b569ec", /*message*/"NEW");
@@ -1595,6 +1609,7 @@ INSERT INTO `static_text` VALUES (/*textid*/86720216, /*guid*/"f8fcb11c76a91c845
 Songs");
 INSERT INTO `static_text` VALUES (/*textid*/869802472, /*guid*/"f8fcb11c76a91c8458241202fda46753", /*message*/"Center Songs");
 INSERT INTO `static_text` VALUES (/*textid*/97349174, /*guid*/"f8fcb11c76a91c8458241202fda46753", /*message*/"Background");
+INSERT INTO `static_text` VALUES (/*textid*/195835257092052977, /*guid*/"fa28727c11fb2442abf3745952893d3c", /*message*/"特定商取引法に基づく表示");
 INSERT INTO `static_text` VALUES (/*textid*/9009307967134734718, /*guid*/"fa28727c11fb2442abf3745952893d3c", /*message*/"Notation Based on Payment Services Act");
 INSERT INTO `static_text` VALUES (/*textid*/5342404132183687969, /*guid*/"fa7edd4e0d180474cb99cde3316cc91e", /*message*/"OK");
 INSERT INTO `static_text` VALUES (/*textid*/3900974429318486223, /*guid*/"fac29a4f181604de981370f23a63f38f", /*message*/"Cancel");
@@ -1621,6 +1636,8 @@ INSERT INTO `static_text` VALUES (/*textid*/7771199785756537459, /*guid*/"fad249
 INSERT INTO `static_text` VALUES (/*textid*/8287876027436025724, /*guid*/"fad2490055fcc4e5888651bfea0813c4", /*message*/"↑");
 INSERT INTO `static_text` VALUES (/*textid*/2851498473303705947, /*guid*/"fc1a9875602564b89ae0890601861e6a", /*message*/"Cancel");
 INSERT INTO `static_text` VALUES (/*textid*/7679675109383853671, /*guid*/"fc1a9875602564b89ae0890601861e6a", /*message*/"OK");
+INSERT INTO `static_text` VALUES (/*textid*/3852332086275509106, /*guid*/"fc2bbc8e223b441dd93c4339ecb105b0", /*message*/"特定商取引法に基づく表示");
+INSERT INTO `static_text` VALUES (/*textid*/5388268208314320381, /*guid*/"fc2bbc8e223b441dd93c4339ecb105b0", /*message*/"Notation Based on Payment Services Act");
 INSERT INTO `static_text` VALUES (/*textid*/6970859036052748221, /*guid*/"fc2bbc8e223b441dd93c4339ecb105b0", /*message*/"→");
 INSERT INTO `static_text` VALUES (/*textid*/8655693846562319974, /*guid*/"fc2bbc8e223b441dd93c4339ecb105b0", /*message*/"→");
 INSERT INTO `static_text` VALUES (/*textid*/2878781139748996769, /*guid*/"fc2f739fd4277d24eadf10bd779667a8", /*message*/"Confirm");

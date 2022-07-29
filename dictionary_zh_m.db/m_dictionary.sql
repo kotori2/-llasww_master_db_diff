@@ -3741,6 +3741,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300020", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300021", /*message*/"以S RANK通過難易度［高級＋］的「Diamond」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300022", /*message*/"以S RANK通過難易度［高級＋］的「Anata no Risou no Heroine」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300023", /*message*/"以S RANK通過難易度［高級＋］的「Starlight」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message*/"以S RANK通過難易度［高級＋］的「Angelic Angel」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"以S RANK通過難易度［挑戰級］的「Yume no Tobira」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"以S RANK通過難易度［挑戰級］的「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"以S RANK通過難易度［挑戰級］的「Koini Naritai AQUARIUM」");
@@ -3933,6 +3934,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_1", /*message*/"沉
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_2", /*message*/"想成為你的天使");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073002_1", /*message*/"未知的道路、未知的地點");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073002_2", /*message*/"盛開的藤花在風中宛如波浪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073003_1", /*message*/"溫柔的姊姊");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073003_2", /*message*/"注入小希最大的力量♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200082001_1", /*message*/"秘密的早晨特訓！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200082002_1", /*message*/"在陽光灑落的教室裡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200083001_1", /*message*/"與你一起唱的歌");
@@ -3952,6 +3955,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_1", /*message*/"大
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_2", /*message*/"好想見到你們！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_1", /*message*/"目標是全壘打！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_2", /*message*/"在花朵盛開的庭園裡……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201022001_1", /*message*/"解決瓶頸的方法");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"想一直聽你的聲音");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"有沒有成為成熟的女性？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023002_1", /*message*/"招牌動作研討會");
@@ -4050,6 +4054,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_1", /*message*/"笑
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_2", /*message*/"一起跳舞吧");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_1", /*message*/"朝零嘴店GO！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_2", /*message*/"在陽光下相會");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_1", /*message*/"艾瑪的廣播體操");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_2", /*message*/"活潑的人魚公主");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202092001_1", /*message*/"熱情觀賞棒球比賽");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_1", /*message*/"以自然的態度與你相處");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"過去和現在");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_1", /*message*/"和你一起練習");

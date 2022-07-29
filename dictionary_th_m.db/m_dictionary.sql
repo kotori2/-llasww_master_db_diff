@@ -3750,6 +3750,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300020", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300021", /*message*/"เคลียร์ &apos;Diamond&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300022", /*message*/"เคลียร์ &apos;Anata no Risou no Heroine&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300023", /*message*/"เคลียร์ &apos;Starlight&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message*/"เคลียร์ &apos;Angelic Angel&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"เคลียร์ &apos;Yume no Tobira&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"เคลียร์ &apos;A song for You! You? You!!&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"เคลียร์ &apos;Koini Naritai AQUARIUM&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
@@ -3942,6 +3943,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_1", /*message*/"อ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_2", /*message*/"อยากเป็นนางฟ้าของเธอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073002_1", /*message*/"ทางที่ไม่คุ้นเคย สถานที่ที่ไม่รู้จัก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073002_2", /*message*/"ดอกฟูจิบานสะพรั่งเต็มไปหมด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073003_1", /*message*/"พี่สาวที่อ่อนโยน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073003_2", /*message*/"ส่งพลังโนโซมิขั้นสูงสุด♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200082001_1", /*message*/"ฝึกพิเศษลับช่วงเช้าตรู่!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200082002_1", /*message*/"ห้องเรียนที่แสงแดดสาดส่อง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200083001_1", /*message*/"เพลงที่ร้องด้วยกันกับเธอ");
@@ -3961,6 +3964,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_2", /*message*/"อยากเจอจัง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_1", /*message*/"ตั้งเป้าหมายเป็นโฮมรันซะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_2", /*message*/"สวนที่เต็มไปด้วยดอกไม้...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201022001_1", /*message*/"วิธีแก้ช่วงที่สมองไม่แล่น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"อยากฟังเสียงของเธอตลอดไปเลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"จะเป็นสาวแบบผู้ใหญ่ได้ไหมนะ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023002_1", /*message*/"ประชุมคิดท่าโพสประจำตัว");
@@ -4059,6 +4063,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_1", /*message*/"ด
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_2", /*message*/"มาเต้นด้วยกันเถอะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_1", /*message*/"มุ่งสู่ร้านขนมหลอกเด็ก GO!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_2", /*message*/"การนัดพบกันในที่แสนอุ่นสบาย");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_1", /*message*/"กายบริหารทางวิทยุของเอ็มม่า");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_2", /*message*/"เจ้าหญิงเงือกน้อยจอมซน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202092001_1", /*message*/"ไปดูการแข่งเบสบอลเมเจอร์ลีก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_1", /*message*/"เป็นตัวของตัวเองเมื่ออยู่กับเธอ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"ตอนนี้และที่ผ่านมา");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_1", /*message*/"ฝึกซ้อมกับเธอ");

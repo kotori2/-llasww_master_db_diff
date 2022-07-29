@@ -1458,3 +1458,11 @@ INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/402022007, /*train
 INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/402022007, /*training_content_no*/2, /*navi_action_id*/1202255);
 INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/402052007, /*training_content_no*/1, /*navi_action_id*/1205264);
 INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/402052007, /*training_content_no*/2, /*navi_action_id*/1205265);
+INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/202083003, /*training_content_no*/1, /*navi_action_id*/1208254);
+INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/202083003, /*training_content_no*/2, /*navi_action_id*/1208255);
+INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/200073003, /*training_content_no*/1, /*navi_action_id*/1007264);
+INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/200073003, /*training_content_no*/2, /*navi_action_id*/1007265);
+INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/201022001, /*training_content_no*/1, /*navi_action_id*/1102264);
+INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/201022001, /*training_content_no*/2, /*navi_action_id*/1102265);
+INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/202092001, /*training_content_no*/1, /*navi_action_id*/1209264);
+INSERT INTO `m_training_tree_card_voice` VALUES (/*card_m_id*/202092001, /*training_content_no*/2, /*navi_action_id*/1209265);

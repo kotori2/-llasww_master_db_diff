@@ -3740,6 +3740,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300020", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300021", /*message*/"Clear &quot;Diamond&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300022", /*message*/"Clear &quot;Anata no Risou no Heroine&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300023", /*message*/"Clear &quot;Starlight&quot; on Expert difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message*/"Clear &quot;Angelic Angel&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"Clear &quot;Yume no Tobira&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"Clear &quot;A song for You! You? You!!&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"Clear &quot;Koini Naritai AQUARIUM&quot; on Challenge difficulty with Rank S.");
@@ -3932,6 +3933,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_1", /*message*/"Fal
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_2", /*message*/"I Want to Be Your Angel");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073002_1", /*message*/"Strange Roads, Unfamiliar Places");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073002_2", /*message*/"When Wisteria Waves Doth Bloom");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073003_1", /*message*/"Kind Big Sister");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073003_2", /*message*/"Max Nozomi Power Injection!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200082001_1", /*message*/"My Secret Early Morning Training!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200082002_1", /*message*/"In the Sunshine Classroom");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200083001_1", /*message*/"Our Song");
@@ -3951,6 +3954,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_1", /*message*/"The
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_2", /*message*/"I Wanted to See You All!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_1", /*message*/"Hit a Home Run!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_2", /*message*/"In a Garden Full of Flowers");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201022001_1", /*message*/"How to Get Out of a Slump");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"I Could Listen to You Forever");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"Do I Look Grown-Up?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023002_1", /*message*/"Signature Pose Brainstorming Session");
@@ -4049,6 +4053,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_1", /*message*/"Flo
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_2", /*message*/"Let&apos;s Dance Together");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_1", /*message*/"To the Penny Candy Store!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_2", /*message*/"A Sunny Rendezvous");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_1", /*message*/"Emma&apos;s Radio Calisthenics");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_2", /*message*/"The Little Lively Mermaid");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202092001_1", /*message*/"Proactive Baseball Watching");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_1", /*message*/"All Natural with You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"The Past and Present");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_1", /*message*/"Practicing with You");

@@ -3743,6 +3743,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300020", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300021", /*message*/"「Diamond」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300022", /*message*/"「Anata no Risou no Heroine」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300023", /*message*/"「Starlight」의 ［상급+］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message*/"「Angelic Angel」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「Yume no Tobira」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"「A song for You! You? You!!」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"「Koini Naritai AQUARIUM」의 ［챌린지］ 난이도를 S랭크로 클리어");
@@ -3935,6 +3936,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_1", /*message*/"푹
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_2", /*message*/"네 천사가 되고 싶어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073002_1", /*message*/"낯선 길, 낯선 곳");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073002_2", /*message*/"등나무 꽃은 한가득 피어나니");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073003_1", /*message*/"다정한 언니");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073003_2", /*message*/"노조미 파워 최대 주입♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200082001_1", /*message*/"비밀 아침 특훈!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200082002_1", /*message*/"햇살이 드는 교실에서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200083001_1", /*message*/"너와 함께 부르는 노래");
@@ -3954,6 +3957,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_1", /*message*/"바
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_2", /*message*/"보고 싶었어!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_1", /*message*/"목표는 홈런!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_2", /*message*/"꽃이 가득한 정원에서…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201022001_1", /*message*/"슬럼프 극복 방법");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"네 목소리를 계속 듣고 싶어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"성숙한 여성처럼 보여?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023002_1", /*message*/"멋진 포즈 연구회");
@@ -4052,6 +4056,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_1", /*message*/"미
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_2", /*message*/"같이 춤추자");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_1", /*message*/"막과자 가게로 출발!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_2", /*message*/"햇살 속의 만남");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_1", /*message*/"엠마의 건강 체조");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_2", /*message*/"싱그러운 인어 공주");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202092001_1", /*message*/"빠져드는 야구 관람");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_1", /*message*/"자연스럽게 너와 함께");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"지금까지, 그리고 지금 이 순간");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_1", /*message*/"너와 함께 연습하기");

@@ -2376,6 +2376,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800034", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800035", /*message*/"เคลียร์สตอรี่ 38 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800036", /*message*/"เคลียร์สตอรี่ 39 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800037", /*message*/"เคลียร์สตอรี่ 40 บท");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800038", /*message*/"เคลียร์สตอรี่ 41 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 1 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 5 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 10 ตอน");
@@ -2865,6 +2866,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400505", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400506", /*message*/"เคลียร์ &quot;Aqours HEROES&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400507", /*message*/"เคลียร์ &quot;Aqours HEROES&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400508", /*message*/"เคลียร์ &quot;Aqours HEROES&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400509", /*message*/"เคลียร์ &quot;Miracle STAY TUNE!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400510", /*message*/"เคลียร์ &quot;Miracle STAY TUNE!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400511", /*message*/"เคลียร์ &quot;Miracle STAY TUNE!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400512", /*message*/"เคลียร์ &quot;Eien no Issyun&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400513", /*message*/"เคลียร์ &quot;Eien no Issyun&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400514", /*message*/"เคลียร์ &quot;Eien no Issyun&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");
@@ -5036,6 +5043,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_38", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_39", /*message*/"ความรู้สึกที่ขับเคลื่อนด้วย PV");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine・ตอนจบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_40", /*message*/"หากมุ่งไปทางตะวันตก");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_41", /*message*/"ความฝันของ &quot;ฉัน&quot;");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"ค้นหาความลับของ μ&apos;s!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"ทิศทางการดวล");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
@@ -5076,6 +5084,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_38", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_39", /*message*/"บทที่ 39");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"บทที่ 4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_40", /*message*/"บทที่ 40");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_41", /*message*/"บทที่ 41");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"บทที่ 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"บทที่ 7");
@@ -7165,6 +7174,58 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_9", /*message*/"
 ของตัวเองให้คุณฟัง 
 ระหว่างที่ฟังอยู่ ความรู้สึก
 ที่ผุดขึ้นมาในใจคุณคือ...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_41_1", /*message*/"เมื่อมาถึงสถานที่แสดงไลฟ์
+ของ Aqours ก็พบว่าเหล่าแฟนคลับ
+Aqours มารอกันแน่นขนัดแล้ว 
+ทุกคนรู้สึกได้ถึงความมุ่งมั่นของ
+แฟนๆ ที่เดินทางมาจากที่ห่างไกล 
+ความคาดหวังจึงยิ่งเพิ่มขึ้นเรื่อยๆ!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_41_10", /*message*/"ขณะอยู่ในจุดพักรถ 
+คุณคิดทำนองเพลงตรงท่อนฮุค
+ขึ้นมาได้ จึงรีบกดใส่แอปฯ 
+จนออกมาเป็นเพลงที่สมบูรณ์
+ทำนองของเพลงทำให้ทุกคน
+อยากร้องเพลงขึ้นมาเดี๋ยวนั้น
+เลยทีเดียว...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_41_2", /*message*/"ระหว่างที่ดูการซ้อมของ Aqours 
+และได้เห็นความละเอียดในทุกๆ จุด
+ก่อนขึ้นแสดงจริง
+ทุกคนก็รับรู้ได้ถึงความจริงจัง
+ของ Aqours...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_41_3", /*message*/"ในที่สุดไลฟ์ของ Aqours ก็เริ่มขึ้น 
+การแสดงที่เต็มไปด้วยพลังกำลัง
+จะเปิดเผยต่อหน้าแฟนๆ 
+ที่แน่นขนัดเต็มลานจัดแสดง!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_41_4", /*message*/"ไลฟ์ของ Aqours ดำเนินมาถึงตอนจบ
+เมื่อแฟนๆ หน้าใหม่ซึ่งเดินทางมาจาก
+ทั่วประเทศและแฟนๆ ท้องถิ่นที่
+คอยเชียร์มาตลอดรวมเป็นหนึ่งเดียวกัน 
+บนเวทีก็ยิ่งคึกคักขึ้น...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_41_5", /*message*/"หลังจาก Aqours ปิดฉากไลฟ์
+ได้อย่างราบรื่น ทุกคนก็ไปรวมตัวกัน
+ที่โทจิมัง โดยมี μ&apos;s และนิจิกาคุ
+ร่วมฉลองปาร์ตี้!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_41_6", /*message*/"งานฉลองที่โทจิมังสนุกสนานสุดๆ
+เมมเบอร์ของนิจิกาคุกับ μ&apos;s 
+ต่างได้รับแรงกระตุ้นจาก Aqours 
+และพากันเล่าถึงสิ่งที่ตัวเองอยากทำ...
+ระหว่างนั้นคุณก็ปลีกตัวออกไป
+รับลมข้างนอก...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_41_7", /*message*/"คุณรู้สึกหดหู่กับความรู้สึกที่ว่า
+มีแต่ตัวเองคนเดียวที่ไม่มีอะไรเลย 
+ไม่มีอะไรเลยสักอย่าง
+แม้แต่ตอนนั่งรถบัสขากลับก็ยังคง
+ซึมเซา...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_41_8", /*message*/"ในที่สุดคุณก็สารภาพถึงความรู้สึก
+ขุ่นมัวทั้งหมดที่เก็บไว้ในใจออกมา
+เหล่าเมมเบอร์ที่ได้ฟังเรื่องราว
+ต่างปลอบโยนคุณอย่างอบอุ่น...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_41_9", /*message*/"รถตู้วิ่งไปเรื่อยๆ 
+จนมองเห็นโตเกียวอยู่ตรงหน้า
+แต่ก่อนหน้านั้นพวกคุณต้องหยุด
+แวะพักที่จุดพักรถแห่งสุดท้ายก่อน 
+มาสนุกกันให้เต็มที่ถึงนาทีสุดท้าย
+เลย!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"พอได้เห็นไดยะจดรายละเอียดทุกอย่างของ
 Aqours คุณก็รู้สึกอยากสนับสนุนนิจิกะซากิ
 ทุกคนให้ได้แบบนี้บ้าง
@@ -7837,6 +7898,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_7", /*message*/"เล่าเรื่องตามหัวข้อยามดึก!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_8", /*message*/"จุดเริ่มต้นของคาโอรุโกะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_9", /*message*/"ท่ามกลางเมฆหมอกยามเช้า");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_41_1", /*message*/"ท่ามกลางความคาดหวังสูงลิบ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_41_10", /*message*/"ความฝันไม่ใช่ของคนคนเดียว");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_41_2", /*message*/"ความกระตือรือร้น!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_41_3", /*message*/"เริ่มจากสเตจนี้!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_41_4", /*message*/"เสียงเล็กๆ ที่แผ่ขยาย");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_41_5", /*message*/"หลังจบไลฟ์...?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_41_6", /*message*/"เงาที่สะท้อนบนคลื่นยามค่ำคืน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_41_7", /*message*/"วิ่งอยู่ในความมืดมิด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_41_8", /*message*/"ฟาดให้กระเด็น!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_41_9", /*message*/"จุดพักรถที่เจิดจ้า");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"ความคาดหวังที่สูงขึ้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"เช้าแห่งการจากลา");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"การจัดงานเทศกาล");

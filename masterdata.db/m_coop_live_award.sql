@@ -83,6 +83,10 @@ INSERT INTO `m_coop_live_award` VALUES (/*id*/4007101, /*live_id*/40071, /*weigh
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4007102, /*live_id*/40071, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4007103, /*live_id*/40071, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4007104, /*live_id*/40071, /*weight*/1, /*award_type*/5, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4012001, /*live_id*/40120, /*weight*/0, /*award_type*/2, /*content_group_id*/60000004);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4012002, /*live_id*/40120, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4012003, /*live_id*/40120, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4012004, /*live_id*/40120, /*weight*/1, /*award_type*/6, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4100101, /*live_id*/41001, /*weight*/0, /*award_type*/2, /*content_group_id*/60000004);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4100102, /*live_id*/41001, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4100103, /*live_id*/41001, /*weight*/1, /*award_type*/6, /*content_group_id*/60000003);
@@ -98,7 +102,7 @@ INSERT INTO `m_coop_live_award` VALUES (/*id*/4100404, /*live_id*/41004, /*weigh
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4100501, /*live_id*/41005, /*weight*/0, /*award_type*/2, /*content_group_id*/60000004);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4100502, /*live_id*/41005, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4100503, /*live_id*/41005, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);
-INSERT INTO `m_coop_live_award` VALUES (/*id*/4100504, /*live_id*/41005, /*weight*/1, /*award_type*/5, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4100504, /*live_id*/41005, /*weight*/1, /*award_type*/6, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4100601, /*live_id*/41006, /*weight*/0, /*award_type*/2, /*content_group_id*/60000004);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4100602, /*live_id*/41006, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4100603, /*live_id*/41006, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);
@@ -259,6 +263,10 @@ INSERT INTO `m_coop_live_award` VALUES (/*id*/4204101, /*live_id*/42041, /*weigh
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4204102, /*live_id*/42041, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4204103, /*live_id*/42041, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4204104, /*live_id*/42041, /*weight*/1, /*award_type*/6, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4204901, /*live_id*/42049, /*weight*/0, /*award_type*/2, /*content_group_id*/60000004);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4204902, /*live_id*/42049, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4204903, /*live_id*/42049, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4204904, /*live_id*/42049, /*weight*/1, /*award_type*/6, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4205101, /*live_id*/42051, /*weight*/0, /*award_type*/2, /*content_group_id*/60000004);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4205102, /*live_id*/42051, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4205103, /*live_id*/42051, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);

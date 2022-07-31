@@ -2148,6 +2148,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018802", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018803", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018903", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;Aozora Jumping Heart&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018904", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีทากามิ จิกะ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019001", /*message*/"[การบ้านบิ๊กไลฟ์] ได้รับรางวัลจากบิ๊กไลฟ์ 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019002", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;A song for You! You? You!!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019003", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Torikoriko PLEASE!!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019004", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;La Bella Patria&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

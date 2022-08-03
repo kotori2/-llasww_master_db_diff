@@ -33,3 +33,6 @@ INSERT INTO `m_skill_target_member_group` VALUES (/*id*/24, /*group_id*/24, /*me
 INSERT INTO `m_skill_target_member_group` VALUES (/*id*/25, /*group_id*/25, /*member_maseter_id*/207);
 INSERT INTO `m_skill_target_member_group` VALUES (/*id*/26, /*group_id*/26, /*member_maseter_id*/208);
 INSERT INTO `m_skill_target_member_group` VALUES (/*id*/27, /*group_id*/27, /*member_maseter_id*/209);
+INSERT INTO `m_skill_target_member_group` VALUES (/*id*/28, /*group_id*/28, /*member_maseter_id*/210);
+INSERT INTO `m_skill_target_member_group` VALUES (/*id*/29, /*group_id*/29, /*member_maseter_id*/212);
+INSERT INTO `m_skill_target_member_group` VALUES (/*id*/30, /*group_id*/30, /*member_maseter_id*/211);

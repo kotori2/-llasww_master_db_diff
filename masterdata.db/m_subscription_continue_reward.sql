@@ -29,3 +29,15 @@ INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001021, /*subscript
 INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001022, /*subscription_master_id*/13001, /*continue_count*/22);
 INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001023, /*subscription_master_id*/13001, /*continue_count*/23);
 INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001024, /*subscription_master_id*/13001, /*continue_count*/24);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001025, /*subscription_master_id*/13001, /*continue_count*/25);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001026, /*subscription_master_id*/13001, /*continue_count*/26);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001027, /*subscription_master_id*/13001, /*continue_count*/27);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001028, /*subscription_master_id*/13001, /*continue_count*/28);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001029, /*subscription_master_id*/13001, /*continue_count*/29);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001030, /*subscription_master_id*/13001, /*continue_count*/30);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001031, /*subscription_master_id*/13001, /*continue_count*/31);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001032, /*subscription_master_id*/13001, /*continue_count*/32);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001033, /*subscription_master_id*/13001, /*continue_count*/33);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001034, /*subscription_master_id*/13001, /*continue_count*/34);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001035, /*subscription_master_id*/13001, /*continue_count*/35);
+INSERT INTO `m_subscription_continue_reward` VALUES (/*id*/13001036, /*subscription_master_id*/13001, /*continue_count*/36);

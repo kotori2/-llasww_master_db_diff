@@ -955,6 +955,8 @@ INSERT INTO `m_live_member_mapping` VALUES (/*mapping_id*/12110, /*position*/5, 
 INSERT INTO `m_live_member_mapping` VALUES (/*mapping_id*/12110, /*position*/1, /*member_master_id*/201, /*is_center*/1, /*card_position*/1, /*suit_master_id*/"", /*x_2d*/7500, /*y_2d*/-10000, /*z_2d*/-10000);
 INSERT INTO `m_live_member_mapping` VALUES (/*mapping_id*/12110, /*position*/3, /*member_master_id*/204, /*is_center*/0, /*card_position*/4, /*suit_master_id*/"", /*x_2d*/22000, /*y_2d*/-15000, /*z_2d*/-15000);
 INSERT INTO `m_live_member_mapping` VALUES (/*mapping_id*/12110, /*position*/6, /*member_master_id*/207, /*is_center*/0, /*card_position*/7, /*suit_master_id*/"", /*x_2d*/-15000, /*y_2d*/1000, /*z_2d*/1000);
+INSERT INTO `m_live_member_mapping` VALUES (/*mapping_id*/12117, /*position*/1, /*member_master_id*/205, /*is_center*/1, /*card_position*/2, /*suit_master_id*/"", /*x_2d*/15000, /*y_2d*/-9000, /*z_2d*/-9000);
+INSERT INTO `m_live_member_mapping` VALUES (/*mapping_id*/12117, /*position*/2, /*member_master_id*/204, /*is_center*/1, /*card_position*/1, /*suit_master_id*/"", /*x_2d*/-15000, /*y_2d*/-9000, /*z_2d*/-9000);
 INSERT INTO `m_live_member_mapping` VALUES (/*mapping_id*/12097, /*position*/1, /*member_master_id*/201, /*is_center*/1, /*card_position*/1, /*suit_master_id*/"", /*x_2d*/7500, /*y_2d*/-10000, /*z_2d*/-10000);
 INSERT INTO `m_live_member_mapping` VALUES (/*mapping_id*/12097, /*position*/2, /*member_master_id*/202, /*is_center*/0, /*card_position*/2, /*suit_master_id*/"", /*x_2d*/-7500, /*y_2d*/-10000, /*z_2d*/-10000);
 INSERT INTO `m_live_member_mapping` VALUES (/*mapping_id*/12097, /*position*/3, /*member_master_id*/207, /*is_center*/0, /*card_position*/7, /*suit_master_id*/"", /*x_2d*/22000, /*y_2d*/-15000, /*z_2d*/-15000);

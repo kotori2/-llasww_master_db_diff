@@ -131,3 +131,4 @@ INSERT INTO `m_tower_period` VALUES (/*id*/133001027, /*tower_id*/133001, /*star
 INSERT INTO `m_tower_period` VALUES (/*id*/133001028, /*tower_id*/133001, /*start_at*/1652508000, /*end_at*/1653199200);
 INSERT INTO `m_tower_period` VALUES (/*id*/133001029, /*tower_id*/133001, /*start_at*/1655186400, /*end_at*/1655877600);
 INSERT INTO `m_tower_period` VALUES (/*id*/133001030, /*tower_id*/133001, /*start_at*/1657778400, /*end_at*/1658469600);
+INSERT INTO `m_tower_period` VALUES (/*id*/133001031, /*tower_id*/133001, /*start_at*/1660456800, /*end_at*/1661148000);

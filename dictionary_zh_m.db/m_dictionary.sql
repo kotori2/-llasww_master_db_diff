@@ -2916,6 +2916,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400541", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400542", /*message*/"完成10次「Tsunagaru Connect」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400543", /*message*/"完成50次「Tsunagaru Connect」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400544", /*message*/"完成100次「Tsunagaru Connect」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400545", /*message*/"完成10次「Make-up session ABC」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400546", /*message*/"完成50次「Make-up session ABC」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400547", /*message*/"完成100次「Make-up session ABC」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

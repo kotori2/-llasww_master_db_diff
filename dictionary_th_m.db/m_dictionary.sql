@@ -2925,6 +2925,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400541", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400542", /*message*/"เคลียร์ &quot;Tsunagaru Connect&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400543", /*message*/"เคลียร์ &quot;Tsunagaru Connect&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400544", /*message*/"เคลียร์ &quot;Tsunagaru Connect&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400545", /*message*/"เคลียร์ &quot;Make-up session ABC&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400546", /*message*/"เคลียร์ &quot;Make-up session ABC&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400547", /*message*/"เคลียร์ &quot;Make-up session ABC&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

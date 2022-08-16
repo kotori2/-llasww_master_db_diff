@@ -2915,6 +2915,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400541", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400542", /*message*/"Clear &quot;Tsunagaru Connect&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400543", /*message*/"Clear &quot;Tsunagaru Connect&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400544", /*message*/"Clear &quot;Tsunagaru Connect&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400545", /*message*/"Clear &quot;Make-up session ABC&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400546", /*message*/"Clear &quot;Make-up session ABC&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400547", /*message*/"Clear &quot;Make-up session ABC&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

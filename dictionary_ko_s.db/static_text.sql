@@ -552,17 +552,22 @@ INSERT INTO `static_text` VALUES (/*textid*/971375389761678469, /*guid*/"4a51441
 INSERT INTO `static_text` VALUES (/*textid*/114722923884924688, /*guid*/"4b2fa590375c84f459cc72519d1cd1b0", /*message*/"합숙 아이템은 카테고리마다 하나씩 선택할 수 있습니다");
 INSERT INTO `static_text` VALUES (/*textid*/105956881, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"라이브 편성");
 INSERT INTO `static_text` VALUES (/*textid*/1133286620, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"합숙");
+INSERT INTO `static_text` VALUES (/*textid*/1157018873, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"채널
+교환소");
 INSERT INTO `static_text` VALUES (/*textid*/129771681, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"MENU");
 INSERT INTO `static_text` VALUES (/*textid*/1306562135, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"HOME");
 INSERT INTO `static_text` VALUES (/*textid*/1325869369, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"스쿨 아이돌 목록");
 INSERT INTO `static_text` VALUES (/*textid*/1468882701, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"에피소드");
 INSERT INTO `static_text` VALUES (/*textid*/1574289836, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"스쿨 아이돌 목록");
 INSERT INTO `static_text` VALUES (/*textid*/1601114701, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"CLOSE");
+INSERT INTO `static_text` VALUES (/*textid*/1656231938, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"교환소");
 INSERT INTO `static_text` VALUES (/*textid*/1711204334, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"선호 부원");
 INSERT INTO `static_text` VALUES (/*textid*/171222242, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"스쿨 아이돌");
 INSERT INTO `static_text` VALUES (/*textid*/1806180211, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"상점");
 INSERT INTO `static_text` VALUES (/*textid*/1821752820, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"데일리");
 INSERT INTO `static_text` VALUES (/*textid*/1842346862, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"분해");
+INSERT INTO `static_text` VALUES (/*textid*/1881428225, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"아이템
+교환소");
 INSERT INTO `static_text` VALUES (/*textid*/1901913534, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"라이브");
 INSERT INTO `static_text` VALUES (/*textid*/1916687884, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"액세서리");
 INSERT INTO `static_text` VALUES (/*textid*/1980799059, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"스카우트");

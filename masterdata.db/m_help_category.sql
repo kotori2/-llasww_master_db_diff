@@ -4,14 +4,14 @@ CREATE TABLE m_help_category(
   category_name TEXT NOT NULL,
   PRIMARY KEY (id)
 );
-INSERT INTO `m_help_category` VALUES (/*id*/1, /*display_order*/18, /*category_name*/"k.help_category_1");
-INSERT INTO `m_help_category` VALUES (/*id*/2, /*display_order*/17, /*category_name*/"k.help_category_2");
-INSERT INTO `m_help_category` VALUES (/*id*/3, /*display_order*/16, /*category_name*/"k.help_category_3");
-INSERT INTO `m_help_category` VALUES (/*id*/4, /*display_order*/15, /*category_name*/"k.help_category_4");
-INSERT INTO `m_help_category` VALUES (/*id*/5, /*display_order*/14, /*category_name*/"k.help_category_5");
-INSERT INTO `m_help_category` VALUES (/*id*/6, /*display_order*/13, /*category_name*/"k.help_category_6");
-INSERT INTO `m_help_category` VALUES (/*id*/7, /*display_order*/12, /*category_name*/"k.help_category_7");
-INSERT INTO `m_help_category` VALUES (/*id*/8, /*display_order*/11, /*category_name*/"k.help_category_8");
+INSERT INTO `m_help_category` VALUES (/*id*/1, /*display_order*/19, /*category_name*/"k.help_category_1");
+INSERT INTO `m_help_category` VALUES (/*id*/2, /*display_order*/18, /*category_name*/"k.help_category_2");
+INSERT INTO `m_help_category` VALUES (/*id*/3, /*display_order*/17, /*category_name*/"k.help_category_3");
+INSERT INTO `m_help_category` VALUES (/*id*/4, /*display_order*/16, /*category_name*/"k.help_category_4");
+INSERT INTO `m_help_category` VALUES (/*id*/5, /*display_order*/15, /*category_name*/"k.help_category_5");
+INSERT INTO `m_help_category` VALUES (/*id*/6, /*display_order*/14, /*category_name*/"k.help_category_6");
+INSERT INTO `m_help_category` VALUES (/*id*/7, /*display_order*/13, /*category_name*/"k.help_category_7");
+INSERT INTO `m_help_category` VALUES (/*id*/8, /*display_order*/12, /*category_name*/"k.help_category_8");
 INSERT INTO `m_help_category` VALUES (/*id*/9, /*display_order*/10, /*category_name*/"k.help_category_9");
 INSERT INTO `m_help_category` VALUES (/*id*/10, /*display_order*/9, /*category_name*/"k.help_category_10");
 INSERT INTO `m_help_category` VALUES (/*id*/11, /*display_order*/8, /*category_name*/"k.help_category_11");
@@ -22,3 +22,4 @@ INSERT INTO `m_help_category` VALUES (/*id*/15, /*display_order*/5, /*category_n
 INSERT INTO `m_help_category` VALUES (/*id*/16, /*display_order*/4, /*category_name*/"k.help_category_16");
 INSERT INTO `m_help_category` VALUES (/*id*/17, /*display_order*/3, /*category_name*/"k.help_category_17");
 INSERT INTO `m_help_category` VALUES (/*id*/18, /*display_order*/2, /*category_name*/"k.help_category_18");
+INSERT INTO `m_help_category` VALUES (/*id*/19, /*display_order*/11, /*category_name*/"k.help_category_19");

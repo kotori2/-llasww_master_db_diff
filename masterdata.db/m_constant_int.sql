@@ -190,3 +190,5 @@ INSERT INTO `m_constant_int` VALUES (/*constant_int*/186, /*value*/1);
 INSERT INTO `m_constant_int` VALUES (/*constant_int*/187, /*value*/2000);
 INSERT INTO `m_constant_int` VALUES (/*constant_int*/188, /*value*/0);
 INSERT INTO `m_constant_int` VALUES (/*constant_int*/189, /*value*/1);
+INSERT INTO `m_constant_int` VALUES (/*constant_int*/190, /*value*/8);
+INSERT INTO `m_constant_int` VALUES (/*constant_int*/191, /*value*/16);

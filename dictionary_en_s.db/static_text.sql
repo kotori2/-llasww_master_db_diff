@@ -547,17 +547,22 @@ INSERT INTO `static_text` VALUES (/*textid*/971375389761678469, /*guid*/"4a51441
 INSERT INTO `static_text` VALUES (/*textid*/114722923884924688, /*guid*/"4b2fa590375c84f459cc72519d1cd1b0", /*message*/"You can select one item from each category.");
 INSERT INTO `static_text` VALUES (/*textid*/105956881, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Show Formation");
 INSERT INTO `static_text` VALUES (/*textid*/1133286620, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Training");
+INSERT INTO `static_text` VALUES (/*textid*/1157018873, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Channel
+Exchange");
 INSERT INTO `static_text` VALUES (/*textid*/129771681, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Menu");
 INSERT INTO `static_text` VALUES (/*textid*/1306562135, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Home");
 INSERT INTO `static_text` VALUES (/*textid*/1325869369, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"School Idols");
 INSERT INTO `static_text` VALUES (/*textid*/1468882701, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Episode");
 INSERT INTO `static_text` VALUES (/*textid*/1574289836, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"School Idols");
 INSERT INTO `static_text` VALUES (/*textid*/1601114701, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Close");
+INSERT INTO `static_text` VALUES (/*textid*/1656231938, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Exchange");
 INSERT INTO `static_text` VALUES (/*textid*/1711204334, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Partner");
 INSERT INTO `static_text` VALUES (/*textid*/171222242, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"School Idols");
 INSERT INTO `static_text` VALUES (/*textid*/1806180211, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Shop");
 INSERT INTO `static_text` VALUES (/*textid*/1821752820, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Daily");
 INSERT INTO `static_text` VALUES (/*textid*/1842346862, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Disassemble");
+INSERT INTO `static_text` VALUES (/*textid*/1881428225, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Item
+Exchange");
 INSERT INTO `static_text` VALUES (/*textid*/1901913534, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Live Show");
 INSERT INTO `static_text` VALUES (/*textid*/1916687884, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Accessory");
 INSERT INTO `static_text` VALUES (/*textid*/1980799059, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Scout");

@@ -552,17 +552,22 @@ INSERT INTO `static_text` VALUES (/*textid*/971375389761678469, /*guid*/"4a51441
 INSERT INTO `static_text` VALUES (/*textid*/114722923884924688, /*guid*/"4b2fa590375c84f459cc72519d1cd1b0", /*message*/"集訓道具在每個類別中可各選擇一個。");
 INSERT INTO `static_text` VALUES (/*textid*/105956881, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"LIVE隊伍編組");
 INSERT INTO `static_text` VALUES (/*textid*/1133286620, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"集訓");
+INSERT INTO `static_text` VALUES (/*textid*/1157018873, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"頻道
+交換所");
 INSERT INTO `static_text` VALUES (/*textid*/129771681, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"MENU");
 INSERT INTO `static_text` VALUES (/*textid*/1306562135, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"HOME");
 INSERT INTO `static_text` VALUES (/*textid*/1325869369, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"學園偶像列表");
 INSERT INTO `static_text` VALUES (/*textid*/1468882701, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"STAR劇院");
 INSERT INTO `static_text` VALUES (/*textid*/1574289836, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"學園偶像列表");
 INSERT INTO `static_text` VALUES (/*textid*/1601114701, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"CLOSE");
+INSERT INTO `static_text` VALUES (/*textid*/1656231938, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"交換所");
 INSERT INTO `static_text` VALUES (/*textid*/1711204334, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"最愛成員");
 INSERT INTO `static_text` VALUES (/*textid*/171222242, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"學園偶像");
 INSERT INTO `static_text` VALUES (/*textid*/1806180211, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"商店");
 INSERT INTO `static_text` VALUES (/*textid*/1821752820, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"每日");
 INSERT INTO `static_text` VALUES (/*textid*/1842346862, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"分解");
+INSERT INTO `static_text` VALUES (/*textid*/1881428225, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"道具
+交換所");
 INSERT INTO `static_text` VALUES (/*textid*/1901913534, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"LIVE");
 INSERT INTO `static_text` VALUES (/*textid*/1916687884, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"飾品");
 INSERT INTO `static_text` VALUES (/*textid*/1980799059, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"新星挖掘");

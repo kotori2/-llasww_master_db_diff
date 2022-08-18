@@ -245,6 +245,7 @@ INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/402022007, /*critical_
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/402023003, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/402032003, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/402032005, /*critical_rate_offset*/1500);
+INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/402033007, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/402042002, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/402042005, /*critical_rate_offset*/1500);
 INSERT INTO `m_card_live_const` VALUES (/*card_master_id*/402042007, /*critical_rate_offset*/1500);

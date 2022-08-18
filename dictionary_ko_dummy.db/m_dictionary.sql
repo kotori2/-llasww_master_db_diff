@@ -459,6 +459,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30037_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30037_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30037_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30037_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30038_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30038_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30038_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30038_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30038_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30038_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30038_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"이벤트 이용 방법 2");

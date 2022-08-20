@@ -936,3 +936,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000926, /*year*/2022, /*month*/8, /*day*/16, /*title*/"海は楽しい！２", /*published_at*/1660575600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000927, /*year*/2022, /*month*/8, /*day*/17, /*title*/"海は楽しい！３", /*published_at*/1660662000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000928, /*year*/2022, /*month*/8, /*day*/18, /*title*/"海は楽しい！４", /*published_at*/1660748400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000929, /*year*/2022, /*month*/8, /*day*/19, /*title*/"暑くて熱い！", /*published_at*/1660834800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000930, /*year*/2022, /*month*/8, /*day*/20, /*title*/"教え合いっこしよう！", /*published_at*/1660921200);

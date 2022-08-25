@@ -938,3 +938,8 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000928, /*year*/2022, /*month*/8, /*day*/18, /*title*/"海は楽しい！４", /*published_at*/1660748400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000929, /*year*/2022, /*month*/8, /*day*/19, /*title*/"暑くて熱い！", /*published_at*/1660834800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000930, /*year*/2022, /*month*/8, /*day*/20, /*title*/"教え合いっこしよう！", /*published_at*/1660921200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000931, /*year*/2022, /*month*/8, /*day*/21, /*title*/"お祭りの楽しみは……？", /*published_at*/1661007600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000932, /*year*/2022, /*month*/8, /*day*/22, /*title*/"悩ましい問題", /*published_at*/1661094000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000933, /*year*/2022, /*month*/8, /*day*/23, /*title*/"涼みに行こう！", /*published_at*/1661180400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000934, /*year*/2022, /*month*/8, /*day*/24, /*title*/"飛び散る花弁", /*published_at*/1661266800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000935, /*year*/2022, /*month*/8, /*day*/25, /*title*/"夏フェス！", /*published_at*/1661353200);

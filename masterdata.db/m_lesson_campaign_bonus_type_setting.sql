@@ -4,5 +4,5 @@ CREATE TABLE m_lesson_campaign_bonus_type_setting(
   PRIMARY KEY (bonus_type)
 );
 INSERT INTO `m_lesson_campaign_bonus_type_setting` VALUES (/*bonus_type*/1, /*name*/"k.lesson_campaign_passive_skill_drop_up");
-INSERT INTO `m_lesson_campaign_bonus_type_setting` VALUES (/*bonus_type*/2, /*name*/"k.lesson_campaign_summer_camp");
+INSERT INTO `m_lesson_campaign_bonus_type_setting` VALUES (/*bonus_type*/2, /*name*/"k.lesson_campaign_drop_frame_num_up");
 INSERT INTO `m_lesson_campaign_bonus_type_setting` VALUES (/*bonus_type*/3, /*name*/"k.lesson_scene_501");

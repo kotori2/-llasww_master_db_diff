@@ -3834,6 +3834,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400004", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400005", /*message*/"「Love U my friends」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400006", /*message*/"「Nijiiro Passions!」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message*/"「NEO SKY, NEO MAP!」의 ［챌린지］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"「LOVELESS WORLD」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"인연Lv");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"액세서리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"캠페인");

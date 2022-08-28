@@ -3831,6 +3831,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400004", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400005", /*message*/"Clear &quot;Love U my friends&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400006", /*message*/"Clear &quot;Nijiiro Passions!&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message*/"Clear &quot;NEO SKY, NEO MAP!&quot; on Challenge difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"Clear &quot;LOVELESS WORLD&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"Bond Level");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"Accessory");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"Campaign");

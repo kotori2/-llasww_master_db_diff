@@ -4011,6 +4011,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_2", /*message*/"หนักแน่นและสง่างาม!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043002_1", /*message*/"ท้าทายการทำผม!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043002_2", /*message*/"ที่ที่สงบสุข");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043003_1", /*message*/"เพิ่มพลังกาย พลัส…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043003_2", /*message*/"ที่สุดของที่นี่…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200052001_1", /*message*/"อยากได้เด็กน่ารักๆ ตัวนั้นจัง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200052002_1", /*message*/"ความตื่นเต้นในวันหิมะตก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053001_1", /*message*/"ไปเดตที่สวนสนุกล่ะเมี้ยว~!");
@@ -4078,6 +4080,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_1", /*message*/"ท
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_2", /*message*/"สาวน้อยเวทมนตร์โยจัง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062001_1", /*message*/"ลูกแก้วที่เอาไว้ดูความปั่นป่วน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062002_1", /*message*/"เพื่อที่จะเป็นลิตเติลเดมอน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062003_1", /*message*/"ตั้งหน้าตั้งตารอเลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"วันหยุดที่แสนงดงามของท่านนางฟ้าตกสวรรค์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_2", /*message*/"เพื่อนนางฟ้าตกสวรรค์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063002_1", /*message*/"ชุดที่เธอเลือก");
@@ -4125,7 +4128,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_1", /*message*/"ค
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_2", /*message*/"อยากโดนลงโทษเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043002_1", /*message*/"ผ่อนคลายด้วยออนเซ็นเท้า!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043002_2", /*message*/"เลือกฉัน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043003_1", /*message*/"ฝันถึงซัมเมอร์ลิป");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043003_2", /*message*/"โลกในอ่างน้ำ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202052001_1", /*message*/"ทำบอร์ดใหม่กันเถอะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202052002_1", /*message*/"ของที่ถนัด!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053001_1", /*message*/"ห้อมล้อมด้วยราตรี");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053001_2", /*message*/"Message☆Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053002_1", /*message*/"1 วันกับเธอ");

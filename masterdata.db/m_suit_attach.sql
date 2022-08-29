@@ -33,6 +33,7 @@ INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/200033102, /*original_suit
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/200033103, /*original_suit_master_id*/200033003, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/200043101, /*original_suit_master_id*/200043001, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/200043102, /*original_suit_master_id*/200043002, /*attach_key*/"c1");
+INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/200043103, /*original_suit_master_id*/200043003, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/200053101, /*original_suit_master_id*/200053001, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/200053102, /*original_suit_master_id*/200053002, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/200063102, /*original_suit_master_id*/200063002, /*attach_key*/"c1");
@@ -70,6 +71,7 @@ INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/202033101, /*original_suit
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/202033102, /*original_suit_master_id*/202033002, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/202033103, /*original_suit_master_id*/202033003, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/202043102, /*original_suit_master_id*/202043002, /*attach_key*/"c1");
+INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/202043103, /*original_suit_master_id*/202043003, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/202053101, /*original_suit_master_id*/202053001, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/202053102, /*original_suit_master_id*/202053002, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/202053103, /*original_suit_master_id*/202053003, /*attach_key*/"c1");

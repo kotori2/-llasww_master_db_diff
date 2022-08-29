@@ -4002,6 +4002,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_1", /*message*/"因
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_2", /*message*/"威風凜凜！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043002_1", /*message*/"挑戰新的頭髮造型！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043002_2", /*message*/"令內心平靜的地方");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043003_1", /*message*/"鍛鍊體力再加上……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043003_2", /*message*/"我是這裡最……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200052001_1", /*message*/"想得到那可愛的孩子！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200052002_1", /*message*/"下雪天的情緒");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053001_1", /*message*/"去遊樂園約會喵～！");
@@ -4069,6 +4071,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_1", /*message*/"只
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_2", /*message*/"魔法少女小曜！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062001_1", /*message*/"凝視混沌的水晶");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062002_1", /*message*/"為了成為小惡魔");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062003_1", /*message*/"樂趣");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"墮天使大人的優雅假日");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_2", /*message*/"墮天使朋友");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063002_1", /*message*/"你挑選的衣服");
@@ -4116,7 +4119,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_1", /*message*/"最
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_2", /*message*/"你想被我處罰嗎？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043002_1", /*message*/"放鬆享受泡足湯！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043002_2", /*message*/"你會選擇我嗎？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043003_1", /*message*/"夏日唇膏之夢");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043003_2", /*message*/"水缽的世界");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202052001_1", /*message*/"來做新的璃奈板吧");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202052002_1", /*message*/"小事一樁！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053001_1", /*message*/"在夜幕的籠罩下");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053001_2", /*message*/"訊息☆舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053002_1", /*message*/"整天與你在一起");

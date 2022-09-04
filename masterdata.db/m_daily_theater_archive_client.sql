@@ -952,3 +952,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000942, /*year*/2022, /*month*/9, /*day*/1, /*title*/"記念にパチリ！", /*published_at*/1661958000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000943, /*year*/2022, /*month*/9, /*day*/2, /*title*/"街を彩る！", /*published_at*/1662044400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000944, /*year*/2022, /*month*/9, /*day*/3, /*title*/"応援するぞ！", /*published_at*/1662130800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000945, /*year*/2022, /*month*/9, /*day*/4, /*title*/"熱意！", /*published_at*/1662217200);

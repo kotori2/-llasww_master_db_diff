@@ -2199,6 +2199,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019202", /*message*/"[빅 라이브 과제] Dancing Stars on Me! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019203", /*message*/"[빅 라이브 과제] KOKORO Magic &quot;A to Z&quot; 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019204", /*message*/"[빅 라이브 과제] Eternal Light 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019301", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019302", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019303", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -2262,6 +2265,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024_000", /*message*/"드림 라이브 퍼레이드 1학년 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025", /*message*/"드림 라이브 퍼레이드 2학년 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025_000", /*message*/"드림 라이브 퍼레이드 2학년 온스테이지");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027", /*message*/"드림 라이브 퍼레이드 ～3rd Anniversary 제1탄～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027_000", /*message*/"드림 라이브 퍼레이드 ～3rd Anniversary 제1탄～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");
@@ -2964,6 +2969,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400550", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400551", /*message*/"Saika 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400552", /*message*/"Saika 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400553", /*message*/"Saika 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400554", /*message*/"Cotton Candy E-I-E-I-O-! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400555", /*message*/"Cotton Candy E-I-E-I-O-! 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message*/"Cotton Candy E-I-E-I-O-! 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");

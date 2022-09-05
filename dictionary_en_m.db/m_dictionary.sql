@@ -2196,6 +2196,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019202", /*message*/"[SBL Goal] Clear &quot;Dancing Stars on Me!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019203", /*message*/"[SBL Goal] Clear &quot;KOKORO Magic &quot;A to Z&quot;&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019204", /*message*/"[SBL Goal] Clear &quot;Eternal Light&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019301", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019302", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019303", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -2259,6 +2262,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024_000", /*message*/"Dream Live Parade: 1st Years on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025", /*message*/"Dream Live Parade: 2nd Years on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025_000", /*message*/"Dream Live Parade: 2nd Years on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027", /*message*/"Dream Live Parade - 3rd Anniversary (Part 1)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027_000", /*message*/"Dream Live Parade - 3rd Anniversary (Part 1)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -2961,6 +2966,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400550", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400551", /*message*/"Clear &quot;Saika&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400552", /*message*/"Clear &quot;Saika&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400553", /*message*/"Clear &quot;Saika&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400554", /*message*/"Clear &quot;Cotton Candy E-I-E-I-O-!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400555", /*message*/"Clear &quot;Cotton Candy E-I-E-I-O-!&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message*/"Clear &quot;Cotton Candy E-I-E-I-O-!&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

@@ -2206,6 +2206,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019202", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Dancing Stars on Me!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019203", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;KOKORO Magic &quot;A to Z&quot;&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019204", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Eternal Light&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019301", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019302", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019303", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -2269,6 +2272,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024_000", /*message*/"ดรีมไลฟ์พาเรด -มัธยม 4 ออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025", /*message*/"ดรีมไลฟ์พาเรด -มัธยม 5 ออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025_000", /*message*/"ดรีมไลฟ์พาเรด -มัธยม 5 ออนสเตจ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027", /*message*/"ドリームライブパレード　～3rd Anniversary 第一弾～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027_000", /*message*/"ドリームライブパレード　～3rd Anniversary 第一弾～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -2971,6 +2976,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400550", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400551", /*message*/"เคลียร์ &quot;Saika&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400552", /*message*/"เคลียร์ &quot;Saika&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400553", /*message*/"เคลียร์ &quot;Saika&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400554", /*message*/"เคลียร์ &quot;Cotton Candy E-I-E-I-O-!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400555", /*message*/"เคลียร์ &quot;Cotton Candy E-I-E-I-O-!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message*/"เคลียร์ &quot;Cotton Candy E-I-E-I-O-!&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

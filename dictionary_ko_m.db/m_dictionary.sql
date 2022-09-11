@@ -2205,6 +2205,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019204", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019301", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019302", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019303", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019401", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019402", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019403", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -2270,6 +2273,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025_000", /*message*/"드림 라이브 퍼레이드 2학년 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027", /*message*/"드림 라이브 퍼레이드 ～3rd Anniversary 제1탄～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027_000", /*message*/"드림 라이브 퍼레이드 ～3rd Anniversary 제1탄～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33028", /*message*/"드림 라이브 퍼레이드 ～3rd Anniversary 제2탄～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33028_000", /*message*/"드림 라이브 퍼레이드 ～3rd Anniversary 제2탄～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");

@@ -2203,6 +2203,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019204", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019301", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019302", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019303", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過10次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019401", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019402", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019403", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過10次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2268,6 +2271,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025_000", /*message*/"夢幻遊行演唱會～二年級亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027", /*message*/"夢幻遊行演唱會～3rd Anniversary 第1彈～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027_000", /*message*/"夢幻遊行演唱會～3rd Anniversary 第1彈～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33028", /*message*/"夢幻遊行演唱會～3rd Anniversary 第2彈～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33028_000", /*message*/"夢幻遊行演唱會～3rd Anniversary 第2彈～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");

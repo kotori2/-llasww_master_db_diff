@@ -24,3 +24,4 @@ INSERT INTO `m_virtual_money_target` VALUES (/*id*/16, /*virtual_money_type*/2, 
 INSERT INTO `m_virtual_money_target` VALUES (/*id*/17, /*virtual_money_type*/2, /*content_id*/9029);
 INSERT INTO `m_virtual_money_target` VALUES (/*id*/18, /*virtual_money_type*/2, /*content_id*/9030);
 INSERT INTO `m_virtual_money_target` VALUES (/*id*/19, /*virtual_money_type*/2, /*content_id*/9032);
+INSERT INTO `m_virtual_money_target` VALUES (/*id*/20, /*virtual_money_type*/2, /*content_id*/9046);

@@ -2980,6 +2980,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400553", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400554", /*message*/"Cotton Candy E-I-E-I-O-! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400555", /*message*/"Cotton Candy E-I-E-I-O-! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message*/"Cotton Candy E-I-E-I-O-! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400557", /*message*/"Sweet Eyes 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400558", /*message*/"Sweet Eyes 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400559", /*message*/"Sweet Eyes 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");

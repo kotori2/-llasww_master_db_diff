@@ -2987,6 +2987,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400553", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400554", /*message*/"เคลียร์ &quot;Cotton Candy E-I-E-I-O-!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400555", /*message*/"เคลียร์ &quot;Cotton Candy E-I-E-I-O-!&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message*/"เคลียร์ &quot;Cotton Candy E-I-E-I-O-!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400557", /*message*/"เคลียร์ &quot;Sweet Eyes&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400558", /*message*/"เคลียร์ &quot;Sweet Eyes&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400559", /*message*/"เคลียร์ &quot;Sweet Eyes&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

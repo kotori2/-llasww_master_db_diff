@@ -2977,6 +2977,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400553", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400554", /*message*/"Clear &quot;Cotton Candy E-I-E-I-O-!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400555", /*message*/"Clear &quot;Cotton Candy E-I-E-I-O-!&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message*/"Clear &quot;Cotton Candy E-I-E-I-O-!&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400557", /*message*/"Clear &quot;Sweet Eyes&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400558", /*message*/"Clear &quot;Sweet Eyes&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400559", /*message*/"Clear &quot;Sweet Eyes&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

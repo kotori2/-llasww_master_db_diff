@@ -2978,6 +2978,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400553", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400554", /*message*/"完成10次「Cotton Candy E-I-E-I-O-!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400555", /*message*/"完成50次「Cotton Candy E-I-E-I-O-!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message*/"完成100次「Cotton Candy E-I-E-I-O-!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400557", /*message*/"完成10次「Sweet Eyes」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400558", /*message*/"完成50次「Sweet Eyes」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400559", /*message*/"完成100次「Sweet Eyes」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

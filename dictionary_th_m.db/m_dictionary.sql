@@ -4261,6 +4261,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"สิ่งสำคัญในการทำชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"เพราะอยากเห็นรอยยิ้มไงล่ะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_2", /*message*/"ทำให้หลงใหล");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063003_1", /*message*/"やればできる！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063003_2", /*message*/"ゲームの世界にご案内");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"มองทุกอย่างทะลุปรุโปร่ง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"รูปแห่งความทรงจำ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072003_1", /*message*/"การร่ายรำของมิโกะ");
@@ -4372,6 +4374,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"Lov
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"ความหมายของอัลบั้มรูป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062003_1", /*message*/"หนุนตักแสนผ่อนคลาย");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062004_1", /*message*/"いつだって幸せに");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"การนวดแสนสุข");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"ชุดที่ทำให้ง่วงนอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063002_1", /*message*/"คานาตะจังอยู่นี่ค่า");

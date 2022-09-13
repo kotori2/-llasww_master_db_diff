@@ -4251,6 +4251,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"Flu
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"Tips for Costume-Making");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"I Wanna See Your Smile");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_2", /*message*/"Let Me Captivate You");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063003_1", /*message*/"You Can Do It If You Try!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063003_2", /*message*/"Game World Guide");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"All Is Revealed to Me!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"A Keepsake Photo");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072003_1", /*message*/"Priestess Dance");
@@ -4362,6 +4364,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"Lov
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreams are Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"The Truth of My Photo Album");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062003_1", /*message*/"A Soothing Lap Pillow");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062004_1", /*message*/"Forever Happy");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"Massage from Paradise");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"Sleepy Clothes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063002_1", /*message*/"I&apos;m Right Here!");

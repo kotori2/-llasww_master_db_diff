@@ -6469,6 +6469,11 @@ INSERT INTO `m_trade_product` VALUES (/*id*/222090103, /*trade_master_id*/222090
 INSERT INTO `m_trade_product` VALUES (/*id*/222090104, /*trade_master_id*/2220901, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
 INSERT INTO `m_trade_product` VALUES (/*id*/222090105, /*trade_master_id*/2220901, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
 INSERT INTO `m_trade_product` VALUES (/*id*/222090106, /*trade_master_id*/2220901, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/222090201, /*trade_master_id*/2220902, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/222090202, /*trade_master_id*/2220902, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/222090203, /*trade_master_id*/2220902, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/222090204, /*trade_master_id*/2220902, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/222090205, /*trade_master_id*/2220902, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
 INSERT INTO `m_trade_product` VALUES (/*id*/222091201, /*trade_master_id*/2220912, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
 INSERT INTO `m_trade_product` VALUES (/*id*/222091202, /*trade_master_id*/2220912, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
 INSERT INTO `m_trade_product` VALUES (/*id*/222091203, /*trade_master_id*/2220912, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);

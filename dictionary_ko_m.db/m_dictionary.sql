@@ -4254,6 +4254,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"설
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"의상 제작 포인트");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"미소를 보고 싶어서");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_2", /*message*/"마음 빼앗기도록");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063003_1", /*message*/"나도 할 때는 한다고!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063003_2", /*message*/"게임 속 세상으로 안내합니다");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"무엇이든 다 알고 있지!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"추억의 사진");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072003_1", /*message*/"무녀의 춤");
@@ -4365,6 +4367,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"러
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"앨범의 의미");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062003_1", /*message*/"힐링을 주는 무릎베개");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062004_1", /*message*/"언제나 행복하게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"최고의 안마");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"잠이 오는 옷");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063002_1", /*message*/"카나타는 여기 있지~");

@@ -964,3 +964,6 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000954, /*year*/2022, /*month*/9, /*day*/13, /*title*/"やり遂げたい！", /*published_at*/1662994800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000955, /*year*/2022, /*month*/9, /*day*/14, /*title*/"こんなのへっちゃら！", /*published_at*/1663081200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000956, /*year*/2022, /*month*/9, /*day*/15, /*title*/"大銀河宇宙ナンバーワンだから！", /*published_at*/1663167600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000957, /*year*/2022, /*month*/9, /*day*/16, /*title*/"想いを力に", /*published_at*/1663254000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000958, /*year*/2022, /*month*/9, /*day*/17, /*title*/"ライブ前夜・１", /*published_at*/1663340400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000959, /*year*/2022, /*month*/9, /*day*/18, /*title*/"ライブ前夜・２", /*published_at*/1663426800);

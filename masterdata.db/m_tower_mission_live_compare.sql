@@ -169,3 +169,12 @@ INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52085, /*mission_l
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52086, /*mission_live_id*/12086);
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52090, /*mission_live_id*/12090);
 INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52092, /*mission_live_id*/12092);
+INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52099, /*mission_live_id*/12099);
+INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52100, /*mission_live_id*/12100);
+INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52102, /*mission_live_id*/12102);
+INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52103, /*mission_live_id*/12103);
+INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52104, /*mission_live_id*/12104);
+INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52105, /*mission_live_id*/12105);
+INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52106, /*mission_live_id*/12106);
+INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52107, /*mission_live_id*/12107);
+INSERT INTO `m_tower_mission_live_compare` VALUES (/*live_id*/52108, /*mission_live_id*/12108);

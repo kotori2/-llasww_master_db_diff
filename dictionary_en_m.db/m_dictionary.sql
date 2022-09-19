@@ -2225,9 +2225,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019401", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019402", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019403", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019503", /*message*/"[CD Release Celebration] Clear &quot;Wake up, Challenger!!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019504", /*message*/"[CD Release Celebration] Use an SP Skill including Riko Sakurauchi 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019601", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019602", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019603", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019703", /*message*/"[CD Release Celebration] Clear &quot;SKY JOURNEY&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019704", /*message*/"[CD Release Celebration] Use an SP Skill including Ruby Kurosawa 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -3004,6 +3008,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400557", /*message*/"Clear &quot;Sweet Eyes&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400558", /*message*/"Clear &quot;Sweet Eyes&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400559", /*message*/"Clear &quot;Sweet Eyes&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400560", /*message*/"Clear &quot;Ryoran! Victory Road (type A)&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400561", /*message*/"Clear &quot;Ryoran! Victory Road (type A)&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400562", /*message*/"Clear &quot;Ryoran! Victory Road (type A)&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400563", /*message*/"Clear &quot;Ryoran! Victory Road (type B)&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400564", /*message*/"Clear &quot;Ryoran! Victory Road (type B)&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400565", /*message*/"Clear &quot;Ryoran! Victory Road (type B)&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

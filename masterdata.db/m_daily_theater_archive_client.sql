@@ -967,3 +967,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000957, /*year*/2022, /*month*/9, /*day*/16, /*title*/"想いを力に", /*published_at*/1663254000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000958, /*year*/2022, /*month*/9, /*day*/17, /*title*/"ライブ前夜・１", /*published_at*/1663340400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000959, /*year*/2022, /*month*/9, /*day*/18, /*title*/"ライブ前夜・２", /*published_at*/1663426800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000960, /*year*/2022, /*month*/9, /*day*/19, /*title*/"ハッピーバースデー、梨子ちゃん！", /*published_at*/1663513200);

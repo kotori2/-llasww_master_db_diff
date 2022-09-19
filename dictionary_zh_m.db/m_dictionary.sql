@@ -2226,9 +2226,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019401", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019402", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019403", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過10次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019503", /*message*/"[CD發行紀念]完成10次「Wake up, Challenger!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019504", /*message*/"[CD發行紀念]使用20次發動成員包含櫻內梨子的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019601", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019602", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019603", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過10次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019703", /*message*/"[CD發行紀念]完成10次「SKY JOURNEY」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019704", /*message*/"[CD發行紀念]使用20次發動成員包含黑澤露比的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -3005,6 +3009,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400557", /*message*/"完成10次「Sweet Eyes」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400558", /*message*/"完成50次「Sweet Eyes」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400559", /*message*/"完成100次「Sweet Eyes」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400560", /*message*/"完成10次「Ryoran! Victory Road (type A)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400561", /*message*/"完成50次「Ryoran! Victory Road (type A)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400562", /*message*/"完成100次「Ryoran! Victory Road (type A)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400563", /*message*/"完成10次「Ryoran! Victory Road (type B)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400564", /*message*/"完成50次「Ryoran! Victory Road (type B)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400565", /*message*/"完成100次「Ryoran! Victory Road (type B)」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

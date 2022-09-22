@@ -52,6 +52,7 @@ INSERT INTO `static_text` VALUES (/*textid*/2722452507132543009, /*guid*/"0bc1af
 INSERT INTO `static_text` VALUES (/*textid*/3238483171083119576, /*guid*/"0bc1af3271b2e40328138ceb291e63b6", /*message*/"11～20");
 INSERT INTO `static_text` VALUES (/*textid*/4984534534004133513, /*guid*/"0bc1af3271b2e40328138ceb291e63b6", /*message*/"1～10");
 INSERT INTO `static_text` VALUES (/*textid*/1249264144, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"篩選");
+INSERT INTO `static_text` VALUES (/*textid*/157136711, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"全選");
 INSERT INTO `static_text` VALUES (/*textid*/438368818, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"持有數");
 INSERT INTO `static_text` VALUES (/*textid*/502088948, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"排列");
 INSERT INTO `static_text` VALUES (/*textid*/508275888, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"選擇數");
@@ -327,7 +328,11 @@ INSERT INTO `static_text` VALUES (/*textid*/504178306, /*guid*/"2f6ecdf7a5e78496
 INSERT INTO `static_text` VALUES (/*textid*/512034881, /*guid*/"2f6ecdf7a5e784961b806087ffccfab3", /*message*/"獲得經驗值");
 INSERT INTO `static_text` VALUES (/*textid*/647256858, /*guid*/"2f6ecdf7a5e784961b806087ffccfab3", /*message*/"TAP SCREEN");
 INSERT INTO `static_text` VALUES (/*textid*/7802649544004761915, /*guid*/"2f6ecdf7a5e784961b806087ffccfab3", /*message*/"AUTO PLAY");
+INSERT INTO `static_text` VALUES (/*textid*/1033580606197900673, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"篩選");
+INSERT INTO `static_text` VALUES (/*textid*/1033580606923180474, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"排列");
+INSERT INTO `static_text` VALUES (/*textid*/1441048640333399541, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"排列");
 INSERT INTO `static_text` VALUES (/*textid*/282184466, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"篩選");
+INSERT INTO `static_text` VALUES (/*textid*/3526739998134376323, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"篩選");
 INSERT INTO `static_text` VALUES (/*textid*/438368817, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"持有數：");
 INSERT INTO `static_text` VALUES (/*textid*/630908713, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"排列");
 INSERT INTO `static_text` VALUES (/*textid*/975197306, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"重置");
@@ -512,23 +517,31 @@ INSERT INTO `static_text` VALUES (/*textid*/114996308730449016, /*guid*/"4a51441
 INSERT INTO `static_text` VALUES (/*textid*/1153721672437158645, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"履歷顯示");
 INSERT INTO `static_text` VALUES (/*textid*/1244711631348920653, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"重置");
 INSERT INTO `static_text` VALUES (/*textid*/2001388372599615897, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"重置");
+INSERT INTO `static_text` VALUES (/*textid*/2350147055522480541, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"自動");
 INSERT INTO `static_text` VALUES (/*textid*/2602885711337676855, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/2716568371918468881, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"重置");
 INSERT INTO `static_text` VALUES (/*textid*/2964766366849987209, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"重置");
+INSERT INTO `static_text` VALUES (/*textid*/3306655382566184191, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"新解鎖歌曲的AUTO PLAY功能初始設定");
 INSERT INTO `static_text` VALUES (/*textid*/3639617738925076460, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"重置");
 INSERT INTO `static_text` VALUES (/*textid*/3788317404903307233, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"重置");
 INSERT INTO `static_text` VALUES (/*textid*/3868662932933170141, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"重置");
+INSERT INTO `static_text` VALUES (/*textid*/3909119310264446541, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"自動");
 INSERT INTO `static_text` VALUES (/*textid*/4013474828698477684, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"重置");
 INSERT INTO `static_text` VALUES (/*textid*/4060676215579012385, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"振動");
 INSERT INTO `static_text` VALUES (/*textid*/4177255579973709102, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/4482860127167120618, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
+INSERT INTO `static_text` VALUES (/*textid*/4675934758956723219, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/4791628790507512079, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/4920598020615754222, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"重置");
 INSERT INTO `static_text` VALUES (/*textid*/4945575814905671081, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/5027916696041335752, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/5326446042864774702, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/5526416478907453748, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
+INSERT INTO `static_text` VALUES (/*textid*/5725316505885099058, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"LIVE的AUTO PLAY功能設定");
+INSERT INTO `static_text` VALUES (/*textid*/5893822621802018364, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/6029330017026852770, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"重置");
+INSERT INTO `static_text` VALUES (/*textid*/6144176541521117651, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"請進行新解鎖歌曲的LIVE的AUTO PLAY功能初始設定。
+若設定為ON，則初次遊玩新解鎖歌曲時，AUTO PLAY功能即會是ON的狀態。");
 INSERT INTO `static_text` VALUES (/*textid*/6190456839457932382, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"通知顯示");
 INSERT INTO `static_text` VALUES (/*textid*/656870775900745763, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"降溫輔助模式");
 INSERT INTO `static_text` VALUES (/*textid*/679294651779887948, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"LIVE接續模式");
@@ -597,6 +610,16 @@ INSERT INTO `static_text` VALUES (/*textid*/6167316075837528677, /*guid*/"4c0730
 INSERT INTO `static_text` VALUES (/*textid*/1835141585851745727, /*guid*/"4ddf8c8688af54b749c962a9cfa56e9b", /*message*/"默契等級");
 INSERT INTO `static_text` VALUES (/*textid*/2412770121692383305, /*guid*/"4ddf8c8688af54b749c962a9cfa56e9b", /*message*/"特訓晶格表填滿數");
 INSERT INTO `static_text` VALUES (/*textid*/5160167893575700813, /*guid*/"4ddf8c8688af54b749c962a9cfa56e9b", /*message*/"持有率");
+INSERT INTO `static_text` VALUES (/*textid*/114052644025086540, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"排列");
+INSERT INTO `static_text` VALUES (/*textid*/114230364160981420, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"排列");
+INSERT INTO `static_text` VALUES (/*textid*/114265982179964836, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"升序");
+INSERT INTO `static_text` VALUES (/*textid*/114296033592939734, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"升序");
+INSERT INTO `static_text` VALUES (/*textid*/114546141319555078, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"降序");
+INSERT INTO `static_text` VALUES (/*textid*/114559110464610572, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"篩選");
+INSERT INTO `static_text` VALUES (/*textid*/114625726936292522, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"篩選");
+INSERT INTO `static_text` VALUES (/*textid*/114667693824645794, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"降序");
+INSERT INTO `static_text` VALUES (/*textid*/4180518515042144626, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"篩選(特技/優勢)");
+INSERT INTO `static_text` VALUES (/*textid*/824930770953927859, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"篩選(特技/優勢)");
 INSERT INTO `static_text` VALUES (/*textid*/145118970, /*guid*/"4f1a15549a4ac4a6e81ab84512ecb1e7", /*message*/"隊伍編組獎勵點數");
 INSERT INTO `static_text` VALUES (/*textid*/4500748637723164133, /*guid*/"4f1a15549a4ac4a6e81ab84512ecb1e7", /*message*/"獲得活動集點");
 INSERT INTO `static_text` VALUES (/*textid*/7267726505180072372, /*guid*/"4f1a15549a4ac4a6e81ab84512ecb1e7", /*message*/"累計");
@@ -725,6 +748,8 @@ INSERT INTO `static_text` VALUES (/*textid*/114814518619594464, /*guid*/"63c858b
 INSERT INTO `static_text` VALUES (/*textid*/114950088311426864, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"©2013 プロジェクトラブライブ！ ©2017 プロジェクトラブライブ！サンシャイン!! ©2020 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 ©Bushiroad International ©SUNRISE ©bushiroad");
 INSERT INTO `static_text` VALUES (/*textid*/114975660973232210, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"第一頁");
+INSERT INTO `static_text` VALUES (/*textid*/4393011474595435422, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"顯示的編組資訊為進入排名時的內容。
+張力排名僅會納入在開放排名功能後通過的歌曲的成績，在開放前通過的歌曲的成績不會納入排名，請特別留意。");
 INSERT INTO `static_text` VALUES (/*textid*/2114035015707683791, /*guid*/"655528915c659400c9fbfd97ededcd22", /*message*/"平均張力：");
 INSERT INTO `static_text` VALUES (/*textid*/2390997320694204352, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"日本特定商取引法相關聲明");
 INSERT INTO `static_text` VALUES (/*textid*/3897628058791381417, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"→");
@@ -1479,6 +1504,7 @@ INSERT INTO `static_text` VALUES (/*textid*/243166013177292380, /*guid*/"e8c9341
 INSERT INTO `static_text` VALUES (/*textid*/8947221868180909886, /*guid*/"e9b6d5da176424947abc705c57922864", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_skill_03\" offsety=\"-6px\" height=\"1.5\" width=\"1.5\"/>經驗技能");
 INSERT INTO `static_text` VALUES (/*textid*/114878291117172738, /*guid*/"ebfde3c9b9c9e457c9eed55cc6cfcd0c", /*message*/"★ TIPS ★");
 INSERT INTO `static_text` VALUES (/*textid*/1202127907, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"請選擇想交流的成員。");
+INSERT INTO `static_text` VALUES (/*textid*/3015284941714664700, /*guid*/"ec63d53a24d716e4a96b235ab3fa718c", /*message*/"編組確認");
 INSERT INTO `static_text` VALUES (/*textid*/1873107725, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"請選擇最愛成員。 ※可在之後變更設定。");
 INSERT INTO `static_text` VALUES (/*textid*/114124718592790024, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"照片列表");
 INSERT INTO `static_text` VALUES (/*textid*/114158974175276444, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"成就");

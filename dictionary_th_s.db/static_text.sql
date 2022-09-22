@@ -52,6 +52,7 @@ INSERT INTO `static_text` VALUES (/*textid*/2722452507132543009, /*guid*/"0bc1af
 INSERT INTO `static_text` VALUES (/*textid*/3238483171083119576, /*guid*/"0bc1af3271b2e40328138ceb291e63b6", /*message*/"11~20");
 INSERT INTO `static_text` VALUES (/*textid*/4984534534004133513, /*guid*/"0bc1af3271b2e40328138ceb291e63b6", /*message*/"1~10");
 INSERT INTO `static_text` VALUES (/*textid*/1249264144, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"กรอง");
+INSERT INTO `static_text` VALUES (/*textid*/157136711, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"เลือกทั้งหมด");
 INSERT INTO `static_text` VALUES (/*textid*/438368818, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"จำนวนที่มี");
 INSERT INTO `static_text` VALUES (/*textid*/502088948, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"เรียงใหม่");
 INSERT INTO `static_text` VALUES (/*textid*/508275888, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"จำนวนที่เลือก");
@@ -327,7 +328,11 @@ INSERT INTO `static_text` VALUES (/*textid*/504178306, /*guid*/"2f6ecdf7a5e78496
 INSERT INTO `static_text` VALUES (/*textid*/512034881, /*guid*/"2f6ecdf7a5e784961b806087ffccfab3", /*message*/"ค่าประสบการณ์ที่ได้รับ");
 INSERT INTO `static_text` VALUES (/*textid*/647256858, /*guid*/"2f6ecdf7a5e784961b806087ffccfab3", /*message*/"TAP SCREEN");
 INSERT INTO `static_text` VALUES (/*textid*/7802649544004761915, /*guid*/"2f6ecdf7a5e784961b806087ffccfab3", /*message*/"Autoplay");
+INSERT INTO `static_text` VALUES (/*textid*/1033580606197900673, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"กรอง");
+INSERT INTO `static_text` VALUES (/*textid*/1033580606923180474, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"เรียงใหม่");
+INSERT INTO `static_text` VALUES (/*textid*/1441048640333399541, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"เรียงใหม่");
 INSERT INTO `static_text` VALUES (/*textid*/282184466, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"กรอง");
+INSERT INTO `static_text` VALUES (/*textid*/3526739998134376323, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"กรอง");
 INSERT INTO `static_text` VALUES (/*textid*/438368817, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"จำนวนที่มี：");
 INSERT INTO `static_text` VALUES (/*textid*/630908713, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"เรียงใหม่");
 INSERT INTO `static_text` VALUES (/*textid*/975197306, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"รีเซ็ต");
@@ -512,23 +517,31 @@ INSERT INTO `static_text` VALUES (/*textid*/114996308730449016, /*guid*/"4a51441
 INSERT INTO `static_text` VALUES (/*textid*/1153721672437158645, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"แสดงล็อก");
 INSERT INTO `static_text` VALUES (/*textid*/1244711631348920653, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"รีเซ็ต");
 INSERT INTO `static_text` VALUES (/*textid*/2001388372599615897, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"รีเซ็ต");
+INSERT INTO `static_text` VALUES (/*textid*/2350147055522480541, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"อัตโนมัติ");
 INSERT INTO `static_text` VALUES (/*textid*/2602885711337676855, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/2716568371918468881, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"รีเซ็ต");
 INSERT INTO `static_text` VALUES (/*textid*/2964766366849987209, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"รีเซ็ต");
+INSERT INTO `static_text` VALUES (/*textid*/3306655382566184191, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"新規解放楽曲のオートプレイ機能初期設定");
 INSERT INTO `static_text` VALUES (/*textid*/3639617738925076460, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"รีเซ็ต");
 INSERT INTO `static_text` VALUES (/*textid*/3788317404903307233, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"รีเซ็ต");
 INSERT INTO `static_text` VALUES (/*textid*/3868662932933170141, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"รีเซ็ต");
+INSERT INTO `static_text` VALUES (/*textid*/3909119310264446541, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"อัตโนมัติ");
 INSERT INTO `static_text` VALUES (/*textid*/4013474828698477684, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"รีเซ็ต");
 INSERT INTO `static_text` VALUES (/*textid*/4060676215579012385, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"การสั่น");
 INSERT INTO `static_text` VALUES (/*textid*/4177255579973709102, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/4482860127167120618, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
+INSERT INTO `static_text` VALUES (/*textid*/4675934758956723219, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/4791628790507512079, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/4920598020615754222, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"รีเซ็ต");
 INSERT INTO `static_text` VALUES (/*textid*/4945575814905671081, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/5027916696041335752, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/5326446042864774702, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/5526416478907453748, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
+INSERT INTO `static_text` VALUES (/*textid*/5725316505885099058, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ライブのオートプレイ機能設定");
+INSERT INTO `static_text` VALUES (/*textid*/5893822621802018364, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/6029330017026852770, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"รีเซ็ต");
+INSERT INTO `static_text` VALUES (/*textid*/6144176541521117651, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"新たに解放される楽曲を対象に、ライブにおけるオートプレイ機能の初期設定を行います。
+ONにした場合、新たに解放された楽曲をプレイする際、最初からオートプレイ機能がONの状態になります。");
 INSERT INTO `static_text` VALUES (/*textid*/6190456839457932382, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"แสดงแจ้งเตือน");
 INSERT INTO `static_text` VALUES (/*textid*/656870775900745763, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"โหมด Cool Assist");
 INSERT INTO `static_text` VALUES (/*textid*/679294651779887948, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"โหมดไลฟ์ต่อเนื่อง");
@@ -597,6 +610,16 @@ INSERT INTO `static_text` VALUES (/*textid*/6167316075837528677, /*guid*/"4c0730
 INSERT INTO `static_text` VALUES (/*textid*/1835141585851745727, /*guid*/"4ddf8c8688af54b749c962a9cfa56e9b", /*message*/"เลเวลค่าความสนิท");
 INSERT INTO `static_text` VALUES (/*textid*/2412770121692383305, /*guid*/"4ddf8c8688af54b749c962a9cfa56e9b", /*message*/"จำนวนช่องฝึกพิเศษ MAX");
 INSERT INTO `static_text` VALUES (/*textid*/5160167893575700813, /*guid*/"4ddf8c8688af54b749c962a9cfa56e9b", /*message*/"อัตราการได้รับ");
+INSERT INTO `static_text` VALUES (/*textid*/114052644025086540, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"เรียงใหม่");
+INSERT INTO `static_text` VALUES (/*textid*/114230364160981420, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"เรียงใหม่");
+INSERT INTO `static_text` VALUES (/*textid*/114265982179964836, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"น้อยไปมาก");
+INSERT INTO `static_text` VALUES (/*textid*/114296033592939734, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"น้อยไปมาก");
+INSERT INTO `static_text` VALUES (/*textid*/114546141319555078, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"มากไปน้อย");
+INSERT INTO `static_text` VALUES (/*textid*/114559110464610572, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"กรอง");
+INSERT INTO `static_text` VALUES (/*textid*/114625726936292522, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"กรอง");
+INSERT INTO `static_text` VALUES (/*textid*/114667693824645794, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"มากไปน้อย");
+INSERT INTO `static_text` VALUES (/*textid*/4180518515042144626, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"しぼり込み(特技/個性)");
+INSERT INTO `static_text` VALUES (/*textid*/824930770953927859, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"しぼり込み(特技/個性)");
 INSERT INTO `static_text` VALUES (/*textid*/145118970, /*guid*/"4f1a15549a4ac4a6e81ab84512ecb1e7", /*message*/"แต้มโบนัสที่ได้จากการจัดทีมไลฟ์");
 INSERT INTO `static_text` VALUES (/*textid*/4500748637723164133, /*guid*/"4f1a15549a4ac4a6e81ab84512ecb1e7", /*message*/"แต้มอีเวนต์ที่ได้");
 INSERT INTO `static_text` VALUES (/*textid*/7267726505180072372, /*guid*/"4f1a15549a4ac4a6e81ab84512ecb1e7", /*message*/"รวม");
@@ -726,6 +749,9 @@ INSERT INTO `static_text` VALUES (/*textid*/114814518619594464, /*guid*/"63c858b
 INSERT INTO `static_text` VALUES (/*textid*/114950088311426864, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"©2013 プロジェクトラブライブ！ ©2017 プロジェクトラブライブ！サンシャイン!! ©2020 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 ©Bushiroad International ©SUNRISE ©bushiroad");
 INSERT INTO `static_text` VALUES (/*textid*/114975660973232210, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"ครั้งแรก");
+INSERT INTO `static_text` VALUES (/*textid*/4393011474595435422, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"表示される編成情報は、ランキング入賞時の編成の内容が表示されます
+
+ランキングの対象となるボルテージは、ランキング導入以降にクリアした楽曲の結果のみが対象となり、導入前にクリアした楽曲の結果は反映されませんのでご注意ください");
 INSERT INTO `static_text` VALUES (/*textid*/2114035015707683791, /*guid*/"655528915c659400c9fbfd97ededcd22", /*message*/"Voltage เฉลี่ย :");
 INSERT INTO `static_text` VALUES (/*textid*/2390997320694204352, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"แสดงข้อมูลการทำธุรกรรมเชิงพาณิชย์");
 INSERT INTO `static_text` VALUES (/*textid*/3897628058791381417, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"→");
@@ -1472,6 +1498,7 @@ INSERT INTO `static_text` VALUES (/*textid*/243166013177292380, /*guid*/"e8c9341
 INSERT INTO `static_text` VALUES (/*textid*/8947221868180909886, /*guid*/"e9b6d5da176424947abc705c57922864", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_skill_03\" offsety=\"-6px\" height=\"1.5\" width=\"1.5\"/>สกิลแฝง");
 INSERT INTO `static_text` VALUES (/*textid*/114878291117172738, /*guid*/"ebfde3c9b9c9e457c9eed55cc6cfcd0c", /*message*/"★ TIPS ★");
 INSERT INTO `static_text` VALUES (/*textid*/1202127907, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"กรุณาเลือกเมมเบอร์ที่อยากสนิทด้วย");
+INSERT INTO `static_text` VALUES (/*textid*/3015284941714664700, /*guid*/"ec63d53a24d716e4a96b235ab3fa718c", /*message*/"ตรวจสอบการจัดทีม");
 INSERT INTO `static_text` VALUES (/*textid*/1873107725, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"กรุณาเลือกเมมเบอร์คนโปรด ※เปลี่ยนได้ในภายหลัง");
 INSERT INTO `static_text` VALUES (/*textid*/114124718592790024, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"รายการภาพ");
 INSERT INTO `static_text` VALUES (/*textid*/114158974175276444, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"ผลงาน");

@@ -52,6 +52,7 @@ INSERT INTO `static_text` VALUES (/*textid*/2722452507132543009, /*guid*/"0bc1af
 INSERT INTO `static_text` VALUES (/*textid*/3238483171083119576, /*guid*/"0bc1af3271b2e40328138ceb291e63b6", /*message*/"11~20");
 INSERT INTO `static_text` VALUES (/*textid*/4984534534004133513, /*guid*/"0bc1af3271b2e40328138ceb291e63b6", /*message*/"1~10");
 INSERT INTO `static_text` VALUES (/*textid*/1249264144, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"필터");
+INSERT INTO `static_text` VALUES (/*textid*/157136711, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"일괄 선택");
 INSERT INTO `static_text` VALUES (/*textid*/438368818, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"보유 수");
 INSERT INTO `static_text` VALUES (/*textid*/502088948, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"정렬");
 INSERT INTO `static_text` VALUES (/*textid*/508275888, /*guid*/"0c8d2545080dfaa45b9d9b9229705cfe", /*message*/"선택 수");
@@ -327,7 +328,11 @@ INSERT INTO `static_text` VALUES (/*textid*/504178306, /*guid*/"2f6ecdf7a5e78496
 INSERT INTO `static_text` VALUES (/*textid*/512034881, /*guid*/"2f6ecdf7a5e784961b806087ffccfab3", /*message*/"획득 경험치");
 INSERT INTO `static_text` VALUES (/*textid*/647256858, /*guid*/"2f6ecdf7a5e784961b806087ffccfab3", /*message*/"화면을 터치하세요");
 INSERT INTO `static_text` VALUES (/*textid*/7802649544004761915, /*guid*/"2f6ecdf7a5e784961b806087ffccfab3", /*message*/"자동 플레이");
+INSERT INTO `static_text` VALUES (/*textid*/1033580606197900673, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"필터");
+INSERT INTO `static_text` VALUES (/*textid*/1033580606923180474, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"정렬");
+INSERT INTO `static_text` VALUES (/*textid*/1441048640333399541, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"정렬");
 INSERT INTO `static_text` VALUES (/*textid*/282184466, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"필터");
+INSERT INTO `static_text` VALUES (/*textid*/3526739998134376323, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"필터");
 INSERT INTO `static_text` VALUES (/*textid*/438368817, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"보유 수:");
 INSERT INTO `static_text` VALUES (/*textid*/630908713, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"정렬");
 INSERT INTO `static_text` VALUES (/*textid*/975197306, /*guid*/"30b3bb19530cb544397ebf209b97e15e", /*message*/"초기화");
@@ -512,23 +517,31 @@ INSERT INTO `static_text` VALUES (/*textid*/114996308730449016, /*guid*/"4a51441
 INSERT INTO `static_text` VALUES (/*textid*/1153721672437158645, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"로그 표시");
 INSERT INTO `static_text` VALUES (/*textid*/1244711631348920653, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"초기화");
 INSERT INTO `static_text` VALUES (/*textid*/2001388372599615897, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"초기화");
+INSERT INTO `static_text` VALUES (/*textid*/2350147055522480541, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"자동");
 INSERT INTO `static_text` VALUES (/*textid*/2602885711337676855, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/2716568371918468881, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"초기화");
 INSERT INTO `static_text` VALUES (/*textid*/2964766366849987209, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"초기화");
+INSERT INTO `static_text` VALUES (/*textid*/3306655382566184191, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"새로 오픈된 곡의 오토 플레이 기능 초기 설정");
 INSERT INTO `static_text` VALUES (/*textid*/3639617738925076460, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"초기화");
 INSERT INTO `static_text` VALUES (/*textid*/3788317404903307233, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"초기화");
 INSERT INTO `static_text` VALUES (/*textid*/3868662932933170141, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"초기화");
+INSERT INTO `static_text` VALUES (/*textid*/3909119310264446541, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"자동");
 INSERT INTO `static_text` VALUES (/*textid*/4013474828698477684, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"초기화");
 INSERT INTO `static_text` VALUES (/*textid*/4060676215579012385, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"진동");
 INSERT INTO `static_text` VALUES (/*textid*/4177255579973709102, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/4482860127167120618, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
+INSERT INTO `static_text` VALUES (/*textid*/4675934758956723219, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/4791628790507512079, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/4920598020615754222, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"초기화");
 INSERT INTO `static_text` VALUES (/*textid*/4945575814905671081, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/5027916696041335752, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
 INSERT INTO `static_text` VALUES (/*textid*/5326446042864774702, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/5526416478907453748, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"OFF");
+INSERT INTO `static_text` VALUES (/*textid*/5725316505885099058, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"라이브 오토 플레이 기능 설정");
+INSERT INTO `static_text` VALUES (/*textid*/5893822621802018364, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/6029330017026852770, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"초기화");
+INSERT INTO `static_text` VALUES (/*textid*/6144176541521117651, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"새로 오픈되는 곡을 대상으로 라이브 오토 플레이 기능 초기설정을 진행합니다.
+ON으로 설정한 경우 새로 오픈된 곡을 플레이하는 경우 오토 플레이 기능이 ON으로  변경됩니다.");
 INSERT INTO `static_text` VALUES (/*textid*/6190456839457932382, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"알림 표시");
 INSERT INTO `static_text` VALUES (/*textid*/656870775900745763, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"쿨링 보조 기능");
 INSERT INTO `static_text` VALUES (/*textid*/679294651779887948, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"라이브 속행 모드");
@@ -597,6 +610,16 @@ INSERT INTO `static_text` VALUES (/*textid*/6167316075837528677, /*guid*/"4c0730
 INSERT INTO `static_text` VALUES (/*textid*/1835141585851745727, /*guid*/"4ddf8c8688af54b749c962a9cfa56e9b", /*message*/"인연 레벨");
 INSERT INTO `static_text` VALUES (/*textid*/2412770121692383305, /*guid*/"4ddf8c8688af54b749c962a9cfa56e9b", /*message*/"특훈 트리 MAX 수");
 INSERT INTO `static_text` VALUES (/*textid*/5160167893575700813, /*guid*/"4ddf8c8688af54b749c962a9cfa56e9b", /*message*/"획득률");
+INSERT INTO `static_text` VALUES (/*textid*/114052644025086540, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"정렬");
+INSERT INTO `static_text` VALUES (/*textid*/114230364160981420, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"정렬");
+INSERT INTO `static_text` VALUES (/*textid*/114265982179964836, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"오름차순");
+INSERT INTO `static_text` VALUES (/*textid*/114296033592939734, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"오름차순");
+INSERT INTO `static_text` VALUES (/*textid*/114546141319555078, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"내림차순");
+INSERT INTO `static_text` VALUES (/*textid*/114559110464610572, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"필터");
+INSERT INTO `static_text` VALUES (/*textid*/114625726936292522, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"필터");
+INSERT INTO `static_text` VALUES (/*textid*/114667693824645794, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"내림차순");
+INSERT INTO `static_text` VALUES (/*textid*/4180518515042144626, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"필터(특기/개성)");
+INSERT INTO `static_text` VALUES (/*textid*/824930770953927859, /*guid*/"4e4dcbecd4483de4c8ded3bdaea64b4d", /*message*/"필터(특기/개성)");
 INSERT INTO `static_text` VALUES (/*textid*/145118970, /*guid*/"4f1a15549a4ac4a6e81ab84512ecb1e7", /*message*/"라이브 편성 보너스 포인트");
 INSERT INTO `static_text` VALUES (/*textid*/4500748637723164133, /*guid*/"4f1a15549a4ac4a6e81ab84512ecb1e7", /*message*/"획득 이벤트 포인트");
 INSERT INTO `static_text` VALUES (/*textid*/7267726505180072372, /*guid*/"4f1a15549a4ac4a6e81ab84512ecb1e7", /*message*/"누적");
@@ -725,6 +748,8 @@ INSERT INTO `static_text` VALUES (/*textid*/114814518619594464, /*guid*/"63c858b
 INSERT INTO `static_text` VALUES (/*textid*/114950088311426864, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"©2013 プロジェクトラブライブ！ ©2017 プロジェクトラブライブ！サンシャイン!! ©2020 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 ©Bushiroad International ©SUNRISE ©bushiroad");
 INSERT INTO `static_text` VALUES (/*textid*/114975660973232210, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"처음");
+INSERT INTO `static_text` VALUES (/*textid*/4393011474595435422, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"표시되는 편성정보는 랭킹 입상 시의 편성입니다.
+랭킹 대상이 되는 볼티지는 랭킹 도입 이후 클리어한 곡의 결과로 한정되며, 랭킹 도입 이전에 클리어한 곡의 결과는 반영되지 않으므로 주의하여 주십시오.");
 INSERT INTO `static_text` VALUES (/*textid*/2114035015707683791, /*guid*/"655528915c659400c9fbfd97ededcd22", /*message*/"평균 볼티지:");
 INSERT INTO `static_text` VALUES (/*textid*/2390997320694204352, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"특정상거래법에 의한 표시사항");
 INSERT INTO `static_text` VALUES (/*textid*/3897628058791381417, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"→");
@@ -1476,6 +1501,7 @@ INSERT INTO `static_text` VALUES (/*textid*/243166013177292380, /*guid*/"e8c9341
 INSERT INTO `static_text` VALUES (/*textid*/8947221868180909886, /*guid*/"e9b6d5da176424947abc705c57922864", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_skill_03\" offsety=\"-6px\" height=\"1.5\" width=\"1.5\"/>아이디어 스킬");
 INSERT INTO `static_text` VALUES (/*textid*/114878291117172738, /*guid*/"ebfde3c9b9c9e457c9eed55cc6cfcd0c", /*message*/"★ 힌트 ★");
 INSERT INTO `static_text` VALUES (/*textid*/1202127907, /*guid*/"ec393352f32d0814098a910dc4f125db", /*message*/"교류하고 싶은 멤버를 선택하세요.");
+INSERT INTO `static_text` VALUES (/*textid*/3015284941714664700, /*guid*/"ec63d53a24d716e4a96b235ab3fa718c", /*message*/"편성 확인");
 INSERT INTO `static_text` VALUES (/*textid*/1873107725, /*guid*/"ec828292ee7fd431dad51cbaa1ecdcdb", /*message*/"선호 부원을 선택하세요 ※설정은 나중에 변경할 수 있습니다");
 INSERT INTO `static_text` VALUES (/*textid*/114124718592790024, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"스틸 사진");
 INSERT INTO `static_text` VALUES (/*textid*/114158974175276444, /*guid*/"ecc49c3b36a12449780c87170f3db8f7", /*message*/"업적");

@@ -30,3 +30,9 @@ INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/24, /*title*/
 INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/25, /*title*/"k.m_filter_category_read_state");
 INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/26, /*title*/"k.m_filter_category_training_cell");
 INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/27, /*title*/"k.m_filter_category_accessory_is_equip");
+INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/28, /*title*/"k.m_filter_category_skill_type_cell");
+INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/29, /*title*/"k.m_filter_category_skill_effect_target_cell");
+INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/30, /*title*/"k.m_filter_category_originality_cell");
+INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/31, /*title*/"k.m_filter_category_skill_effect_target_origin_1_cell");
+INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/32, /*title*/"k.m_filter_category_skill_type_origin_2_cell");
+INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/33, /*title*/"k.m_filter_category_skill_effect_target_origin_2_cell");

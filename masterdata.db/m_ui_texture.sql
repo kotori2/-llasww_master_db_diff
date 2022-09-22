@@ -106,3 +106,4 @@ INSERT INTO `m_ui_texture` VALUES (/*id*/104, /*asset_path*/"35)");
 INSERT INTO `m_ui_texture` VALUES (/*id*/105, /*asset_path*/"zF;");
 INSERT INTO `m_ui_texture` VALUES (/*id*/106, /*asset_path*/"`u:");
 INSERT INTO `m_ui_texture` VALUES (/*id*/107, /*asset_path*/"a}@");
+INSERT INTO `m_ui_texture` VALUES (/*id*/108, /*asset_path*/"r$#");

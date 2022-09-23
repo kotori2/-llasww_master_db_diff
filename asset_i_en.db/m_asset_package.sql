@@ -6,7 +6,7 @@ CREATE TABLE m_asset_package(
 );
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0107/mes_0107_09", /*version*/"682e98e1c0b12c4f4111549272c4bf419bf96027", /*pack_num*/46);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0201/mes_0201_33", /*version*/"99014abccfd9efda7f2fc0a9979273735b98296e", /*pack_num*/46);
-INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"c50e97b747649cadd84a9034f9adc847c1cda1a6", /*pack_num*/12423);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"122d72503a001afde26334ab48cf98b30bc011fb", /*pack_num*/12422);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MS/002/ms_002_01", /*version*/"776bc7661cc4645cf852734b1eaf5ec4d9b3a3c7", /*pack_num*/104);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0210/mes_0210_22", /*version*/"442ee71463b90b6e27df4f19394dc8cbb1c0efda", /*pack_num*/30);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0210/mes_0210_16", /*version*/"51def443e9e67ea4d0c2a4be27a0eb874d5b4f65", /*pack_num*/46);
@@ -1101,7 +1101,7 @@ INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:SS/0207/ss_402072005
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:SS/0008/ss_100082001_01", /*version*/"54a32d37a6ba26927eac48e1cf8f9065a9c479ca", /*pack_num*/44);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0205/mes_0205_01", /*version*/"168f49b4ae60968dc79e0e19e626bf061ded8f2f", /*pack_num*/50);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:ES/0047/es_0047_07", /*version*/"07aaf9a49e6bb76bf5ce19239d651507a21a9983", /*pack_num*/70);
-INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:ES/0072/es_0072_07", /*version*/"b7578a481d1061887bfc78542cfe4d497a58ec72", /*pack_num*/16);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:ES/0072/es_0072_07", /*version*/"bf8ef1311e061e14d6452b09399a4a45d186abf6", /*pack_num*/17);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:ES/0036/es_0036_01", /*version*/"3cdc80f97a1d224a4c099968303a4a8bff97da56", /*pack_num*/66);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:101080024", /*version*/"3b3d57c0ca46e6acd18fb36c11e9e9e3e764af14", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:ES/0018/es_0018_06", /*version*/"3e1c314d06889f090c6a0df7de238e4bdb4467a7", /*pack_num*/78);
@@ -1228,7 +1228,7 @@ INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:102040072", /*versio
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0207/mes_0207_19", /*version*/"b690eb4c7c4b05c49855e0725373c2873ef5ac53", /*pack_num*/76);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:ES/0040/es_0040_04", /*version*/"f7cde1d0bfbbf4cf2a135b8d9f0bed1efcce0aff", /*pack_num*/60);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:SS/0107/ss_101072001_01", /*version*/"797b8ddd31055080e1d15030b26065af51ff1750", /*pack_num*/46);
-INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:ES/0072/es_0072_05", /*version*/"4bf5cb8345b818c08c9b9cfbc8daf4ccea45bd9a", /*pack_num*/14);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:ES/0072/es_0072_05", /*version*/"079a048835a58ac304ca12763fad64915bd933bd", /*pack_num*/15);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MS/030/ms_030_07", /*version*/"ee9d457c5ae5a4c4bb41f530c9f1d33f279432fd", /*pack_num*/68);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"card:400023005", /*version*/"ce61f263aa6c7aeee874b664482926d657e8483e", /*pack_num*/5);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MS/006/ms_006_03", /*version*/"e136d481a4fe9b72cc27b83895facfb975e60dd4", /*pack_num*/102);
@@ -4123,7 +4123,7 @@ INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0109/mes_0
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:SS/0202/ss_402023004_02", /*version*/"b8f2e908a16690cd5d336f8001e2f54a1a37eb13", /*pack_num*/10);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"card:200033001", /*version*/"70904c5d673f4c19ce0dda63f37b7432b32bc177", /*pack_num*/5);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:MES/0103/mes_0103_21", /*version*/"5330dcb2c2140175f909e3357bbd923928f2d9aa", /*pack_num*/15);
-INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:ES/0072/es_0072_06", /*version*/"c950638d1f0c41b42f1000f7ceb4de8727331ffd", /*pack_num*/8);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:ES/0072/es_0072_06", /*version*/"baac443f0e16fc4d76a8fecaf3bdb70793ea6b48", /*pack_num*/9);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:SS/0001/ss_300012002_01", /*version*/"07592f3f5a05de8805b3cd1d1b85b309c4eecc8e", /*pack_num*/50);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:MES/0104/mes_0104_11", /*version*/"cbd851bd7d1fc4584e8720ed7eff1fb547223f20", /*pack_num*/14);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:SS/0107/ss_401072006_01", /*version*/"a734c05cfc02bd8a35dd29decd5e30fd9b71a840", /*pack_num*/11);
@@ -6547,7 +6547,7 @@ INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:ES/0026/es_0026_06",
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:SS/0102/ss_301022002_01", /*version*/"3360c0479311a0285ca11913d5997820db1d6418", /*pack_num*/14);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:SS/0207/ss_202073001_02", /*version*/"ee70cdbd4f6bcbd0b7cf7411e232cfcd2990ccff", /*pack_num*/4);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:SS/0007/ss_400073002_02", /*version*/"b46dc65dffa713408630151c5c3b70252277e4dd", /*pack_num*/4);
-INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:ES/0072/es_0072_04", /*version*/"d6ec528772b4650e8cf494893ac6af46876ff993", /*pack_num*/14);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:ES/0072/es_0072_04", /*version*/"a11624c3128055e63051b94bc781ee5761fa3b62", /*pack_num*/15);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0212/mes_0212_14", /*version*/"b44f61fd671eb211b10768e70c9ecc7e0eb4a218", /*pack_num*/40);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:100030023", /*version*/"d7595a5c804e2bd45025f9a6518438d44a58618d", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:SS/0105/ss_401053006_02", /*version*/"1995e5eec6f868a0653101bb7d98fe87af9d1f2b", /*pack_num*/10);
@@ -8416,6 +8416,7 @@ INSERT INTO `m_asset_package` VALUES (/*package_key*/"music:11079", /*version*/"
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:101080081", /*version*/"6eb6117c156736f5a91dddb2ecb16ace72ed3c12", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:100060032", /*version*/"687f866317c06c004e74229f2b942153d182cb62", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:101020066", /*version*/"41edaad59185d2a0019b839936b6c86749b136e3", /*pack_num*/3);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"music:42096", /*version*/"afca74b6c53d4b72c51728aa3babd6a4ffec50b6", /*pack_num*/2);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:100090084", /*version*/"8740389638bfc02c15b0ee8c80bc1cc5bbc7145d", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:101010024", /*version*/"35a02a518105ad1b686f1844f736bd0c0049027b", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:100020066", /*version*/"20fa7f529e51185702829d62fc31ccee1d6fd453", /*pack_num*/3);

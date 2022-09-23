@@ -2235,6 +2235,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019602", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019603", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019703", /*message*/"[CD 발매 기념] SKY JOURNEY 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019704", /*message*/"[CD 발매 기념] 쿠로사와 루비이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019801", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019802", /*message*/"[빅 라이브 과제] Bokura wa Ima no Naka de 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019803", /*message*/"[빅 라이브 과제] Koini Naritai AQUARIUM 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019804", /*message*/"[빅 라이브 과제] Just Believe!!! (12 People Ver.) 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

@@ -2232,6 +2232,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019602", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019603", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019703", /*message*/"[CD Release Celebration] Clear &quot;SKY JOURNEY&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019704", /*message*/"[CD Release Celebration] Use an SP Skill including Ruby Kurosawa 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019801", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019802", /*message*/"[SBL Goal] Clear &quot;Bokura wa Ima no Naka de&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019803", /*message*/"[SBL Goal] Clear &quot;Koini Naritai AQUARIUM&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019804", /*message*/"[SBL Goal] Clear &quot;Just Believe!!! (12 People Ver.)&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

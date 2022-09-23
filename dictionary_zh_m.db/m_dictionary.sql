@@ -2233,6 +2233,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019602", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019603", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過10次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019703", /*message*/"[CD發行紀念]完成10次「SKY JOURNEY」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019704", /*message*/"[CD發行紀念]使用20次發動成員包含黑澤露比的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019801", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019802", /*message*/"[大型合作演唱會課題]完成10次「Bokura wa Ima no Naka de」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019803", /*message*/"[大型合作演唱會課題]完成10次「Koini Naritai AQUARIUM」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019804", /*message*/"[大型合作演唱會課題]完成10次「Just Believe!!! (12 People Ver.)」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

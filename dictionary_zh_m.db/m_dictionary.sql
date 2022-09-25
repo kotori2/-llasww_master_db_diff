@@ -3034,6 +3034,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400571", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400572", /*message*/"完成10次「SENTIMENTAL StepS」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400573", /*message*/"完成50次「SENTIMENTAL StepS」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400574", /*message*/"完成100次「SENTIMENTAL StepS」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400575", /*message*/"完成10次「SUNNY DAY SONG」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400576", /*message*/"完成50次「SUNNY DAY SONG」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400577", /*message*/"完成100次「SUNNY DAY SONG」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

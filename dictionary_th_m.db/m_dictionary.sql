@@ -3043,6 +3043,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400571", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400572", /*message*/"เคลียร์ &quot;SENTIMENTAL StepS&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400573", /*message*/"เคลียร์ &quot;SENTIMENTAL StepS&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400574", /*message*/"เคลียร์ &quot;SENTIMENTAL StepS&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400575", /*message*/"เคลียร์ &quot;SUNNY DAY SONG&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400576", /*message*/"เคลียร์ &quot;SUNNY DAY SONG&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400577", /*message*/"เคลียร์ &quot;SUNNY DAY SONG&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

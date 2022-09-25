@@ -3033,6 +3033,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400571", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400572", /*message*/"Clear &quot;SENTIMENTAL StepS&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400573", /*message*/"Clear &quot;SENTIMENTAL StepS&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400574", /*message*/"Clear &quot;SENTIMENTAL StepS&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400575", /*message*/"Clear &quot;SUNNY DAY SONG&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400576", /*message*/"Clear &quot;SUNNY DAY SONG&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400577", /*message*/"Clear &quot;SUNNY DAY SONG&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

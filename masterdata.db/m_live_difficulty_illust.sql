@@ -17,3 +17,5 @@ INSERT INTO `m_live_difficulty_illust` VALUES (/*live_difficulty_m_id*/13004301,
 INSERT INTO `m_live_difficulty_illust` VALUES (/*live_difficulty_m_id*/13007101, /*illust_asset_path*/"okK", /*stage_background_asset_path*/"I=u");
 INSERT INTO `m_live_difficulty_illust` VALUES (/*live_difficulty_m_id*/13007201, /*illust_asset_path*/"okK", /*stage_background_asset_path*/"I=u");
 INSERT INTO `m_live_difficulty_illust` VALUES (/*live_difficulty_m_id*/13007301, /*illust_asset_path*/"okK", /*stage_background_asset_path*/"I=u");
+INSERT INTO `m_live_difficulty_illust` VALUES (/*live_difficulty_m_id*/33000439, /*illust_asset_path*/"K,L", /*stage_background_asset_path*/"I=u");
+INSERT INTO `m_live_difficulty_illust` VALUES (/*live_difficulty_m_id*/33100439, /*illust_asset_path*/"K,L", /*stage_background_asset_path*/"I=u");

@@ -2236,6 +2236,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019801", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019802", /*message*/"[SBL Goal] Clear &quot;Bokura wa Ima no Naka de&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019803", /*message*/"[SBL Goal] Clear &quot;Koini Naritai AQUARIUM&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019804", /*message*/"[SBL Goal] Clear &quot;Just Believe!!! (12 People Ver.)&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019901", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019902", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019903", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -2304,6 +2307,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33028", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33028_000", /*message*/"Dream Live Parade - 3rd Anniversary (Part 2)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33029", /*message*/"Dream Live Parade - 3rd Anniversary (Part 3)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33029_000", /*message*/"Dream Live Parade - 3rd Anniversary (Part 3)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030", /*message*/"Dream Live Parade - 3rd Anniversary Next TOKIMEKI!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030_000", /*message*/"Dream Live Parade - 3rd Anniversary Next TOKIMEKI!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -2472,6 +2477,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800036", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800037", /*message*/"Finish Story Chapter 40.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800038", /*message*/"Finish Story Chapter 41.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800039", /*message*/"Finish Story Chapter 42.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800040", /*message*/"Finish Story Chapter 43.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"Read a Bond Episode: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"Read a Bond Episode: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"Read a Bond Episode: x10");
@@ -3018,6 +3024,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400562", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400563", /*message*/"Clear &quot;Ryoran! Victory Road (type B)&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400564", /*message*/"Clear &quot;Ryoran! Victory Road (type B)&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400565", /*message*/"Clear &quot;Ryoran! Victory Road (type B)&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400566", /*message*/"Clear &quot;LONELIEST BABY&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400567", /*message*/"Clear &quot;LONELIEST BABY&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400568", /*message*/"Clear &quot;LONELIEST BABY&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400569", /*message*/"Clear &quot;Twilight&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400570", /*message*/"Clear &quot;Twilight&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400571", /*message*/"Clear &quot;Twilight&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400572", /*message*/"Clear &quot;SENTIMENTAL StepS&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400573", /*message*/"Clear &quot;SENTIMENTAL StepS&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400574", /*message*/"Clear &quot;SENTIMENTAL StepS&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -4121,6 +4136,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_1", /*message*/"The
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_2", /*message*/"I Wanted to See You All!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_1", /*message*/"Hit a Home Run!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_2", /*message*/"In a Garden Full of Flowers");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013003_1", /*message*/"A Flash of Inspiration!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013003_2", /*message*/"The Lady Ninja Chika Has Arrived!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201022001_1", /*message*/"How to Get Out of a Slump");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"I Could Listen to You Forever");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"Do I Look Grown-Up?");
@@ -4162,6 +4179,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073001_1", /*message*/"Are
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073001_2", /*message*/"The Sound of the Bell");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073002_1", /*message*/"My Secret Practice");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073002_2", /*message*/"Setting Off for a Strange World");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201082001_1", /*message*/"A Moment Before I Go to Sleep");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201083001_1", /*message*/"Party Manners");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201083001_2", /*message*/"Let&apos;s Dance!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201083002_1", /*message*/"Let&apos;s Burn Some Rubber!");
@@ -4178,6 +4196,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_1", /*message*/"You
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_2", /*message*/"A Bride Just for You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013002_1", /*message*/"I Can Handle the Cold with You Here");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013002_2", /*message*/"Back Here, Someday");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013003_1", /*message*/"Ayumu Through the Lens");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013003_2", /*message*/"Locking Gazes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202022001_1", /*message*/"Delightful Letters");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_1", /*message*/"A Lady Wants to Be Loved");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202023001_2", /*message*/"Shy Gaze");
@@ -4227,6 +4247,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_2", /*message*/"A S
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_1", /*message*/"Emma&apos;s Radio Calisthenics");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_2", /*message*/"The Little Lively Mermaid");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202092001_1", /*message*/"Proactive Baseball Watching");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202092002_1", /*message*/"Rainy Day Rina-chan Board");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_1", /*message*/"All Natural with You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"The Past and Present");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_1", /*message*/"Practicing with You");
@@ -5160,6 +5181,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*m
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_40", /*message*/"Heading West");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_41", /*message*/"My Own Dream");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_42", /*message*/"The Future of μ&apos;s?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_43", /*message*/"Making Something Timeless");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"Find μ&apos;s&apos; Secret!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"Contest Progression");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
@@ -5202,6 +5224,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_40", /*message*/"Chapter 40");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_41", /*message*/"Chapter 41");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_42", /*message*/"Chapter 42");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_43", /*message*/"Chapter 43");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"Chapter 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"Chapter 7");
@@ -5581,6 +5604,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_42_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_42_7", /*message*/"After the magazine feature, μ&apos;s receive an offer from a TV station to appear on their quiz show. Can they win and shock the world with their victory?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_42_8", /*message*/"Honoka, Nico, and Maki are chosen to represent μ&apos;s on the quiz show, and the three give it their all! So, how did they do?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_42_9", /*message*/"Honoka and Nico get into a small argument at the wrap-up party following the recording of the quiz show. What does Honoka have to say after giving Nico&apos;s comments some serious thought?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_1", /*message*/"After a grueling schedule of magazine and TV show appearances, μ&apos;s is finally getting a brief respite. How will they spend their time?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_10", /*message*/"Honoka and μ&apos;s have a new plan and a new goal. They go on a trip to thank Aqours for giving them the initial inspiration.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_2", /*message*/"μ&apos;s start an intense training regimen so they can improve enough to impress the world. Where can a wiped-out Honoka go to relax and recharge?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_3", /*message*/"Honoka and Umi go to the maid café to unwind, then take a walk around town with Kotori after she finishes her shift. How have things changed in the area since the last time they went out?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_4", /*message*/"Honoka feels sad when she notices how the town she once knew so well has changed. Will Akihabara change beyond recognition?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_5", /*message*/"After an impromptu performance on the streets of Akihabara, Honoka finally understands how Nico feels. Meanwhile, Nico starts feeling anxious about the recent mood in the club.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_6", /*message*/"Honoka and μ&apos;s decide to keep changing and evolving to create something that will last forever. Time for a group meeting to figure out their next exciting challenge!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_7", /*message*/"Honoka and Nico make it clear they want μ&apos;s to keep evolving and achieve even greater accomplishments, but can the first-year trio keep up with the pace set by the older girls?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_8", /*message*/"The first-year girls simply can&apos;t keep up with the rest, and Honoka knows it. She comes up with the idea to try and explain how she feels with a song.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_9", /*message*/"Honoka, Umi, and Kotori create a song to express how they feel. What will Honoka pick for its title?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"After seeing the detail with which Dia records Aqours&apos; activities, you decide you want to do the same for Nijigasaki. You spend your time productively, and before you know it the festival is only a week away.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_10", /*message*/"In the end, it seems that yet again they didn&apos;t find their shine like Chika had talked about. It is only you that may have barely grasped what it is, and with that you leave Numazu.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_2", /*message*/"You take on secretarial duties for the Summer Festival, but something about Chika&apos;s behavior that day catches you off guard. Then you run into Riko, who just so happened to sense the same thing.");
@@ -6007,6 +6040,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_42_6", /*message*/"Ou
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_42_7", /*message*/"Conquer the Quiz Show!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_42_8", /*message*/"Win or Lose");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_42_9", /*message*/"Do We Have to Change?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_1", /*message*/"The Usual View?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_10", /*message*/"This Means War?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_2", /*message*/"A New Maid?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_3", /*message*/"The More I Look");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_4", /*message*/"Some Things Last Forever!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_5", /*message*/"Same Hopes, Same Feelings");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_6", /*message*/"Riches Earned By Evolving");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_7", /*message*/"If Only We Could Fight It");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_8", /*message*/"Put Your Heart Into It");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_9", /*message*/"Tell It! Sing It!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"Rising Expectations");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"Morning Goodbye");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"Festival Makers");

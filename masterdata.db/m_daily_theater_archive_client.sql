@@ -972,3 +972,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000962, /*year*/2022, /*month*/9, /*day*/21, /*title*/"ハッピーバースデー、ルビィちゃん！", /*published_at*/1663686000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000963, /*year*/2022, /*month*/9, /*day*/22, /*title*/"秋の準備", /*published_at*/1663772400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000964, /*year*/2022, /*month*/9, /*day*/23, /*title*/"備えあれば憂いなし", /*published_at*/1663858800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000965, /*year*/2022, /*month*/9, /*day*/24, /*title*/"ありがとうを伝える日・１", /*published_at*/1663945200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000966, /*year*/2022, /*month*/9, /*day*/25, /*title*/"ありがとうを伝える日・２", /*published_at*/1664031600);

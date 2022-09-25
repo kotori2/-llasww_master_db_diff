@@ -6,3 +6,5 @@ CREATE TABLE m_lesson_campaign_bonus_effect_drop_frame_num_up(
 );
 INSERT INTO `m_lesson_campaign_bonus_effect_drop_frame_num_up` VALUES (/*group_id*/5, /*frame_num*/0, /*weight*/8080);
 INSERT INTO `m_lesson_campaign_bonus_effect_drop_frame_num_up` VALUES (/*group_id*/5, /*frame_num*/1, /*weight*/1920);
+INSERT INTO `m_lesson_campaign_bonus_effect_drop_frame_num_up` VALUES (/*group_id*/6, /*frame_num*/0, /*weight*/8080);
+INSERT INTO `m_lesson_campaign_bonus_effect_drop_frame_num_up` VALUES (/*group_id*/6, /*frame_num*/1, /*weight*/1920);

@@ -88,6 +88,8 @@ INSERT INTO `m_still` VALUES (/*still_master_id*/1410401, /*title*/"k.still_titl
 INSERT INTO `m_still` VALUES (/*still_master_id*/1411001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"z\"9", /*adventure_type*/1, /*story_id*/41020);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1420901, /*title*/"k.still_title_9", /*thumbnail_asset_path*/"1qG", /*adventure_type*/1, /*story_id*/42017);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1421001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"k-1", /*adventure_type*/1, /*story_id*/42020);
+INSERT INTO `m_still` VALUES (/*still_master_id*/1430701, /*title*/"k.still_title_7", /*thumbnail_asset_path*/"QPw", /*adventure_type*/1, /*story_id*/43013);
+INSERT INTO `m_still` VALUES (/*still_master_id*/1430901, /*title*/"k.still_title_9", /*thumbnail_asset_path*/"p^P", /*adventure_type*/1, /*story_id*/43017);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300010401, /*title*/"k.still_title_4", /*thumbnail_asset_path*/"\"Q>", /*adventure_type*/3, /*story_id*/1000104);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300011001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"~xX", /*adventure_type*/3, /*story_id*/1000110);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300011501, /*title*/"k.still_title_15", /*thumbnail_asset_path*/"Bk3", /*adventure_type*/3, /*story_id*/1000115);

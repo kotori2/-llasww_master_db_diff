@@ -46,4 +46,5 @@ INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/202093003, /*view_status*/2,
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/202093103, /*view_status*/2, /*model_asset_path*/"KT8");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/202092001, /*view_status*/2, /*model_asset_path*/":Vt");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/402093006, /*view_status*/2, /*model_asset_path*/"g`m");
+INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/202092002, /*view_status*/2, /*model_asset_path*/"c%\");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320919, /*view_status*/2, /*model_asset_path*/"|Wf");

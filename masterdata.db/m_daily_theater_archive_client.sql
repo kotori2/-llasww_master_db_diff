@@ -978,3 +978,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000968, /*year*/2022, /*month*/9, /*day*/27, /*title*/"制覇したい！", /*published_at*/1664204400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000969, /*year*/2022, /*month*/9, /*day*/28, /*title*/"パソコン記念日！", /*published_at*/1664290800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000970, /*year*/2022, /*month*/9, /*day*/29, /*title*/"招き猫の日", /*published_at*/1664377200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000971, /*year*/2022, /*month*/9, /*day*/30, /*title*/"迷うのも楽しい！", /*published_at*/1664463600);

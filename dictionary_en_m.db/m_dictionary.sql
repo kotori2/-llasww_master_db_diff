@@ -1663,6 +1663,18 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003312", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003313", /*message*/"Obtain 1 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003314", /*message*/"Obtain 2 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003315", /*message*/"Obtain 3 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003404", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003405", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x2");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003406", /*message*/"Collect 3 login bonuses during the event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003407", /*message*/"Collect 6 login bonuses during the event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003408", /*message*/"Perform Training a total of 10 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003409", /*message*/"Perform Training a total of 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003410", /*message*/"Clear a Live Show: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003411", /*message*/"Clear a Live Show: x20");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003412", /*message*/"Clear a Live Show: x30");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003413", /*message*/"Obtain 1 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003414", /*message*/"Obtain 2 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003415", /*message*/"Obtain 3 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300101", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 10 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300102", /*message*/"Play &quot;Bokura wa Ima no Naka de&quot; 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300103", /*message*/"Play a Live Show: x10");
@@ -2257,6 +2269,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"Chapter 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"Chapter 7");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31034", /*message*/"Go! Passionate Cheer!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"Event Rules 1/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"Event Rules 2/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"Event Rules 3/4");
@@ -3040,6 +3053,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400574", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400575", /*message*/"Clear &quot;SUNNY DAY SONG&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400576", /*message*/"Clear &quot;SUNNY DAY SONG&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400577", /*message*/"Clear &quot;SUNNY DAY SONG&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400578", /*message*/"Clear &quot;BANZAI! digital trippers&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400579", /*message*/"Clear &quot;BANZAI! digital trippers&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400580", /*message*/"Clear &quot;BANZAI! digital trippers&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -4487,6 +4503,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013006_1", /*message*/"Whi
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013006_2", /*message*/"A White Day Just for You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013007_1", /*message*/"Honoka&apos;s Orders!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013007_2", /*message*/"Doctor Honoka&apos;s Examining Room");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013008_1", /*message*/"Because It&apos;s You");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013008_2", /*message*/"Together, Forever");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400022001_1", /*message*/"Who I Want to Be");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400022002_1", /*message*/"Let&apos;s Put on an Act");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400022003_1", /*message*/"Lurking Alongside Fear");
@@ -4512,6 +4530,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400032002_1", /*message*/"Alw
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400032003_1", /*message*/"Let&apos;s Go See Minalinsky!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400032004_1", /*message*/"The Power of Machines and People");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400032005_1", /*message*/"Kotori&apos;s Kitty Class");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400032006_1", /*message*/"Thanks to Kotori!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400033001_1", /*message*/"Going Halfsies");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400033001_2", /*message*/"Don&apos;t Be a Picky Eater");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400033002_1", /*message*/"Break-Time Refresher");
@@ -4682,6 +4701,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401022004_1", /*message*/"Wel
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401022005_1", /*message*/"Let&apos;s Chat a Whole Bunch");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401022006_1", /*message*/"Our Promise");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401022007_1", /*message*/"Sweet Temptation");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401022008_1", /*message*/"Always on My Mind");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401023001_1", /*message*/"Connected Melodies and Minds");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401023001_2", /*message*/"My Heart is With You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401023002_1", /*message*/"The Art of Expression");
@@ -4745,6 +4765,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052003_1", /*message*/"A S
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052004_1", /*message*/"Girl Talk?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052005_1", /*message*/"Let&apos;s Take Some Deep Breaths");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052006_1", /*message*/"A Forever Friends Proposal");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401052007_1", /*message*/"One Last Time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401053001_1", /*message*/"Taking on the Impossible?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401053001_2", /*message*/"Costume Effects");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401053002_1", /*message*/"Secret Time Amid the Rain");
@@ -4949,6 +4970,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402053006_1", /*message*/"A V
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402053006_2", /*message*/"My Charms");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402053007_1", /*message*/"In the Palm of Ai&apos;s Hand");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402053007_2", /*message*/"Kitty Cat Ai");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402053008_1", /*message*/"The Magic of Cheering");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402053008_2", /*message*/"Ai Cheer, You Cheer, We All Cheer!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402062001_1", /*message*/"Lunchbox of Love");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402062002_1", /*message*/"I Can&apos;t Eat Anymore");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402062003_1", /*message*/"Kanata&apos;s Spellwork");
@@ -5042,6 +5065,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402112002_1", /*message*/"An 
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402112003_1", /*message*/"Friendly Training");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402113001_1", /*message*/"Lanzhu&apos;s Favorite");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402113001_2", /*message*/"I&apos;ve Got It Covered");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402113002_1", /*message*/"Don&apos;t You Get It?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402113002_2", /*message*/"A Cheer for You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402122001_1", /*message*/"I&apos;ve Already Made up My Mind");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402122002_1", /*message*/"Feelings of Gratitude");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402123001_1", /*message*/"Japanese Fall Sweets");

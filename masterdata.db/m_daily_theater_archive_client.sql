@@ -979,3 +979,6 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000969, /*year*/2022, /*month*/9, /*day*/28, /*title*/"パソコン記念日！", /*published_at*/1664290800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000970, /*year*/2022, /*month*/9, /*day*/29, /*title*/"招き猫の日", /*published_at*/1664377200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000971, /*year*/2022, /*month*/9, /*day*/30, /*title*/"迷うのも楽しい！", /*published_at*/1664463600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000972, /*year*/2022, /*month*/10, /*day*/1, /*title*/"そういう気分！", /*published_at*/1664550000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000973, /*year*/2022, /*month*/10, /*day*/2, /*title*/"気持ちを込めて！", /*published_at*/1664636400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000974, /*year*/2022, /*month*/10, /*day*/3, /*title*/"取りたい理由", /*published_at*/1664722800);

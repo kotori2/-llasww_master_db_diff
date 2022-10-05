@@ -982,3 +982,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000972, /*year*/2022, /*month*/10, /*day*/1, /*title*/"そういう気分！", /*published_at*/1664550000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000973, /*year*/2022, /*month*/10, /*day*/2, /*title*/"気持ちを込めて！", /*published_at*/1664636400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000974, /*year*/2022, /*month*/10, /*day*/3, /*title*/"取りたい理由", /*published_at*/1664722800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000975, /*year*/2022, /*month*/10, /*day*/4, /*title*/"空を眺めて", /*published_at*/1664809200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000976, /*year*/2022, /*month*/10, /*day*/5, /*title*/"ハッピーバースデー、栞子ちゃん！", /*published_at*/1664895600);

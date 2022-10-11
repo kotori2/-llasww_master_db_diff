@@ -22,6 +22,15 @@ INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*
 INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/6, /*position*/7, /*plus_weight*/300);
 INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/6, /*position*/8, /*plus_weight*/300);
 INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/6, /*position*/9, /*plus_weight*/300);
+INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/7, /*position*/1, /*plus_weight*/1000);
+INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/7, /*position*/2, /*plus_weight*/500);
+INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/7, /*position*/3, /*plus_weight*/500);
+INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/7, /*position*/4, /*plus_weight*/500);
+INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/7, /*position*/5, /*plus_weight*/500);
+INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/7, /*position*/6, /*plus_weight*/500);
+INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/7, /*position*/7, /*plus_weight*/500);
+INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/7, /*position*/8, /*plus_weight*/500);
+INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/7, /*position*/9, /*plus_weight*/500);
 INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/3, /*position*/1, /*plus_weight*/500);
 INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/3, /*position*/2, /*plus_weight*/300);
 INSERT INTO `m_lesson_campaign_bonus_effect_drop_skill_rate` VALUES (/*group_id*/3, /*position*/3, /*plus_weight*/300);

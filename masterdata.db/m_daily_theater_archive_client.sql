@@ -990,3 +990,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000980, /*year*/2022, /*month*/10, /*day*/9, /*title*/"ライフハック！", /*published_at*/1665241200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000981, /*year*/2022, /*month*/10, /*day*/10, /*title*/"やる気を出させる方法？", /*published_at*/1665327600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000982, /*year*/2022, /*month*/10, /*day*/11, /*title*/"スクールアイドル戦隊、１名加入！", /*published_at*/1665414000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000983, /*year*/2022, /*month*/10, /*day*/12, /*title*/"アルバイト指南", /*published_at*/1665500400);

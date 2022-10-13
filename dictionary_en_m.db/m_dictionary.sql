@@ -2258,6 +2258,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020002", /*message*/"[SBL Goal] Clear &quot;Kitto Seishun ga Kikoeru&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020003", /*message*/"[SBL Goal] Clear &quot;Step! ZERO to ONE&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020004", /*message*/"[SBL Goal] Clear &quot;Love U my friends&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020101", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020102", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020103", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -2329,6 +2332,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33029", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33029_000", /*message*/"Dream Live Parade - 3rd Anniversary (Part 3)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030", /*message*/"Dream Live Parade - 3rd Anniversary Next TOKIMEKI!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030_000", /*message*/"Dream Live Parade - 3rd Anniversary Next TOKIMEKI!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33031", /*message*/"Dream Live Parade: μ&apos;s on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -4333,6 +4337,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_1", /*message*/"Cat
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_2", /*message*/"All Right, Let&apos;s Go!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"Nico Is Nico!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062002_1", /*message*/"I&apos;m Always Me");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062003_1", /*message*/"Shocking Magic!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"Fluttering Footsteps");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"Tips for Costume-Making");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"I Wanna See Your Smile");
@@ -4399,6 +4404,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_1", /*message*/"Yoh
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_2", /*message*/"Fallen Angel&apos;s Majesty");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063002_1", /*message*/"You&apos;re Also My Little Demon");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063002_2", /*message*/"Descend with Me");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063003_1", /*message*/"A Kind Fallen Angel");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063003_2", /*message*/"The Temptation to Rest");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"A New World&apos;s First Page");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_1", /*message*/"Exhilarated Spirit");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_2", /*message*/"Relaxing Costume");

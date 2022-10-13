@@ -2268,6 +2268,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020002", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Kitto Seishun ga Kikoeru&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020003", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Step! ZERO to ONE&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020004", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Love U my friends&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020101", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020102", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020103", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -2339,6 +2342,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33029", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33029_000", /*message*/"ドリームライブパレード　～3rd Anniversary 第三弾～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030", /*message*/"ドリームライブパレード　～3rd Anniversary Next TOKIMEKI！～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030_000", /*message*/"ドリームライブパレード　～3rd Anniversary Next TOKIMEKI！～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33031", /*message*/"ドリームライブパレード- μ&apos;sオンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -4343,6 +4347,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_1", /*message*/"ห
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_2", /*message*/"เอาล่ะ ไปกันเถอะ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"นิโกะจังก็คือนิโกะจัง!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062002_1", /*message*/"ไม่ว่าเมื่อไหร่ก็ต้องทำให้สมกับเป็นฉัน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062003_1", /*message*/"驚きマジック！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"เสียงรองเท้าที่ทำให้ใจเต้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"สิ่งสำคัญในการทำชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"เพราะอยากเห็นรอยยิ้มไงล่ะ");
@@ -4409,6 +4414,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_1", /*message*/"บ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_2", /*message*/"นางฟ้าตกสวรรค์");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063002_1", /*message*/"เธอก็เป็นลิตเติ้ลเดมอนของฉัน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063002_2", /*message*/"ตกสวรรค์ด้วยกัน");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063003_1", /*message*/"優しい堕天使");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063003_2", /*message*/"休息へのいざない");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301072001_1", /*message*/"หนึ่งหน้าที่เปิดโลก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_1", /*message*/"จิตใจที่อยู่ไม่สุข");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301073001_2", /*message*/"ชุดที่ผ่อนคลาย");

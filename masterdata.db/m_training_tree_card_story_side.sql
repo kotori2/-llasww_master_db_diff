@@ -1122,3 +1122,6 @@ INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/402123002, /*
 INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/402123002, /*training_content_type*/9, /*training_content_no*/1, /*story_side_m_id*/421230022);
 INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/400032006, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/400320061);
 INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/401022008, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/410220081);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/301063003, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/310630031);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/301063003, /*training_content_type*/9, /*training_content_no*/1, /*story_side_m_id*/310630032);
+INSERT INTO `m_training_tree_card_story_side` VALUES (/*card_m_id*/300062003, /*training_content_type*/11, /*training_content_no*/1, /*story_side_m_id*/300620031);

@@ -993,3 +993,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000983, /*year*/2022, /*month*/10, /*day*/12, /*title*/"アルバイト指南", /*published_at*/1665500400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000984, /*year*/2022, /*month*/10, /*day*/13, /*title*/"サツマイモの日！", /*published_at*/1665586800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000985, /*year*/2022, /*month*/10, /*day*/14, /*title*/"イルカみたいに！", /*published_at*/1665673200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000986, /*year*/2022, /*month*/10, /*day*/15, /*title*/"忍者修行！", /*published_at*/1665759600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000987, /*year*/2022, /*month*/10, /*day*/16, /*title*/"秘湯ハンター？", /*published_at*/1665846000);

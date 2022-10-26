@@ -117,3 +117,4 @@ INSERT INTO `m_subscription_continue_reward_content` VALUES (/*reward_master_id*
 INSERT INTO `m_subscription_continue_reward_content` VALUES (/*reward_master_id*/13001036, /*display_order*/1, /*content_type*/9, /*content_id*/9003, /*content_amount*/1, /*is_paid*/1, /*reward_content_id*/10361);
 INSERT INTO `m_subscription_continue_reward_content` VALUES (/*reward_master_id*/13001036, /*display_order*/2, /*content_type*/1, /*content_id*/0, /*content_amount*/100, /*is_paid*/1, /*reward_content_id*/10362);
 INSERT INTO `m_subscription_continue_reward_content` VALUES (/*reward_master_id*/13001036, /*display_order*/3, /*content_type*/1, /*content_id*/0, /*content_amount*/100, /*is_paid*/0, /*reward_content_id*/10363);
+INSERT INTO `m_subscription_continue_reward_content` VALUES (/*reward_master_id*/13001024, /*display_order*/4, /*content_type*/15, /*content_id*/10800016, /*content_amount*/1, /*is_paid*/0, /*reward_content_id*/10244);

@@ -94,6 +94,7 @@ INSERT INTO `static_text` VALUES (/*textid*/114048164941611648, /*guid*/"170afc2
 INSERT INTO `static_text` VALUES (/*textid*/114212647112875686, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"Will you use the selected item(s) and begin training?");
 INSERT INTO `static_text` VALUES (/*textid*/114860716841669988, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"Cancel");
 INSERT INTO `static_text` VALUES (/*textid*/5849111119244762042, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"Leader Insight Skill Discovery ↑");
+INSERT INTO `static_text` VALUES (/*textid*/8755141388048270077, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"*For training items which you do not have three of, only the effect of the number of items you possess will be applied.");
 INSERT INTO `static_text` VALUES (/*textid*/1359835400925590393, /*guid*/"172e8a3b3f3ea48c8865d7eb57e33b88", /*message*/"Friends");
 INSERT INTO `static_text` VALUES (/*textid*/3678103908526161194, /*guid*/"172e8a3b3f3ea48c8865d7eb57e33b88", /*message*/"Applied");
 INSERT INTO `static_text` VALUES (/*textid*/7310389578982375555, /*guid*/"172e8a3b3f3ea48c8865d7eb57e33b88", /*message*/"Friend Request");
@@ -558,6 +559,7 @@ INSERT INTO `static_text` VALUES (/*textid*/9120550365180952042, /*guid*/"4a5144
 INSERT INTO `static_text` VALUES (/*textid*/934652764954146669, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"On");
 INSERT INTO `static_text` VALUES (/*textid*/971375389761678469, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"Continuous Show Mode");
 INSERT INTO `static_text` VALUES (/*textid*/114722923884924688, /*guid*/"4b2fa590375c84f459cc72519d1cd1b0", /*message*/"You can select one item from each category.");
+INSERT INTO `static_text` VALUES (/*textid*/2563485565736250908, /*guid*/"4b2fa590375c84f459cc72519d1cd1b0", /*message*/"*When you start multiple Group Training sessions together, you may use up to three of a selected item at once.");
 INSERT INTO `static_text` VALUES (/*textid*/105956881, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Show Formation");
 INSERT INTO `static_text` VALUES (/*textid*/1133286620, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Training");
 INSERT INTO `static_text` VALUES (/*textid*/1157018873, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"Channel
@@ -823,10 +825,13 @@ INSERT INTO `static_text` VALUES (/*textid*/15972783, /*guid*/"72820e9010b50044a
 INSERT INTO `static_text` VALUES (/*textid*/1706234450, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Training Items");
 INSERT INTO `static_text` VALUES (/*textid*/1989404676, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Start");
 INSERT INTO `static_text` VALUES (/*textid*/2000875966, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Select");
+INSERT INTO `static_text` VALUES (/*textid*/2655451982576605579, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Start a Triple Group Training session.");
 INSERT INTO `static_text` VALUES (/*textid*/399542735, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Empty");
+INSERT INTO `static_text` VALUES (/*textid*/4066105570498460930, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Start a Triple Group Training session.");
 INSERT INTO `static_text` VALUES (/*textid*/433752975, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Leader Insight Skill Discovery ↑");
 INSERT INTO `static_text` VALUES (/*textid*/48425924, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Please select your regimen.");
 INSERT INTO `static_text` VALUES (/*textid*/509975767, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Recommended");
+INSERT INTO `static_text` VALUES (/*textid*/531225023, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Leader Insight Skill Discovery ↑");
 INSERT INTO `static_text` VALUES (/*textid*/668647043, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Please select your regimen.");
 INSERT INTO `static_text` VALUES (/*textid*/700405484, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Edit All");
 INSERT INTO `static_text` VALUES (/*textid*/826709130, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"Training Formation Details");
@@ -976,6 +981,7 @@ INSERT INTO `static_text` VALUES (/*textid*/1071004183, /*guid*/"9588a3150a5ef47
 INSERT INTO `static_text` VALUES (/*textid*/1071284091, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_info_02\" height=\"24px\" width=\"24px\" offsetY=\"-5px\"/> Tips");
 INSERT INTO `static_text` VALUES (/*textid*/1111977771, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_info_02\" height=\"24px\" width=\"24px\" offsetY=\"-5px\"/> Tips");
 INSERT INTO `static_text` VALUES (/*textid*/1125590343, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Beginner");
+INSERT INTO `static_text` VALUES (/*textid*/1153683683, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/1);
 INSERT INTO `static_text` VALUES (/*textid*/1210048123, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Suggested Show Power");
 INSERT INTO `static_text` VALUES (/*textid*/1231865400, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Category");
 INSERT INTO `static_text` VALUES (/*textid*/1250347822, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Beginner");
@@ -990,9 +996,14 @@ INSERT INTO `static_text` VALUES (/*textid*/1570552134, /*guid*/"9588a3150a5ef47
 INSERT INTO `static_text` VALUES (/*textid*/1820746902, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"No songs meet filter conditions.");
 INSERT INTO `static_text` VALUES (/*textid*/1856839970, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Item Drops");
 INSERT INTO `static_text` VALUES (/*textid*/1928218035, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Suggested Stamina");
+INSERT INTO `static_text` VALUES (/*textid*/1982103470, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/2);
+INSERT INTO `static_text` VALUES (/*textid*/2010043157, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/3);
 INSERT INTO `static_text` VALUES (/*textid*/2022083394, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Suggested Show Power");
+INSERT INTO `static_text` VALUES (/*textid*/2060633311, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/3);
 INSERT INTO `static_text` VALUES (/*textid*/2102072301, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Intermediate");
 INSERT INTO `static_text` VALUES (/*textid*/2126735738, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Current Campaign");
+INSERT INTO `static_text` VALUES (/*textid*/297385078, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/2);
+INSERT INTO `static_text` VALUES (/*textid*/383243139, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/1);
 INSERT INTO `static_text` VALUES (/*textid*/465449570, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Normal");
 INSERT INTO `static_text` VALUES (/*textid*/4873949135831627112, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Item");
 INSERT INTO `static_text` VALUES (/*textid*/491890691, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Advanced");

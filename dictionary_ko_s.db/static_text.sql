@@ -94,6 +94,7 @@ INSERT INTO `static_text` VALUES (/*textid*/114048164941611648, /*guid*/"170afc2
 INSERT INTO `static_text` VALUES (/*textid*/114212647112875686, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"해당 아이템을 사용하여 합숙을 시작하시겠습니까?");
 INSERT INTO `static_text` VALUES (/*textid*/114860716841669988, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"취소");
 INSERT INTO `static_text` VALUES (/*textid*/5849111119244762042, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"리더의 스킬 획득 확률 증가");
+INSERT INTO `static_text` VALUES (/*textid*/8755141388048270077, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"※보유 수가 부족한 경우 현재 보유 중인 아이템의 보유 수만큼 효과가 적용됩니다.");
 INSERT INTO `static_text` VALUES (/*textid*/1359835400925590393, /*guid*/"172e8a3b3f3ea48c8865d7eb57e33b88", /*message*/"프렌드");
 INSERT INTO `static_text` VALUES (/*textid*/3678103908526161194, /*guid*/"172e8a3b3f3ea48c8865d7eb57e33b88", /*message*/"신청 완료");
 INSERT INTO `static_text` VALUES (/*textid*/7310389578982375555, /*guid*/"172e8a3b3f3ea48c8865d7eb57e33b88", /*message*/"프렌드 신청");
@@ -563,6 +564,7 @@ INSERT INTO `static_text` VALUES (/*textid*/9120550365180952042, /*guid*/"4a5144
 INSERT INTO `static_text` VALUES (/*textid*/934652764954146669, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/971375389761678469, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"라이브 속행 모드");
 INSERT INTO `static_text` VALUES (/*textid*/114722923884924688, /*guid*/"4b2fa590375c84f459cc72519d1cd1b0", /*message*/"합숙 아이템은 카테고리마다 하나씩 선택할 수 있습니다");
+INSERT INTO `static_text` VALUES (/*textid*/2563485565736250908, /*guid*/"4b2fa590375c84f459cc72519d1cd1b0", /*message*/"※연속 합숙에서는 선택한 아이템을 최대 3개까지 한 번에 사용합니다.");
 INSERT INTO `static_text` VALUES (/*textid*/105956881, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"라이브 편성");
 INSERT INTO `static_text` VALUES (/*textid*/1133286620, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"합숙");
 INSERT INTO `static_text` VALUES (/*textid*/1157018873, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"채널
@@ -831,10 +833,13 @@ INSERT INTO `static_text` VALUES (/*textid*/15972783, /*guid*/"72820e9010b50044a
 INSERT INTO `static_text` VALUES (/*textid*/1706234450, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"가지고 갈 합숙 아이템");
 INSERT INTO `static_text` VALUES (/*textid*/1989404676, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"합숙 시작");
 INSERT INTO `static_text` VALUES (/*textid*/2000875966, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"선택");
+INSERT INTO `static_text` VALUES (/*textid*/2655451982576605579, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"3회 연속 합숙 개시");
 INSERT INTO `static_text` VALUES (/*textid*/399542735, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"미선택");
+INSERT INTO `static_text` VALUES (/*textid*/4066105570498460930, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"3회 연속 합숙 개시");
 INSERT INTO `static_text` VALUES (/*textid*/433752975, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"리더의 스킬 획득 확률 증가");
 INSERT INTO `static_text` VALUES (/*textid*/48425924, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"합숙 메뉴를 선택하십시오");
 INSERT INTO `static_text` VALUES (/*textid*/509975767, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"추천");
+INSERT INTO `static_text` VALUES (/*textid*/531225023, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"리더의 스킬 획득 확률 증가");
 INSERT INTO `static_text` VALUES (/*textid*/668647043, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"합숙 메뉴를 선택하십시오");
 INSERT INTO `static_text` VALUES (/*textid*/700405484, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"일괄 편성");
 INSERT INTO `static_text` VALUES (/*textid*/826709130, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"합숙 편성 정보");
@@ -987,6 +992,7 @@ INSERT INTO `static_text` VALUES (/*textid*/1071004183, /*guid*/"9588a3150a5ef47
 INSERT INTO `static_text` VALUES (/*textid*/1071284091, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_info_02\" height=\"24px\" width=\"24px\" offsetY=\"-5px\"/>공략 정보");
 INSERT INTO `static_text` VALUES (/*textid*/1111977771, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_info_02\" height=\"24px\" width=\"24px\" offsetY=\"-5px\"/>공략 정보");
 INSERT INTO `static_text` VALUES (/*textid*/1125590343, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"초급");
+INSERT INTO `static_text` VALUES (/*textid*/1153683683, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/1);
 INSERT INTO `static_text` VALUES (/*textid*/1210048123, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"권장 라이브 파워");
 INSERT INTO `static_text` VALUES (/*textid*/1231865400, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"카테고리");
 INSERT INTO `static_text` VALUES (/*textid*/1250347822, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"초급");
@@ -1002,10 +1008,15 @@ INSERT INTO `static_text` VALUES (/*textid*/1820746902, /*guid*/"9588a3150a5ef47
 해당하는 곡이 없습니다");
 INSERT INTO `static_text` VALUES (/*textid*/1856839970, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"등장 아이템");
 INSERT INTO `static_text` VALUES (/*textid*/1928218035, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"권장 체력");
+INSERT INTO `static_text` VALUES (/*textid*/1982103470, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/2);
+INSERT INTO `static_text` VALUES (/*textid*/2010043157, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/3);
 INSERT INTO `static_text` VALUES (/*textid*/2022083394, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"권장 라이브 파워");
+INSERT INTO `static_text` VALUES (/*textid*/2060633311, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/3);
 INSERT INTO `static_text` VALUES (/*textid*/2102072301, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"중급");
 INSERT INTO `static_text` VALUES (/*textid*/2126735738, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"개최 중
 캠페인");
+INSERT INTO `static_text` VALUES (/*textid*/297385078, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/2);
+INSERT INTO `static_text` VALUES (/*textid*/383243139, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/1);
 INSERT INTO `static_text` VALUES (/*textid*/465449570, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"일반 곡");
 INSERT INTO `static_text` VALUES (/*textid*/4873949135831627112, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"아이템");
 INSERT INTO `static_text` VALUES (/*textid*/491890691, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"상급");

@@ -804,3 +804,13 @@ INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50041401, /*target_count*
 INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50041401, /*target_count*/7, /*effect_value*/7000);
 INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50041401, /*target_count*/8, /*effect_value*/8000);
 INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50041401, /*target_count*/9, /*effect_value*/9000);
+INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50043701, /*target_count*/0, /*effect_value*/0);
+INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50043701, /*target_count*/1, /*effect_value*/7000);
+INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50043701, /*target_count*/2, /*effect_value*/14000);
+INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50043701, /*target_count*/3, /*effect_value*/21000);
+INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50043701, /*target_count*/4, /*effect_value*/28000);
+INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50043701, /*target_count*/5, /*effect_value*/35000);
+INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50043701, /*target_count*/6, /*effect_value*/42000);
+INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50043701, /*target_count*/7, /*effect_value*/49000);
+INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50043701, /*target_count*/8, /*effect_value*/56000);
+INSERT INTO `m_skill_effect_value_count` VALUES (/*id*/50043701, /*target_count*/9, /*effect_value*/63000);

@@ -1005,3 +1005,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000995, /*year*/2022, /*month*/10, /*day*/24, /*title*/"気になる写真", /*published_at*/1666537200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000996, /*year*/2022, /*month*/10, /*day*/25, /*title*/"お日様としいたけ", /*published_at*/1666623600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000997, /*year*/2022, /*month*/10, /*day*/26, /*title*/"夜のピクニック", /*published_at*/1666710000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000998, /*year*/2022, /*month*/10, /*day*/27, /*title*/"がおがお", /*published_at*/1666796400);

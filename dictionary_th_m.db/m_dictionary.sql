@@ -3095,6 +3095,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400580", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400581", /*message*/"เคลียร์ &quot;POWER SPOT!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400582", /*message*/"เคลียร์ &quot;POWER SPOT!!&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400583", /*message*/"เคลียร์ &quot;POWER SPOT!!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400584", /*message*/"เคลียร์ &quot;Shiny Racers&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400585", /*message*/"เคลียร์ &quot;Shiny Racers&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400586", /*message*/"เคลียร์ &quot;Shiny Racers&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");
@@ -3991,6 +3994,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400005", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400006", /*message*/"เคลียร์ &apos;Nijiiro Passions!&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message*/"เคลียร์ &apos;NEO SKY, NEO MAP!&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"เคลียร์ &apos;LOVELESS WORLD&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400009", /*message*/"เคลียร์ &apos;MY Mai☆TONIGHT&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"Lv.ความสนิท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"เครื่องประดับ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"แคมเปญ");

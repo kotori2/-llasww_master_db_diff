@@ -3088,6 +3088,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400580", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400581", /*message*/"POWER SPOT!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400582", /*message*/"POWER SPOT!! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400583", /*message*/"POWER SPOT!! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400584", /*message*/"Shiny Racers 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400585", /*message*/"Shiny Racers 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400586", /*message*/"Shiny Racers 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -3984,6 +3987,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400005", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400006", /*message*/"「Nijiiro Passions!」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message*/"「NEO SKY, NEO MAP!」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"「LOVELESS WORLD」의 ［챌린지］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400009", /*message*/"「MY Mai☆TONIGHT」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"인연Lv");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"액세서리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"캠페인");

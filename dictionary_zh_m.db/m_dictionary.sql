@@ -3086,6 +3086,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400580", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400581", /*message*/"完成10次「POWER SPOT!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400582", /*message*/"完成50次「POWER SPOT!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400583", /*message*/"完成100次「POWER SPOT!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400584", /*message*/"完成10次「Shiny Racers」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400585", /*message*/"完成50次「Shiny Racers」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400586", /*message*/"完成100次「Shiny Racers」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");
@@ -3982,6 +3985,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400005", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400006", /*message*/"以S RANK通過難易度［挑戰級］的「Nijiiro Passions!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message*/"以S RANK通過難易度［挑戰級］的「NEO SKY, NEO MAP!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"以S RANK通過難易度［挑戰級］的「LOVELESS WORLD」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400009", /*message*/"以S RANK通過難易度［挑戰級］的「MY Mai☆TONIGHT」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"默契Lv.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"飾品");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"特別活動");

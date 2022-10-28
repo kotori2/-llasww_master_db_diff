@@ -3085,6 +3085,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400580", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400581", /*message*/"Clear &quot;POWER SPOT!!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400582", /*message*/"Clear &quot;POWER SPOT!!&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400583", /*message*/"Clear &quot;POWER SPOT!!&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400584", /*message*/"Clear &quot;Shiny Racers&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400585", /*message*/"Clear &quot;Shiny Racers&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400586", /*message*/"Clear &quot;Shiny Racers&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -3981,6 +3984,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400005", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400006", /*message*/"Clear &quot;Nijiiro Passions!&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message*/"Clear &quot;NEO SKY, NEO MAP!&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"Clear &quot;LOVELESS WORLD&quot; on Challenge difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400009", /*message*/"Clear &quot;MY Mai☆TONIGHT&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"Bond Level");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"Accessory");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"Campaign");

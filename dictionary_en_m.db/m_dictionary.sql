@@ -2521,6 +2521,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800037", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800038", /*message*/"Finish Story Chapter 41.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800039", /*message*/"Finish Story Chapter 42.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800040", /*message*/"Finish Story Chapter 43.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800041", /*message*/"Finish Story Chapter 44.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"Read a Bond Episode: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"Read a Bond Episode: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"Read a Bond Episode: x10");
@@ -3088,6 +3089,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400583", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400584", /*message*/"Clear &quot;Shiny Racers&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400585", /*message*/"Clear &quot;Shiny Racers&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400586", /*message*/"Clear &quot;Shiny Racers&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400587", /*message*/"Clear &quot;Mirai Harmony&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400588", /*message*/"Clear &quot;Mirai Harmony&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400589", /*message*/"Clear &quot;Mirai Harmony&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400590", /*message*/"Clear &quot;Happy Nyan! Days&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400591", /*message*/"Clear &quot;Happy Nyan! Days&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400592", /*message*/"Clear &quot;Happy Nyan! Days&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -5266,6 +5273,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_40", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_41", /*message*/"My Own Dream");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_42", /*message*/"The Future of μ&apos;s?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_43", /*message*/"Making Something Timeless");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_44", /*message*/"A Peek into the Future");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"Find μ&apos;s&apos; Secret!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"Contest Progression");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
@@ -5309,6 +5317,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_40", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_41", /*message*/"Chapter 41");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_42", /*message*/"Chapter 42");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_43", /*message*/"Chapter 43");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_44", /*message*/"Chapter 44");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"Chapter 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"Chapter 7");
@@ -5320,6 +5329,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_description_99993", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_1", /*message*/"First Season");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_2", /*message*/"Second Season");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_3", /*message*/"Third Season");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_4", /*message*/"Fourth Season");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99991", /*message*/"Intermission");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99992", /*message*/"Intermission");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99993", /*message*/"Intermission");
@@ -5698,6 +5708,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_7", /*message*/"Honoka and Nico make it clear they want μ&apos;s to keep evolving and achieve even greater accomplishments, but can the first-year trio keep up with the pace set by the older girls?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_8", /*message*/"The first-year girls simply can&apos;t keep up with the rest, and Honoka knows it. She comes up with the idea to try and explain how she feels with a song.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_43_9", /*message*/"Honoka, Umi, and Kotori create a song to express how they feel. What will Honoka pick for its title?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_1", /*message*/"Rina takes part in a plethora of fan club activities online, connecting with her fans in ways only she can. You end up staying up all night having fun at her game event too.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_10", /*message*/"The words &quot;cheering is pointless&quot; have made you curious. However, you don&apos;t have time to worry about that, because the High School Game Creator Contest is tomorrow!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_2", /*message*/"A career path survey is distributed to the entire school. You head to the clubroom with your head full of unformed thoughts, where Rina asks you for some advice.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_3", /*message*/"Rina decides to take part in the High School Game Creator Contest and invites you to join her team. Unsure if you have much to offer, you hold off on your response.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_4", /*message*/"Rina, Setsuna, Mia, and you decide to take part in the High School Game Creator Contest. But first, it&apos;s time to study up on the wide world of video games!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_5", /*message*/"Karin isn&apos;t sure what to write on her career path survey, being stuck writing things down and erasing them over and over again. How can she pull herself out of this predicament?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_6", /*message*/"In preparation for the High School Game Creator Contest, you do some personal game research. You decide to look into gaming trends and ask Honoka, Kotori, and Umi for their thoughts.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_7", /*message*/"Preparations for the High School Game Creator Contest seem to be progressing well. Meanwhile, in the dorms, Emma is busy giving all sorts of excessive help. You ask what everyone&apos;s plans are for the day.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_8", /*message*/"The career path survey encourages the Nijigasaki girls to undertake new challenges. However, Kanata seems to have some worries about her future.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_9", /*message*/"It&apos;s time for Nijigasaki&apos;s scheduled live show! Even though some of the members didn&apos;t have enough time to practice the things they wanted to do, the school idols have been getting ever more excited after making the promo video!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"After seeing the detail with which Dia records Aqours&apos; activities, you decide you want to do the same for Nijigasaki. You spend your time productively, and before you know it the festival is only a week away.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_10", /*message*/"In the end, it seems that yet again they didn&apos;t find their shine like Chika had talked about. It is only you that may have barely grasped what it is, and with that you leave Numazu.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_2", /*message*/"You take on secretarial duties for the Summer Festival, but something about Chika&apos;s behavior that day catches you off guard. Then you run into Riko, who just so happened to sense the same thing.");
@@ -6134,6 +6154,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_6", /*message*/"Ri
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_7", /*message*/"If Only We Could Fight It");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_8", /*message*/"Put Your Heart Into It");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_43_9", /*message*/"Tell It! Sing It!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_44_1", /*message*/"I Want to Connect to You");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_44_10", /*message*/"The Nature of Cheering");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_44_2", /*message*/"Rina&apos;s Resolve");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_44_3", /*message*/"Helping You Do Your Best!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_44_4", /*message*/"Game Research!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_44_5", /*message*/"Take Hold of Your Future!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_44_6", /*message*/"Charmed by the Depth");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_44_7", /*message*/"Wider, Wider, Much Wider!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_44_8", /*message*/"Kanata&apos;s Challenge");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_44_9", /*message*/"Nijigasaki Power!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"Rising Expectations");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"Morning Goodbye");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"Festival Makers");

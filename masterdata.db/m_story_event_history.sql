@@ -80,3 +80,4 @@ INSERT INTO `m_story_event_history` VALUES (/*id*/31031, /*banner_image_asset_pa
 INSERT INTO `m_story_event_history` VALUES (/*id*/31032, /*banner_image_asset_path*/"+mR", /*start_at*/1660543200, /*end_at*/1893423600, /*display_order*/69);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31033, /*banner_image_asset_path*/":c:", /*start_at*/1663221600, /*end_at*/1893423600, /*display_order*/71);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31034, /*banner_image_asset_path*/"uWe", /*start_at*/1665813600, /*end_at*/1893423600, /*display_order*/73);
+INSERT INTO `m_story_event_history` VALUES (/*id*/31035, /*banner_image_asset_path*/",SO", /*start_at*/1668492000, /*end_at*/1893423600, /*display_order*/75);

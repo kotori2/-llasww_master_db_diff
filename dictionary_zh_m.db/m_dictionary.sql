@@ -1699,6 +1699,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003412", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003413", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003414", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003415", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003501", /*message*/"遊玩1次「Twinkle Town」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003502", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003503", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003504", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003505", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003506", /*message*/"於期間內領取3次登入獎勵");

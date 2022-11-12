@@ -8,6 +8,7 @@ CREATE TABLE m_exchange_event_point(
   thumbnail_asset_path TEXT NOT NULL,
   PRIMARY KEY (id)
 );
+INSERT INTO `m_exchange_event_point` VALUES (/*id*/1200, /*name*/"k.item_name_1201", /*description*/"k.item_desc_1200", /*icon_asset_path*/"V?", /*icon_s_asset_path*/"V?", /*icon_l_asset_path*/"V?", /*thumbnail_asset_path*/".C");
 INSERT INTO `m_exchange_event_point` VALUES (/*id*/14001, /*name*/"k.item_name_14001", /*description*/"k.item_desc_14001", /*icon_asset_path*/"P3I", /*icon_s_asset_path*/"P3I", /*icon_l_asset_path*/"P3I", /*thumbnail_asset_path*/"[6/");
 INSERT INTO `m_exchange_event_point` VALUES (/*id*/14002, /*name*/"k.item_name_14002", /*description*/"k.item_desc_14001", /*icon_asset_path*/"]^#", /*icon_s_asset_path*/"]^#", /*icon_l_asset_path*/"]^#", /*thumbnail_asset_path*/"iq&");
 INSERT INTO `m_exchange_event_point` VALUES (/*id*/14003, /*name*/"k.item_name_14003", /*description*/"k.item_desc_14001", /*icon_asset_path*/"\"3|", /*icon_s_asset_path*/"\"3|", /*icon_l_asset_path*/"\"3|", /*thumbnail_asset_path*/"o'|");
@@ -107,6 +108,7 @@ INSERT INTO `m_exchange_event_point` VALUES (/*id*/21068, /*name*/"k.item_name_2
 INSERT INTO `m_exchange_event_point` VALUES (/*id*/21069, /*name*/"k.item_name_21069", /*description*/"k.item_desc_21069", /*icon_asset_path*/"6\"j", /*icon_s_asset_path*/"6\"j", /*icon_l_asset_path*/"6\"j", /*thumbnail_asset_path*/"{s#");
 INSERT INTO `m_exchange_event_point` VALUES (/*id*/21070, /*name*/"k.item_name_21070", /*description*/"k.item_desc_21070", /*icon_asset_path*/"Bml", /*icon_s_asset_path*/"Bml", /*icon_l_asset_path*/"Bml", /*thumbnail_asset_path*/"acO");
 INSERT INTO `m_exchange_event_point` VALUES (/*id*/21071, /*name*/"k.item_name_21071", /*description*/"k.item_desc_21071", /*icon_asset_path*/"UJP", /*icon_s_asset_path*/"UJP", /*icon_l_asset_path*/"UJP", /*thumbnail_asset_path*/"rgy");
+INSERT INTO `m_exchange_event_point` VALUES (/*id*/21075, /*name*/"k.item_name_21075", /*description*/"k.item_desc_21075", /*icon_asset_path*/"3^t", /*icon_s_asset_path*/"3^t", /*icon_l_asset_path*/"3^t", /*thumbnail_asset_path*/"tm-");
 INSERT INTO `m_exchange_event_point` VALUES (/*id*/22001, /*name*/"k.item_name_22001", /*description*/"k.item_desc_22001", /*icon_asset_path*/"\"%n", /*icon_s_asset_path*/"\"%n", /*icon_l_asset_path*/"\"%n", /*thumbnail_asset_path*/"y]Z");
 INSERT INTO `m_exchange_event_point` VALUES (/*id*/50001, /*name*/"k.shop_event_exchange_medal_name_50001", /*description*/"k.shop_event_exchange_point_description_50001", /*icon_asset_path*/"iNk", /*icon_s_asset_path*/"iNk", /*icon_l_asset_path*/"iNk", /*thumbnail_asset_path*/"x>q");
 INSERT INTO `m_exchange_event_point` VALUES (/*id*/50002, /*name*/"k.shop_event_exchange_medal_name_50002", /*description*/"k.shop_event_exchange_point_description_50001", /*icon_asset_path*/"<t%", /*icon_s_asset_path*/"<t%", /*icon_l_asset_path*/"<t%", /*thumbnail_asset_path*/"o^e");

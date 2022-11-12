@@ -9,6 +9,7 @@ CREATE TABLE m_trade(
   description TEXT NOT NULL,
   PRIMARY KEY (id)
 );
+INSERT INTO `m_trade` VALUES (/*id*/1200, /*trade_type*/1, /*source_content_type*/10, /*source_content_id*/1200, /*category_pattern_id*/0, /*display_order*/1530, /*monthly_reset*/1, /*description*/"k.trade_description_1200");
 INSERT INTO `m_trade` VALUES (/*id*/2001, /*trade_type*/1, /*source_content_type*/5, /*source_content_id*/2, /*category_pattern_id*/0, /*display_order*/1400, /*monthly_reset*/1, /*description*/"k.trade_description_gacha_point_shiny_piece");
 INSERT INTO `m_trade` VALUES (/*id*/17001, /*trade_type*/1, /*source_content_type*/30, /*source_content_id*/17001, /*category_pattern_id*/0, /*display_order*/1450, /*monthly_reset*/1, /*description*/"k.trade_description_17001");
 INSERT INTO `m_trade` VALUES (/*id*/20059, /*trade_type*/1, /*source_content_type*/5, /*source_content_id*/18, /*category_pattern_id*/0, /*display_order*/10, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
@@ -154,6 +155,7 @@ INSERT INTO `m_trade` VALUES (/*id*/21068, /*trade_type*/1, /*source_content_typ
 INSERT INTO `m_trade` VALUES (/*id*/21069, /*trade_type*/1, /*source_content_type*/21, /*source_content_id*/21069, /*category_pattern_id*/0, /*display_order*/670, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
 INSERT INTO `m_trade` VALUES (/*id*/21070, /*trade_type*/1, /*source_content_type*/21, /*source_content_id*/21070, /*category_pattern_id*/0, /*display_order*/665, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
 INSERT INTO `m_trade` VALUES (/*id*/21071, /*trade_type*/1, /*source_content_type*/21, /*source_content_id*/21071, /*category_pattern_id*/0, /*display_order*/685, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
+INSERT INTO `m_trade` VALUES (/*id*/21075, /*trade_type*/1, /*source_content_type*/21, /*source_content_id*/21075, /*category_pattern_id*/0, /*display_order*/660, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
 INSERT INTO `m_trade` VALUES (/*id*/31001, /*trade_type*/1, /*source_content_type*/21, /*source_content_id*/20001, /*category_pattern_id*/31000, /*display_order*/100, /*monthly_reset*/0, /*description*/"k.shop_event_exchange_content_description_31001");
 INSERT INTO `m_trade` VALUES (/*id*/31002, /*trade_type*/1, /*source_content_type*/21, /*source_content_id*/20002, /*category_pattern_id*/31000, /*display_order*/100, /*monthly_reset*/0, /*description*/"k.shop_event_exchange_content_description_31002");
 INSERT INTO `m_trade` VALUES (/*id*/31003, /*trade_type*/1, /*source_content_type*/21, /*source_content_id*/20003, /*category_pattern_id*/31000, /*display_order*/100, /*monthly_reset*/0, /*description*/"k.shop_event_exchange_content_description_31003");

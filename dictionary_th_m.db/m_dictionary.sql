@@ -1790,6 +1790,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000515", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000516", /*message*/"[ฝึกพิเศษ!] ปลดล็อกผังสกิล 1 ช่องขึ้นไปในการฝึกพิเศษสคูลไอดอล");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000517", /*message*/"[ฝึกพิเศษ!] ปลดล็อกผังสกิล 2 ช่องขึ้นไปในการฝึกพิเศษสคูลไอดอล");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000518", /*message*/"[ฝึกพิเศษ!] ปลดล็อกผังสกิล 3 ช่องขึ้นไปในการฝึกพิเศษสคูลไอดอล");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000701", /*message*/"[CYaRon！ First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีทากามิ จิกะ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000702", /*message*/"[CYaRon！ First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีวาตานาเบะ โย 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000703", /*message*/"[CYaRon！ First LOVELIVE! 課題] ใช้ท่าพิเศษ SP ที่มีคุโรซาวะ รูบี้ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000704", /*message*/"[CYaRon！ First LOVELIVE! 課題] เคลียร์ &quot;Genki Zenkai DAY! DAY! DAY!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000705", /*message*/"[CYaRon！ First LOVELIVE! 課題] เคลียร์ &quot;Braveheart Coaster&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] เคลียร์ &quot;SUPER NOVA (2D)&quot; 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] ใช้ท่าพิเศษ SP ที่มีมิยาชิตะ ไอ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] ใช้ท่าพิเศษ SP ที่มีอาซากะ คาริน 20 ครั้ง");
@@ -3125,6 +3130,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400589", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400590", /*message*/"เคลียร์ &quot;Happy Nyan! Days&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400591", /*message*/"เคลียร์ &quot;Happy Nyan! Days&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400592", /*message*/"เคลียร์ &quot;Happy Nyan! Days&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400593", /*message*/"เคลียร์ &quot;JIMO-AI Dash!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400594", /*message*/"เคลียร์ &quot;JIMO-AI Dash!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400595", /*message*/"เคลียร์ &quot;JIMO-AI Dash!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400596", /*message*/"เคลียร์ &quot;Fantastic Departure!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400597", /*message*/"เคลียร์ &quot;Fantastic Departure!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400598", /*message*/"เคลียร์ &quot;Fantastic Departure!&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

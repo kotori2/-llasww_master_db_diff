@@ -1785,6 +1785,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000515", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000516", /*message*/"[培育聲援！] 選擇任一名學園偶像進行「特訓」並解鎖至少1個晶格");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000517", /*message*/"[培育聲援！] 選擇任一名學園偶像進行「特訓」並解鎖至少2個晶格");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000518", /*message*/"[培育聲援！] 選擇任一名學園偶像進行「特訓」並解鎖至少3個晶格");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000701", /*message*/"[CYaRon！ First LOVELIVE! 課題] 使用20次發動成員包含高海千歌的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000702", /*message*/"[CYaRon！ First LOVELIVE! 課題] 使用20次發動成員包含渡邊曜的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000703", /*message*/"[CYaRon！ First LOVELIVE! 課題] 使用20次發動成員包含黑澤露比的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000704", /*message*/"[CYaRon！ First LOVELIVE! 課題] 完成10次「Genki Zenkai DAY! DAY! DAY!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000705", /*message*/"[CYaRon！ First LOVELIVE! 課題] 完成10次「Braveheart Coaster」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] 完成5次「SUPER NOVA (2D)」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] 使用20次發動成員包含宮下愛的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] 使用20次發動成員包含朝香果林的組合技");
@@ -3116,6 +3121,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400589", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400590", /*message*/"完成10次「Happy Nyan! Days」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400591", /*message*/"完成50次「Happy Nyan! Days」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400592", /*message*/"完成100次「Happy Nyan! Days」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400593", /*message*/"完成10次「JIMO-AI Dash!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400594", /*message*/"完成50次「JIMO-AI Dash!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400595", /*message*/"完成100次「JIMO-AI Dash!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400596", /*message*/"完成10次「Fantastic Departure!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400597", /*message*/"完成50次「Fantastic Departure!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400598", /*message*/"完成100次「Fantastic Departure!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

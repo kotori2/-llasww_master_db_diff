@@ -1784,6 +1784,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000515", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000516", /*message*/"Practice Support: Unlock 1 or more tiles for any school idol in Practice.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000517", /*message*/"Practice Support: Unlock 2 or more tiles for any school idol in Practice.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000518", /*message*/"Practice Support: Unlock 3 or more tiles for any school idol in Practice.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000701", /*message*/"[CYaRon！ First LOVELIVE! 課題] Use an SP Skill including Chika Takami 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000702", /*message*/"[CYaRon！ First LOVELIVE! 課題] Use an SP Skill including You Watanabe 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000703", /*message*/"[CYaRon！ First LOVELIVE! 課題] Use an SP Skill including Ruby Kurosawa 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000704", /*message*/"[CYaRon！ First LOVELIVE! 課題] Clear &quot;Genki Zenkai DAY! DAY! DAY!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000705", /*message*/"[CYaRon！ First LOVELIVE! 課題] Clear &quot;Braveheart Coaster&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000901", /*message*/"[SUPER NOVA 発売記念！] Clear &quot;SUPER NOVA (2D)&quot;: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000902", /*message*/"[SUPER NOVA 発売記念！] Use an SP Skill including Ai Miyashita 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000903", /*message*/"[SUPER NOVA 発売記念！] Use an SP Skill including Karin Asaka 20 times.");
@@ -3115,6 +3120,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400589", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400590", /*message*/"Clear &quot;Happy Nyan! Days&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400591", /*message*/"Clear &quot;Happy Nyan! Days&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400592", /*message*/"Clear &quot;Happy Nyan! Days&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400593", /*message*/"Clear &quot;JIMO-AI Dash!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400594", /*message*/"Clear &quot;JIMO-AI Dash!&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400595", /*message*/"Clear &quot;JIMO-AI Dash!&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400596", /*message*/"Clear &quot;Fantastic Departure!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400597", /*message*/"Clear &quot;Fantastic Departure!&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400598", /*message*/"Clear &quot;Fantastic Departure!&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

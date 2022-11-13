@@ -1022,3 +1022,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001012, /*year*/2022, /*month*/11, /*day*/10, /*title*/"わかりやすい", /*published_at*/1668006000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001013, /*year*/2022, /*month*/11, /*day*/11, /*title*/"世界一のヘアスタイリスト", /*published_at*/1668092400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001014, /*year*/2022, /*month*/11, /*day*/12, /*title*/"なんの前兆！？", /*published_at*/1668178800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001015, /*year*/2022, /*month*/11, /*day*/13, /*title*/"ハッピーバースデー、りなりー！", /*published_at*/1668265200);

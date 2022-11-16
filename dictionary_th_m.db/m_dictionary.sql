@@ -3141,6 +3141,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400595", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400596", /*message*/"เคลียร์ &quot;Fantastic Departure!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400597", /*message*/"เคลียร์ &quot;Fantastic Departure!&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400598", /*message*/"เคลียร์ &quot;Fantastic Departure!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400599", /*message*/"เคลียร์ &quot;Akogare lan la lan&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400600", /*message*/"เคลียร์ &quot;Akogare lan la lan&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400601", /*message*/"เคลียร์ &quot;Akogare lan la lan&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400602", /*message*/"เคลียร์ &quot;Braveheart Coaster&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400603", /*message*/"เคลียร์ &quot;Braveheart Coaster&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400604", /*message*/"เคลียร์ &quot;Braveheart Coaster&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");
@@ -4030,6 +4036,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300025", /*message*/"เคลียร์ &apos;Mijuku DREAMER&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300026", /*message*/"เคลียร์ &apos;Meccha Going!!&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300028", /*message*/"เคลียร์ &apos;Nemureru Mori ni Ikitai na&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message*/"เคลียร์ &apos;Braveheart Coaster&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"เคลียร์ &apos;Yume no Tobira&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"เคลียร์ &apos;A song for You! You? You!!&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"เคลียร์ &apos;Koini Naritai AQUARIUM&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");

@@ -3134,6 +3134,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400595", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400596", /*message*/"Fantastic Departure! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400597", /*message*/"Fantastic Departure! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400598", /*message*/"Fantastic Departure! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400599", /*message*/"Akogare lan la lan 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400600", /*message*/"Akogare lan la lan 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400601", /*message*/"Akogare lan la lan 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400602", /*message*/"Braveheart Coaster 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400603", /*message*/"Braveheart Coaster 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400604", /*message*/"Braveheart Coaster 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -4023,6 +4029,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300025", /*message*/"「Mijuku DREAMER」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300026", /*message*/"「Meccha Going!!」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300028", /*message*/"「Nemureru Mori ni Ikitai na」의 ［상급+］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message*/"「Braveheart Coaster」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「Yume no Tobira」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"「A song for You! You? You!!」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"「Koini Naritai AQUARIUM」의 ［챌린지］ 난이도를 S랭크로 클리어");

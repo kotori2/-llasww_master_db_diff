@@ -1024,3 +1024,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001014, /*year*/2022, /*month*/11, /*day*/12, /*title*/"なんの前兆！？", /*published_at*/1668178800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001015, /*year*/2022, /*month*/11, /*day*/13, /*title*/"ハッピーバースデー、りなりー！", /*published_at*/1668265200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001016, /*year*/2022, /*month*/11, /*day*/14, /*title*/"テイラー家の大ファン", /*published_at*/1668351600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001017, /*year*/2022, /*month*/11, /*day*/15, /*title*/"お手本とする人", /*published_at*/1668438000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001018, /*year*/2022, /*month*/11, /*day*/16, /*title*/"イメージチェンジ", /*published_at*/1668524400);

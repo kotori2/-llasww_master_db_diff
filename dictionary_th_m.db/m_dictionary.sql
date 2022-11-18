@@ -1003,6 +1003,26 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004017", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004018", /*message*/"มีชุด 1 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004019", /*message*/"มีชุด 2 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004020", /*message*/"มีชุด 3 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004101", /*message*/"เล่น &quot;Twinkle Town&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004102", /*message*/"ได้รับแต้มอีเวนต์ 900 แต้ม");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004103", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004104", /*message*/"ซ้อม 2 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004105", /*message*/"รับล็อกอินโบนัส 1 ครั้งในเวลาที่กำหนด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004106", /*message*/"อัปเลเวลของสคูลไอดอล 1 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004107", /*message*/"อัปเลเวลของสคูลไอดอล 2 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004108", /*message*/"ได้รับแต้มอีเวนต์ 5000 แต้ม");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004109", /*message*/"ได้รับแต้มอีเวนต์ 20000 แต้ม");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004110", /*message*/"ซ้อม 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004111", /*message*/"ซ้อม 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004112", /*message*/"ซ้อม 30 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004113", /*message*/"เคลียร์ไลฟ์ 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004114", /*message*/"เคลียร์ไลฟ์ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004115", /*message*/"เคลียร์ไลฟ์ 30 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004116", /*message*/"รับล็อกอินโบนัส 3 ครั้งในเวลาที่กำหนด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004117", /*message*/"รับล็อกอินโบนัส 6 ครั้งในเวลาที่กำหนด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004118", /*message*/"มีชุด 1 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004119", /*message*/"มีชุด 2 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400004120", /*message*/"มีชุด 3 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100101", /*message*/"ได้รับแต้มอีเวนต์ 5000 แต้ม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400100102", /*message*/"ได้รับแต้มอีเวนต์ 20000 แต้ม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400400101", /*message*/"มีค่าความสนิท LV.5 กับเมมเบอร์หนึ่งคน");
@@ -2318,6 +2338,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020204", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020301", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020302", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020303", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020401", /*message*/"[การบ้านจำกัดเวลา] เคลียร์ &quot;Mogyutto &quot;Love&quot; de Sekkinchu!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020402", /*message*/"[การบ้านจำกัดเวลา] เคลียร์ &quot;Genki Zenkai DAY! DAY! DAY!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020403", /*message*/"[การบ้านจำกัดเวลา] เคลียร์ &quot;Beautiful Moonlight&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020404", /*message*/"[การบ้านจำกัดเวลา] เคลียร์ &quot;Music S.T.A.R.T!!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020405", /*message*/"[การบ้านจำกัดเวลา] เคลียร์ &quot;Kimino Kokorowa Kagayaiterukai?&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020406", /*message*/"[การบ้านจำกัดเวลา] เคลียร์ &quot;Anata no Risou no Heroine&quot; 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -2332,7 +2358,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"บทที่ 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"บทที่ 7");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31035", /*message*/"彼方の和菓子と照る山紅葉");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"กติกาอีเวนต์ 1/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"กติกาอีเวนต์ 2/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"กติกาอีเวนต์ 3/4");
@@ -4674,6 +4699,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043006_1", /*message*/"ค
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043006_2", /*message*/"เริ่มปาร์ตี้!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043007_1", /*message*/"คำอธิษฐานคือ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043007_2", /*message*/"เอื้อมมือไปที่ดวงดาว");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043008_1", /*message*/"素敵な時間をふたりで");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400043008_2", /*message*/"舞踏会の素敵な一夜");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400052001_1", /*message*/"การประลองความเร็วครั้งที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400052002_1", /*message*/"ความลับที่แสนสนุก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400052003_1", /*message*/"รอไม่ไหวแล้ว!");
@@ -4724,6 +4751,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072005_1", /*message*/"ท
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072006_1", /*message*/"คุณครูโนโซมิ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072007_1", /*message*/"อยากทำให้ตกใจเหรอ!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072008_1", /*message*/"美味しいものパワー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400072009_1", /*message*/"屋上のダンスパーティー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400073001_1", /*message*/"เพราะเกิดราศีเมถุนไงล่ะ♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400073001_2", /*message*/"ดุจดั่งจักรราศี");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400073002_1", /*message*/"สองคนที่ช่วยสนับสนุน");
@@ -4808,6 +4836,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401013006_1", /*message*/"โ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401013006_2", /*message*/"ตัดสินกันด้วยการล่าไข่!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401013007_1", /*message*/"สาบานต่อหน้าพระผู้เป็นเจ้า");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401013007_2", /*message*/"สาบานรักนิรันดร์");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401013008_1", /*message*/"内浦のスノウホワイト");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401013008_2", /*message*/"最初のダンスはあなたと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401022001_1", /*message*/"เสียงประสานแห่งดาวตก");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401022002_1", /*message*/"เด็กร่าเริงที่อยู่เคียงข้างเสมอ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401022003_1", /*message*/"เพื่อให้ไปได้ทุกแห่งหน");
@@ -4859,6 +4889,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042003_1", /*message*/"ช
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042004_1", /*message*/"ช่วงเวลาที่แทบรอไม่ไหว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042005_1", /*message*/"เมื่อเข้าใจเสน่ห์แล้ว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042006_1", /*message*/"尊敬の生徒会長");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401042007_1", /*message*/"ダイヤ先生の思いのまま");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043001_1", /*message*/"อ้อมกอดของไดยะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043001_2", /*message*/"ไม่กล้าพูดต่อหน้า");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401043002_1", /*message*/"เป้าหมายคือร้านราเม็งคุโรซาวะ");
@@ -5152,6 +5183,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083005_1", /*message*/"ช
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083005_2", /*message*/"ซากุระยามค่ำคืนที่ทำให้จิตใจลุ่มหลง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083006_1", /*message*/"満腹スイートトリック");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083006_2", /*message*/"おばけとおやすみ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083007_1", /*message*/"大自然のラプンツェル");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402083007_2", /*message*/"楽しい夜をあなたと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402092001_1", /*message*/"การตกแต่งที่สนุกสนาน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402092002_1", /*message*/"ปกป้องตะกร้าซื้อของ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402092003_1", /*message*/"สายสัมพันธ์ที่ยังไม่รู้จัก");
@@ -5187,6 +5220,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402103004_2", /*message*/"月
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402112001_1", /*message*/"เจอกันโดยบังเอิญที่โถงทางเดิน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402112002_1", /*message*/"กลุ่มก้อนความทะเยอทะยาน!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402112003_1", /*message*/"仲良しトレーニング");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402112004_1", /*message*/"ランジュ流アフタヌーンティー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402113001_1", /*message*/"ของที่หลานจูชอบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402113001_2", /*message*/"ไว้ใจหลานจูได้เลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_402113002_1", /*message*/"わかってよ！");

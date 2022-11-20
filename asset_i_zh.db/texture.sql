@@ -15828,6 +15828,15 @@ INSERT INTO `texture` VALUES (/*asset_path*/"#ip", /*pack_name*/"v5uya5", /*head
 INSERT INTO `texture` VALUES (/*asset_path*/"t~x", /*pack_name*/"v5uya5", /*head*/4291098, /*size*/37911, /*key1*/-118480838, /*key2*/-1706656439);
 INSERT INTO `texture` VALUES (/*asset_path*/"g-r", /*pack_name*/"g7tgq3", /*head*/1953957, /*size*/243817, /*key1*/27254236, /*key2*/695877140);
 INSERT INTO `texture` VALUES (/*asset_path*/"ZQ/", /*pack_name*/"g7tgq3", /*head*/2197774, /*size*/50301, /*key1*/-1882700973, /*key2*/586460987);
+INSERT INTO `texture` VALUES (/*asset_path*/"f**", /*pack_name*/"t8c6le", /*head*/0, /*size*/213914, /*key1*/1164988034, /*key2*/-1188224556);
+INSERT INTO `texture` VALUES (/*asset_path*/"5.&", /*pack_name*/"t8c6le", /*head*/213914, /*size*/44956, /*key1*/-641537106, /*key2*/-5068461);
+INSERT INTO `texture` VALUES (/*asset_path*/",Nx", /*pack_name*/"t8c6le", /*head*/258870, /*size*/135637, /*key1*/1480588022, /*key2*/-2129613790);
+INSERT INTO `texture` VALUES (/*asset_path*/"9gy", /*pack_name*/"t8c6le", /*head*/394507, /*size*/227274, /*key1*/392729489, /*key2*/-1664473086);
+INSERT INTO `texture` VALUES (/*asset_path*/"ntj", /*pack_name*/"t8c6le", /*head*/621781, /*size*/47728, /*key1*/869381466, /*key2*/-1787416767);
+INSERT INTO `texture` VALUES (/*asset_path*/"-$R", /*pack_name*/"t8c6le", /*head*/669509, /*size*/141571, /*key1*/-2102687791, /*key2*/-195290443);
+INSERT INTO `texture` VALUES (/*asset_path*/">G?", /*pack_name*/"t8c6le", /*head*/811080, /*size*/215006, /*key1*/-9426140, /*key2*/1125378870);
+INSERT INTO `texture` VALUES (/*asset_path*/"a;b", /*pack_name*/"t8c6le", /*head*/1026086, /*size*/46523, /*key1*/1075986935, /*key2*/-991082444);
+INSERT INTO `texture` VALUES (/*asset_path*/"H#R", /*pack_name*/"t8c6le", /*head*/1072609, /*size*/128553, /*key1*/-440223389, /*key2*/940235759);
 INSERT INTO `texture` VALUES (/*asset_path*/"+Q=", /*pack_name*/"k7qndf", /*head*/0, /*size*/187586, /*key1*/165823943, /*key2*/-27547412);
 INSERT INTO `texture` VALUES (/*asset_path*/"-ED", /*pack_name*/"g7tgq3", /*head*/2574540, /*size*/39647, /*key1*/2009772626, /*key2*/-1395761626);
 INSERT INTO `texture` VALUES (/*asset_path*/"JUP", /*pack_name*/"q2li7y", /*head*/1056403, /*size*/112092, /*key1*/-1108435832, /*key2*/-927418449);

@@ -1028,3 +1028,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001018, /*year*/2022, /*month*/11, /*day*/16, /*title*/"イメージチェンジ", /*published_at*/1668524400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001019, /*year*/2022, /*month*/11, /*day*/17, /*title*/"限定ランチが食べたい！", /*published_at*/1668610800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001020, /*year*/2022, /*month*/11, /*day*/18, /*title*/"コーヒーショップでカスタマイズ！", /*published_at*/1668697200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001021, /*year*/2022, /*month*/11, /*day*/19, /*title*/"ピンクのマフラー", /*published_at*/1668783600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001022, /*year*/2022, /*month*/11, /*day*/20, /*title*/"堕天使降臨！？", /*published_at*/1668870000);

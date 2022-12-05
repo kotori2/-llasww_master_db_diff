@@ -93,4 +93,5 @@ INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/121002, /*start_at*/160182360
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/121003, /*start_at*/1633359600, /*end_at*/1633446000, /*suit_master_id*/202103001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/121004, /*start_at*/1664895600, /*end_at*/1664982000, /*suit_master_id*/202103002);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/121103, /*start_at*/1638716400, /*end_at*/1638802800, /*suit_master_id*/102112001);
+INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/121104, /*start_at*/1670252400, /*end_at*/1670338800, /*suit_master_id*/202113001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/121203, /*start_at*/1644850800, /*end_at*/1644937200, /*suit_master_id*/102122001);

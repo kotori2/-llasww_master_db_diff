@@ -4080,6 +4080,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300023", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message*/"「Angelic Angel」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300025", /*message*/"「Mijuku DREAMER」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300026", /*message*/"「Meccha Going!!」의 ［상급+］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300027", /*message*/"「Jump up HIGH!!」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300028", /*message*/"「Nemureru Mori ni Ikitai na」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message*/"「Braveheart Coaster」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「Yume no Tobira」의 ［챌린지］ 난이도를 S랭크로 클리어");

@@ -4087,6 +4087,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300023", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message*/"เคลียร์ &apos;Angelic Angel&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300025", /*message*/"เคลียร์ &apos;Mijuku DREAMER&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300026", /*message*/"เคลียร์ &apos;Meccha Going!!&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300027", /*message*/"เคลียร์ &apos;Jump up HIGH!!&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300028", /*message*/"เคลียร์ &apos;Nemureru Mori ni Ikitai na&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message*/"เคลียร์ &apos;Braveheart Coaster&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"เคลียร์ &apos;Yume no Tobira&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");

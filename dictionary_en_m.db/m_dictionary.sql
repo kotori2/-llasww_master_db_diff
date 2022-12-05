@@ -4077,6 +4077,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300023", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message*/"Clear &quot;Angelic Angel&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300025", /*message*/"Clear &quot;Mijuku DREAMER&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300026", /*message*/"Clear &quot;Meccha Going!!&quot; on Expert difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300027", /*message*/"Clear &quot;Jump up HIGH!!&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300028", /*message*/"Clear &quot;Nemureru Mori ni Ikitai na&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message*/"Clear &quot;Braveheart Coaster&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"Clear &quot;Yume no Tobira&quot; on Challenge difficulty with Rank S.");

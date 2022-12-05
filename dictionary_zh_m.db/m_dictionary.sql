@@ -4078,6 +4078,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300023", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message*/"以S RANK通過難易度［高級＋］的「Angelic Angel」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300025", /*message*/"以S RANK通過難易度［高級＋］的「Mijuku DREAMER」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300026", /*message*/"以S RANK通過難易度［高級＋］的「Meccha Going!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300027", /*message*/"以S RANK通過難易度［高級＋］的「Jump up HIGH!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300028", /*message*/"以S RANK通過難易度［高級＋］的「Nemureru Mori ni Ikitai na」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message*/"以S RANK通過難易度［高級＋］的「Braveheart Coaster」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"以S RANK通過難易度［挑戰級］的「Yume no Tobira」");

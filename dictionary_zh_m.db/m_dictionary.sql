@@ -1734,6 +1734,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003512", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003513", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003514", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003515", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003601", /*message*/"遊玩1次「Hurray Hurray」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003602", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003603", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003604", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003605", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003606", /*message*/"於期間內領取3次登入獎勵");
@@ -3190,6 +3193,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400610", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400611", /*message*/"完成10次「Twinkle Town」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400612", /*message*/"完成50次「Twinkle Town」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400613", /*message*/"完成100次「Twinkle Town」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400614", /*message*/"完成10次「New Romantic Sailors」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400615", /*message*/"完成50次「New Romantic Sailors」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400616", /*message*/"完成100次「New Romantic Sailors」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");
@@ -4081,6 +4087,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300026", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300027", /*message*/"以S RANK通過難易度［高級＋］的「Jump up HIGH!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300028", /*message*/"以S RANK通過難易度［高級＋］的「Nemureru Mori ni Ikitai na」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message*/"以S RANK通過難易度［高級＋］的「Braveheart Coaster」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300030", /*message*/"以S RANK通過難易度［高級＋］的「New Romantic Sailors」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"以S RANK通過難易度［挑戰級］的「Yume no Tobira」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"以S RANK通過難易度［挑戰級］的「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"以S RANK通過難易度［挑戰級］的「Koini Naritai AQUARIUM」");

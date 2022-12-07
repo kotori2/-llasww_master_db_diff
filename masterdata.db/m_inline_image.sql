@@ -1994,6 +1994,7 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2221201/tex_banner_gacha_sticker_2221201", /*path*/"wkn");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2221206/tex_banner_gacha_sticker_2221206", /*path*/"$E9");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2221211/tex_banner_gacha_sticker_2221211", /*path*/"@h$");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2221212/tex_banner_gacha_sticker_2221212", /*path*/"L#i");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2221213/tex_banner_gacha_sticker_2221213", /*path*/"I=@");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2221214/tex_banner_gacha_sticker_2221214", /*path*/"Vd)");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2221215/tex_banner_gacha_sticker_2221215", /*path*/"3?h");

@@ -2428,6 +2428,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030_000", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33031", /*message*/"夢幻遊行演唱會～μ&apos;s亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032", /*message*/"夢幻遊行演唱會～Aqours亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032_000", /*message*/"夢幻遊行演唱會～Aqours亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033", /*message*/"夢幻遊行演唱會～虹咲亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033_000", /*message*/"夢幻遊行演唱會～虹咲亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");
@@ -4523,6 +4525,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"分
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"來比誰鞋子踢得遠吧");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"秘密花園？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"親愛的你");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022004_1", /*message*/"能夠放心的地方");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"靜謐的熱情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"花之少女");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_1", /*message*/"覺得漂亮的事物");
@@ -4595,6 +4598,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"熱
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032002_1", /*message*/"很有上進心！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"寶貴的時光");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"靈魂的光芒");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033002_1", /*message*/"與牠相似的這孩子");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033002_2", /*message*/"命運之人");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"既和平又刺激");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042002_1", /*message*/"不能退縮的戰鬥就在眼前");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042003_1", /*message*/"距離碰面還有點時間");

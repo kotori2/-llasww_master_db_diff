@@ -2427,6 +2427,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030_000", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33031", /*message*/"Dream Live Parade: μ&apos;s on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032", /*message*/"Dream Live Parade: Aqours on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032_000", /*message*/"Dream Live Parade: Aqours on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033", /*message*/"Dream Live Parade: Nijigasaki on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033_000", /*message*/"Dream Live Parade: Nijigasaki on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -4522,6 +4524,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"Sha
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"Let&apos;s Fling Our Shoes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"A Secret Garden?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"My Beloved");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022004_1", /*message*/"Feeling Relaxed");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"A Quiet Passion");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"Floral Maiden");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_1", /*message*/"What I Thought was Lovely");
@@ -4594,6 +4597,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"I L
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032002_1", /*message*/"So Hardworking!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"A Precious Time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"Sparkle of the Soul");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033002_1", /*message*/"It Looks Just Like Her");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033002_2", /*message*/"My One and Only");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"Peaceful and Exciting");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042002_1", /*message*/"Can&apos;t Back Down from Battle");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042003_1", /*message*/"A Bit Early for the Meeting");

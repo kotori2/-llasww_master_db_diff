@@ -2437,6 +2437,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030_000", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33031", /*message*/"ドリームライブパレード- μ&apos;sオンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032", /*message*/"ドリームライブパレード- Aqoursオンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032_000", /*message*/"ドリームライブパレード- Aqoursオンステージ -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033", /*message*/"ดรีมไลฟ์พาเรด -นิจิกาคุออนสเตจ-");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033_000", /*message*/"ดรีมไลฟ์พาเรด -นิจิกาคุออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -4532,6 +4534,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"แ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"มาเล่นโยนรองเท้ากันเถอะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"สวนดอกไม้แห่งความลับ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"เธอผู้เป็นที่รัก");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022004_1", /*message*/"安心する場所");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"ความเร่าร้อนที่สงบเงียบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"สาวน้อยแห่งดอกไม้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_1", /*message*/"สิ่งที่รู้สึกว่าดี");
@@ -4604,6 +4607,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"ฉ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032002_1", /*message*/"ตั้งใจศึกษา!?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"ช่วงเวลาแสนสำคัญ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"ประกายแห่งจิตวิญญาณ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033002_1", /*message*/"似ているこの子");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033002_2", /*message*/"運命の人");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"ความสงบสุขและสิ่งจูงใจ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042002_1", /*message*/"นี่คือการต่อสู้ที่ไม่ยอมถอย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042003_1", /*message*/"ไปสถานที่นัดตอนนี้ยังเร็วไป");
@@ -7727,7 +7732,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_8", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_44_9", /*message*/"　ニジガクの定期ライブがやってきた！　今回はそれぞれやることがあり十分な練習時間が取れないメンバーもいたけれど、PV制作以降ニジガクのスクールアイドル熱は高まる一方！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_1", /*message*/"　「高校生ゲームクリエイターコンテスト」を翌日に控え、準備をするあなたたち。改めてコンテストのおさらいをしたり、買い出しに行ったりと、ちょっと遠くに遊びに行く前日のような高揚感に溢れている");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_10", /*message*/"　璃奈の新しい挑戦「高校生ゲームクリエイターコンテスト」。本当に作りたいものを諦めず挑戦し、ついに完成させた。そしてコンテストの結果は……？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_2", /*message*/"　校内フィルムフェスティバルでお手伝いをした各部からの応援もあり、万全の体勢でコンテストに臨むことになったあなた。ついに今日はコンテスト当日！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_2", /*message*/"　校内フィルムフェスティバルでお手伝いをした各部からの応援もあり、万全の態勢でコンテストに臨むことになったあなた。ついに今日はコンテスト当日！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_3", /*message*/"　コンテストのテーマは「夢」。みんなにとっての「夢」は、スクールアイドルとして想いを込めた歌をたくさんの人に届けること。リズムゲームで夢を届けよう！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_4", /*message*/"　今日は外に夕食をとりに出たあなたたち。バーガーが食べたいというミアのために、いつもの場所に行ったら……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_5", /*message*/"　ゲーム作りの進捗は順調。想定よりいいスピードで仕上がっている。しかし、作業に没頭してる璃奈の様子がおかしいことに気付いたあなたは……？");

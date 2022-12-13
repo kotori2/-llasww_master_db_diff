@@ -1047,3 +1047,9 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001037, /*year*/2022, /*month*/12, /*day*/5, /*title*/"内緒のプレゼント！", /*published_at*/1670166000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001038, /*year*/2022, /*month*/12, /*day*/6, /*title*/"ハッピーバースデー、ミア！", /*published_at*/1670252400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001039, /*year*/2022, /*month*/12, /*day*/7, /*title*/"ウインクレッスン再び！", /*published_at*/1670338800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001040, /*year*/2022, /*month*/12, /*day*/8, /*title*/"大幸運の星！", /*published_at*/1670425200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001041, /*year*/2022, /*month*/12, /*day*/9, /*title*/"お気に入りの手袋と……？", /*published_at*/1670511600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001042, /*year*/2022, /*month*/12, /*day*/10, /*title*/"準備は着々と！？", /*published_at*/1670598000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001043, /*year*/2022, /*month*/12, /*day*/11, /*title*/"甘いかも、甘くないかも？", /*published_at*/1670684400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001044, /*year*/2022, /*month*/12, /*day*/12, /*title*/"こんにちは、はんぺん", /*published_at*/1670770800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001045, /*year*/2022, /*month*/12, /*day*/13, /*title*/"お昼寝タイムを襲撃！？", /*published_at*/1670857200);

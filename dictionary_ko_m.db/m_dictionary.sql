@@ -2430,6 +2430,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030_000", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33031", /*message*/"드림 라이브 퍼레이드 μ&apos;s 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032", /*message*/"드림 라이브 퍼레이드 Aqours 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032_000", /*message*/"드림 라이브 퍼레이드 Aqours 온스테이지");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033", /*message*/"드림 라이브 퍼레이드 니지가사키 온스테이지");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033_000", /*message*/"드림 라이브 퍼레이드 니지가사키 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");
@@ -4525,6 +4527,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"행
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"신발 던지기 놀이를 하자");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"비밀의 화원?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"사랑스러운 너");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022004_1", /*message*/"안심할 수 있는 사람");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"조용한 열정");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"꽃의 소녀");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_1", /*message*/"멋지다고 느낀 것");
@@ -4597,6 +4600,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"연
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032002_1", /*message*/"배우는 데 열심?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"소중한 시간");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"영혼의 빛");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033002_1", /*message*/"똑 닮은 아이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033002_2", /*message*/"운명의 상대");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"평화롭고도 자극적인");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042002_1", /*message*/"물러설 수 없는 싸움이 여기 있다");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042003_1", /*message*/"약속 시간보다 조금 이르게");

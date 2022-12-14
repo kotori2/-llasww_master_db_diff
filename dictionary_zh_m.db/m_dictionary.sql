@@ -2354,6 +2354,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020502", /*message*/"[大型合作演唱會課題]完成10次「Mogyutto &quot;Love&quot; de Sekkinchu!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020503", /*message*/"[大型合作演唱會課題]完成10次「Genki Zenkai DAY! DAY! DAY!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020504", /*message*/"[大型合作演唱會課題]完成10次「Beautiful Moonlight」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020601", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020602", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020603", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

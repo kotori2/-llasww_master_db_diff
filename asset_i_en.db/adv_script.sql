@@ -7,7 +7,7 @@ CREATE TABLE adv_script(
   key2 INTEGER NOT NULL,
   PRIMARY KEY (asset_path)
 );
-INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_bg_constants", /*pack_name*/"ae7j9e", /*head*/0, /*size*/9110, /*key1*/-312105081, /*key2*/-1796610129);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_bg_constants", /*pack_name*/"b9q3e5", /*head*/0, /*size*/9229, /*key1*/314610396, /*key2*/-1016611486);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_character_constants", /*pack_name*/"9z9l4j", /*head*/0, /*size*/1161, /*key1*/-65460976, /*key2*/659719430);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_character_facial", /*pack_name*/"qfpbdq", /*head*/0, /*size*/10761, /*key1*/-952349001, /*key2*/-1365164618);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_character_preset", /*pack_name*/"3uqvbq", /*head*/1131, /*size*/1580, /*key1*/-108520258, /*key2*/-1738782501);

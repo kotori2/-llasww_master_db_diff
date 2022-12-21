@@ -3225,6 +3225,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400613", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400614", /*message*/"Clear &quot;New Romantic Sailors&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400615", /*message*/"Clear &quot;New Romantic Sailors&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400616", /*message*/"Clear &quot;New Romantic Sailors&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400617", /*message*/"Clear &quot;Amazing Travel DNA&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400618", /*message*/"Clear &quot;Amazing Travel DNA&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400619", /*message*/"Clear &quot;Amazing Travel DNA&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400620", /*message*/"Clear &quot;TATEHOKOTSUBASA&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400621", /*message*/"Clear &quot;TATEHOKOTSUBASA&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400622", /*message*/"Clear &quot;TATEHOKOTSUBASA&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -4117,6 +4123,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300027", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300028", /*message*/"Clear &quot;Nemureru Mori ni Ikitai na&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message*/"Clear &quot;Braveheart Coaster&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300030", /*message*/"Clear &quot;New Romantic Sailors&quot; on Expert difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300031", /*message*/"Clear &quot;Amazing Travel DNA&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"Clear &quot;Yume no Tobira&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"Clear &quot;A song for You! You? You!!&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"Clear &quot;Koini Naritai AQUARIUM&quot; on Challenge difficulty with Rank S.");

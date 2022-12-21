@@ -3226,6 +3226,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400613", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400614", /*message*/"完成10次「New Romantic Sailors」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400615", /*message*/"完成50次「New Romantic Sailors」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400616", /*message*/"完成100次「New Romantic Sailors」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400617", /*message*/"完成10次「Amazing Travel DNA」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400618", /*message*/"完成50次「Amazing Travel DNA」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400619", /*message*/"完成100次「Amazing Travel DNA」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400620", /*message*/"完成10次「TATEHOKOTSUBASA」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400621", /*message*/"完成50次「TATEHOKOTSUBASA」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400622", /*message*/"完成100次「TATEHOKOTSUBASA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");
@@ -4118,6 +4124,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300027", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300028", /*message*/"以S RANK通過難易度［高級＋］的「Nemureru Mori ni Ikitai na」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message*/"以S RANK通過難易度［高級＋］的「Braveheart Coaster」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300030", /*message*/"以S RANK通過難易度［高級＋］的「New Romantic Sailors」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300031", /*message*/"以S RANK通過難易度［高級＋］的「Amazing Travel DNA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"以S RANK通過難易度［挑戰級］的「Yume no Tobira」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"以S RANK通過難易度［挑戰級］的「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"以S RANK通過難易度［挑戰級］的「Koini Naritai AQUARIUM」");

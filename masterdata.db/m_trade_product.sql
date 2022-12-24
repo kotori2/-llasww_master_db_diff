@@ -8885,6 +8885,14 @@ INSERT INTO `m_trade_product` VALUES (/*id*/221215200, /*trade_master_id*/222121
 INSERT INTO `m_trade_product` VALUES (/*id*/221215201, /*trade_master_id*/2221215, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
 INSERT INTO `m_trade_product` VALUES (/*id*/221215202, /*trade_master_id*/2221215, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
 INSERT INTO `m_trade_product` VALUES (/*id*/221215203, /*trade_master_id*/2221215, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/221220001, /*trade_master_id*/2221220, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/221220002, /*trade_master_id*/2221220, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/221220003, /*trade_master_id*/2221220, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/221220004, /*trade_master_id*/2221220, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/221220005, /*trade_master_id*/2221220, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/221220006, /*trade_master_id*/2221220, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/221220007, /*trade_master_id*/2221220, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
+INSERT INTO `m_trade_product` VALUES (/*id*/221220008, /*trade_master_id*/2221220, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
 INSERT INTO `m_trade_product` VALUES (/*id*/222010101, /*trade_master_id*/2220101, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
 INSERT INTO `m_trade_product` VALUES (/*id*/222010102, /*trade_master_id*/2220101, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);
 INSERT INTO `m_trade_product` VALUES (/*id*/222010103, /*trade_master_id*/2220101, /*source_amount_color_on*/0, /*label*/"", /*display_order*/1);

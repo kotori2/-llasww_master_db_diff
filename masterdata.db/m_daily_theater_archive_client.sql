@@ -1061,3 +1061,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001051, /*year*/2022, /*month*/12, /*day*/19, /*title*/"妥協はナシ！", /*published_at*/1671375600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001052, /*year*/2022, /*month*/12, /*day*/20, /*title*/"あなたのために選びたい！", /*published_at*/1671462000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001053, /*year*/2022, /*month*/12, /*day*/21, /*title*/"落ち込むにはまだ早い！", /*published_at*/1671548400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001054, /*year*/2022, /*month*/12, /*day*/22, /*title*/"あなたに贈るカード", /*published_at*/1671634800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001055, /*year*/2022, /*month*/12, /*day*/23, /*title*/"東京タワーの日", /*published_at*/1671721200);

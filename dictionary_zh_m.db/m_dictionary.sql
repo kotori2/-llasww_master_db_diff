@@ -4134,6 +4134,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400006", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message*/"以S RANK通過難易度［挑戰級］的「NEO SKY, NEO MAP!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"以S RANK通過難易度［挑戰級］的「LOVELESS WORLD」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400009", /*message*/"以S RANK通過難易度［挑戰級］的「MY Mai☆TONIGHT」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400010", /*message*/"以S RANK通過難易度［挑戰級］的「Snow Halation」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"默契Lv.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"飾品");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"特別活動");

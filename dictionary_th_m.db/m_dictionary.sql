@@ -4143,6 +4143,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400006", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message*/"เคลียร์ &apos;NEO SKY, NEO MAP!&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"เคลียร์ &apos;LOVELESS WORLD&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400009", /*message*/"เคลียร์ &apos;MY Mai☆TONIGHT&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400010", /*message*/"เคลียร์ &apos;Snow Halation&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"Lv.ความสนิท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"เครื่องประดับ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"แคมเปญ");

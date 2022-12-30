@@ -2638,6 +2638,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800039", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800040", /*message*/"เคลียร์สตอรี่ 43 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800041", /*message*/"เคลียร์สตอรี่ 44 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800042", /*message*/"เคลียร์สตอรี่ 45 บท");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800043", /*message*/"เคลียร์สตอรี่ 46 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 1 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 5 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 10 ตอน");
@@ -3241,6 +3242,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400619", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400620", /*message*/"เคลียร์ &quot;TATEHOKOTSUBASA&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400621", /*message*/"เคลียร์ &quot;TATEHOKOTSUBASA&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400622", /*message*/"เคลียร์ &quot;TATEHOKOTSUBASA&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400623", /*message*/"เคลียร์ &quot;Aishiteru Banzai!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400624", /*message*/"เคลียร์ &quot;Aishiteru Banzai!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400625", /*message*/"เคลียร์ &quot;Aishiteru Banzai!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400626", /*message*/"เคลียร์ &quot;Hurray Hurray&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400627", /*message*/"เคลียร์ &quot;Hurray Hurray&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400628", /*message*/"เคลียร์ &quot;Hurray Hurray&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");
@@ -5562,6 +5569,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_42", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_43", /*message*/"変わらないものを残すため");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_44", /*message*/"遠い未来を覗くとき");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_45", /*message*/"４８時間の応援歌");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_46", /*message*/"差し伸べて、応える");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"ค้นหาความลับของ μ&apos;s!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"ทิศทางการดวล");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
@@ -5607,6 +5615,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_42", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_43", /*message*/"第43章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_44", /*message*/"第44章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_45", /*message*/"第45章");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_46", /*message*/"第46章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"บทที่ 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"บทที่ 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"บทที่ 7");
@@ -7791,6 +7800,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_7", /*message*/"　璃奈の作りたいもののイメージから、落ちものパズルを選択したあなたたち。急ピッチで作業を進めて……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_8", /*message*/"　ラストスパートに向けて、交代で休憩をとることにしたあなた。これからのことを考えつつ仮眠室である部室に向かっていると、そこには……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_9", /*message*/"　短い夜が明け、ついにラストスパート。それぞれがそれぞれの役割をこなしていく。ゲーム完成なるか！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_1", /*message*/"　高校生ゲームクリエイターコンテストも無事終わり、あなたもホッとひと息。そんなとき、果林に撮影について来てほしいと相談を受ける。普段あまり頼まれないため不思議に思うも、一緒に付いて行くことに。その撮影とは……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_10", /*message*/"　全国高校生No1パティシエ決定戦でグランプリに輝いた彼方とツムギの「応援マカロン」。今日はグランプリ受賞のお祝いパーティがあって……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_2", /*message*/"　将来を見据えての活動が活発になってきている同好会メンバー。それを見て決意を新たにする彼方。自分も全国高校生No1パティシエ決定戦に出て結果を出したいと、試作に励むのだった");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_3", /*message*/"　ツムギの話を聞いて、何も声をかけることができなかった彼方。彼方はそのことをずっと気にしていて……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_4", /*message*/"　今日はちょっと遠出して合同ライブ！　そこにはスクールアイドル活動以外を見てニジガクを知ってくれた人たちも多くきていた。それを見たメンバーの気合いも十分！　ようこそ、ニジガクライブへ！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_5", /*message*/"　ライブ会場を後にしようとしたツムギをなんとか引き留めたあなた。そこであなたはツムギの過去を知ることに……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_6", /*message*/"　ツムギの過去を聞いたあなた。とても難しくて複雑な問題だ。だけど、どう考えても応援が悪いことだとは思えない。迷ったあなたは……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_7", /*message*/"　ツムギに応援の気持ちを届けたい、そのためのライブをすると決めた彼方。準備は順調に進み、いよいよライブ開催！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_8", /*message*/"　彼方のライブを観たツムギは、もう一度お菓子作りに挑戦すると決めた。そして、彼方と一緒に全国高校生No1パティシエ決定戦に出ることも。彼方の想いがしっかりと届いたことを見たあなたは……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_9", /*message*/"　全国高校生No1パティシエ決定戦には、思い出のマカロンで勝負しようと決めた彼方とツムギ。いよいよ当日！　思い出のマカロンは再現できるのか！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"พอได้เห็นไดยะจดรายละเอียดทุกอย่างของ
 Aqours คุณก็รู้สึกอยากสนับสนุนนิจิกะซากิ
 ทุกคนให้ได้แบบนี้บ้าง
@@ -8513,6 +8532,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_45_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_45_7", /*message*/"ここから！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_45_8", /*message*/"応援するということ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_45_9", /*message*/"燃やし尽くせ、ゲーム魂！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_1", /*message*/"１歩目のドキドキ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_10", /*message*/"あなたのマカロン");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_2", /*message*/"告白");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_3", /*message*/"もどかしい想い");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_4", /*message*/"ようこそ、ニジガクライブへ！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_5", /*message*/"ツムギの過去");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_6", /*message*/"応援ってムズカシイ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_7", /*message*/"届いてますか？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_8", /*message*/"あきらめず、前へ！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_9", /*message*/"全国高校生No1パティシエ決定戦！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"ความคาดหวังที่สูงขึ้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"เช้าแห่งการจากลา");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"การจัดงานเทศกาล");

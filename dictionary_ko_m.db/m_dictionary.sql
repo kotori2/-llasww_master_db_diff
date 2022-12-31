@@ -2385,6 +2385,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020704", /*message*/"[기간 한정 과제] SENTIMENTAL StepS 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020705", /*message*/"[기간 한정 과제] JIMO-AI Dash! 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020706", /*message*/"[기간 한정 과제] EMOTION 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020801", /*message*/"[빅 라이브 과제] 빅 라이브에서 상을 1회 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020802", /*message*/"[빅 라이브 과제] Angelic Angel 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020803", /*message*/"[빅 라이브 과제] BANZAI! digital trippers 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020804", /*message*/"[빅 라이브 과제] ENJOY IT！ 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020901_gl", /*message*/"[CD 발매 기념] Step! ZERO to ONE 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020902_gl", /*message*/"[CD 발매 기념] 쿠로사와 다이아이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

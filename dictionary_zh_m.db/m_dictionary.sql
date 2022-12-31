@@ -2383,6 +2383,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020704", /*message*/"[期間限定課題]完成1次「SENTIMENTAL StepS」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020705", /*message*/"[期間限定課題]完成1次「JIMO-AI Dash!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020706", /*message*/"[期間限定課題]完成1次「EMOTION」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020801", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020802", /*message*/"[大型合作演唱會課題]完成10次「Angelic Angel」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020803", /*message*/"[大型合作演唱會課題]完成10次「BANZAI! digital trippers」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020804", /*message*/"[大型合作演唱會課題]完成10次「ENJOY IT！」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020901_gl", /*message*/"[CD發行紀念]完成10次「Step! ZERO to ONE」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020902_gl", /*message*/"[CD發行紀念]使用20次發動成員包含黑澤黛雅的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

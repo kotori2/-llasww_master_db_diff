@@ -119,3 +119,6 @@ INSERT INTO `m_coop_live` VALUES (/*id*/42023, /*event_id*/32035, /*live_m_id*/1
 INSERT INTO `m_coop_live` VALUES (/*id*/40021, /*event_id*/32036, /*live_m_id*/10021, /*play_count_per_day*/3, /*display_order*/1);
 INSERT INTO `m_coop_live` VALUES (/*id*/41004, /*event_id*/32036, /*live_m_id*/11004, /*play_count_per_day*/3, /*display_order*/2);
 INSERT INTO `m_coop_live` VALUES (/*id*/42064, /*event_id*/32036, /*live_m_id*/12064, /*play_count_per_day*/3, /*display_order*/3);
+INSERT INTO `m_coop_live` VALUES (/*id*/40009, /*event_id*/32037, /*live_m_id*/10009, /*play_count_per_day*/3, /*display_order*/1);
+INSERT INTO `m_coop_live` VALUES (/*id*/41093, /*event_id*/32037, /*live_m_id*/11093, /*play_count_per_day*/3, /*display_order*/2);
+INSERT INTO `m_coop_live` VALUES (/*id*/42103, /*event_id*/32037, /*live_m_id*/12103, /*play_count_per_day*/3, /*display_order*/3);

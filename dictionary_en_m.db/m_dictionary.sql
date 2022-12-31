@@ -2382,6 +2382,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020704", /*message*/"[Limited-Time Goal] Clear &quot;SENTIMENTAL StepS&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020705", /*message*/"[Limited-Time Goal] Clear &quot;JIMO-AI Dash!&quot;: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020706", /*message*/"[Limited-Time Goal] Clear &quot;EMOTION&quot;: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020801", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020802", /*message*/"[SBL Goal] Clear &quot;Angelic Angel&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020803", /*message*/"[SBL Goal] Clear &quot;BANZAI! digital trippers&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020804", /*message*/"[SBL Goal] Clear &quot;ENJOY IT！&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020901_gl", /*message*/"[CD Release Celebration] Clear &quot;Step! ZERO to ONE&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020902_gl", /*message*/"[CD Release Celebration] Use an SP Skill including Dia Kurosawa 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

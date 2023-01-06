@@ -2410,6 +2410,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020803", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020804", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;ENJOY IT！&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020901_gl", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;Step! ZERO to ONE&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020902_gl", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีคุโรซาวะ ไดยะ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021004", /*message*/"[ฉลองจัดไลฟ์] ใช้ท่าพิเศษ SP ที่มีมิฟุเนะ ชิโอริโกะ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021005", /*message*/"[ฉลองจัดไลฟ์] ใช้ท่าพิเศษ SP ที่มีมีอา เทเลอร์ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021006", /*message*/"[ฉลองจัดไลฟ์] ใช้ท่าพิเศษ SP ที่มีจง หลานจู 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

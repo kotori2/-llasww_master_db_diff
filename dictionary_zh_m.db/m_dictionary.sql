@@ -2401,6 +2401,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020803", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020804", /*message*/"[大型合作演唱會課題]完成10次「ENJOY IT！」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020901_gl", /*message*/"[CD發行紀念]完成10次「Step! ZERO to ONE」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020902_gl", /*message*/"[CD發行紀念]使用20次發動成員包含黑澤黛雅的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021004", /*message*/"[演唱會開演紀念]使用20次發動成員包含三船栞子的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021005", /*message*/"[演唱會開演紀念]使用20次發動成員包含米雅・泰勒的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021006", /*message*/"[演唱會開演紀念]使用20次發動成員包含鐘嵐珠的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

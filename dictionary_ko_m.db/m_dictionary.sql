@@ -2403,6 +2403,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020803", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020804", /*message*/"[빅 라이브 과제] ENJOY IT！ 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020901_gl", /*message*/"[CD 발매 기념] Step! ZERO to ONE 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020902_gl", /*message*/"[CD 발매 기념] 쿠로사와 다이아이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021004", /*message*/"[라이브 개최 기념] 미후네 시오리코이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021005", /*message*/"[라이브 개최 기념] 미아 테일러이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021006", /*message*/"[라이브 개최 기념] 쇼우 란쥬이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

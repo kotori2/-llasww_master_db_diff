@@ -2400,6 +2400,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020803", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020804", /*message*/"[SBL Goal] Clear &quot;ENJOY IT！&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020901_gl", /*message*/"[CD Release Celebration] Clear &quot;Step! ZERO to ONE&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020902_gl", /*message*/"[CD Release Celebration] Use an SP Skill including Dia Kurosawa 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021004", /*message*/"[Live Show Celebration] Use an SP Skill including Shioriko Mifune 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021005", /*message*/"[Live Show Celebration] Use an SP Skill including Mia Taylor 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021006", /*message*/"[Live Show Celebration] Use an SP Skill including Lanzhu Zhong 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

@@ -1074,3 +1074,6 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001064, /*year*/2023, /*month*/1, /*day*/1, /*title*/"ダイヤの誕生日のお祝い", /*published_at*/1672498800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001065, /*year*/2023, /*month*/1, /*day*/2, /*title*/"わくわく初詣", /*published_at*/1672585200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001066, /*year*/2023, /*month*/1, /*day*/3, /*title*/"Aqoursおせち", /*published_at*/1672671600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001067, /*year*/2023, /*month*/1, /*day*/4, /*title*/"神社で運試し", /*published_at*/1672758000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001068, /*year*/2023, /*month*/1, /*day*/5, /*title*/"あったかくする方法", /*published_at*/1672844400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001069, /*year*/2023, /*month*/1, /*day*/6, /*title*/"今年の目標", /*published_at*/1672930800);

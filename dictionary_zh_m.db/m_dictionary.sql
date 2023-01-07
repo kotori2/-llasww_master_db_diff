@@ -1769,6 +1769,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003612", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003613", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003614", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003615", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003701", /*message*/"遊玩1次「Love Marginal」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003702", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003703", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003704", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003705", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003706", /*message*/"於期間內領取3次登入獎勵");
@@ -3261,6 +3264,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400625", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400626", /*message*/"完成10次「Hurray Hurray」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400627", /*message*/"完成50次「Hurray Hurray」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400628", /*message*/"完成100次「Hurray Hurray」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400629", /*message*/"完成10次「What You Gonna Do?」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400630", /*message*/"完成50次「What You Gonna Do?」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400631", /*message*/"完成100次「What You Gonna Do?」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

@@ -1768,6 +1768,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003612", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003613", /*message*/"Obtain 1 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003614", /*message*/"Obtain 2 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003615", /*message*/"Obtain 3 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003701", /*message*/"Play &quot;Love Marginal&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003702", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003703", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003704", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003705", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003706", /*message*/"Collect 3 login bonuses during the event.");
@@ -3260,6 +3263,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400625", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400626", /*message*/"Clear &quot;Hurray Hurray&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400627", /*message*/"Clear &quot;Hurray Hurray&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400628", /*message*/"Clear &quot;Hurray Hurray&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400629", /*message*/"Clear &quot;What You Gonna Do?&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400630", /*message*/"Clear &quot;What You Gonna Do?&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400631", /*message*/"Clear &quot;What You Gonna Do?&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

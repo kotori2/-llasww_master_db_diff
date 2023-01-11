@@ -3276,6 +3276,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400628", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400629", /*message*/"เคลียร์ &quot;What You Gonna Do?&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400630", /*message*/"เคลียร์ &quot;What You Gonna Do?&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400631", /*message*/"เคลียร์ &quot;What You Gonna Do?&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400632", /*message*/"เคลียร์ &quot;Future Flight&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400633", /*message*/"เคลียร์ &quot;Future Flight&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400634", /*message*/"เคลียร์ &quot;Future Flight&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400635", /*message*/"เคลียร์ &quot;smile smile ship Start!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400636", /*message*/"เคลียร์ &quot;smile smile ship Start!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400637", /*message*/"เคลียร์ &quot;smile smile ship Start!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400638", /*message*/"เคลียร์ &quot;Totsuzen GIRL&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400639", /*message*/"เคลียร์ &quot;Totsuzen GIRL&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400640", /*message*/"เคลียร์ &quot;Totsuzen GIRL&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

@@ -3267,6 +3267,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400628", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400629", /*message*/"完成10次「What You Gonna Do?」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400630", /*message*/"完成50次「What You Gonna Do?」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400631", /*message*/"完成100次「What You Gonna Do?」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400632", /*message*/"完成10次「Future Flight」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400633", /*message*/"完成50次「Future Flight」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400634", /*message*/"完成100次「Future Flight」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400635", /*message*/"完成10次「smile smile ship Start!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400636", /*message*/"完成50次「smile smile ship Start!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400637", /*message*/"完成100次「smile smile ship Start!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400638", /*message*/"完成10次「Totsuzen GIRL」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400639", /*message*/"完成50次「Totsuzen GIRL」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400640", /*message*/"完成100次「Totsuzen GIRL」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

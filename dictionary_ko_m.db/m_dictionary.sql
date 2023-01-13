@@ -2409,6 +2409,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020902_gl", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021004", /*message*/"[라이브 개최 기념] 미후네 시오리코이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021005", /*message*/"[라이브 개최 기념] 미아 테일러이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021006", /*message*/"[라이브 개최 기념] 쇼우 란쥬이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021101", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021102", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021103", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -2423,7 +2426,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"제5화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"제6화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"제7화");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31037", /*message*/"新春、ドリーミング初詣");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31037", /*message*/"새해 드리밍 첫 참배");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"이벤트 이용 방법 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"이벤트 이용 방법 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"이벤트 이용 방법 3");
@@ -2485,6 +2488,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032_000", /*message*/"드림 라이브 퍼레이드 Aqours 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033", /*message*/"드림 라이브 퍼레이드 니지가사키 온스테이지");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033_000", /*message*/"드림 라이브 퍼레이드 니지가사키 온스테이지");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33034", /*message*/"드림 라이브 퍼레이드 ~SP 타입 온스테이지~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33034_000", /*message*/"드림 라이브 퍼레이드 ~SP 타입 온스테이지~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036", /*message*/"드림 라이브 퍼레이드 ALL STAR");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036_000", /*message*/"드림 라이브 퍼레이드 ALL STAR");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");
@@ -3278,6 +3285,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400637", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400638", /*message*/"Totsuzen GIRL 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400639", /*message*/"Totsuzen GIRL 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400640", /*message*/"Totsuzen GIRL 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400641", /*message*/"Vroom Vroom 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400642", /*message*/"Vroom Vroom 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400643", /*message*/"Vroom Vroom 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -4621,6 +4631,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_1", /*message*/"멋
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_2", /*message*/"숲속 음악회");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"잔잔해지는 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032002_1", /*message*/"기분 탓이겠지…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032003_1", /*message*/"암벽 등반을 즐기자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"멋 내는 건 어려워");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"몸도 마음도 편안하게");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033002_1", /*message*/"너와 함께하는 단풍 구경");
@@ -4683,6 +4694,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"최
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"카스밍색으로 물들여요♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"당신 앞에서는 솔직해지고 싶어요");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_2", /*message*/"평소와 다른 나");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023003_1", /*message*/"똑같은 생각");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023003_2", /*message*/"나란히 서고 싶은 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"연극을 사랑해!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032002_1", /*message*/"배우는 데 열심?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"소중한 시간");
@@ -6037,15 +6050,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_7", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_8", /*message*/"　라스트 스퍼트에 대비해 팀원들과 교대로 휴식을 취하게 된 당신. 앞으로의 계획을 생각하며, 한숨 자러 부실로 가던 중….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_9", /*message*/"　짧은 밤이 지나고 드디어 라스트 스퍼트가 시작됐다. 각자 맡은 바에 최선을 다하는 당신과 팀원들은 과연 게임을 완성할 수 있을 것인가?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_1", /*message*/"　고등학생 게임 크리에이터 콘테스트를 무사히 마치고 한숨 돌린 당신에게 카린이 촬영에 따라와 달라고 한다. 평소에는 그런 부탁을 잘 안 하던 카린을 이상하게 여기면서도 당신은 같이 가기로 한다. 그 촬영은 바로….");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_10", /*message*/"　전국 고등학생 No.1 파티시에 선발 대회에서 그랑프리를 수상한 카나타와 츠무기의 &apos;응원 마카롱&apos;. 오늘은 두 사람의 그랑프리 수상을 축하하는 파티가 열리는데….");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_2", /*message*/"　장래를 고려한 활동을 활발하게 전개하기 시작한 동호회 멤버들. 그 모습을 보고 결심을 새로이 한 카나타는, 전국 고등학생 No.1 파티시에 선발 대회에 출전해서 성과를 내기 위해 연습에 매진한다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_10", /*message*/"　전국 고등학생 No1 파티시에 선발 대회에서 그랑프리를 수상한 카나타와 츠무기의 &apos;응원 마카롱&apos;. 오늘은 두 사람의 그랑프리 수상을 축하하는 파티가 열리는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_2", /*message*/"　장래를 고려한 활동을 활발하게 전개하기 시작한 동호회 멤버들. 그 모습을 보고 결심을 새로이 한 카나타는, 전국 고등학생 No1 파티시에 선발 대회에 출전해서 성과를 내기 위해 연습에 매진한다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_3", /*message*/"　츠무기의 이야기를 듣고 아무 말도 할 수 없었던 카나타는, 시간이 지나도 그 일을 계속 신경 쓰고 있었다.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_4", /*message*/"　오늘은 조금 먼 곳에서 합동 라이브! 그곳에는 스쿨 아이돌 이외의 활동을 통해 니지가사키를 알게 된 사람들도 많이 와 있었고, 그걸 본 멤버들의 의욕도 충만해졌다. 니지가사키 라이브에 오신 것을 환영합니다!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_5", /*message*/"　공연장을 떠나려고 하는 츠무기를 간신히 붙잡은 당신. 이때 당신은 츠무기의 과거를 알게 되는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_6", /*message*/"　츠무기의 과거를 들은 당신. 굉장히 어렵고 복잡한 문제였지만, 아무리 생각해도 응원하는 행위가 나쁜 것 같지는 않다. 고민하던 당신은….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_7", /*message*/"　츠무기에게 응원하는 마음을 전하고 싶어서 라이브를 열기로 한 카나타. 준비는 순조롭게 진행되었고, 드디어 라이브가 개최되었다!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_8", /*message*/"　카나타의 라이브를 본 츠무기는 다시 한번 제과에 도전하기로 마음먹고, 카나타와 함께 전국 고등학생 No.1 파티시에 선발 대회에 나가기로 했다. 그 소식을 듣고 카나타의 생각이 잘 전해졌다고 느낀 당신은….");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_9", /*message*/"　추억의 마카롱으로 전국 고등학생 No.1 파티시에 선발 대회에 출전하기로 한 카나타와 츠무기. 드디어 찾아온 대회 당일! 과연 두 사람은 추억의 마카롱을 재현할 수 있을 것인가?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_8", /*message*/"　카나타의 라이브를 본 츠무기는 다시 한번 제과에 도전하기로 마음먹고, 카나타와 함께 전국 고등학생 No1 파티시에 선발 대회에 나가기로 했다. 그 소식을 듣고 카나타의 생각이 잘 전해졌다고 느낀 당신은….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_9", /*message*/"　추억의 마카롱으로 전국 고등학생 No1 파티시에 선발 대회에 출전하기로 한 카나타와 츠무기. 드디어 찾아온 대회 당일! 과연 두 사람은 추억의 마카롱을 재현할 수 있을 것인가?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"　Aqours의 모든 것을 꼼꼼하게 기록하는 다이아를 보고 자신도 저렇게 니지가사키 멤버들을 지원해야겠다고 다짐하는 당신.
 보람찬 시간은 눈 깜짝할 사이에 지나가고,
 서머 페스티벌까지 딱 일주일밖에 남지 않았다.");
@@ -6577,7 +6590,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_5", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_6", /*message*/"응원은 참 어려워");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_7", /*message*/"이 마음, 느껴지나요?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_8", /*message*/"포기하지 않고 앞으로!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_9", /*message*/"전국 고등학생 No.1 파티시에 선발 대회!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_9", /*message*/"전국 고등학생 No1 파티시에 선발 대회!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"높아지는 기대");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"이별의 아침");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"축제의 꽃");

@@ -248,6 +248,7 @@ INSERT INTO `m_background` VALUES (/*id*/40283, /*prefab_asset_path*/"", /*backg
 INSERT INTO `m_background` VALUES (/*id*/40284, /*prefab_asset_path*/"", /*background_asset_path*/"W<?");
 INSERT INTO `m_background` VALUES (/*id*/40285, /*prefab_asset_path*/"", /*background_asset_path*/"pzB");
 INSERT INTO `m_background` VALUES (/*id*/40287, /*prefab_asset_path*/"", /*background_asset_path*/"J'e");
+INSERT INTO `m_background` VALUES (/*id*/40288, /*prefab_asset_path*/"", /*background_asset_path*/"w-0");
 INSERT INTO `m_background` VALUES (/*id*/40298, /*prefab_asset_path*/"", /*background_asset_path*/"0W_");
 INSERT INTO `m_background` VALUES (/*id*/40299, /*prefab_asset_path*/"", /*background_asset_path*/"o5K");
 INSERT INTO `m_background` VALUES (/*id*/40300, /*prefab_asset_path*/"", /*background_asset_path*/"PKg");
@@ -277,6 +278,7 @@ INSERT INTO `m_background` VALUES (/*id*/100703, /*prefab_asset_path*/"", /*back
 INSERT INTO `m_background` VALUES (/*id*/100801, /*prefab_asset_path*/"", /*background_asset_path*/"M2R");
 INSERT INTO `m_background` VALUES (/*id*/100802, /*prefab_asset_path*/"", /*background_asset_path*/"Ba(");
 INSERT INTO `m_background` VALUES (/*id*/100803, /*prefab_asset_path*/"", /*background_asset_path*/"QBq");
+INSERT INTO `m_background` VALUES (/*id*/100804, /*prefab_asset_path*/"", /*background_asset_path*/"(FR");
 INSERT INTO `m_background` VALUES (/*id*/100901, /*prefab_asset_path*/"", /*background_asset_path*/"B2g");
 INSERT INTO `m_background` VALUES (/*id*/100902, /*prefab_asset_path*/"", /*background_asset_path*/"k=w");
 INSERT INTO `m_background` VALUES (/*id*/100903, /*prefab_asset_path*/"", /*background_asset_path*/"SpB");

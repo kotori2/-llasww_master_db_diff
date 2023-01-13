@@ -2406,6 +2406,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020902_gl", /*me
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021004", /*message*/"[Live Show Celebration] Use an SP Skill including Shioriko Mifune 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021005", /*message*/"[Live Show Celebration] Use an SP Skill including Mia Taylor 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021006", /*message*/"[Live Show Celebration] Use an SP Skill including Lanzhu Zhong 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021101", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021102", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021103", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -2420,7 +2423,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"Chapter 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"Chapter 7");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31037", /*message*/"新春、ドリーミング初詣");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31037", /*message*/"New Year, New Dreams");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"Event Rules 1/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"Event Rules 2/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"Event Rules 3/4");
@@ -2482,6 +2485,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032_000", /*message*/"Dream Live Parade: Aqours on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033", /*message*/"Dream Live Parade: Nijigasaki on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033_000", /*message*/"Dream Live Parade: Nijigasaki on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33034", /*message*/"Dream Live Parade: SP Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33034_000", /*message*/"Dream Live Parade: SP Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036", /*message*/"Dream Live Parade: ALL STAR");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036_000", /*message*/"Dream Live Parade: ALL STAR");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -3275,6 +3282,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400637", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400638", /*message*/"Clear &quot;Totsuzen GIRL&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400639", /*message*/"Clear &quot;Totsuzen GIRL&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400640", /*message*/"Clear &quot;Totsuzen GIRL&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400641", /*message*/"Clear &quot;Vroom Vroom&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400642", /*message*/"Clear &quot;Vroom Vroom&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400643", /*message*/"Clear &quot;Vroom Vroom&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -4618,6 +4628,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_1", /*message*/"Wha
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023002_2", /*message*/"A Concert in the Forest");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"Soothe the Soul");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032002_1", /*message*/"It Was Just My Imagination, I&apos;m Sure!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032003_1", /*message*/"Rock Climbing Fun!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"Fashion is Hard");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"Relaxing the Mind and Body");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033002_1", /*message*/"Admiring Fall Leaves with You");
@@ -4680,6 +4691,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"In 
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"Dyed a Shade of Kasumin");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"I Wanna Be Spoiled &apos;Cause It&apos;s You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_2", /*message*/"A Different Me");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023003_1", /*message*/"Matching Feelings");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023003_2", /*message*/"Standing Next to You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"I Love Theater!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032002_1", /*message*/"So Hardworking!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"A Precious Time");
@@ -5983,15 +5996,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_7", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_8", /*message*/"Reaching the home stretch, you decide to take turns getting some rest. You head to the nap room with thoughts of what&apos;s to come running through your head when you&apos;re caught off guard.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_45_9", /*message*/"The night ends quickly as you find yourself at the final stretch. You each continue with your respective duties, but will you finish on time?!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_1", /*message*/"You finally catch your breath after finishing the Game Creator Contest in one piece when Karin asks you to accompany her to a photoshoot. Feeling it&apos;s unusual for her to ask, you decide to go with her. What&apos;s different this time?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_10", /*message*/"Kanata and Tsumugi delight in winning the National No. 1 High School Pâtissier Contest&apos;s grand prize with their Macaron of Support, and today&apos;s party to celebrate has a surprise in store.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_10", /*message*/"Kanata and Tsumugi delight in winning the National No1 High School Pâtissier Contest&apos;s grand prize with their Macaron of Support, and today&apos;s party to celebrate has a surprise in store.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_2", /*message*/"The School Idol Club members have their sights set on the future. Seeing this, Kanata is filled with a new determination to devote herself to making a new recipe that will bring her success at the High School Pâtissier Contest.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_3", /*message*/"After hearing Tsumugi&apos;s story, Kanata feels at a loss. Not knowing what to say to Tsumugi, her worries continue to gnaw at her.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_4", /*message*/"Today&apos;s joint live show is a bit out of the way! Lots of fans who found out about the girls from their other activities are there to watch, which gets everyone all fired up. Welcome to the Nijigasaki live show!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_5", /*message*/"You manage to stop Tsumugi just as she is about to leave the venue. The conversation that follows reveals more about her past.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_6", /*message*/"You hear what happened to Tsumugi, and it&apos;s a complex situation without an easy fix. Despite that, you just cannot accept that supporting someone is inherently bad. You&apos;ll have to figure out your thoughts on this tricky matter.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_7", /*message*/"Kanata decides to put on a live show to get her feelings across to Tsumugi. With the preparations all in order, the live show is about to begin!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_8", /*message*/"Kanata&apos;s live show has made Tsumugi take on baking once again, and she agrees to join the National No. 1 High School Pâtissier Contest. What happens to you after seeing Kanata stand up and successfully convey her feelings?");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_9", /*message*/"Kanata and Tsumugi settle on making the macarons from their past in the National No. 1 High School Pâtissier Contest. Now that the big day is finally here, can they truly recreate the macarons just as they remember them?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_8", /*message*/"Kanata&apos;s live show has made Tsumugi take on baking once again, and she agrees to join the National No1 High School Pâtissier Contest. What happens to you after seeing Kanata stand up and successfully convey her feelings?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_46_9", /*message*/"Kanata and Tsumugi settle on making the macarons from their past in the National No1 High School Pâtissier Contest. Now that the big day is finally here, can they truly recreate the macarons just as they remember them?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"After seeing the detail with which Dia records Aqours&apos; activities, you decide you want to do the same for Nijigasaki. You spend your time productively, and before you know it the festival is only a week away.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_10", /*message*/"In the end, it seems that yet again they didn&apos;t find their shine like Chika had talked about. It is only you that may have barely grasped what it is, and with that you leave Numazu.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_2", /*message*/"You take on secretarial duties for the Summer Festival, but something about Chika&apos;s behavior that day catches you off guard. Then you run into Riko, who just so happened to sense the same thing.");
@@ -6457,7 +6470,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_5", /*message*/"Ts
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_6", /*message*/"Supporting is Tricky");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_7", /*message*/"Hoping She Sees It");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_8", /*message*/"Keep Going, Don&apos;t Quit!");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_9", /*message*/"No.1 Pâtissier Contest!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_46_9", /*message*/"No1 Pâtissier Contest!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"Rising Expectations");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"Morning Goodbye");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"Festival Makers");

@@ -2011,6 +2011,7 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2221
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4021202/tex_banner_gacha_sticker_4021202", /*path*/"@t^");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020602/tex_banner_gacha_sticker_4020602", /*path*/"}^o");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230101/tex_banner_gacha_sticker_2230101", /*path*/"4SW");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230102/tex_banner_gacha_sticker_2230102", /*path*/"HGo");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230106/tex_banner_gacha_sticker_2230106", /*path*/"Q|L");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230111/tex_banner_gacha_sticker_2230111", /*path*/"33<");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230112/tex_banner_gacha_sticker_2230112", /*path*/"l&P");
@@ -2018,6 +2019,7 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230114/tex_banner_gacha_sticker_2230114", /*path*/"5Yz");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230115/tex_banner_gacha_sticker_2230115", /*path*/"`)4");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230116/tex_banner_gacha_sticker_2230116", /*path*/"=@g");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230117/tex_banner_gacha_sticker_2230117", /*path*/"/z:");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4010403/tex_banner_gacha_sticker_4010403", /*path*/"2Fj");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_15019_s", /*path*/">N!");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_15020_s", /*path*/"qCT");

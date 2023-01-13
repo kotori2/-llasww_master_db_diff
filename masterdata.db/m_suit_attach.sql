@@ -117,6 +117,7 @@ INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/301093102, /*original_suit
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/302013102, /*original_suit_master_id*/302013002, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/302013103, /*original_suit_master_id*/302013003, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/302023102, /*original_suit_master_id*/302023002, /*attach_key*/"c1");
+INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/302023103, /*original_suit_master_id*/302023003, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/302033101, /*original_suit_master_id*/302033001, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/302033102, /*original_suit_master_id*/302033002, /*attach_key*/"c1");
 INSERT INTO `m_suit_attach` VALUES (/*suit_master_id*/302043102, /*original_suit_master_id*/302043002, /*attach_key*/"c1");

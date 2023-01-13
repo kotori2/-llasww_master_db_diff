@@ -1082,3 +1082,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001072, /*year*/2023, /*month*/1, /*day*/9, /*title*/"お正月の過ごし方", /*published_at*/1673190000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001073, /*year*/2023, /*month*/1, /*day*/10, /*title*/"久しぶりの教室", /*published_at*/1673276400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001074, /*year*/2023, /*month*/1, /*day*/11, /*title*/"おしゃれなコート", /*published_at*/1673362800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001075, /*year*/2023, /*month*/1, /*day*/12, /*title*/"雪の日のテンション", /*published_at*/1673449200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001076, /*year*/2023, /*month*/1, /*day*/13, /*title*/"R3BIRTHライブに向けて", /*published_at*/1673535600);

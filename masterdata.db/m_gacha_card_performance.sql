@@ -414,6 +414,7 @@ INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400022004, /*vo
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400022005, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400022006, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400022007, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
+INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400022008, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400023001, /*voice*/"vo_ca_4000230016", /*serif*/"k.gacha_vo_ca_4000230016", /*sign_movie_asset_path*/"\4,");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400023002, /*voice*/"vo_ca_4000230026", /*serif*/"k.gacha_vo_ca_4000230026", /*sign_movie_asset_path*/"\4,");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400023003, /*voice*/"vo_ca_4000230036", /*serif*/"k.gacha_vo_ca_4000230036", /*sign_movie_asset_path*/"\4,");
@@ -481,6 +482,7 @@ INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400063004, /*vo
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400063005, /*voice*/"vo_ca_4000630056", /*serif*/"k.gacha_vo_ca_4000630056", /*sign_movie_asset_path*/"jGc");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400063006, /*voice*/"vo_ca_4000630066", /*serif*/"k.gacha_vo_ca_4000630066", /*sign_movie_asset_path*/"jGc");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400063007, /*voice*/"vo_ca_4000630076", /*serif*/"k.gacha_vo_ca_4000630076", /*sign_movie_asset_path*/"jGc");
+INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400063008, /*voice*/"vo_ca_4000630086", /*serif*/"k.gacha_vo_ca_4000630086", /*sign_movie_asset_path*/"jGc");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400072001, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400072002, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/400072003, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
@@ -562,6 +564,7 @@ INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401023005, /*vo
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401023006, /*voice*/"vo_ca_4010230066", /*serif*/"k.gacha_vo_ca_4010230066", /*sign_movie_asset_path*/"CXl");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401023007, /*voice*/"vo_ca_4010230076", /*serif*/"k.gacha_vo_ca_4010230076", /*sign_movie_asset_path*/"CXl");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401023008, /*voice*/"vo_ca_4010230086", /*serif*/"k.gacha_vo_ca_4010230086", /*sign_movie_asset_path*/"CXl");
+INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401023009, /*voice*/"vo_ca_4010230096", /*serif*/"k.gacha_vo_ca_4010230096", /*sign_movie_asset_path*/"CXl");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401032001, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401032002, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401032003, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
@@ -647,6 +650,7 @@ INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401082005, /*vo
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401082006, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401082007, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401082008, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
+INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401082009, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401083001, /*voice*/"vo_ca_4010830016", /*serif*/"k.gacha_vo_ca_4010830016", /*sign_movie_asset_path*/"}:+");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401083002, /*voice*/"vo_ca_4010830026", /*serif*/"k.gacha_vo_ca_4010830026", /*sign_movie_asset_path*/"}:+");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/401083003, /*voice*/"vo_ca_4010830036", /*serif*/"k.gacha_vo_ca_4010830036", /*sign_movie_asset_path*/"}:+");
@@ -707,6 +711,7 @@ INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402032004, /*vo
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402032005, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402032006, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402032007, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
+INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402032008, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402033001, /*voice*/"vo_ca_4020330016", /*serif*/"k.gacha_vo_ca_4020330016", /*sign_movie_asset_path*/"ZpL");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402033002, /*voice*/"vo_ca_4020330026", /*serif*/"k.gacha_vo_ca_4020330026", /*sign_movie_asset_path*/"ZpL");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402033003, /*voice*/"vo_ca_4020330036", /*serif*/"k.gacha_vo_ca_4020330036", /*sign_movie_asset_path*/"ZpL");
@@ -746,6 +751,7 @@ INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402053005, /*vo
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402053006, /*voice*/"vo_ca_4020530066", /*serif*/"k.gacha_vo_ca_4020530066", /*sign_movie_asset_path*/"jC.");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402053007, /*voice*/"vo_ca_4020530076", /*serif*/"k.gacha_vo_ca_4020530076", /*sign_movie_asset_path*/"jC.");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402053008, /*voice*/"vo_ca_4020530086", /*serif*/"k.gacha_vo_ca_4020530086", /*sign_movie_asset_path*/"jC.");
+INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402053009, /*voice*/"vo_ca_4020530096", /*serif*/"k.gacha_vo_ca_4020530096", /*sign_movie_asset_path*/"jC.");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402062001, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402062002, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");
 INSERT INTO `m_gacha_card_performance` VALUES (/*card_master_id*/402062003, /*voice*/"", /*serif*/"", /*sign_movie_asset_path*/"");

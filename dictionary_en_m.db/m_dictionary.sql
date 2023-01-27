@@ -2429,6 +2429,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021006", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021101", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021102", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021103", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021304", /*message*/"[Live Show Celebration] Use an SP Skill including Ayumu Uehara 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021305", /*message*/"[Live Show Celebration] Use an SP Skill including Shizuku Osaka 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021306", /*message*/"[Live Show Celebration] Use an SP Skill including Setsuna Yuki 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

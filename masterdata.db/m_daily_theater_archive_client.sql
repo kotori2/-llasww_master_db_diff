@@ -1093,3 +1093,8 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001083, /*year*/2023, /*month*/1, /*day*/20, /*title*/"選び合いっこ", /*published_at*/1674140400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001084, /*year*/2023, /*month*/1, /*day*/21, /*title*/"甘い照れ隠し", /*published_at*/1674226800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001085, /*year*/2023, /*month*/1, /*day*/22, /*title*/"すてきなものとの出会い", /*published_at*/1674313200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001086, /*year*/2023, /*month*/1, /*day*/23, /*title*/"ハッピーバースデー、かすみちゃん！", /*published_at*/1674399600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001087, /*year*/2023, /*month*/1, /*day*/24, /*title*/"ナイショの尾行ミッション", /*published_at*/1674486000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001088, /*year*/2023, /*month*/1, /*day*/25, /*title*/"似た者同士", /*published_at*/1674572400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001089, /*year*/2023, /*month*/1, /*day*/26, /*title*/"大好きな仲間へ", /*published_at*/1674658800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001090, /*year*/2023, /*month*/1, /*day*/27, /*title*/"お鍋パーティー開催告知", /*published_at*/1674745200);

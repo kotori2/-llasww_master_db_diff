@@ -2432,6 +2432,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021006", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021101", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021102", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021103", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021304", /*message*/"[라이브 개최 기념] 우에하라 아유무이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021305", /*message*/"[라이브 개최 기념] 오사카 시즈쿠이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021306", /*message*/"[라이브 개최 기념] 유키 세츠나이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -5630,7 +5633,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_description_99993", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_1", /*message*/"첫 번째 시즌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_2", /*message*/"두 번째 시즌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_3", /*message*/"세 번째 시즌");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_4", /*message*/"넷째 시즌");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_4", /*message*/"넷번째 시즌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99991", /*message*/"인터미션");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99992", /*message*/"인터미션");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99993", /*message*/"인터미션");

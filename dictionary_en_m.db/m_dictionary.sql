@@ -4358,6 +4358,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_1", /*message*/"Can
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_2", /*message*/"Closer Than Anyone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013002_1", /*message*/"The Mummy Hunter Gets Mummified");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013002_2", /*message*/"The Allure of a Proper Lady");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013003_1", /*message*/"With You in the Snow");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013003_2", /*message*/"Asian Night");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200022001_1", /*message*/"Eli&apos;s Dance Lesson");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200022002_1", /*message*/"The Person That Keeps Coming to Mind");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_1", /*message*/"Hand in Hand");
@@ -4459,6 +4461,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_2", /*message*/"I&a
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062001_1", /*message*/"The Chaos within the Crystal");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062002_1", /*message*/"Little Demon Training");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062003_1", /*message*/"I Can&apos;t Wait");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062004_1", /*message*/"Yummy Food for Two");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"A Fallen Angel&apos;s Elegant Day Off");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_2", /*message*/"Fallen Angel Friend");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063002_1", /*message*/"The Clothes You Picked for Me");
@@ -4530,6 +4533,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202063001_1", /*message*/"A T
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202063001_2", /*message*/"A Sleeping Live Show?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202063002_1", /*message*/"The Basics Are Crucial!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202063002_2", /*message*/"Take a Look-See!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202063003_1", /*message*/"A Lesson with You");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202063003_2", /*message*/"Something Different about Me");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202072001_1", /*message*/"Incredible on Every Watch");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202073001_1", /*message*/"Heading Out by Train!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202073001_2", /*message*/"Let Me Hear You!");
@@ -4539,6 +4544,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202073003_1", /*message*/"Luc
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202073003_2", /*message*/"Magical Setsuna!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202082001_1", /*message*/"Good Morning, Karin!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202082002_1", /*message*/"A Soothing Storyteller");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202082003_1", /*message*/"Nostalgic Memories of Home");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_1", /*message*/"Flower of Smiles");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_2", /*message*/"Let&apos;s Dance Together");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_1", /*message*/"To the Penny Candy Store!");

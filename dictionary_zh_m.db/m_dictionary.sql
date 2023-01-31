@@ -2430,6 +2430,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021006", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021101", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021102", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021103", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021201", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021202", /*message*/"[大型合作演唱會課題]完成10次「KiRa-KiRa Sensation!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021203", /*message*/"[大型合作演唱會課題]完成10次「Kimi no Hitomi o Meguru Boken」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021204", /*message*/"[大型合作演唱會課題]完成10次「My Own Fairy-Tale」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021304", /*message*/"[演唱會開演紀念]使用20次發動成員包含上原步夢的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021305", /*message*/"[演唱會開演紀念]使用20次發動成員包含櫻坂雫的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021306", /*message*/"[演唱會開演紀念]使用20次發動成員包含優木雪菜的組合技");

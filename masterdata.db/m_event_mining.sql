@@ -4,3 +4,4 @@ CREATE TABLE m_event_mining(
   shop_item_inline_image TEXT NOT NULL,
   PRIMARY KEY (id)
 );
+INSERT INTO `m_event_mining` VALUES (/*id*/31038, /*title*/"m.event_mining_title_31038", /*shop_item_inline_image*/"k.event_mining_shop_item_inline_image_31038");

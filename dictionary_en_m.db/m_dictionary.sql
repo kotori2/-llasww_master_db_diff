@@ -4233,6 +4233,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300030", /*message*/"Clear &quot;New Romantic Sailors&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300031", /*message*/"Clear &quot;Amazing Travel DNA&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300032", /*message*/"Clear &quot;CHASE!&quot; on Expert difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300033", /*message*/"Clear &quot;Evergreen&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"Clear &quot;Yume no Tobira&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"Clear &quot;A song for You! You? You!!&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"Clear &quot;Koini Naritai AQUARIUM&quot; on Challenge difficulty with Rank S.");

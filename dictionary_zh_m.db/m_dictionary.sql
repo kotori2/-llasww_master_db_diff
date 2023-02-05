@@ -4234,6 +4234,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300030", /*message*/"以S RANK通過難易度［高級＋］的「New Romantic Sailors」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300031", /*message*/"以S RANK通過難易度［高級＋］的「Amazing Travel DNA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300032", /*message*/"以S RANK通過難易度［高級＋］的「CHASE!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300033", /*message*/"以S RANK通過難易度［高級＋］的「Evergreen」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"以S RANK通過難易度［挑戰級］的「Yume no Tobira」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"以S RANK通過難易度［挑戰級］的「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"以S RANK通過難易度［挑戰級］的「Koini Naritai AQUARIUM」");

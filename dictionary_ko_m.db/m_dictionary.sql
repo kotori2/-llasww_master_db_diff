@@ -4236,6 +4236,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300030", /*message*/"「New Romantic Sailors」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300031", /*message*/"「Amazing Travel DNA」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300032", /*message*/"「CHASE!」의 ［상급+］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300033", /*message*/"「Evergreen」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「Yume no Tobira」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"「A song for You! You? You!!」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"「Koini Naritai AQUARIUM」의 ［챌린지］ 난이도를 S랭크로 클리어");

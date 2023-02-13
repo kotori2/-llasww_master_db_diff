@@ -2463,6 +2463,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021305", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021306", /*message*/"[ฉลองจัดไลฟ์] ใช้ท่าพิเศษ SP ที่มียูกิ เซ็ตสึนะ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021403", /*message*/"[ฉลองวางจำหน่าย CD] เคลียร์ &quot;HAPPY PARTY TRAIN&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021404", /*message*/"[ฉลองวางจำหน่าย CD] ใช้ท่าพิเศษ SP ที่มีมัตสึอุระ คานัน 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021501", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021502", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021503", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -2541,6 +2544,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33033_000", /*message*/"ดรีมไลฟ์พาเรด -นิจิกาคุออนสเตจ-");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33034", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท SP ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33034_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท SP ออนสเตจ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33035", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Guard ออนสเตจ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33035_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Guard ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036", /*message*/"ドリームライブパレード- ALL STAR -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036_000", /*message*/"ドリームライブパレード- ALL STAR -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
@@ -4687,6 +4692,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"ข
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"ท่องเที่ยวด้วยรอยยิ้มสองต่อสอง♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093002_1", /*message*/"ตอนหนาวๆ ก็ต้อง...เนอะ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093002_2", /*message*/"ภูตหิมะ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093003_1", /*message*/"甘いサプライズ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093003_2", /*message*/"チョコレートの意味");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301012001_1", /*message*/"ถ่ายให้น่ารักๆ เลยนะ♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"เธอชอบตรงไหนเหรอ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"สัตว์ประหลาดสิงโตจิกัจจิ!");
@@ -4818,6 +4825,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_2", /*message*/"ด
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093003_1", /*message*/"ความ &quot;อบอุ่น&quot; นี้มาจากไหนกันนะ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093003_2", /*message*/"ยินดีต้อนรับสู่สวนของเจ้าเหมียว");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"แม้ไม่ชำนาญแต่ก็มุ่งหน้าตรงไป");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102002_1", /*message*/"本気のお菓子作り");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_1", /*message*/"รอยยิ้มจากความอร่อย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_2", /*message*/"ท่ามกลางบรรยากาศที่เงียบสงบ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302112001_1", /*message*/"รีเควสต์");

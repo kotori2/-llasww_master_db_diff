@@ -1109,3 +1109,9 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001099, /*year*/2023, /*month*/2, /*day*/5, /*title*/"ハッピーバースデー、エマさん！", /*published_at*/1675522800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001100, /*year*/2023, /*month*/2, /*day*/6, /*title*/"抹茶の日", /*published_at*/1675609200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001101, /*year*/2023, /*month*/2, /*day*/7, /*title*/"活かせ！！", /*published_at*/1675695600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001102, /*year*/2023, /*month*/2, /*day*/8, /*title*/"友好を深めよう！", /*published_at*/1675782000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001103, /*year*/2023, /*month*/2, /*day*/9, /*title*/"みかんの食べ方？", /*published_at*/1675868400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001104, /*year*/2023, /*month*/2, /*day*/10, /*title*/"ハッピーバースデー、果南ちゃん！", /*published_at*/1675954800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001105, /*year*/2023, /*month*/2, /*day*/11, /*title*/"Aqoursライブ１日目！", /*published_at*/1676041200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001106, /*year*/2023, /*month*/2, /*day*/12, /*title*/"Aqoursライブ２日目！", /*published_at*/1676127600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001107, /*year*/2023, /*month*/2, /*day*/13, /*title*/"ラッピングまで気を抜かず！", /*published_at*/1676214000);

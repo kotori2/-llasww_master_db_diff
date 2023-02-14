@@ -1115,3 +1115,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001105, /*year*/2023, /*month*/2, /*day*/11, /*title*/"Aqoursライブ１日目！", /*published_at*/1676041200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001106, /*year*/2023, /*month*/2, /*day*/12, /*title*/"Aqoursライブ２日目！", /*published_at*/1676127600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001107, /*year*/2023, /*month*/2, /*day*/13, /*title*/"ラッピングまで気を抜かず！", /*published_at*/1676214000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001108, /*year*/2023, /*month*/2, /*day*/14, /*title*/"ハッピーバレンタイン！", /*published_at*/1676300400);

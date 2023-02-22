@@ -56,7 +56,6 @@ INSERT INTO `m_help_detail` VALUES (/*id*/45, /*help_category_id*/3, /*display_o
 INSERT INTO `m_help_detail` VALUES (/*id*/46, /*help_category_id*/3, /*display_order*/2, /*topic*/"k.help_detail_topc_139", /*text*/"k.help_detail_text_139");
 INSERT INTO `m_help_detail` VALUES (/*id*/47, /*help_category_id*/4, /*display_order*/11, /*topic*/"k.help_detail_topc_43", /*text*/"k.help_detail_text_43");
 INSERT INTO `m_help_detail` VALUES (/*id*/48, /*help_category_id*/4, /*display_order*/10, /*topic*/"k.help_detail_topc_44", /*text*/"k.help_detail_text_44");
-INSERT INTO `m_help_detail` VALUES (/*id*/49, /*help_category_id*/4, /*display_order*/9, /*topic*/"k.help_detail_topc_44", /*text*/"k.help_detail_text_231");
 INSERT INTO `m_help_detail` VALUES (/*id*/50, /*help_category_id*/4, /*display_order*/8, /*topic*/"k.help_detail_topc_45", /*text*/"k.help_detail_text_156");
 INSERT INTO `m_help_detail` VALUES (/*id*/52, /*help_category_id*/4, /*display_order*/6, /*topic*/"k.help_detail_topc_180", /*text*/"k.help_detail_text_217");
 INSERT INTO `m_help_detail` VALUES (/*id*/53, /*help_category_id*/4, /*display_order*/5, /*topic*/"k.help_detail_topc_178", /*text*/"k.help_detail_text_215");
@@ -132,7 +131,6 @@ INSERT INTO `m_help_detail` VALUES (/*id*/138, /*help_category_id*/13, /*display
 INSERT INTO `m_help_detail` VALUES (/*id*/139, /*help_category_id*/13, /*display_order*/3, /*topic*/"k.help_detail_topc_123", /*text*/"k.help_detail_text_211");
 INSERT INTO `m_help_detail` VALUES (/*id*/142, /*help_category_id*/14, /*display_order*/16, /*topic*/"k.help_detail_topc_125", /*text*/"k.help_detail_text_125");
 INSERT INTO `m_help_detail` VALUES (/*id*/143, /*help_category_id*/14, /*display_order*/15, /*topic*/"k.help_detail_topc_126", /*text*/"k.help_detail_text_160");
-INSERT INTO `m_help_detail` VALUES (/*id*/144, /*help_category_id*/14, /*display_order*/14, /*topic*/"k.help_detail_topc_127", /*text*/"k.help_detail_text_127");
 INSERT INTO `m_help_detail` VALUES (/*id*/145, /*help_category_id*/14, /*display_order*/12, /*topic*/"k.help_detail_topc_128", /*text*/"k.help_detail_text_153");
 INSERT INTO `m_help_detail` VALUES (/*id*/146, /*help_category_id*/14, /*display_order*/11, /*topic*/"k.help_detail_topc_129", /*text*/"k.help_detail_text_129");
 INSERT INTO `m_help_detail` VALUES (/*id*/147, /*help_category_id*/14, /*display_order*/10, /*topic*/"k.help_detail_topc_130", /*text*/"k.help_detail_text_130");
@@ -188,3 +186,5 @@ INSERT INTO `m_help_detail` VALUES (/*id*/204, /*help_category_id*/5, /*display_
 INSERT INTO `m_help_detail` VALUES (/*id*/205, /*help_category_id*/5, /*display_order*/3, /*topic*/"k.help_detail_topc_49", /*text*/"k.help_detail_text_252");
 INSERT INTO `m_help_detail` VALUES (/*id*/206, /*help_category_id*/5, /*display_order*/2, /*topic*/"k.help_detail_topc_50", /*text*/"k.help_detail_text_253");
 INSERT INTO `m_help_detail` VALUES (/*id*/208, /*help_category_id*/17, /*display_order*/1, /*topic*/"k.help_detail_topc_175", /*text*/"k.help_detail_text_256");
+INSERT INTO `m_help_detail` VALUES (/*id*/209, /*help_category_id*/4, /*display_order*/9, /*topic*/"k.help_detail_topc_44", /*text*/"k.help_detail_text_257");
+INSERT INTO `m_help_detail` VALUES (/*id*/210, /*help_category_id*/14, /*display_order*/14, /*topic*/"k.help_detail_topc_127", /*text*/"k.help_detail_text_258");

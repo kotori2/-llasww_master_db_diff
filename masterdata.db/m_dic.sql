@@ -862,8 +862,10 @@ INSERT INTO `m_dic` VALUES (/*id*/180039, /*text*/"k.live_friend_select_ls_209_k
 INSERT INTO `m_dic` VALUES (/*id*/190000, /*text*/"k.live_friend_select_l_101");
 INSERT INTO `m_dic` VALUES (/*id*/190001, /*text*/"k.live_friend_select_l_401");
 INSERT INTO `m_dic` VALUES (/*id*/190002, /*text*/"k.live_friend_select_ls_242");
-INSERT INTO `m_dic` VALUES (/*id*/190003, /*text*/"k.live_voltage_ranking_l_101");
-INSERT INTO `m_dic` VALUES (/*id*/190004, /*text*/"k.live_voltage_ranking_l_102");
+INSERT INTO `m_dic` VALUES (/*id*/190003, /*text*/"k.live_friend_select_l_cos_001");
+INSERT INTO `m_dic` VALUES (/*id*/190004, /*text*/"k.live_friend_select_l_cos_002");
+INSERT INTO `m_dic` VALUES (/*id*/190005, /*text*/"k.live_voltage_ranking_l_101");
+INSERT INTO `m_dic` VALUES (/*id*/190006, /*text*/"k.live_voltage_ranking_l_102");
 INSERT INTO `m_dic` VALUES (/*id*/200000, /*text*/"k.live_before_popup_l_p901");
 INSERT INTO `m_dic` VALUES (/*id*/200001, /*text*/"k.live_before_popup_l_p902");
 INSERT INTO `m_dic` VALUES (/*id*/200002, /*text*/"k.live_before_popup_l_p903");

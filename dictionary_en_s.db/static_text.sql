@@ -287,6 +287,7 @@ INSERT INTO `static_text` VALUES (/*textid*/3726143047312493557, /*guid*/"2af642
 INSERT INTO `static_text` VALUES (/*textid*/437104843033407502, /*guid*/"2af64272bc619457e82b9257701bbffd", /*message*/"Song Info");
 INSERT INTO `static_text` VALUES (/*textid*/7317346494931564631, /*guid*/"2af64272bc619457e82b9257701bbffd", /*message*/"Achievement Reward");
 INSERT INTO `static_text` VALUES (/*textid*/905151471148414056, /*guid*/"2af64272bc619457e82b9257701bbffd", /*message*/"Appeal Chance Info");
+INSERT INTO `static_text` VALUES (/*textid*/8149668263310886980, /*guid*/"2b524b55fc788c549b5a425e6033c2cc", /*message*/"Select");
 INSERT INTO `static_text` VALUES (/*textid*/1007431995, /*guid*/"2b5e4864d6f96446db5da136a18ec3e2", /*message*/"Change Position");
 INSERT INTO `static_text` VALUES (/*textid*/1699093147, /*guid*/"2b5e4864d6f96446db5da136a18ec3e2", /*message*/"Edit All");
 INSERT INTO `static_text` VALUES (/*textid*/1810054061, /*guid*/"2b5e4864d6f96446db5da136a18ec3e2", /*message*/"Use Show Formation");
@@ -1289,6 +1290,10 @@ INSERT INTO `static_text` VALUES (/*textid*/6298234228079184306, /*guid*/"c7df28
 INSERT INTO `static_text` VALUES (/*textid*/64994188, /*guid*/"c7df28794f7354dfc93a5d6981f0be9f", /*message*/"Sort");
 INSERT INTO `static_text` VALUES (/*textid*/746527785, /*guid*/"c7df28794f7354dfc93a5d6981f0be9f", /*message*/"Individual");
 INSERT INTO `static_text` VALUES (/*textid*/8660775035244031406, /*guid*/"c7df28794f7354dfc93a5d6981f0be9f", /*message*/"Duration");
+INSERT INTO `static_text` VALUES (/*textid*/128844942, /*guid*/"c8222da0b4a2f224b9fc249b890a1e78", /*message*/"Intermediate");
+INSERT INTO `static_text` VALUES (/*textid*/443578094, /*guid*/"c8222da0b4a2f224b9fc249b890a1e78", /*message*/"Select");
+INSERT INTO `static_text` VALUES (/*textid*/731672820, /*guid*/"c8222da0b4a2f224b9fc249b890a1e78", /*message*/"Beginner");
+INSERT INTO `static_text` VALUES (/*textid*/807788769, /*guid*/"c8222da0b4a2f224b9fc249b890a1e78", /*message*/"Advanced");
 INSERT INTO `static_text` VALUES (/*textid*/114135628741789652, /*guid*/"c890a188e44c1894cbb3a992251b0efe", /*message*/"Training");
 INSERT INTO `static_text` VALUES (/*textid*/1088557555, /*guid*/"c896de1b26446498a9fe7f59c046b1a7", /*message*/"Event P");
 INSERT INTO `static_text` VALUES (/*textid*/335285378417004766, /*guid*/"c896de1b26446498a9fe7f59c046b1a7", /*message*/"Entered Ranking!");

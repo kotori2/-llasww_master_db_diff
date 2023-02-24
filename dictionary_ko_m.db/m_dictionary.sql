@@ -3371,6 +3371,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400652", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400653", /*message*/"Folklore 〜Kanki no Uta〜 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400654", /*message*/"Folklore 〜Kanki no Uta〜 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400655", /*message*/"Folklore 〜Kanki no Uta〜 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400656", /*message*/"Shadow Effect 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400657", /*message*/"Shadow Effect 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400658", /*message*/"Shadow Effect 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400659", /*message*/"Fly into the sky 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400660", /*message*/"Fly into the sky 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400661", /*message*/"Fly into the sky 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");

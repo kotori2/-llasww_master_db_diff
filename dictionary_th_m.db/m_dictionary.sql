@@ -3378,6 +3378,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400652", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400653", /*message*/"เคลียร์ &quot;Folklore 〜Kanki no Uta〜&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400654", /*message*/"เคลียร์ &quot;Folklore 〜Kanki no Uta〜&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400655", /*message*/"เคลียร์ &quot;Folklore 〜Kanki no Uta〜&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400656", /*message*/"เคลียร์ &quot;Shadow Effect&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400657", /*message*/"เคลียร์ &quot;Shadow Effect&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400658", /*message*/"เคลียร์ &quot;Shadow Effect&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400659", /*message*/"เคลียร์ &quot;Fly into the sky&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400660", /*message*/"เคลียร์ &quot;Fly into the sky&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400661", /*message*/"เคลียร์ &quot;Fly into the sky&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

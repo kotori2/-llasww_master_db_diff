@@ -3368,6 +3368,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400652", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400653", /*message*/"Clear &quot;Folklore 〜Kanki no Uta〜&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400654", /*message*/"Clear &quot;Folklore 〜Kanki no Uta〜&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400655", /*message*/"Clear &quot;Folklore 〜Kanki no Uta〜&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400656", /*message*/"Clear &quot;Shadow Effect&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400657", /*message*/"Clear &quot;Shadow Effect&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400658", /*message*/"Clear &quot;Shadow Effect&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400659", /*message*/"Clear &quot;Fly into the sky&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400660", /*message*/"Clear &quot;Fly into the sky&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400661", /*message*/"Clear &quot;Fly into the sky&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

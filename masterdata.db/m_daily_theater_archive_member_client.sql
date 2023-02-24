@@ -2501,3 +2501,9 @@ INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/
 INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1001114, /*member_master_id*/206);
 INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1001115, /*member_master_id*/1);
 INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1001115, /*member_master_id*/104);
+INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1001116, /*member_master_id*/101);
+INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1001116, /*member_master_id*/207);
+INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1001117, /*member_master_id*/106);
+INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1001117, /*member_master_id*/205);
+INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1001118, /*member_master_id*/8);
+INSERT INTO `m_daily_theater_archive_member_client` VALUES (/*daily_theater_id*/1001118, /*member_master_id*/108);

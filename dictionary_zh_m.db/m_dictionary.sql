@@ -2733,6 +2733,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800041", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800042", /*message*/"觀賞完第45章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800043", /*message*/"觀賞完第46章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800044", /*message*/"觀賞完第47章劇情");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800045", /*message*/"觀賞完第48章劇情");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"觀賞完1話默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"觀賞完5話默契篇章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"觀賞完10話默契篇章");
@@ -3375,6 +3376,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400658", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400659", /*message*/"完成10次「Fly into the sky」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400660", /*message*/"完成50次「Fly into the sky」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400661", /*message*/"完成100次「Fly into the sky」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400662", /*message*/"完成10次「Diamond Princess no Yuutsu」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400663", /*message*/"完成50次「Diamond Princess no Yuutsu」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400664", /*message*/"完成100次「Diamond Princess no Yuutsu」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400665", /*message*/"完成10次「Perfect SEKAI」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400666", /*message*/"完成50次「Perfect SEKAI」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400667", /*message*/"完成100次「Perfect SEKAI」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400668", /*message*/"完成10次「DREAMY COLOR」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400669", /*message*/"完成50次「DREAMY COLOR」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400670", /*message*/"完成100次「DREAMY COLOR」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");
@@ -5743,6 +5753,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_44", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_45", /*message*/"48小時的加油歌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_46", /*message*/"伸出手回應吧");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_47", /*message*/"選擇虹咲的理由");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_48", /*message*/"其他學科課程體驗計畫");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"了解μ&apos;s的祕密！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"最後的勝負結果");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
@@ -5790,6 +5801,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_44", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_45", /*message*/"第45章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_46", /*message*/"第46章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_47", /*message*/"第47章");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_48", /*message*/"第48章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"第5章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"第6章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"第7章");
@@ -7944,6 +7956,44 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_47_9", /*message*/"
 眾人興奮地討論這下便能製作出
 令人看了就想讀虹咲的手冊，
 不過……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_1", /*message*/"你注意到學校導覽手冊缺乏的要素是
+各學科的具體課程內容。
+在你提出這一點後，
+栞子似乎想到一個點子……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_10", /*message*/"同好會成員各自享受著
+其他學科課程體驗計畫，
+特別是愛想要每個學科都去體驗看看。
+與此同時，愛聽說美里住院了，
+於是她……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_2", /*message*/"栞子提議舉辦
+「其他學科課程體驗計畫」，
+為了讓這個提案通過，
+眾人開始製作申請書。
+而令人好奇的體驗計畫內容是……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_3", /*message*/"你在前往同好會的途中，
+看見雫和同學在社團教室大樓前
+正聊著什麼……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_4", /*message*/"霞和璃奈報名參加
+國際交流科的體驗計畫。
+在去體驗之前，
+兩人希望能多少變得比較擅長英文一點，
+於是前去拜託米雅，結果……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_5", /*message*/"霞和璃奈向米雅請教英文。
+兩人將所學銘記在心，
+今天終於要去參加
+國際交流科的體驗計畫了！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_6", /*message*/"經歷國際交流科的體驗計畫後，
+霞與璃奈了解到雫有多麼厲害。
+而雫選擇就讀這個學科的理由
+也令她們好奇……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_7", /*message*/"某天早上上課時，
+最近忙於模特兒活動的果林總覺得很睏，
+結果……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_8", /*message*/"今天是生活設計科舉辦體驗計畫的日子，
+而在這一天來到生活設計科的人是……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_9", /*message*/"生活設計科的體驗計畫是改造舊衣服。
+參加計畫的艾瑪、嵐珠與果林、彼方一起
+打造了什麼樣的服裝呢……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"看到把跟Aqours成員相關的事情記錄
 得很詳細的黛雅，讓你也想用這種
 方式來輔助虹咲的成員。
@@ -8712,6 +8762,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_7", /*message*/"越了解就越……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_8", /*message*/"慢慢地成長、再成長");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_9", /*message*/"手冊逐漸成形！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_1", /*message*/"想體驗未曾體驗過的事！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_10", /*message*/"實際體驗");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_2", /*message*/"想知道其他學科的樂趣！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_3", /*message*/"那雙眼眸閃閃發亮的原因");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_4", /*message*/"請傳授秘技！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_5", /*message*/"體驗國際交流科！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_6", /*message*/"寄託著我的未來的選擇");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_7", /*message*/"讓我選擇！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_8", /*message*/"朝生活設計科GO！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_9", /*message*/"筆直向前的道路");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"滿心期待");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"離別的早晨");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"打造慶典的人");

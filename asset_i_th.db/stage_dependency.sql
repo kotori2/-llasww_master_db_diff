@@ -211,3 +211,7 @@ INSERT INTO `stage_dependency` VALUES (/*asset_path*/"jdm", /*dependency*/"§?D#
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"jdm", /*dependency*/"§j^");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"jdm", /*dependency*/"§f~");
 INSERT INTO `stage_dependency` VALUES (/*asset_path*/"jdm", /*dependency*/"§{;");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"z*M", /*dependency*/"§?D#");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"z*M", /*dependency*/"§v(U");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"z*M", /*dependency*/"§j^");
+INSERT INTO `stage_dependency` VALUES (/*asset_path*/"z*M", /*dependency*/"§{;");

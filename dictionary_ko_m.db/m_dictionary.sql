@@ -2735,6 +2735,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800041", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800042", /*message*/"스토리 45장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800043", /*message*/"스토리 46장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800044", /*message*/"스토리 47장 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800045", /*message*/"스토리 48장 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"인연 에피소드 1화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"인연 에피소드 5화 보기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"인연 에피소드 10화 보기");
@@ -3377,6 +3378,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400658", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400659", /*message*/"Fly into the sky 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400660", /*message*/"Fly into the sky 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400661", /*message*/"Fly into the sky 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400662", /*message*/"Diamond Princess no Yuutsu 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400663", /*message*/"Diamond Princess no Yuutsu 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400664", /*message*/"Diamond Princess no Yuutsu 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400665", /*message*/"Perfect SEKAI 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400666", /*message*/"Perfect SEKAI 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400667", /*message*/"Perfect SEKAI 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400668", /*message*/"DREAMY COLOR 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400669", /*message*/"DREAMY COLOR 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400670", /*message*/"DREAMY COLOR 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -5678,6 +5688,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_44", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_45", /*message*/"48시간의 응원가");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_46", /*message*/"내미는 손길, 부응하는 마음");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_47", /*message*/"니지가사키를 선택한 이유");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_48", /*message*/"타 학과 수업 체험 프로그램");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"μ&apos;s의 비밀을 찾아라!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"승부의 향방");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
@@ -5725,6 +5736,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_44", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_45", /*message*/"제45장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_46", /*message*/"제46장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_47", /*message*/"제47장");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_48", /*message*/"제48장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"제5장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"제6장");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"제7장");
@@ -6204,6 +6216,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_47_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_47_7", /*message*/"　니지가사키의 장점에 관한 정보도 이제 제법 많이 모였다. 시오리코에게 제출하기 전에 일단 지금까지 조사한 내용을 다시 살펴봤더니….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_47_8", /*message*/"　학생회 업무를 도와주러 학생회실을 찾은 세츠나와 당신. 그러나 그곳에는 아무도 없었는데….");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_47_9", /*message*/"　최근 며칠간 학교의 장점을 이것저것 찾아다니면서 니지가사키는 정말 멋진 곳이라는 사실을 다시금 실감한 동호회 멤버들. 이제는 니지가사키에 들어오고 싶어지는 팸플릿을 만들 수 있겠다며 흥분을 감추지 못하는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_1", /*message*/"　각 학과에서 어떤 수업을 하는지에 대한 구체적인 정보가 학교 안내 팸플릿에 부족하다고 깨달은 당신. 그 말을 들은 시오리코는 뭔가 생각이 떠오른 것 같은데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_10", /*message*/"　저마다 타 학과 수업 체험 프로그램을 즐기는 동호회 멤버들. 특히 아이는 모든 학과 정복을 노리고 있었다. 그러던 중, 아이는 미사토의 입원 소식을 듣고….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_2", /*message*/"　&apos;타 학과 수업 체험 프로그램&apos;을 제안한 시오리코는 기획을 통과시키기 위해 요청서를 작성하게 되었다. 대망의 체험 프로그램, 과연 그 내용은…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_3", /*message*/"　당신은 동호회 부실에 가던 중, 부실 건물 앞에서 시즈쿠가 반 친구와 이야기를 나누는 모습을 목격한다.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_4", /*message*/"　국제교류과 체험 프로그램을 신청한 카스미와 리나. 두 사람은 수업에 들어가기 전에 조금이라도 영어 실력을 기르고 싶어서 미아에게 부탁하는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_5", /*message*/"　카스미와 리나는 미아의 가르침을 가슴에 품고, 오늘 드디어 국제교류과 체험 프로그램에 도전한다!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_6", /*message*/"　국제교류과 체험 프로그램을 경험하고 시즈쿠가 얼마나 대단한지 알게 된 카스미와 리나는, 시즈쿠가 이 과를 선택한 이유가 궁금해졌는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_7", /*message*/"　어느 날 오전 수업 중, 요즘 모델 활동으로 바쁜 카린은 왠지 졸려 보이는데….");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_8", /*message*/"　오늘은 라이프 디자인과 체험 프로그램이 열리는 날이다. 이날 라이프 디자인과를 찾은 사람은…?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_9", /*message*/"　라이프 스타일과 체험 프로그램 내용은 헌 옷 리폼이었다. 해당 프로그램에 참여한 엠마와 란쥬가 카린, 카나타와 함께 만든 의상은…?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"　Aqours의 모든 것을 꼼꼼하게 기록하는 다이아를 보고 자신도 저렇게 니지가사키 멤버들을 지원해야겠다고 다짐하는 당신.
 보람찬 시간은 눈 깜짝할 사이에 지나가고,
 서머 페스티벌까지 딱 일주일밖에 남지 않았다.");
@@ -6746,6 +6768,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_7", /*message*/"알면 알수록?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_8", /*message*/"하나씩 하나씩 천천히");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_9", /*message*/"잡히기 시작한 팸플릿의 윤곽");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_1", /*message*/"못 해 본 걸 체험하고 싶어!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_10", /*message*/"진정한 체험");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_2", /*message*/"어떤 즐거움이 있을까?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_3", /*message*/"그 눈빛이 눈부신 이유");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_4", /*message*/"비법을 가르쳐 줘!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_5", /*message*/"국제교류과 체험!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_6", /*message*/"나의 미래를 맡기는 선택");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_7", /*message*/"선택하고 싶어!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_8", /*message*/"라이프 디자인과로 출발!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_9", /*message*/"곧게 뻗은 길");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"높아지는 기대");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"이별의 아침");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"축제의 꽃");

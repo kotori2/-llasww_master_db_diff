@@ -2479,6 +2479,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021502", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021503", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021603", /*message*/"[演唱會開演紀念]使用20次發動成員包含朝香果林的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021604", /*message*/"[演唱會開演紀念]使用20次發動成員包含宮下愛的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021701", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021702", /*message*/"[大型合作演唱會課題]完成10次「Love Marginal」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021703", /*message*/"[大型合作演唱會課題]完成10次「Future Flight」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021704", /*message*/"[大型合作演唱會課題]完成10次「NEO SKY, NEO MAP!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

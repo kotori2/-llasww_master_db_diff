@@ -2478,6 +2478,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021502", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021503", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021603", /*message*/"[Live Show Celebration] Use an SP Skill including Karin Asaka 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021604", /*message*/"[Live Show Celebration] Use an SP Skill including Ai Miyashita 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021701", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021702", /*message*/"[SBL Goal] Clear &quot;Love Marginal&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021703", /*message*/"[SBL Goal] Clear &quot;Future Flight&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021704", /*message*/"[SBL Goal] Clear &quot;NEO SKY, NEO MAP!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

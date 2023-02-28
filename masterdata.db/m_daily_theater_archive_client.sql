@@ -1129,3 +1129,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001119, /*year*/2023, /*month*/2, /*day*/25, /*title*/"ふたりのジンクス", /*published_at*/1677250800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001120, /*year*/2023, /*month*/2, /*day*/26, /*title*/"リセットできない！", /*published_at*/1677337200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001121, /*year*/2023, /*month*/2, /*day*/27, /*title*/"わかる？", /*published_at*/1677423600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001122, /*year*/2023, /*month*/2, /*day*/28, /*title*/"朝練の前に……", /*published_at*/1677510000);

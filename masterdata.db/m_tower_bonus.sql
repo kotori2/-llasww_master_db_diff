@@ -111,6 +111,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/402023006
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/102032001, /*value*/1);
@@ -229,6 +230,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/302062004
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/1, /*card_m_id*/102072001, /*value*/1);
@@ -407,6 +409,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/400033007
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/100042001, /*value*/1);
@@ -558,6 +561,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/400083008
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/2, /*card_m_id*/100092001, /*value*/1);
@@ -679,6 +683,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/40003
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/100042001, /*value*/1);
@@ -830,6 +835,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/40008
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10001, /*card_m_id*/100092001, /*value*/1);
@@ -1074,6 +1080,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/40107
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/101082001, /*value*/1);
@@ -1104,6 +1111,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/40108
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10002, /*card_m_id*/101092001, /*value*/1);
@@ -1347,6 +1355,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/401072009
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/101082001, /*value*/1);
@@ -1377,6 +1386,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/401083008
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/4, /*card_m_id*/101092001, /*value*/1);
@@ -1620,6 +1630,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/401072009
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/101082001, /*value*/1);
@@ -1650,6 +1661,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/401083008
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/6, /*card_m_id*/101092001, /*value*/1);
@@ -1893,6 +1905,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/401072009
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/101082001, /*value*/1);
@@ -1923,6 +1936,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/401083008
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/9, /*card_m_id*/101092001, /*value*/1);
@@ -2166,6 +2180,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/40107200
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/101082001, /*value*/1);
@@ -2196,6 +2211,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/40108300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/13, /*card_m_id*/101092001, /*value*/1);
@@ -2439,6 +2455,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/40107200
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/101082001, /*value*/1);
@@ -2469,6 +2486,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/40108300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/18, /*card_m_id*/101092001, /*value*/1);
@@ -2712,6 +2730,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/40107200
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/101082001, /*value*/1);
@@ -2742,6 +2761,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/40108300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/23, /*card_m_id*/101092001, /*value*/1);
@@ -2985,6 +3005,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/40107200
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/101082001, /*value*/1);
@@ -3015,6 +3036,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/40108300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/28, /*card_m_id*/101092001, /*value*/1);
@@ -3258,6 +3280,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/101082001, /*value*/1);
@@ -3288,6 +3311,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002012, /*card_m_id*/101092001, /*value*/1);
@@ -3531,6 +3555,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/101082001, /*value*/1);
@@ -3561,6 +3586,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002013, /*card_m_id*/101092001, /*value*/1);
@@ -3804,6 +3830,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/101082001, /*value*/1);
@@ -3834,6 +3861,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002015, /*card_m_id*/101092001, /*value*/1);
@@ -4077,6 +4105,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/101082001, /*value*/1);
@@ -4107,6 +4136,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002016, /*card_m_id*/101092001, /*value*/1);
@@ -4350,6 +4380,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/101082001, /*value*/1);
@@ -4380,6 +4411,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002017, /*card_m_id*/101092001, /*value*/1);
@@ -4623,6 +4655,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/101082001, /*value*/1);
@@ -4653,6 +4686,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002019, /*card_m_id*/101092001, /*value*/1);
@@ -4896,6 +4930,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/101082001, /*value*/1);
@@ -4926,6 +4961,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002020, /*card_m_id*/101092001, /*value*/1);
@@ -5169,6 +5205,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/101082001, /*value*/1);
@@ -5199,6 +5236,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002021, /*card_m_id*/101092001, /*value*/1);
@@ -5442,6 +5480,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/101082001, /*value*/1);
@@ -5472,6 +5511,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002022, /*card_m_id*/101092001, /*value*/1);
@@ -5715,6 +5755,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/101082001, /*value*/1);
@@ -5745,6 +5786,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002024, /*card_m_id*/101092001, /*value*/1);
@@ -5988,6 +6030,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/101082001, /*value*/1);
@@ -6018,6 +6061,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002025, /*card_m_id*/101092001, /*value*/1);
@@ -6261,6 +6305,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/101082001, /*value*/1);
@@ -6291,6 +6336,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002026, /*card_m_id*/101092001, /*value*/1);
@@ -6534,6 +6580,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/101082001, /*value*/1);
@@ -6564,6 +6611,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002027, /*card_m_id*/101092001, /*value*/1);
@@ -6807,6 +6855,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/101082001, /*value*/1);
@@ -6837,6 +6886,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002028, /*card_m_id*/101092001, /*value*/1);
@@ -7080,6 +7130,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/101082001, /*value*/1);
@@ -7110,6 +7161,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002029, /*card_m_id*/101092001, /*value*/1);
@@ -7353,6 +7405,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/101082001, /*value*/1);
@@ -7383,6 +7436,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002030, /*card_m_id*/101092001, /*value*/1);
@@ -7626,6 +7680,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/101082001, /*value*/1);
@@ -7656,6 +7711,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002031, /*card_m_id*/101092001, /*value*/1);
@@ -7899,6 +7955,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/101082001, /*value*/1);
@@ -7929,6 +7986,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002032, /*card_m_id*/101092001, /*value*/1);
@@ -8172,6 +8230,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/101082001, /*value*/1);
@@ -8202,6 +8261,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002036, /*card_m_id*/101092001, /*value*/1);
@@ -8445,6 +8505,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/101082001, /*value*/1);
@@ -8475,6 +8536,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002037, /*card_m_id*/101092001, /*value*/1);
@@ -8718,6 +8780,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/101082001, /*value*/1);
@@ -8748,6 +8811,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002038, /*card_m_id*/101092001, /*value*/1);
@@ -8991,6 +9055,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/101082001, /*value*/1);
@@ -9021,6 +9086,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002039, /*card_m_id*/101092001, /*value*/1);
@@ -9264,6 +9330,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/201073003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/401072010, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/401073008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/401072011, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/101081001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/101081002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/101082001, /*value*/1);
@@ -9294,6 +9361,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/201082001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/201083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/401082009, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/401083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/101091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/101091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33002040, /*card_m_id*/101092001, /*value*/1);
@@ -9429,6 +9497,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/402023006
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/102032001, /*value*/1);
@@ -9547,6 +9616,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/302062004
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/7, /*card_m_id*/102072001, /*value*/1);
@@ -9740,6 +9810,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/40202300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/102032001, /*value*/1);
@@ -9858,6 +9929,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/30206200
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/10, /*card_m_id*/102072001, /*value*/1);
@@ -10051,6 +10123,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/40202300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/102032001, /*value*/1);
@@ -10169,6 +10242,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/30206200
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/14, /*card_m_id*/102072001, /*value*/1);
@@ -10362,6 +10436,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/40202300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/102032001, /*value*/1);
@@ -10480,6 +10555,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/30206200
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/19, /*card_m_id*/102072001, /*value*/1);
@@ -10673,6 +10749,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/40202300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/102032001, /*value*/1);
@@ -10791,6 +10868,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/30206200
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/24, /*card_m_id*/102072001, /*value*/1);
@@ -10984,6 +11062,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/40202300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/102032001, /*value*/1);
@@ -11102,6 +11181,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/30206200
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/29, /*card_m_id*/102072001, /*value*/1);
@@ -11295,6 +11375,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/102032001, /*value*/1);
@@ -11413,6 +11494,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003012, /*card_m_id*/102072001, /*value*/1);
@@ -11606,6 +11688,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/102032001, /*value*/1);
@@ -11724,6 +11807,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003013, /*card_m_id*/102072001, /*value*/1);
@@ -11917,6 +12001,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/102032001, /*value*/1);
@@ -12035,6 +12120,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003015, /*card_m_id*/102072001, /*value*/1);
@@ -12228,6 +12314,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/102032001, /*value*/1);
@@ -12346,6 +12433,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003016, /*card_m_id*/102072001, /*value*/1);
@@ -12539,6 +12627,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/102032001, /*value*/1);
@@ -12657,6 +12746,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003017, /*card_m_id*/102072001, /*value*/1);
@@ -12850,6 +12940,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/102032001, /*value*/1);
@@ -12968,6 +13059,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003019, /*card_m_id*/102072001, /*value*/1);
@@ -13161,6 +13253,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/102032001, /*value*/1);
@@ -13279,6 +13372,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003020, /*card_m_id*/102072001, /*value*/1);
@@ -13472,6 +13566,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/102032001, /*value*/1);
@@ -13590,6 +13685,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003021, /*card_m_id*/102072001, /*value*/1);
@@ -13783,6 +13879,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/102032001, /*value*/1);
@@ -13901,6 +13998,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003022, /*card_m_id*/102072001, /*value*/1);
@@ -14094,6 +14192,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/102032001, /*value*/1);
@@ -14212,6 +14311,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003024, /*card_m_id*/102072001, /*value*/1);
@@ -14405,6 +14505,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/102032001, /*value*/1);
@@ -14523,6 +14624,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003025, /*card_m_id*/102072001, /*value*/1);
@@ -14716,6 +14818,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/102032001, /*value*/1);
@@ -14834,6 +14937,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003026, /*card_m_id*/102072001, /*value*/1);
@@ -15027,6 +15131,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/102032001, /*value*/1);
@@ -15145,6 +15250,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003027, /*card_m_id*/102072001, /*value*/1);
@@ -15338,6 +15444,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/102032001, /*value*/1);
@@ -15456,6 +15563,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003028, /*card_m_id*/102072001, /*value*/1);
@@ -15649,6 +15757,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/102032001, /*value*/1);
@@ -15767,6 +15876,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003029, /*card_m_id*/102072001, /*value*/1);
@@ -15960,6 +16070,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/102032001, /*value*/1);
@@ -16078,6 +16189,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003030, /*card_m_id*/102072001, /*value*/1);
@@ -16271,6 +16383,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/102032001, /*value*/1);
@@ -16389,6 +16502,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003031, /*card_m_id*/102072001, /*value*/1);
@@ -16582,6 +16696,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/102032001, /*value*/1);
@@ -16700,6 +16815,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003032, /*card_m_id*/102072001, /*value*/1);
@@ -16893,6 +17009,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/102032001, /*value*/1);
@@ -17011,6 +17128,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003036, /*card_m_id*/102072001, /*value*/1);
@@ -17204,6 +17322,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/102032001, /*value*/1);
@@ -17322,6 +17441,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003037, /*card_m_id*/102072001, /*value*/1);
@@ -17515,6 +17635,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/102032001, /*value*/1);
@@ -17633,6 +17754,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003038, /*card_m_id*/102072001, /*value*/1);
@@ -17826,6 +17948,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/102032001, /*value*/1);
@@ -17944,6 +18067,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003039, /*card_m_id*/102072001, /*value*/1);
@@ -18137,6 +18261,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/102032001, /*value*/1);
@@ -18255,6 +18380,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33003040, /*card_m_id*/102072001, /*value*/1);
@@ -18433,6 +18559,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/40003300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/100042001, /*value*/1);
@@ -18584,6 +18711,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/40008300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/11, /*card_m_id*/100092001, /*value*/1);
@@ -18705,6 +18833,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/40003300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/100042001, /*value*/1);
@@ -18856,6 +18985,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/40008300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/15, /*card_m_id*/100092001, /*value*/1);
@@ -18977,6 +19107,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/40003300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/100042001, /*value*/1);
@@ -19128,6 +19259,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/40008300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/20, /*card_m_id*/100092001, /*value*/1);
@@ -19249,6 +19381,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/40003300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/100042001, /*value*/1);
@@ -19400,6 +19533,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/40008300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/25, /*card_m_id*/100092001, /*value*/1);
@@ -19521,6 +19655,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/40003300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/100042001, /*value*/1);
@@ -19672,6 +19807,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/40008300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/30, /*card_m_id*/100092001, /*value*/1);
@@ -19793,6 +19929,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/100042001, /*value*/1);
@@ -19944,6 +20081,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004012, /*card_m_id*/100092001, /*value*/1);
@@ -20065,6 +20203,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/100042001, /*value*/1);
@@ -20216,6 +20355,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004013, /*card_m_id*/100092001, /*value*/1);
@@ -20337,6 +20477,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/100042001, /*value*/1);
@@ -20488,6 +20629,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004015, /*card_m_id*/100092001, /*value*/1);
@@ -20609,6 +20751,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/100042001, /*value*/1);
@@ -20760,6 +20903,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004016, /*card_m_id*/100092001, /*value*/1);
@@ -20881,6 +21025,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/100042001, /*value*/1);
@@ -21032,6 +21177,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004017, /*card_m_id*/100092001, /*value*/1);
@@ -21153,6 +21299,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/100042001, /*value*/1);
@@ -21304,6 +21451,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004019, /*card_m_id*/100092001, /*value*/1);
@@ -21425,6 +21573,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/100042001, /*value*/1);
@@ -21576,6 +21725,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004020, /*card_m_id*/100092001, /*value*/1);
@@ -21697,6 +21847,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/100042001, /*value*/1);
@@ -21848,6 +21999,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004021, /*card_m_id*/100092001, /*value*/1);
@@ -21969,6 +22121,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/100042001, /*value*/1);
@@ -22120,6 +22273,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004022, /*card_m_id*/100092001, /*value*/1);
@@ -22241,6 +22395,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/100042001, /*value*/1);
@@ -22392,6 +22547,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004024, /*card_m_id*/100092001, /*value*/1);
@@ -22513,6 +22669,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/100042001, /*value*/1);
@@ -22664,6 +22821,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004025, /*card_m_id*/100092001, /*value*/1);
@@ -22785,6 +22943,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/100042001, /*value*/1);
@@ -22936,6 +23095,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004026, /*card_m_id*/100092001, /*value*/1);
@@ -23057,6 +23217,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/100042001, /*value*/1);
@@ -23208,6 +23369,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004027, /*card_m_id*/100092001, /*value*/1);
@@ -23329,6 +23491,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/100042001, /*value*/1);
@@ -23480,6 +23643,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004028, /*card_m_id*/100092001, /*value*/1);
@@ -23601,6 +23765,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/100042001, /*value*/1);
@@ -23752,6 +23917,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004029, /*card_m_id*/100092001, /*value*/1);
@@ -23873,6 +24039,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/100042001, /*value*/1);
@@ -24024,6 +24191,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004030, /*card_m_id*/100092001, /*value*/1);
@@ -24145,6 +24313,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/100042001, /*value*/1);
@@ -24296,6 +24465,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004031, /*card_m_id*/100092001, /*value*/1);
@@ -24417,6 +24587,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/100042001, /*value*/1);
@@ -24568,6 +24739,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004032, /*card_m_id*/100092001, /*value*/1);
@@ -24689,6 +24861,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/100042001, /*value*/1);
@@ -24840,6 +25013,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004036, /*card_m_id*/100092001, /*value*/1);
@@ -24961,6 +25135,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/100042001, /*value*/1);
@@ -25112,6 +25287,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004037, /*card_m_id*/100092001, /*value*/1);
@@ -25233,6 +25409,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/100042001, /*value*/1);
@@ -25384,6 +25561,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004038, /*card_m_id*/100092001, /*value*/1);
@@ -25505,6 +25683,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/100042001, /*value*/1);
@@ -25656,6 +25835,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004039, /*card_m_id*/100092001, /*value*/1);
@@ -25777,6 +25957,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/400032006, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/300032004, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/400033008, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/400032007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/100041001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/100041002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/100042001, /*value*/1);
@@ -25928,6 +26109,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/200082003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/200083003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/400082007, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/400083009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/100091001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/100091002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33004040, /*card_m_id*/100092001, /*value*/1);
@@ -26274,6 +26456,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/40202300
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/202022002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/202022003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/302023003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/402023007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/102031001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/102031002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/102032001, /*value*/2);
@@ -26392,6 +26575,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/30206200
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/402063007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/202062001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/202063003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/402062009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/102071001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/102071002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/31, /*card_m_id*/102072001, /*value*/2);
@@ -26729,6 +26913,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/202022002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/202022003, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/302023003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/402023007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/102031001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/102031002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/102032001, /*value*/1);
@@ -26847,6 +27032,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/402063007, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/202062001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/202063003, /*value*/1);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/402062009, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/102071001, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/102071002, /*value*/1);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33010014, /*card_m_id*/102072001, /*value*/1);
@@ -27471,6 +27657,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/201073003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/401072010, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/401073008, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/401072011, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/101081001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/101081002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/101082001, /*value*/2);
@@ -27501,6 +27688,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/201082001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/201083003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/401082009, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/401083009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/101091001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/101091002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33015020, /*card_m_id*/101092001, /*value*/2);
@@ -29639,6 +29827,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/202022002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/202022003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/302023003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/402023007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/102031001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/102031002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/102032001, /*value*/2);
@@ -29757,6 +29946,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/402063007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/202062001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/202063003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/402062009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/102071001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/102071002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/102072001, /*value*/2);
@@ -30058,6 +30248,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/201073003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/401072010, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/401073008, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/401072011, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/101081001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/101081002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/101082001, /*value*/2);
@@ -30088,6 +30279,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/201082001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/201083003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/401082009, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/401083009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/101091001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/101091002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/101092001, /*value*/2);
@@ -30208,6 +30400,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/400032006, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/300032004, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/400033008, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/400032007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/100041001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/100041002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/100042001, /*value*/2);
@@ -30359,6 +30552,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/200082003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/200083003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/400082007, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/400083009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/100091001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/100091002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33027032, /*card_m_id*/100092001, /*value*/2);
@@ -30495,6 +30689,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/202022002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/202022003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/302023003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/402023007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/102031001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/102031002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/102032001, /*value*/2);
@@ -30613,6 +30808,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/402063007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/202062001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/202063003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/402062009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/102071001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/102071002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/102072001, /*value*/2);
@@ -30914,6 +31110,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/201073003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/401072010, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/401073008, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/401072011, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/101081001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/101081002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/101082001, /*value*/2);
@@ -30944,6 +31141,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/201082001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/201083003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/401082009, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/401083009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/101091001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/101091002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/101092001, /*value*/2);
@@ -31064,6 +31262,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/400032006, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/300032004, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/400033008, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/400032007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/100041001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/100041002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/100042001, /*value*/2);
@@ -31215,6 +31414,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/200082003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/200083003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/400082007, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/400083009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/100091001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/100091002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33028033, /*card_m_id*/100092001, /*value*/2);
@@ -31351,6 +31551,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/202022002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/202022003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/302023003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/402023007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/102031001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/102031002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/102032001, /*value*/2);
@@ -31469,6 +31670,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/402063007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/202062001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/202063003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/402062009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/102071001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/102071002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/102072001, /*value*/2);
@@ -31770,6 +31972,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/201073003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/401072010, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/401073008, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/401072011, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/101081001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/101081002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/101082001, /*value*/2);
@@ -31800,6 +32003,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/201082001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/201083003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/401082009, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/401083009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/101091001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/101091002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/101092001, /*value*/2);
@@ -31920,6 +32124,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/400032006, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/300032004, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/400033008, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/400032007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/100041001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/100041002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/100042001, /*value*/2);
@@ -32071,6 +32276,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/200082003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/200083003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/400082007, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/400083009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/100091001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/100091002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33029034, /*card_m_id*/100092001, /*value*/2);
@@ -32207,6 +32413,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/202022002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/202022003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/302023003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/402023007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/102031001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/102031002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/102032001, /*value*/2);
@@ -32325,6 +32532,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/402063007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/202062001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/202063003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/402062009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/102071001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/102071002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/102072001, /*value*/2);
@@ -32626,6 +32834,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/201073003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/401072010, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/401073008, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/401072011, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/101081001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/101081002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/101082001, /*value*/2);
@@ -32656,6 +32865,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/201082001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/201083003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/401082009, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/401083009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/101091001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/101091002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/101092001, /*value*/2);
@@ -32776,6 +32986,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/400032006, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/300032004, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/400033008, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/400032007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/100041001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/100041002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/100042001, /*value*/2);
@@ -32927,6 +33138,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/200082003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/200083003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/400082007, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/400083009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/100091001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/100091002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33030035, /*card_m_id*/100092001, /*value*/2);
@@ -33048,6 +33260,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/400032006, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/300032004, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/400033008, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/400032007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/100041001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/100041002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/100042001, /*value*/2);
@@ -33199,6 +33412,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/200082003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/200083003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/400082007, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/400083009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/100091001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/100091002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33031036, /*card_m_id*/100092001, /*value*/2);
@@ -33443,6 +33657,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/201073003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/401072010, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/401073008, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/401072011, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/101081001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/101081002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/101082001, /*value*/2);
@@ -33473,6 +33688,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/201082001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/201083003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/401082009, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/401083009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/101091001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/101091002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33032037, /*card_m_id*/101092001, /*value*/2);
@@ -33608,6 +33824,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/40
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/202022002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/202022003, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/302023003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/402023007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/102031001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/102031002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/102032001, /*value*/2);
@@ -33726,6 +33943,7 @@ INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/30
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/402063007, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/202062001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/202063003, /*value*/2);
+INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/402062009, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/102071001, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/102071002, /*value*/2);
 INSERT INTO `m_tower_bonus` VALUES (/*tower_period_id*/33033038, /*card_m_id*/102072001, /*value*/2);

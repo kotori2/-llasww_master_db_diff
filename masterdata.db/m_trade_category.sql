@@ -30,6 +30,7 @@ INSERT INTO `m_trade_category` VALUES (/*pattern_id*/0, /*id*/22, /*name*/"k.m_t
 INSERT INTO `m_trade_category` VALUES (/*pattern_id*/0, /*id*/23, /*name*/"k.m_trade_category_26", /*display_order*/70008);
 INSERT INTO `m_trade_category` VALUES (/*pattern_id*/0, /*id*/24, /*name*/"k.m_trade_category_18", /*display_order*/80000);
 INSERT INTO `m_trade_category` VALUES (/*pattern_id*/0, /*id*/0, /*name*/"k.m_trade_category_0", /*display_order*/0);
+INSERT INTO `m_trade_category` VALUES (/*pattern_id*/0, /*id*/25, /*name*/"k.m_trade_category_28", /*display_order*/30001);
 INSERT INTO `m_trade_category` VALUES (/*pattern_id*/31000, /*id*/1, /*name*/"k.m_trade_category_1", /*display_order*/1000001);
 INSERT INTO `m_trade_category` VALUES (/*pattern_id*/31000, /*id*/2, /*name*/"k.m_trade_category_2", /*display_order*/1000031);
 INSERT INTO `m_trade_category` VALUES (/*pattern_id*/31000, /*id*/3, /*name*/"k.m_trade_category_3", /*display_order*/1000021);

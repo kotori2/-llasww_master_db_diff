@@ -2497,6 +2497,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021704", /*message*/"[大型合作演唱會課題]完成10次「NEO SKY, NEO MAP!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021803", /*message*/"[CD發行紀念]完成10次「MITAIKEN HORIZON」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021804", /*message*/"[CD發行紀念]使用20次發動成員包含國木田花丸的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021901", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021902", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021903", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過10次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022101", /*message*/"[3.5Anniversary] 讓學園偶像覺醒1次");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022102", /*message*/"[3.5Anniversary] 讓學園偶像覺醒5次");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022103", /*message*/"[3.5Anniversary] 讓學園偶像覺醒10次");

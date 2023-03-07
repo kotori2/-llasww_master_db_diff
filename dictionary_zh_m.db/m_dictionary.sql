@@ -1839,6 +1839,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003812", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003813", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003814", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003815", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003901", /*message*/"遊玩1次「Shiranai Love * Oshiete Love」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003902", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003903", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003904", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003905", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003906", /*message*/"於期間內領取3次登入獎勵");
@@ -2500,6 +2503,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021804", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021901", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021902", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021903", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過10次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022005", /*message*/"[演唱會開演紀念]使用20次發動成員包含中須霞的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022006", /*message*/"[演唱會開演紀念]使用20次發動成員包含近江彼方的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022007", /*message*/"[演唱會開演紀念]使用20次發動成員包含艾瑪‧薇蒂的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022008", /*message*/"[演唱會開演紀念]使用20次發動成員包含天王寺璃奈的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022101", /*message*/"[3.5Anniversary] 讓學園偶像覺醒1次");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022102", /*message*/"[3.5Anniversary] 讓學園偶像覺醒5次");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022103", /*message*/"[3.5Anniversary] 讓學園偶像覺醒10次");
@@ -3439,6 +3446,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400667", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400668", /*message*/"完成10次「DREAMY COLOR」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400669", /*message*/"完成50次「DREAMY COLOR」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400670", /*message*/"完成100次「DREAMY COLOR」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400671", /*message*/"完成10次「Mutekikyu Believer」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400672", /*message*/"完成50次「Mutekikyu Believer」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400673", /*message*/"完成100次「Mutekikyu Believer」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

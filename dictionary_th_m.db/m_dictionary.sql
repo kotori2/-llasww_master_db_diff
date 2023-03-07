@@ -1844,6 +1844,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003812", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003813", /*message*/"มีชุด 1 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003814", /*message*/"มีชุด 2 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003815", /*message*/"มีชุด 3 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003901", /*message*/"เล่น &quot;Shiranai Love * Oshiete Love&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003902", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003903", /*message*/"ซ้อม 2 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003904", /*message*/"อัปเลเวลของสคูลไอดอล 1 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003905", /*message*/"อัปเลเวลของสคูลไอดอล 2 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003906", /*message*/"รับล็อกอินโบนัส 3 ครั้งในเวลาที่กำหนด");
@@ -2509,6 +2512,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021804", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021901", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021902", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021903", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022005", /*message*/"[ฉลองจัดไลฟ์] ใช้ท่าพิเศษ SP ที่มีนากาสึ คาสึมิ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022006", /*message*/"[ฉลองจัดไลฟ์] ใช้ท่าพิเศษ SP ที่มีโคโนเอะ คานาตะ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022007", /*message*/"[ฉลองจัดไลฟ์] ใช้ท่าพิเศษ SP ที่มีเอ็มม่า เวอร์เด้ 20 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022008", /*message*/"[ฉลองจัดไลฟ์] ใช้ท่าพิเศษ SP ที่มีเท็นโนจิ รินะ 20 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022101", /*message*/"[3.5Anniversary] スクールアイドルを1回覚醒させる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022102", /*message*/"[3.5Anniversary] スクールアイドルを5回覚醒させる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022103", /*message*/"[3.5Anniversary] スクールアイドルを10回覚醒させる");
@@ -3448,6 +3455,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400667", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400668", /*message*/"เคลียร์ &quot;DREAMY COLOR&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400669", /*message*/"เคลียร์ &quot;DREAMY COLOR&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400670", /*message*/"เคลียร์ &quot;DREAMY COLOR&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400671", /*message*/"เคลียร์ &quot;Mutekikyu Believer&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400672", /*message*/"เคลียร์ &quot;Mutekikyu Believer&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400673", /*message*/"เคลียร์ &quot;Mutekikyu Believer&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

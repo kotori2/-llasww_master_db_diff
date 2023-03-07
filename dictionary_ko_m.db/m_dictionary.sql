@@ -1841,6 +1841,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003812", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003813", /*message*/"의상 1벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003814", /*message*/"의상 2벌 획득");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003815", /*message*/"의상 3벌 획득");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003901", /*message*/"Shiranai Love * Oshiete Love 1회 플레이");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003902", /*message*/"라이브 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003903", /*message*/"합숙 2회 수행");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003904", /*message*/"스쿨 아이돌 1명을 지정 레벨(R:40 SR:60 UR:80)까지 올리기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003905", /*message*/"스쿨 아이돌 2명을 지정 레벨(R:40 SR:60 UR:80)까지 올리기");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003906", /*message*/"기간 중, 3회 로그인 보너스 받기");
@@ -2502,6 +2505,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021804", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021901", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021902", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021903", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022005", /*message*/"[라이브 개최 기념] 나카스 카스미이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022006", /*message*/"[라이브 개최 기념] 코노에 카나타이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022007", /*message*/"[라이브 개최 기념] 엠마 베르데이/가 포함된 SP 특기 20회 사용");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022008", /*message*/"[라이브 개최 기념] 텐노지 리나이/가 포함된 SP 특기 20회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022101", /*message*/"[3.5Anniversary] 스쿨 아이돌 1회 각성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022102", /*message*/"[3.5Anniversary] 스쿨 아이돌 5회 각성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022103", /*message*/"[3.5Anniversary] 스쿨 아이돌 10회 각성");
@@ -3441,6 +3448,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400667", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400668", /*message*/"DREAMY COLOR 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400669", /*message*/"DREAMY COLOR 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400670", /*message*/"DREAMY COLOR 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400671", /*message*/"Mutekikyu Believer 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400672", /*message*/"Mutekikyu Believer 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400673", /*message*/"Mutekikyu Believer 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");

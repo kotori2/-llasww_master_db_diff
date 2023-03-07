@@ -1838,6 +1838,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003812", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003813", /*message*/"Obtain 1 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003814", /*message*/"Obtain 2 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003815", /*message*/"Obtain 3 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003901", /*message*/"Play &quot;Shiranai Love * Oshiete Love&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003902", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003903", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003904", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003905", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003906", /*message*/"Collect 3 login bonuses during the event.");
@@ -2499,6 +2502,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021804", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021901", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021902", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021903", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022005", /*message*/"[Live Show Celebration] Use an SP Skill including Kasumi Nakasu 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022006", /*message*/"[Live Show Celebration] Use an SP Skill including Kanata Konoe 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022007", /*message*/"[Live Show Celebration] Use an SP Skill including Emma Verde 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022008", /*message*/"[Live Show Celebration] Use an SP Skill including Rina Tennoji 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022101", /*message*/"[3.5Anniversary] Idolize school idols: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022102", /*message*/"[3.5Anniversary] Idolize school idols: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022103", /*message*/"[3.5Anniversary] Idolize school idols: x10");
@@ -3438,6 +3445,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400667", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400668", /*message*/"Clear &quot;DREAMY COLOR&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400669", /*message*/"Clear &quot;DREAMY COLOR&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400670", /*message*/"Clear &quot;DREAMY COLOR&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400671", /*message*/"Clear &quot;Mutekikyu Believer&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400672", /*message*/"Clear &quot;Mutekikyu Believer&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400673", /*message*/"Clear &quot;Mutekikyu Believer&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

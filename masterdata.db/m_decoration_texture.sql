@@ -2638,6 +2638,14 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gach
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230317/tex_banner_notice_s_2230317", /*path*/"~jQ");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230317/tex_banner_gacha_top_2230317_1", /*path*/"8:s");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230317/tex_banner_gacha_text_2230317_1", /*path*/"[ev");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230318/tex_banner_notice_l_2230318", /*path*/"rz1");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230318/tex_banner_notice_s_2230318", /*path*/"+sG");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230318/tex_banner_gacha_top_2230318_1", /*path*/"W^r");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230318/tex_banner_gacha_text_2230318_1", /*path*/"00A");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230319/tex_banner_notice_l_2230319", /*path*/"3_*");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230319/tex_banner_notice_s_2230319", /*path*/"Tnc");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230319/tex_banner_gacha_top_2230319_1", /*path*/"jp]");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230319/tex_banner_gacha_text_2230319_1", /*path*/"5-G");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020103/tex_banner_notice_s_4020103", /*path*/"cur");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020103/tex_banner_gacha_top_4020103_1", /*path*/"TYz");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020103/tex_banner_gacha_text_4020103_1", /*path*/";$*");

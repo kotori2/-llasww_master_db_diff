@@ -1136,3 +1136,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001126, /*year*/2023, /*month*/3, /*day*/4, /*title*/"ハッピーバースデー、花丸さん！", /*published_at*/1677855600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001127, /*year*/2023, /*month*/3, /*day*/5, /*title*/"新鮮なお魚召し上がれ！", /*published_at*/1677942000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001128, /*year*/2023, /*month*/3, /*day*/6, /*title*/"ルビィちゃんにしかできない！", /*published_at*/1678028400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001129, /*year*/2023, /*month*/3, /*day*/7, /*title*/"ちょっと気になる？", /*published_at*/1678114800);

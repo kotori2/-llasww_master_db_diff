@@ -120,3 +120,6 @@ INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33033038, /*bonus_t
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33037042, /*bonus_target_member_group*/3, /*value*/2);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33037042, /*bonus_target_member_group*/2, /*value*/2);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33037042, /*bonus_target_member_group*/1, /*value*/2);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33038043, /*bonus_target_member_group*/2, /*value*/2);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33038043, /*bonus_target_member_group*/1, /*value*/2);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33038043, /*bonus_target_member_group*/3, /*value*/2);

@@ -2546,6 +2546,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022127", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022128", /*message*/"[3.5Anniversary] [上級]以上の楽曲をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022129", /*message*/"[3.5Anniversary] [上級＋]以上の楽曲をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022130", /*message*/"[3.5Anniversary] [チャレンジ]の楽曲をクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022201", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022202", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022203", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -2630,6 +2633,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036_000", /*message*/"ドリームライブパレード- ALL STAR -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037", /*message*/"ドリームライブパレード- 3.5 Anniversary 1st diary -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037_000", /*message*/"ドリームライブパレード- 3.5 Anniversary 1st diary -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038", /*message*/"ドリームライブパレード- 3.5 Anniversary 2nd diary -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038_000", /*message*/"ドリームライブパレード- 3.5 Anniversary 2nd diary -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");

@@ -1137,3 +1137,8 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001127, /*year*/2023, /*month*/3, /*day*/5, /*title*/"新鮮なお魚召し上がれ！", /*published_at*/1677942000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001128, /*year*/2023, /*month*/3, /*day*/6, /*title*/"ルビィちゃんにしかできない！", /*published_at*/1678028400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001129, /*year*/2023, /*month*/3, /*day*/7, /*title*/"ちょっと気になる？", /*published_at*/1678114800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001130, /*year*/2023, /*month*/3, /*day*/8, /*title*/"助けて璃奈ちゃん！", /*published_at*/1678201200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001131, /*year*/2023, /*month*/3, /*day*/9, /*title*/"梅祭り", /*published_at*/1678287600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001132, /*year*/2023, /*month*/3, /*day*/10, /*title*/"作ってあげたい！", /*published_at*/1678374000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001133, /*year*/2023, /*month*/3, /*day*/11, /*title*/"Aqoursライブ　１日目！", /*published_at*/1678460400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001134, /*year*/2023, /*month*/3, /*day*/12, /*title*/"Aqoursライブ　２日目！", /*published_at*/1678546800);

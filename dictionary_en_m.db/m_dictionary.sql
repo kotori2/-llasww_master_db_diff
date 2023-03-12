@@ -2536,6 +2536,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022127", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022128", /*message*/"[3.5Anniversary] Clear songs on Advanced difficulty or above");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022129", /*message*/"[3.5Anniversary] Clear songs on Expert difficulty or above");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022130", /*message*/"[3.5Anniversary] Clear songs on Challenge difficulty or above");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022201", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022202", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022203", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -2620,6 +2623,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036_000", /*message*/"Dream Live Parade: ALL STAR");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037", /*message*/"Dream Live Parade - 3.5Anniversary 1st diary");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037_000", /*message*/"Dream Live Parade - 3.5Anniversary 1st diary");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038", /*message*/"Dream Live Parade - 3.5Anniversary 2nd diary");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038_000", /*message*/"Dream Live Parade - 3.5Anniversary 2nd diary");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");

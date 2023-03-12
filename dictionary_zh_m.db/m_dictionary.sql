@@ -2537,6 +2537,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022127", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022128", /*message*/"[3.5Anniversary] 通過「高級」以上的歌曲");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022129", /*message*/"[3.5Anniversary] 通過「高級＋」以上的歌曲");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022130", /*message*/"[3.5Anniversary] 通過「挑戰級」以上的歌曲");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022201", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022202", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022203", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過10次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2621,6 +2624,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036_000", /*message*/"夢幻遊行演唱會～ALL STAR～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037", /*message*/"夢幻遊行演唱會～3.5Anniversary 1st diary～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037_000", /*message*/"夢幻遊行演唱會～3.5Anniversary 1st diary～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038", /*message*/"夢幻遊行演唱會～3.5Anniversary 2nd diary～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038_000", /*message*/"夢幻遊行演唱會～3.5Anniversary 2nd diary～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");

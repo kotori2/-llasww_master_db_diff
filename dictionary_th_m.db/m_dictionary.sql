@@ -4811,6 +4811,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"เ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"สัตว์ประหลาดสิงโตจิกัจจิ!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_1", /*message*/"การเชิญชวนของฟูกอุ่นๆ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"แบ่งปันความสุข");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013003_1", /*message*/"思い浮かべて");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013003_2", /*message*/"IN TO THE WORLD");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"มาเล่นโยนรองเท้ากันเถอะ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"สวนดอกไม้แห่งความลับ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"เธอผู้เป็นที่รัก");
@@ -4930,6 +4932,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_1", /*message*/"ป
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_2", /*message*/"นี่จ้ะ จดหมาย!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092001_1", /*message*/"ประชุมรินะจังบอร์ด!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092002_1", /*message*/"ไว้ใจอลันได้เลย");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092003_1", /*message*/"はんぺんのために！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"เล่น VR ในห้องชมรม");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"Electronic Idol");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"ใบหน้าที่แท้จริงด้านหลังบอร์ด");

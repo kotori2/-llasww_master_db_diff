@@ -4801,6 +4801,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"Wha
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"Lion Monster Chika-chi!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_1", /*message*/"Tempting Warm Bed");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"Sharing My Happiness");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013003_1", /*message*/"You through My Eyes");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013003_2", /*message*/"IN TO THE WORLD");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"Let&apos;s Fling Our Shoes");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"A Secret Garden?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"My Beloved");
@@ -4920,6 +4922,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_1", /*message*/"Cli
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_2", /*message*/"Here&apos;s Your Letter!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092001_1", /*message*/"Rina-chan Board Meeting!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092002_1", /*message*/"Leave It to Alan");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092003_1", /*message*/"Do It for Fishpuff!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"VR Games at Home");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"Electronic Idol");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"The Smile Behind the Board");

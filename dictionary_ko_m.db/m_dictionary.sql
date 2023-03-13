@@ -4804,6 +4804,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"넌
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"사자 괴수 치카치!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_1", /*message*/"따끈따끈한 이불의 유혹");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"행복을 나눠줄게");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013003_1", /*message*/"너를 생각하며");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013003_2", /*message*/"IN TO THE WORLD");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"신발 던지기 놀이를 하자");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"비밀의 화원?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"사랑스러운 너");
@@ -4923,6 +4925,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_1", /*message*/"즐
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_2", /*message*/"자, 편지 받으세요!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092001_1", /*message*/"리나보드 회의!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092002_1", /*message*/"아란에게 맡겨");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092003_1", /*message*/"한펜을 위해서!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"방에서 즐기는 VR");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"일렉트로닉 아이돌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"보드에 가려진 얼굴");

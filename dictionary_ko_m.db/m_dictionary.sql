@@ -3456,6 +3456,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400670", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400671", /*message*/"Mutekikyu Believer 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400672", /*message*/"Mutekikyu Believer 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400673", /*message*/"Mutekikyu Believer 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400674", /*message*/"Motto ne！ 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400675", /*message*/"Motto ne！ 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400676", /*message*/"Motto ne！ 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");

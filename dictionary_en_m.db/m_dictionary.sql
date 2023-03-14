@@ -3453,6 +3453,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400670", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400671", /*message*/"Clear &quot;Mutekikyu Believer&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400672", /*message*/"Clear &quot;Mutekikyu Believer&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400673", /*message*/"Clear &quot;Mutekikyu Believer&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400674", /*message*/"Clear &quot;Motto ne！&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400675", /*message*/"Clear &quot;Motto ne！&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400676", /*message*/"Clear &quot;Motto ne！&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

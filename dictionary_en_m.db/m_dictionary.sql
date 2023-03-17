@@ -3455,6 +3455,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400673", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400674", /*message*/"Clear &quot;Motto ne！&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400675", /*message*/"Clear &quot;Motto ne！&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400676", /*message*/"Clear &quot;Motto ne！&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400677", /*message*/"Clear &quot;PASTEL&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400678", /*message*/"Clear &quot;PASTEL&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400679", /*message*/"Clear &quot;PASTEL&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400680", /*message*/"Clear &quot;Not Sad&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400681", /*message*/"Clear &quot;Not Sad&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400682", /*message*/"Clear &quot;Not Sad&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

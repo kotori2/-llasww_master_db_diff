@@ -3456,6 +3456,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400673", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400674", /*message*/"完成10次「Motto ne！」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400675", /*message*/"完成50次「Motto ne！」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400676", /*message*/"完成100次「Motto ne！」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400677", /*message*/"完成10次「PASTEL」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400678", /*message*/"完成50次「PASTEL」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400679", /*message*/"完成100次「PASTEL」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400680", /*message*/"完成10次「Not Sad」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400681", /*message*/"完成50次「Not Sad」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400682", /*message*/"完成100次「Not Sad」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

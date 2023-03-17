@@ -3465,6 +3465,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400673", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400674", /*message*/"เคลียร์ &quot;Motto ne！&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400675", /*message*/"เคลียร์ &quot;Motto ne！&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400676", /*message*/"เคลียร์ &quot;Motto ne！&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400677", /*message*/"เคลียร์ &quot;PASTEL&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400678", /*message*/"เคลียร์ &quot;PASTEL&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400679", /*message*/"เคลียร์ &quot;PASTEL&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400680", /*message*/"เคลียร์ &quot;Not Sad&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400681", /*message*/"เคลียร์ &quot;Not Sad&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400682", /*message*/"เคลียร์ &quot;Not Sad&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

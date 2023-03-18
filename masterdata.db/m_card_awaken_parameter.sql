@@ -435,6 +435,7 @@ INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400023005, /*par
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400023006, /*parameter1*/281, /*parameter2*/174, /*parameter3*/214);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400023007, /*parameter1*/145, /*parameter2*/249, /*parameter3*/185);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400023008, /*parameter1*/165, /*parameter2*/241, /*parameter3*/282);
+INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400023009, /*parameter1*/203, /*parameter2*/210, /*parameter3*/287);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400032001, /*parameter1*/76, /*parameter2*/87, /*parameter3*/108);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400032002, /*parameter1*/137, /*parameter2*/92, /*parameter3*/113);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400032003, /*parameter1*/84, /*parameter2*/107, /*parameter3*/98);
@@ -457,6 +458,7 @@ INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400042004, /*par
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400042005, /*parameter1*/80, /*parameter2*/150, /*parameter3*/119);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400042006, /*parameter1*/142, /*parameter2*/110, /*parameter3*/103);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400042007, /*parameter1*/109, /*parameter2*/177, /*parameter3*/135);
+INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400042008, /*parameter1*/99, /*parameter2*/132, /*parameter3*/136);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400043001, /*parameter1*/206, /*parameter2*/123, /*parameter3*/110);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400043002, /*parameter1*/251, /*parameter2*/123, /*parameter3*/184);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/400043003, /*parameter1*/176, /*parameter2*/216, /*parameter3*/176);
@@ -605,6 +607,7 @@ INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401042004, /*par
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401042005, /*parameter1*/91, /*parameter2*/136, /*parameter3*/122);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401042006, /*parameter1*/104, /*parameter2*/145, /*parameter3*/166);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401042007, /*parameter1*/148, /*parameter2*/101, /*parameter3*/112);
+INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401042008, /*parameter1*/143, /*parameter2*/114, /*parameter3*/110);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401043001, /*parameter1*/243, /*parameter2*/162, /*parameter3*/135);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401043002, /*parameter1*/135, /*parameter2*/166, /*parameter3*/148);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401043003, /*parameter1*/136, /*parameter2*/150, /*parameter3*/183);
@@ -622,6 +625,7 @@ INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401052005, /*par
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401052006, /*parameter1*/150, /*parameter2*/112, /*parameter3*/87);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401052007, /*parameter1*/112, /*parameter2*/162, /*parameter3*/141);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401052008, /*parameter1*/101, /*parameter2*/112, /*parameter3*/148);
+INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401052009, /*parameter1*/128, /*parameter2*/162, /*parameter3*/136);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401053001, /*parameter1*/112, /*parameter2*/148, /*parameter3*/189);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401053002, /*parameter1*/128, /*parameter2*/235, /*parameter3*/196);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/401053003, /*parameter1*/192, /*parameter2*/131, /*parameter3*/145);
@@ -822,6 +826,7 @@ INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402083004, /*par
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402083005, /*parameter1*/156, /*parameter2*/266, /*parameter3*/227);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402083006, /*parameter1*/127, /*parameter2*/261, /*parameter3*/281);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402083007, /*parameter1*/179, /*parameter2*/150, /*parameter3*/249);
+INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402083008, /*parameter1*/144, /*parameter2*/276, /*parameter3*/269);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402092001, /*parameter1*/53, /*parameter2*/119, /*parameter3*/93);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402092002, /*parameter1*/88, /*parameter2*/88, /*parameter3*/100);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402092003, /*parameter1*/134, /*parameter2*/96, /*parameter3*/113);
@@ -860,6 +865,7 @@ INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402122004, /*par
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402123001, /*parameter1*/123, /*parameter2*/260, /*parameter3*/266);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402123002, /*parameter1*/261, /*parameter2*/145, /*parameter3*/174);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402123003, /*parameter1*/282, /*parameter2*/269, /*parameter3*/138);
+INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/402123004, /*parameter1*/186, /*parameter2*/168, /*parameter3*/246);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/502011001, /*parameter1*/26, /*parameter2*/116, /*parameter3*/94);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/502021001, /*parameter1*/30, /*parameter2*/92, /*parameter3*/113);
 INSERT INTO `m_card_awaken_parameter` VALUES (/*card_master_id*/502031001, /*parameter1*/123, /*parameter2*/30, /*parameter3*/82);

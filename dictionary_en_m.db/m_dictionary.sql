@@ -2644,6 +2644,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037_000", /*message*/"Dream Live Parade - 3.5Anniversary 1st diary");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038", /*message*/"Dream Live Parade - 3.5Anniversary 2nd diary");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038_000", /*message*/"Dream Live Parade - 3.5Anniversary 2nd diary");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33039", /*message*/"Dream Live Parade - 3.5Anniversary 3rd diary");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33039_000", /*message*/"Dream Live Parade - 3.5Anniversary 3rd diary");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");

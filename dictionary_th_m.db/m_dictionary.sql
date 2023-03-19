@@ -2654,6 +2654,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037_000", /*message*/"ドリームライブパレード- 3.5 Anniversary 1st diary -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038", /*message*/"ドリームライブパレード- 3.5 Anniversary 2nd diary -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038_000", /*message*/"ドリームライブパレード- 3.5 Anniversary 2nd diary -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33039", /*message*/"ドリームライブパレード- 3.5 Anniversary 3rd diary -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33039_000", /*message*/"ドリームライブパレード- 3.5 Anniversary 3rd diary -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");

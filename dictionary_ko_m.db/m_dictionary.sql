@@ -2647,6 +2647,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037_000", /*message*/"드림 라이브 퍼레이드 ～3.5Anniversary 1st diary～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038", /*message*/"드림 라이브 퍼레이드 ～3.5Anniversary 2nd diary～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33038_000", /*message*/"드림 라이브 퍼레이드 ～3.5Anniversary 2nd diary～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33039", /*message*/"드림 라이브 퍼레이드 ～3.5Anniversary 3rd diary～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33039_000", /*message*/"드림 라이브 퍼레이드 ～3.5Anniversary 3rd diary～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");

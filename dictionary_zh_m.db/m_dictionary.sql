@@ -2560,6 +2560,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022130", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022201", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022202", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022203", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過10次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022301", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022302", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022303", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過10次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -4379,6 +4382,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300030", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300031", /*message*/"以S RANK通過難易度［高級＋］的「Amazing Travel DNA」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300032", /*message*/"以S RANK通過難易度［高級＋］的「CHASE!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300033", /*message*/"以S RANK通過難易度［高級＋］的「Evergreen」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300034", /*message*/"以S RANK通過難易度［高級＋］的「Dokipipo☆Emotion」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"以S RANK通過難易度［挑戰級］的「Yume no Tobira」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"以S RANK通過難易度［挑戰級］的「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"以S RANK通過難易度［挑戰級］的「Koini Naritai AQUARIUM」");

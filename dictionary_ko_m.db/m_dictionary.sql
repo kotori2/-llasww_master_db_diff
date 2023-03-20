@@ -2562,6 +2562,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022130", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022201", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022202", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022203", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022301", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022302", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022303", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -4381,6 +4384,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300030", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300031", /*message*/"「Amazing Travel DNA」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300032", /*message*/"「CHASE!」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300033", /*message*/"「Evergreen」의 ［상급+］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300034", /*message*/"「Dokipipo☆Emotion」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「Yume no Tobira」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"「A song for You! You? You!!」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"「Koini Naritai AQUARIUM」의 ［챌린지］ 난이도를 S랭크로 클리어");

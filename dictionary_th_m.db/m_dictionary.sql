@@ -2569,6 +2569,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022130", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022201", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022202", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022203", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022301", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022302", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022303", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -4388,6 +4391,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300030", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300031", /*message*/"เคลียร์ &apos;Amazing Travel DNA&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300032", /*message*/"เคลียร์ &apos;CHASE!&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300033", /*message*/"เคลียร์ &apos;Evergreen&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300034", /*message*/"เคลียร์ &apos;Dokipipo☆Emotion&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"เคลียร์ &apos;Yume no Tobira&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"เคลียร์ &apos;A song for You! You? You!!&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"เคลียร์ &apos;Koini Naritai AQUARIUM&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");

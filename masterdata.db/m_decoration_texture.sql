@@ -2688,3 +2688,5 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10211/tex_banner_notice_s_10211", /*path*/"}}u");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10212/tex_banner_notice_l_10212", /*path*/"dt}");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10212/tex_banner_notice_s_10212", /*path*/"IEv");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10213/tex_banner_notice_s_10213", /*path*/"2q=");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10213/tex_banner_notice_l_10213", /*path*/"t:}");

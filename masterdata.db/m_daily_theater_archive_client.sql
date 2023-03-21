@@ -1150,3 +1150,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001140, /*year*/2023, /*month*/3, /*day*/18, /*title*/"QU4RTZライブ・１日目！", /*published_at*/1679065200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001141, /*year*/2023, /*month*/3, /*day*/19, /*title*/"QU4RTZライブ・２日目！", /*published_at*/1679151600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001142, /*year*/2023, /*month*/3, /*day*/20, /*title*/"見つめていたい！", /*published_at*/1679238000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001143, /*year*/2023, /*month*/3, /*day*/21, /*title*/"いまの流行は？", /*published_at*/1679324400);

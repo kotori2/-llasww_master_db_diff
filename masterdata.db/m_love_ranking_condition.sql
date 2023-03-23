@@ -39,3 +39,13 @@ INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/31, /*c
 INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/32, /*category*/2, /*relation_id*/210, /*name*/"k.m_dic_member_name_210");
 INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/33, /*category*/2, /*relation_id*/211, /*name*/"k.m_dic_member_name_212");
 INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/34, /*category*/2, /*relation_id*/212, /*name*/"k.m_dic_member_name_211");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/35, /*category*/1, /*relation_id*/2001, /*name*/"k.m_dic_group_name_printemps");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/36, /*category*/1, /*relation_id*/2002, /*name*/"k.m_dic_group_name_bibi");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/37, /*category*/1, /*relation_id*/2003, /*name*/"k.m_dic_group_name_lily_white");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/38, /*category*/1, /*relation_id*/2004, /*name*/"k.m_dic_group_name_cyaron");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/39, /*category*/1, /*relation_id*/2005, /*name*/"k.m_dic_group_name_azalea");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/40, /*category*/1, /*relation_id*/2006, /*name*/"k.m_dic_group_name_guilty_kiss");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/41, /*category*/1, /*relation_id*/2007, /*name*/"k.m_dic_group_name_azuna");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/42, /*category*/1, /*relation_id*/2008, /*name*/"k.m_dic_group_name_diver_diva");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/43, /*category*/1, /*relation_id*/2009, /*name*/"k.m_dic_group_name_qu4rtz");
+INSERT INTO `m_love_ranking_condition` VALUES (/*ranking_condition_type*/44, /*category*/1, /*relation_id*/2010, /*name*/"k.m_dic_group_name_r3birth");

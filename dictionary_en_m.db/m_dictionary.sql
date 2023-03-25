@@ -4535,6 +4535,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_102121001_1", /*message*/"Wha
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_102121002_1", /*message*/"Enjoying Your Time");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_102122001_1", /*message*/"A Promise to Rina");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200012001_1", /*message*/"I Can&apos;t Choose!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200012002_1", /*message*/"Full Speed Ahead on Our Bikes!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_1", /*message*/"Can I Keep You All to Myself?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_2", /*message*/"Closer Than Anyone");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013002_1", /*message*/"The Mummy Hunter Gets Mummified");
@@ -4579,6 +4580,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063001_1", /*message*/"Mak
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063001_2", /*message*/"Keeping the Mask On");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063002_1", /*message*/"A Cherished Fate");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063002_2", /*message*/"This Is a Magic Library");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063003_1", /*message*/"The Queen&apos;s Scheme");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063003_2", /*message*/"A Spicy Night");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200072001_1", /*message*/"Ms. Nozomi&apos;s Study Session");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200072002_1", /*message*/"Enchanting!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_1", /*message*/"Fall Under My Spell");
@@ -4617,6 +4620,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"I C
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"Do I Look Grown-Up?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023002_1", /*message*/"Signature Pose Brainstorming Session");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023002_2", /*message*/"Searching for Cuteness");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023003_1", /*message*/"A Street Corner Piano");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023003_2", /*message*/"The Slumber of the Forgotten Ancients");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201032001_1", /*message*/"My Pillar of Support");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201032002_1", /*message*/"So Much Nature!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201032003_1", /*message*/"A Prince Atop a Boat");
@@ -4675,6 +4680,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093002_2", /*message*/"Rub
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093003_1", /*message*/"Can I Do It?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201093003_2", /*message*/"An Unknown Path");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202012001_1", /*message*/"A Surprise for Her!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202012002_1", /*message*/"A Kindhearted Study Group");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_1", /*message*/"You&apos;ll Always Be Special");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013001_2", /*message*/"A Bride Just for You");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013002_1", /*message*/"I Can Handle the Cold with You Here");

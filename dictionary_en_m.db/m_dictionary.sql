@@ -2562,6 +2562,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022203", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022301", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022302", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022303", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022401", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022402", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022403", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

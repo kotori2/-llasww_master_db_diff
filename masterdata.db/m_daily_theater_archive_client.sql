@@ -1157,3 +1157,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001147, /*year*/2023, /*month*/3, /*day*/25, /*title*/"頑張り屋さん", /*published_at*/1679670000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001148, /*year*/2023, /*month*/3, /*day*/26, /*title*/"頑張ろう！　楽しもう！", /*published_at*/1679756400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001149, /*year*/2023, /*month*/3, /*day*/27, /*title*/"ダジャレ愛！", /*published_at*/1679842800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001150, /*year*/2023, /*month*/3, /*day*/28, /*title*/"守護隊の掟", /*published_at*/1679929200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001151, /*year*/2023, /*month*/3, /*day*/29, /*title*/"選べない！", /*published_at*/1680015600);

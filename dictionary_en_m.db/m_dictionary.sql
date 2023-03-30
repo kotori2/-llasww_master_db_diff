@@ -2828,6 +2828,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800042", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800043", /*message*/"Finish Story Chapter 46.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800044", /*message*/"Finish Story Chapter 47.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800045", /*message*/"Finish Story Chapter 48.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800046", /*message*/"Finish Story Chapter 49.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"Read a Bond Episode: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"Read a Bond Episode: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"Read a Bond Episode: x10");
@@ -3491,6 +3492,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400679", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400680", /*message*/"Clear &quot;Not Sad&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400681", /*message*/"Clear &quot;Not Sad&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400682", /*message*/"Clear &quot;Not Sad&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400683", /*message*/"Clear &quot;Shiranai Love * Oshiete Love&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400684", /*message*/"Clear &quot;Shiranai Love * Oshiete Love&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400685", /*message*/"Clear &quot;Shiranai Love * Oshiete Love&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -5818,6 +5822,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_45", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_46", /*message*/"Reach Out and Rise to It");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_47", /*message*/"Why Nijigasaki?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_48", /*message*/"Try New Electives Program");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_49", /*message*/"A World Filled of Puzzles");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"Find μ&apos;s&apos; Secret!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"Contest Progression");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
@@ -5866,6 +5871,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_45", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_46", /*message*/"Chapter 46");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_47", /*message*/"Chapter 47");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_48", /*message*/"Chapter 48");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_49", /*message*/"Chapter 49");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"Chapter 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"Chapter 7");
@@ -6307,6 +6313,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_7", /*message*/"One morning during class, Karin seems awfully sleepy. Her modelling work has been keeping her quite busy recently.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_8", /*message*/"Today&apos;s the day where you&apos;ll be trying the life planning course. What sort of adventures will that bring?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_9", /*message*/"The life planning course has you remaking secondhand clothes. Emma, Lanzhu, Karin, and Kanata work together to make an outfit.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_49_1", /*message*/"You&apos;re walking along to pick up lunch when you happen to spot Ai running past in a big hurry. What&apos;s she up to?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_49_10", /*message*/"You and Ai go to the hospital to visit Misato. Ai&apos;s a big hit with all the patients, and she somehow winds up putting on a miniature concert for them. When you&apos;re both tired and it&apos;s time to walk home, what do you talk about?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_49_2", /*message*/"Ai&apos;s here to try the music department, and while she looks nervous, that clearly won&apos;t stop her excitement. How will the program turn out?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_49_3", /*message*/"And thus ends the program to try out different departments in order to fill the school pamphlets with everything wonderful about Nijigasaki. Mifune interviews everyone who took part.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_49_4", /*message*/"Once the post-program interviews are over, everyone is about to head home. Just then, you notice Fishpuff doing something odd.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_49_5", /*message*/"Chasing Fishpuff leads you all around town through streets you normally never take and to places you&apos;ve never been. When Fishpuff, tired of all the walking, settles down for a nap, you decide to take a break too.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_49_6", /*message*/"You have one surprise after another as Fishpuff&apos;s solo tour takes her around town to be doted on by all the townsfolk. Now where&apos;s Fishpuff off to next?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_49_7", /*message*/"Ai wastes no time before telling Misato all about Fishpuff&apos;s big adventures. Unfortunately, the hospital lights-out time cuts her short.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_49_8", /*message*/"After you give Ai the chord progression data, Ai says she wants to learn more about music. Is she going to attempt to compose a song too?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_49_9", /*message*/"You head out for a shopping trip, and as you wander around town, errands complete, you happen to bump into Ai.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"After seeing the detail with which Dia records Aqours&apos; activities, you decide you want to do the same for Nijigasaki. You spend your time productively, and before you know it the festival is only a week away.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_10", /*message*/"In the end, it seems that yet again they didn&apos;t find their shine like Chika had talked about. It is only you that may have barely grasped what it is, and with that you leave Numazu.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_2", /*message*/"You take on secretarial duties for the Summer Festival, but something about Chika&apos;s behavior that day catches you off guard. Then you run into Riko, who just so happened to sense the same thing.");
@@ -6793,6 +6809,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_6", /*message*/"Ch
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_7", /*message*/"Let Me Choose!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_8", /*message*/"Off to Life Planning!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_9", /*message*/"A Continuous Road");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_49_1", /*message*/"Pursue the Inspiration!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_49_10", /*message*/"A Ray of Light");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_49_2", /*message*/"Ai&apos;s Musical Experience!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_49_3", /*message*/"Post-Program Interviews");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_49_4", /*message*/"Tail Fishpuff!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_49_5", /*message*/"Fishpuff&apos;s Big Adventure");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_49_6", /*message*/"Fishpuff is All Grown Up");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_49_7", /*message*/"Hidden in the Puzzle");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_49_8", /*message*/"The Club&apos;s Music Chat");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_49_9", /*message*/"An Orange Angel");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"Rising Expectations");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"Morning Goodbye");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"Festival Makers");

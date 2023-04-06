@@ -1164,3 +1164,6 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001154, /*year*/2023, /*month*/4, /*day*/1, /*title*/"エイプリルフール！", /*published_at*/1680274800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001155, /*year*/2023, /*month*/4, /*day*/2, /*title*/"国際子どもの本の日", /*published_at*/1680361200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001156, /*year*/2023, /*month*/4, /*day*/3, /*title*/"ハッピーバースデー、しずくちゃん！", /*published_at*/1680447600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001157, /*year*/2023, /*month*/4, /*day*/4, /*title*/"お花に囲まれて", /*published_at*/1680534000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001158, /*year*/2023, /*month*/4, /*day*/5, /*title*/"ヘアカットの日！", /*published_at*/1680620400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001159, /*year*/2023, /*month*/4, /*day*/6, /*title*/"金箔の味？", /*published_at*/1680706800);

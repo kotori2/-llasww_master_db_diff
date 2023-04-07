@@ -1873,6 +1873,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003912", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003913", /*message*/"Obtain 1 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003914", /*message*/"Obtain 2 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003915", /*message*/"Obtain 3 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004001", /*message*/"Play &quot;Yuki wa Doko ni? Kimi no Mune ni!&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004002", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004003", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004004", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004005", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004006", /*message*/"Collect 3 login bonuses during the event.");
@@ -3512,6 +3515,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400682", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400683", /*message*/"Clear &quot;Shiranai Love * Oshiete Love&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400684", /*message*/"Clear &quot;Shiranai Love * Oshiete Love&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400685", /*message*/"Clear &quot;Shiranai Love * Oshiete Love&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400686", /*message*/"Clear &quot;PURE PHRASE&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400687", /*message*/"Clear &quot;PURE PHRASE&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400688", /*message*/"Clear &quot;PURE PHRASE&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

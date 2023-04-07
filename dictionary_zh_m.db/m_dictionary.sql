@@ -1874,6 +1874,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003912", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003913", /*message*/"獲得1件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003914", /*message*/"獲得2件服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003915", /*message*/"獲得3件服裝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004001", /*message*/"遊玩1次「Yuki wa Doko ni? Kimi no Mune ni!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004002", /*message*/"完成5場LIVE");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004003", /*message*/"進行2次集訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004004", /*message*/"把1名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004005", /*message*/"把2名學園偶像的等級提升到指定數值(R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004006", /*message*/"於期間內領取3次登入獎勵");
@@ -3513,6 +3516,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400682", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400683", /*message*/"完成10次「Shiranai Love * Oshiete Love」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400684", /*message*/"完成50次「Shiranai Love * Oshiete Love」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400685", /*message*/"完成100次「Shiranai Love * Oshiete Love」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400686", /*message*/"完成10次「PURE PHRASE」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400687", /*message*/"完成50次「PURE PHRASE」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400688", /*message*/"完成100次「PURE PHRASE」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

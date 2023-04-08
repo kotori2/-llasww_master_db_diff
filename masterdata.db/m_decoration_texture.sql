@@ -2749,6 +2749,14 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gach
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230415/tex_banner_notice_s_2230415", /*path*/"B&;");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230415/tex_banner_gacha_top_2230415_1", /*path*/"E^K");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230415/tex_banner_gacha_text_2230415_1", /*path*/"GA4");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230416/tex_banner_notice_l_2230416", /*path*/"Jp{");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230416/tex_banner_notice_s_2230416", /*path*/"]@N");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230416/tex_banner_gacha_top_2230416_1", /*path*/"]!!");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230416/tex_banner_gacha_text_2230416_1", /*path*/"q*I");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230417/tex_banner_notice_l_2230417", /*path*/"!j)");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230417/tex_banner_notice_s_2230417", /*path*/"^'F");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230417/tex_banner_gacha_top_2230417_1", /*path*/"X%U");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230417/tex_banner_gacha_text_2230417_1", /*path*/"eka");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020303/tex_banner_notice_s_4020303", /*path*/"{C!");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020303/tex_banner_gacha_top_4020303_1", /*path*/"XO\");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020303/tex_banner_gacha_text_4020303_1", /*path*/"O&\"");

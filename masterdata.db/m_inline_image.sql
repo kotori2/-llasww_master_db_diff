@@ -2071,6 +2071,7 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4020
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4010703/tex_banner_gacha_sticker_4010703", /*path*/"U1r");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/4000403/tex_banner_gacha_sticker_4000403", /*path*/"R;p");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230401/tex_banner_gacha_sticker_2230401", /*path*/"u\"q");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230402/tex_banner_gacha_sticker_2230402", /*path*/"'>t");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230406/tex_banner_gacha_sticker_2230406", /*path*/"KgP");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230411/tex_banner_gacha_sticker_2230411", /*path*/"`F'");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230412/tex_banner_gacha_sticker_2230412", /*path*/"U1p");

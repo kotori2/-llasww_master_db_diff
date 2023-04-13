@@ -2587,6 +2587,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022502", /*message*/"[빅 라이브 과제] START: DASH!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022503", /*message*/"[빅 라이브 과제] HAPPY PARTY TRAIN 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022504", /*message*/"[빅 라이브 과제] Make-up session ABC 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022601", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022602", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022603", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -4935,6 +4938,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"데
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"부끄러워 죽겠어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_1", /*message*/"반짝반짝 빛나는 미소는 누구의 것?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_2", /*message*/"더 크게, 다 함께!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093003_1", /*message*/"마음을 형상화한");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093003_2", /*message*/"나를 부르는 목소리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"비밀 친구");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012002_1", /*message*/"미드나이트 걸즈 토크");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012003_1", /*message*/"네게 요리를 만들어 주고 싶어");
@@ -4947,6 +4952,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013003_2", /*message*/"거
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"특제 빵을 선물하자!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"승리의 옷 GET!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022003_1", /*message*/"카스밍은 언제나");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022004_1", /*message*/"여기 좀 봐 줘, 카스밍!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"최고의 선물을 찾아");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"카스밍색으로 물들여요♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"당신 앞에서는 솔직해지고 싶어요");

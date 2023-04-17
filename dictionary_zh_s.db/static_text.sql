@@ -4,6 +4,16 @@ CREATE TABLE static_text(
   message TEXT NOT NULL,
   PRIMARY KEY (textid, guid)
 );
+INSERT INTO `static_text` VALUES (/*textid*/375320518515066595, /*guid*/"007cec086a1578740b8f3a8350b79e66", /*message*/"高級");
+INSERT INTO `static_text` VALUES (/*textid*/5415560379621352039, /*guid*/"007cec086a1578740b8f3a8350b79e66", /*message*/"挑戰級");
+INSERT INTO `static_text` VALUES (/*textid*/7342627330554903373, /*guid*/"007cec086a1578740b8f3a8350b79e66", /*message*/"高級＋");
+INSERT INTO `static_text` VALUES (/*textid*/7549775889307250598, /*guid*/"007cec086a1578740b8f3a8350b79e66", /*message*/"中級");
+INSERT INTO `static_text` VALUES (/*textid*/7552809306520655081, /*guid*/"007cec086a1578740b8f3a8350b79e66", /*message*/"初級");
+INSERT INTO `static_text` VALUES (/*textid*/8160575441626431404, /*guid*/"007cec086a1578740b8f3a8350b79e66", /*message*/"中級");
+INSERT INTO `static_text` VALUES (/*textid*/8220007039111834050, /*guid*/"007cec086a1578740b8f3a8350b79e66", /*message*/"高級");
+INSERT INTO `static_text` VALUES (/*textid*/8806071047370912737, /*guid*/"007cec086a1578740b8f3a8350b79e66", /*message*/"挑戰級");
+INSERT INTO `static_text` VALUES (/*textid*/8955476302385387626, /*guid*/"007cec086a1578740b8f3a8350b79e66", /*message*/"高級＋");
+INSERT INTO `static_text` VALUES (/*textid*/8987073732504281538, /*guid*/"007cec086a1578740b8f3a8350b79e66", /*message*/"初級");
 INSERT INTO `static_text` VALUES (/*textid*/6646326047508567154, /*guid*/"0444082e95298914e969851b774114fb", /*message*/"詳細");
 INSERT INTO `static_text` VALUES (/*textid*/1153982335, /*guid*/"04a40529ef610450e9b1c05138c9418a", /*message*/"LIVE的進行方法");
 INSERT INTO `static_text` VALUES (/*textid*/1034060840635258522, /*guid*/"05e59fabbebb444ad8ceebe71137e1ac", /*message*/"變更前");
@@ -357,10 +367,8 @@ INSERT INTO `static_text` VALUES (/*textid*/787594512, /*guid*/"32d1cb03defa8314
 INSERT INTO `static_text` VALUES (/*textid*/791773985, /*guid*/"32d1cb03defa8314b8bb796c1e16bbae", /*message*/"每日");
 INSERT INTO `static_text` VALUES (/*textid*/922673248, /*guid*/"32d1cb03defa8314b8bb796c1e16bbae", /*message*/"未完成");
 INSERT INTO `static_text` VALUES (/*textid*/925506897, /*guid*/"32d1cb03defa8314b8bb796c1e16bbae", /*message*/"每日");
-INSERT INTO `static_text` VALUES (/*textid*/2242717303823836068, /*guid*/"33245aad4e1cd42b4bb7b1ab24e9a2ea", /*message*/"未完成");
-INSERT INTO `static_text` VALUES (/*textid*/7281915866888673120, /*guid*/"33245aad4e1cd42b4bb7b1ab24e9a2ea", /*message*/"已完成");
-INSERT INTO `static_text` VALUES (/*textid*/7318264537771670984, /*guid*/"33245aad4e1cd42b4bb7b1ab24e9a2ea", /*message*/"未完成");
-INSERT INTO `static_text` VALUES (/*textid*/8830314314573279025, /*guid*/"33245aad4e1cd42b4bb7b1ab24e9a2ea", /*message*/"已完成");
+INSERT INTO `static_text` VALUES (/*textid*/6132441111514615260, /*guid*/"33245aad4e1cd42b4bb7b1ab24e9a2ea", /*message*/"未完成");
+INSERT INTO `static_text` VALUES (/*textid*/7376618469461413888, /*guid*/"33245aad4e1cd42b4bb7b1ab24e9a2ea", /*message*/"已完成");
 INSERT INTO `static_text` VALUES (/*textid*/1047050946, /*guid*/"376814167fc3c4986a88c9759c988ba9", /*message*/"劇情");
 INSERT INTO `static_text` VALUES (/*textid*/1540075003, /*guid*/"376814167fc3c4986a88c9759c988ba9", /*message*/"排列");
 INSERT INTO `static_text` VALUES (/*textid*/1922487921, /*guid*/"376814167fc3c4986a88c9759c988ba9", /*message*/"活動劇情");
@@ -734,8 +742,6 @@ INSERT INTO `static_text` VALUES (/*textid*/7705542696715066352, /*guid*/"5ecffa
 INSERT INTO `static_text` VALUES (/*textid*/6516725148712770627, /*guid*/"5ef54e560a4fd48afb1a6517f05a832b", /*message*/"道具");
 INSERT INTO `static_text` VALUES (/*textid*/732451784, /*guid*/"5ef54e560a4fd48afb1a6517f05a832b", /*message*/"道具交換期限");
 INSERT INTO `static_text` VALUES (/*textid*/114548051031063186, /*guid*/"5ffdca574c0bd3240ab3ba6d5a344b9f", /*message*/"學園偶像");
-INSERT INTO `static_text` VALUES (/*textid*/1608205131515777522, /*guid*/"61f4b3e7f324f4be290c849ae76fe992", /*message*/"此LIVE即使在達成目標張力後體力歸零，也會判定為通過。
-無法達成目標張力時，累積獲得的張力將會繼承到下一次LIVE。");
 INSERT INTO `static_text` VALUES (/*textid*/6783743739160677621, /*guid*/"61f4b3e7f324f4be290c849ae76fe992", /*message*/"目標張力");
 INSERT INTO `static_text` VALUES (/*textid*/114452082461153636, /*guid*/"62e0b24264a6d4157b5fe02670b280d2", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_skill_03\" margin-right=\"2px\" offsety=\"-3px\" height=\"16px\" width=\"20px\"/>經驗技能");
 INSERT INTO `static_text` VALUES (/*textid*/114547257550276276, /*guid*/"62e0b24264a6d4157b5fe02670b280d2", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_skill_02\" margin-right=\"2px\" offsety=\"-3px\" height=\"16px\" width=\"20px\"/>優勢");
@@ -751,8 +757,17 @@ INSERT INTO `static_text` VALUES (/*textid*/114814518619594464, /*guid*/"63c858b
 INSERT INTO `static_text` VALUES (/*textid*/114950088311426864, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"©2013 プロジェクトラブライブ！ ©2017 プロジェクトラブライブ！サンシャイン!! ©2020 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 ©Bushiroad International ©SUNRISE ©bushiroad");
 INSERT INTO `static_text` VALUES (/*textid*/114975660973232210, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"第一頁");
+INSERT INTO `static_text` VALUES (/*textid*/1015904803, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"全體");
+INSERT INTO `static_text` VALUES (/*textid*/1072390166, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"好友");
+INSERT INTO `static_text` VALUES (/*textid*/1218941889, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"玩家名次");
+INSERT INTO `static_text` VALUES (/*textid*/1451037950, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"玩家名次");
+INSERT INTO `static_text` VALUES (/*textid*/1466277124, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"TOP");
+INSERT INTO `static_text` VALUES (/*textid*/1728928717, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"活動排名報酬");
+INSERT INTO `static_text` VALUES (/*textid*/429220217, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"TOP");
 INSERT INTO `static_text` VALUES (/*textid*/4393011474595435422, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"顯示的編組資訊為進入排名時的內容。
 張力排名僅會納入在開放排名功能後通過的歌曲的成績，在開放前通過的歌曲的成績不會納入排名，請特別留意。");
+INSERT INTO `static_text` VALUES (/*textid*/699676964, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"全體");
+INSERT INTO `static_text` VALUES (/*textid*/919139546, /*guid*/"6443108dd88fa244da4a0df1e7b23e12", /*message*/"好友");
 INSERT INTO `static_text` VALUES (/*textid*/2114035015707683791, /*guid*/"655528915c659400c9fbfd97ededcd22", /*message*/"平均張力：");
 INSERT INTO `static_text` VALUES (/*textid*/2390997320694204352, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"日本特定商取引法相關聲明");
 INSERT INTO `static_text` VALUES (/*textid*/3897628058791381417, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"→");
@@ -818,7 +833,6 @@ INSERT INTO `static_text` VALUES (/*textid*/6011527787621443440, /*guid*/"6f58ce
 INSERT INTO `static_text` VALUES (/*textid*/1592176478, /*guid*/"70cf9495054de4585ad1faa00260dc2a", /*message*/"遊行隊伍編組");
 INSERT INTO `static_text` VALUES (/*textid*/1639061984, /*guid*/"70cf9495054de4585ad1faa00260dc2a", /*message*/"交換所");
 INSERT INTO `static_text` VALUES (/*textid*/1955217805, /*guid*/"70cf9495054de4585ad1faa00260dc2a", /*message*/"回復PP");
-INSERT INTO `static_text` VALUES (/*textid*/2002796622, /*guid*/"70cf9495054de4585ad1faa00260dc2a", /*message*/"完成報酬列表");
 INSERT INTO `static_text` VALUES (/*textid*/4810846762772185341, /*guid*/"70cf9495054de4585ad1faa00260dc2a", /*message*/"規則");
 INSERT INTO `static_text` VALUES (/*textid*/5168503685136561601, /*guid*/"717e6231104ca4ea789769e57b7c8dbc", /*message*/"捨棄的經驗技能無法復原");
 INSERT INTO `static_text` VALUES (/*textid*/832575951359372698, /*guid*/"717e6231104ca4ea789769e57b7c8dbc", /*message*/"即將捨棄本次習得的所有經驗技能，是否確定要執行？");
@@ -1513,8 +1527,10 @@ INSERT INTO `static_text` VALUES (/*textid*/963810223, /*guid*/"e8108c9a497aedf4
 INSERT INTO `static_text` VALUES (/*textid*/999595778, /*guid*/"e8108c9a497aedf4cbe16dee1adb57e0", /*message*/"按此看詳細");
 INSERT INTO `static_text` VALUES (/*textid*/1957222087647942948, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"可回復AP數");
 INSERT INTO `static_text` VALUES (/*textid*/242466013636110351, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"日本資金結算法相關聲明");
+INSERT INTO `static_text` VALUES (/*textid*/4445661145196889254, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"領隊習得經驗技能機率上升");
 INSERT INTO `static_text` VALUES (/*textid*/4685575867685015143, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"→");
 INSERT INTO `static_text` VALUES (/*textid*/714908319619401493, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"→");
+INSERT INTO `static_text` VALUES (/*textid*/8280719781505409008, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"領隊習得經驗技能機率上升");
 INSERT INTO `static_text` VALUES (/*textid*/9002039737048049280, /*guid*/"e83295051c47e6744889c4e46a543b8d", /*message*/"日本特定商取引法相關聲明");
 INSERT INTO `static_text` VALUES (/*textid*/243166013177292380, /*guid*/"e8c934180193b9841b59363f6504735e", /*message*/"報酬將送往禮物盒。");
 INSERT INTO `static_text` VALUES (/*textid*/8947221868180909886, /*guid*/"e9b6d5da176424947abc705c57922864", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_skill_03\" offsety=\"-6px\" height=\"1.5\" width=\"1.5\"/>經驗技能");

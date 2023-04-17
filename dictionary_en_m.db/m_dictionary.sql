@@ -2587,6 +2587,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022601", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022602", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022603", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022703", /*message*/"[CD Release Celebration] Clear &quot;Koini Naritai AQUARIUM&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022704", /*message*/"[CD Release Celebration] Use an SP Skill including You Watanabe 20 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -2677,6 +2679,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33039", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33039_000", /*message*/"Dream Live Parade - 3.5Anniversary 3rd diary");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33040", /*message*/"Dream Live Parade - 3.5Anniversary Last diary");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33040_000", /*message*/"Dream Live Parade - 3.5Anniversary Last diary");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041", /*message*/"Dream Live Parade: Voltage Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041_000", /*message*/"Dream Live Parade: Voltage Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -4417,6 +4421,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300031", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300032", /*message*/"Clear &quot;CHASE!&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300033", /*message*/"Clear &quot;Evergreen&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300034", /*message*/"Clear &quot;Dokipipo☆Emotion&quot; on Expert difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300035", /*message*/"Clear &quot;Koini Naritai AQUARIUM&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"Clear &quot;Yume no Tobira&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"Clear &quot;A song for You! You? You!!&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"Clear &quot;Koini Naritai AQUARIUM&quot; on Challenge difficulty with Rank S.");

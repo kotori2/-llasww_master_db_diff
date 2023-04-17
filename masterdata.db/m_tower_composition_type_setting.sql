@@ -9,3 +9,4 @@ INSERT INTO `m_tower_composition_type_setting` VALUES (/*tower_cell_type*/2, /*c
 INSERT INTO `m_tower_composition_type_setting` VALUES (/*tower_cell_type*/3, /*cell_name*/"k.tower_l_109", /*text_outline_color*/-259260417);
 INSERT INTO `m_tower_composition_type_setting` VALUES (/*tower_cell_type*/4, /*cell_name*/"k.tower_l_109", /*text_outline_color*/"");
 INSERT INTO `m_tower_composition_type_setting` VALUES (/*tower_cell_type*/5, /*cell_name*/"k.tower_l_112", /*text_outline_color*/"");
+INSERT INTO `m_tower_composition_type_setting` VALUES (/*tower_cell_type*/6, /*cell_name*/"k.tower_l_114", /*text_outline_color*/"");

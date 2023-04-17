@@ -58,3 +58,4 @@ INSERT INTO `m_live_texture` VALUES (/*asset_type*/52, /*asset_path*/"&c?");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/53, /*asset_path*/"/f2");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/54, /*asset_path*/"42c");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/55, /*asset_path*/"snK");
+INSERT INTO `m_live_texture` VALUES (/*asset_type*/56, /*asset_path*/"@5)");

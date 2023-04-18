@@ -1175,3 +1175,7 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001165, /*year*/2023, /*month*/4, /*day*/12, /*title*/"まだまだ持てる！", /*published_at*/1681225200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001166, /*year*/2023, /*month*/4, /*day*/13, /*title*/"見守ります！", /*published_at*/1681311600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001167, /*year*/2023, /*month*/4, /*day*/14, /*title*/"わかる？", /*published_at*/1681398000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001168, /*year*/2023, /*month*/4, /*day*/15, /*title*/"毎月の楽しみ！？", /*published_at*/1681484400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001169, /*year*/2023, /*month*/4, /*day*/16, /*title*/"スクールアイドル戦隊・集結！！", /*published_at*/1681570800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001170, /*year*/2023, /*month*/4, /*day*/17, /*title*/"ハッピーバースデー・曜さん！", /*published_at*/1681657200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001171, /*year*/2023, /*month*/4, /*day*/18, /*title*/"どっちも最高！", /*published_at*/1681743600);

@@ -4451,6 +4451,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"Clear &quot;LOVELESS WORLD&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400009", /*message*/"Clear &quot;MY Mai☆TONIGHT&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400010", /*message*/"Clear &quot;Snow halation&quot; on Challenge difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400011", /*message*/"Clear &quot;L! L! L! (Love the Life We Live)&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"Bond Level");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"Accessory");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"Campaign");

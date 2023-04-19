@@ -4454,6 +4454,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"「LOVELESS WORLD」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400009", /*message*/"「MY Mai☆TONIGHT」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400010", /*message*/"「Snow halation」의 ［챌린지］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400011", /*message*/"「L! L! L! (Love the Life We Live)」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"인연Lv");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"액세서리");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"캠페인");

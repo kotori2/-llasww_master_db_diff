@@ -1180,3 +1180,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001170, /*year*/2023, /*month*/4, /*day*/17, /*title*/"ハッピーバースデー・曜さん！", /*published_at*/1681657200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001171, /*year*/2023, /*month*/4, /*day*/18, /*title*/"どっちも最高！", /*published_at*/1681743600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001172, /*year*/2023, /*month*/4, /*day*/19, /*title*/"ハッピーバースデー、まき子！", /*published_at*/1681830000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001173, /*year*/2023, /*month*/4, /*day*/20, /*title*/"ニコニー写真講座", /*published_at*/1681916400);

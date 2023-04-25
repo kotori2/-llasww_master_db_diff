@@ -1181,3 +1181,8 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001171, /*year*/2023, /*month*/4, /*day*/18, /*title*/"どっちも最高！", /*published_at*/1681743600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001172, /*year*/2023, /*month*/4, /*day*/19, /*title*/"ハッピーバースデー、まき子！", /*published_at*/1681830000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001173, /*year*/2023, /*month*/4, /*day*/20, /*title*/"ニコニー写真講座", /*published_at*/1681916400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001174, /*year*/2023, /*month*/4, /*day*/21, /*title*/"あみぐるみマスター！", /*published_at*/1682002800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001175, /*year*/2023, /*month*/4, /*day*/22, /*title*/"会いに来たよ、広島！　その１", /*published_at*/1682089200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001176, /*year*/2023, /*month*/4, /*day*/23, /*title*/"会いに来たよ、広島！　その２", /*published_at*/1682175600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001177, /*year*/2023, /*month*/4, /*day*/24, /*title*/"だから頑張れる！", /*published_at*/1682262000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001178, /*year*/2023, /*month*/4, /*day*/25, /*title*/"一生のお願い返し！", /*published_at*/1682348400);

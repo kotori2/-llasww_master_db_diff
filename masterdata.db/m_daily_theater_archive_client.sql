@@ -1187,3 +1187,6 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001177, /*year*/2023, /*month*/4, /*day*/24, /*title*/"だから頑張れる！", /*published_at*/1682262000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001178, /*year*/2023, /*month*/4, /*day*/25, /*title*/"一生のお願い返し！", /*published_at*/1682348400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001179, /*year*/2023, /*month*/4, /*day*/26, /*title*/"大事なことがひとつある！", /*published_at*/1682434800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001180, /*year*/2023, /*month*/4, /*day*/27, /*title*/"心配性", /*published_at*/1682521200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001181, /*year*/2023, /*month*/4, /*day*/28, /*title*/"勝利の価値は？", /*published_at*/1682607600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001182, /*year*/2023, /*month*/4, /*day*/29, /*title*/"GWの楽しみ！", /*published_at*/1682694000);

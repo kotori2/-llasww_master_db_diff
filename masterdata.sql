@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"9db0c7a3a6213952afb5f397a0f2b3a1de3eabda", /*hash*/"1e7b2f4b80cf8bec7577f45cb25950588358947d", /*size*/12189840);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"991b80bed7997d0aba6960c0676616244302fb0e", /*hash*/"201a99f4e96f1a967308a656fcb0b04b871e8cb1", /*size*/12190296);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"6a17e55612e5b38d3fdd7916529d0a8d9a500f8e", /*hash*/"fef93d8e73e1874dad1c82866a0187e6a3d58d7b", /*size*/2144656);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"a9f108c9227ea794ef3bf511b817b51e1996bb38", /*size*/716);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"eab24f77d556c84dacdc92a2f6975a18793f1a7e", /*hash*/"c28ef7568388386de181cdeb0caf90362fcc2f57", /*size*/264325);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_dummy.db", /*keys*/"6ca2
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"ec68170a7cd9ab4db20dfaa8ba812154be2a14c5", /*hash*/"7bef41d95a43eee0931b57f6c668d7857df97fdd", /*size*/11176);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_ios.db", /*keys*/"3baa59d243755ade53875f472d5c7c6e8119f2ae", /*hash*/"b1f8dce9bd79368acee96c924632fb31e0fae8fe", /*size*/46981);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"73e40ee4d31c0ae9261a0753ad4125d81d6e8b22", /*hash*/"478c294192c0c4663e484467d64b628c59648a58", /*size*/91790);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"b229ef045a7db3dc8e2f872d408c213d35ca9ed8", /*hash*/"0a1401a59c45811d3f6c0773f4e4a33feda57da1", /*size*/17232061);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"95eacdfe4df2200f828ff6d2199fa3e1a420d70a", /*hash*/"873bd341d67a0ec92a01c9925aa02677326d46f5", /*size*/17231011);

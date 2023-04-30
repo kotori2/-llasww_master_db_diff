@@ -733,7 +733,7 @@ INSERT INTO `m_dic` VALUES (/*id*/120064, /*text*/"k.daily_theater_archive_203")
 INSERT INTO `m_dic` VALUES (/*id*/120065, /*text*/"k.daily_theater_archive_206");
 INSERT INTO `m_dic` VALUES (/*id*/120066, /*text*/"k.daily_theater_archive_204");
 INSERT INTO `m_dic` VALUES (/*id*/120067, /*text*/"k.daily_theater_archive_220");
-INSERT INTO `m_dic` VALUES (/*id*/120068, /*text*/"k.daily_theater_archive_301");
+INSERT INTO `m_dic` VALUES (/*id*/120068, /*text*/"k.shop_l_p3013");
 INSERT INTO `m_dic` VALUES (/*id*/120069, /*text*/"k.daily_theater_archive_701");
 INSERT INTO `m_dic` VALUES (/*id*/120070, /*text*/"k.daily_theater_archive_801");
 INSERT INTO `m_dic` VALUES (/*id*/120071, /*text*/"k.daily_theater_archive_222");

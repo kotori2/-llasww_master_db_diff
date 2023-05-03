@@ -1192,3 +1192,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001182, /*year*/2023, /*month*/4, /*day*/29, /*title*/"GWの楽しみ！", /*published_at*/1682694000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001183, /*year*/2023, /*month*/4, /*day*/30, /*title*/"溌剌と！", /*published_at*/1682780400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001184, /*year*/2023, /*month*/5, /*day*/1, /*title*/"パーフェクトバランスフード！", /*published_at*/1682866800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001185, /*year*/2023, /*month*/5, /*day*/2, /*title*/"シーズン到来！", /*published_at*/1682953200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001186, /*year*/2023, /*month*/5, /*day*/3, /*title*/"いざ、スケボー体験！", /*published_at*/1683039600);

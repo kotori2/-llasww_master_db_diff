@@ -1914,6 +1914,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004012", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004013", /*message*/"มีชุด 1 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004014", /*message*/"มีชุด 2 ชุด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004015", /*message*/"มีชุด 3 ชุด");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004101", /*message*/"เล่น &quot;OUR P13ECES!!!&quot; 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004102", /*message*/"เคลียร์ไลฟ์ 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004103", /*message*/"ซ้อม 2 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004104", /*message*/"อัปเลเวลของสคูลไอดอล 1 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004105", /*message*/"อัปเลเวลของสคูลไอดอล 2 คน ให้ถึงเลเวลที่กำหนด (R:40 SR:60 UR:80)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004106", /*message*/"รับล็อกอินโบนัส 3 ครั้งในเวลาที่กำหนด");
@@ -3582,6 +3585,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400694", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400695", /*message*/"เคลียร์ &quot;Yume to Mirai de MUGENDAI&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400696", /*message*/"เคลียร์ &quot;Yume to Mirai de MUGENDAI&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400697", /*message*/"เคลียร์ &quot;Yume to Mirai de MUGENDAI&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400698", /*message*/"เคลียร์ &quot;Never giving up!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400699", /*message*/"เคลียร์ &quot;Never giving up!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400700", /*message*/"เคลียร์ &quot;Never giving up!&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");

@@ -1908,6 +1908,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004012", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004013", /*message*/"Obtain 1 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004014", /*message*/"Obtain 2 costumes.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004015", /*message*/"Obtain 3 costumes.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004101", /*message*/"Play &quot;OUR P13ECES!!!&quot; 1 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004102", /*message*/"Clear a Live Show: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004103", /*message*/"Perform Training a total of 2 times.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004104", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004105", /*message*/"Bring a school idol to the designated level (R:40 SR:60 UR:80): x2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401004106", /*message*/"Collect 3 login bonuses during the event.");
@@ -3572,6 +3575,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400694", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400695", /*message*/"Clear &quot;Yume to Mirai de MUGENDAI&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400696", /*message*/"Clear &quot;Yume to Mirai de MUGENDAI&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400697", /*message*/"Clear &quot;Yume to Mirai de MUGENDAI&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400698", /*message*/"Clear &quot;Never giving up!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400699", /*message*/"Clear &quot;Never giving up!&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400700", /*message*/"Clear &quot;Never giving up!&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");

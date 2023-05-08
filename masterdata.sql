@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"e46f8c8fc9b30a66d596012e4b821510a2de76ae", /*hash*/"bc04fcc30679b165bf2b4147b16e43737f293ba0", /*size*/12277924);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"fd9aa2cf2ac5a0da659d3fd4f950ac7a8e99470e", /*hash*/"30cc965b267a75328e0698b594bb9a75b1982490", /*size*/12277942);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"eb36181ecf5b5bc391e3d599402fcb07ee44197b", /*hash*/"741046f19a20d324876a1ab118796ead28334174", /*size*/2170918);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"a9f108c9227ea794ef3bf511b817b51e1996bb38", /*size*/716);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"3d335feaf96fa905889758ae199491094066982b", /*hash*/"c5a99723cd016bd6216eb9ccfd5e409ae43d6c9a", /*size*/268522);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_dummy.db", /*keys*/"a966
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"ec68170a7cd9ab4db20dfaa8ba812154be2a14c5", /*hash*/"7bef41d95a43eee0931b57f6c668d7857df97fdd", /*size*/11176);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_ios.db", /*keys*/"3baa59d243755ade53875f472d5c7c6e8119f2ae", /*hash*/"b1f8dce9bd79368acee96c924632fb31e0fae8fe", /*size*/46981);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"73e40ee4d31c0ae9261a0753ad4125d81d6e8b22", /*hash*/"478c294192c0c4663e484467d64b628c59648a58", /*size*/91790);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"78684985d142647f3740fc2542a655953e058933", /*hash*/"ea90079279e7371f41bfc7da39933e57df52793f", /*size*/17534379);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"73984152f8dfc499a07e2274cdd7196afaf5d029", /*hash*/"5ecc5b0ae2760392ff58b9650b7cadeecef29da3", /*size*/17537283);

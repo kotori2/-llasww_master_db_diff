@@ -1199,3 +1199,8 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001189, /*year*/2023, /*month*/5, /*day*/6, /*title*/"つぶらな瞳のあの子", /*published_at*/1683298800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001190, /*year*/2023, /*month*/5, /*day*/7, /*title*/"盛り上がっていこう！", /*published_at*/1683385200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001191, /*year*/2023, /*month*/5, /*day*/8, /*title*/"遊び疲れ？", /*published_at*/1683471600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001192, /*year*/2023, /*month*/5, /*day*/9, /*title*/"おもてなし返し！", /*published_at*/1683558000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001193, /*year*/2023, /*month*/5, /*day*/10, /*title*/"迷ったら……？", /*published_at*/1683644400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001194, /*year*/2023, /*month*/5, /*day*/11, /*title*/"トライアスロンは続くよどこまでも", /*published_at*/1683730800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001195, /*year*/2023, /*month*/5, /*day*/12, /*title*/"あなたのために！", /*published_at*/1683817200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001196, /*year*/2023, /*month*/5, /*day*/13, /*title*/"こんにちは！　愛知！", /*published_at*/1683903600);

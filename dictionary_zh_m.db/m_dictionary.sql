@@ -2629,6 +2629,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022801", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022802", /*message*/"[大型合作演唱會課題]完成10次「Wonderful Rush」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022803", /*message*/"[大型合作演唱會課題]完成10次「DREAMY COLOR」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022804", /*message*/"[大型合作演唱會課題]完成10次「Dream with You」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022901", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022902", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022903", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2721,6 +2724,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33040", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33040_000", /*message*/"夢幻遊行演唱會～3.5Anniversary Last diary～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041", /*message*/"夢幻遊行演唱會～張力型亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041_000", /*message*/"夢幻遊行演唱會～張力型亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042", /*message*/"夢幻遊行演唱會～技能型亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042_000", /*message*/"夢幻遊行演唱會～技能型亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");
@@ -4922,6 +4927,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"痛
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"閉上眼睛！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_1", /*message*/"兔子大騷動");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_2", /*message*/"隔著相機的心動");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073003_1", /*message*/"總是放在心上");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073003_2", /*message*/"曾經夢想要穿上的服裝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"充滿愛心的飯糰");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"在圖書館請保持安靜");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082003_1", /*message*/"我最喜歡學園偶像了！");
@@ -4997,6 +5004,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083002_1", /*message*/"淑
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083002_2", /*message*/"讓鞠莉熱血沸騰！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092001_1", /*message*/"那個夏天的約定");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092002_1", /*message*/"要不要來點美味的泡芙呢？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092003_1", /*message*/"下一次約會");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"約會的邀約？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"羞死人了");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_1", /*message*/"耀眼奪目的笑容是屬於誰的？");

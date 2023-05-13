@@ -2628,6 +2628,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022801", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022802", /*message*/"[SBL Goal] Clear &quot;Wonderful Rush&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022803", /*message*/"[SBL Goal] Clear &quot;DREAMY COLOR&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022804", /*message*/"[SBL Goal] Clear &quot;Dream with You&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022901", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022902", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022903", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -2720,6 +2723,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33040", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33040_000", /*message*/"Dream Live Parade - 3.5Anniversary Last diary");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041", /*message*/"Dream Live Parade: Voltage Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041_000", /*message*/"Dream Live Parade: Voltage Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042", /*message*/"Dream Live Parade: Skill Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042_000", /*message*/"Dream Live Parade: Skill Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -4921,6 +4926,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"Pai
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"Close Your Eyes!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_1", /*message*/"Rabbit Riot");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073002_2", /*message*/"Racing Hearts through the Camera Lens");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073003_1", /*message*/"Always in My Heart");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073003_2", /*message*/"A Dream Outfit for...Someday");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"Rice Balls Filled with Love");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"Quiet in the Library");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082003_1", /*message*/"I Love School Idols!");
@@ -4996,6 +5003,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083002_1", /*message*/"A L
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083002_2", /*message*/"Fire Me Up!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092001_1", /*message*/"Our Summer Promise");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092002_1", /*message*/"How about a Nice Cream Puff?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092003_1", /*message*/"The Next Promise");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"A Date?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"Too Embarrassed to Live");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_1", /*message*/"Whose Dazzling Smile is That?");

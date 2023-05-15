@@ -2902,6 +2902,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800045", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800046", /*message*/"Finish Story Chapter 49.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800047", /*message*/"Finish Story Chapter 50.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800048", /*message*/"Finish Story Chapter 51.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800049", /*message*/"Finish Story Chapter 52.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"Read a Bond Episode: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"Read a Bond Episode: x5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"Read a Bond Episode: x10");
@@ -3583,6 +3584,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400697", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400698", /*message*/"Clear &quot;Never giving up!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400699", /*message*/"Clear &quot;Never giving up!&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400700", /*message*/"Clear &quot;Never giving up!&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400701", /*message*/"Clear &quot;Sayounara e Sayounara!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400702", /*message*/"Clear &quot;Sayounara e Sayounara!&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400703", /*message*/"Clear &quot;Sayounara e Sayounara!&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -5955,6 +5959,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_49", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"Find μ&apos;s&apos; Secret!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_50", /*message*/"The Limitless Ai-verse!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_51", /*message*/"A Festival? I&apos;m Jealous!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_52", /*message*/"A Festival for Odaiba!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"Contest Progression");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_8", /*message*/"Embrace the Dream&apos;s Start");
@@ -6006,6 +6011,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_49", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"Chapter 5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_50", /*message*/"Chapter 50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_51", /*message*/"Chapter 51");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_52", /*message*/"Chapter 52");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"Chapter 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"Chapter 7");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_8", /*message*/"Chapter 8");
@@ -6487,6 +6493,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_51_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_51_7", /*message*/"The festival is drawing to a close, and everyone is having the time of their lives. Any minute now, μ&apos;s performance is set to begin!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_51_8", /*message*/"The Daikoku Festival has come to an end. Everyone returns home exhausted, elated, and just a little bit sad it&apos;s all over. Who will be waiting for them when they get home?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_51_9", /*message*/"Everyone is still full of excitement from the trip. As the Nijigasaki girls talk about the past few days, they suddenly realize that Odaiba has no traditional festivals of its own. Why is that, anyway?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_1", /*message*/"After seeing μ&apos;s participate in the Daikoku Festival, the Nijigasaki girls set their minds to holding a festival for their own region. But what would a festival for today&apos;s Odaiba look like?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_10", /*message*/"The Nijigasaki members decide to add a display showing everyone&apos;s memories of Odaiba to their festival. They set about gathering stories from people from school and from shops they frequently visit.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_2", /*message*/"The Nijigasaki girls decide to discuss the new Odaiba festival with a local commercial facility. On the day of the meeting, their hearts won&apos;t stop pounding...");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_3", /*message*/"After talking with someone from DiverCity, the Nijigasaki girls start to feel the potential of a new festival that shows off the charms of Odaiba. Suddenly, they&apos;re contacted by someone.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_4", /*message*/"The Nijigasaki members decide that each unit will handle their own festival at each facility. DiverDiva will be in charge of DiverCity! What kind of festival would be right for this place?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_5", /*message*/"Following DiverDiva&apos;s lead, QU4RTZ search for ideas for their festival at Decks Tokyo Beach. Exhausted, they witness something from the deck.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_6", /*message*/"R3BIRTH also search for ideas for their festival at Aqua City. What do they learn after a whole day of exploring the venue?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_7", /*message*/"Finally, A-ZU-NA explore Ariake Garden. What do they find is the appeal of the combined commercial and residential area?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_8", /*message*/"The girls have finally decided what kind of festival they&apos;ll hold at each facility. It&apos;s time for them to explain their ideas to the people in charge of the facilities. You, Shirioko, Setsuna, Karin, and Kanata head to meet them.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_9", /*message*/"After communicating with each of the festival venues, it&apos;s time to get down to business! Just then, you hear an interesting story.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_5_1", /*message*/"After parting with Aqours, you return to Nijigasaki for the first time in a while and see how everyone has improved. You&apos;re very happy, but next you want to go meet μ&apos;s.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_5_10", /*message*/"The third is a vocal contest between Umi and Shizuku! Shizuku&apos;s singing is amazing thanks to her practiced expressiveness, but Umi&apos;s score is higher after turning up the heat. Nijigasaki takes in the current score on the board.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_5_2", /*message*/"You&apos;re chosen to go interview μ&apos;s through a lottery on their fan site, so you take your excitement over to Otonokizaka High. μ&apos;s are very friendly and you&apos;re looking forward to the interviews, but who will you interview first?");
@@ -7003,6 +7019,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_51_6", /*message*/"An
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_51_7", /*message*/"Sunset Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_51_8", /*message*/"For You, Who&apos;s by My Side");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_51_9", /*message*/"A New Town");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_1", /*message*/"Today&apos;s Odaiba?");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_10", /*message*/"Let&apos;s Hear It!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_2", /*message*/"How&apos;s the Meeting Going?!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_3", /*message*/"Amazing Backup!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_4", /*message*/"Fuse With the Future!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_5", /*message*/"A Place for Meetings");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_6", /*message*/"Fragments of Personality");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_7", /*message*/"A Place of Rest");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_8", /*message*/"Use Your Strengths!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_9", /*message*/"In This Place");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_5_1", /*message*/"Feelings Ever-Growing");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_5_10", /*message*/"Between Contests");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_5_2", /*message*/"μ&apos;s Interview, 2nd Years");

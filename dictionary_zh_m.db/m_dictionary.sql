@@ -3607,6 +3607,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400700", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400701", /*message*/"完成10次「Sayounara e Sayounara!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400702", /*message*/"完成50次「Sayounara e Sayounara!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400703", /*message*/"完成100次「Sayounara e Sayounara!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400704", /*message*/"完成10次「Omoiyo Hitotsuninare」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400705", /*message*/"完成50次「Omoiyo Hitotsuninare」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400706", /*message*/"完成100次「Omoiyo Hitotsuninare」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");

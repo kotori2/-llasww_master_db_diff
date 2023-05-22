@@ -3609,6 +3609,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400700", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400701", /*message*/"Sayounara e Sayounara! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400702", /*message*/"Sayounara e Sayounara! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400703", /*message*/"Sayounara e Sayounara! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400704", /*message*/"Omoiyo Hitotsuninare 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400705", /*message*/"Omoiyo Hitotsuninare 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400706", /*message*/"Omoiyo Hitotsuninare 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");

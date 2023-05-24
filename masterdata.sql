@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"59e0c690b17a1399f9c42a68433cf9ea5de93d3a", /*hash*/"5bd6cb0747ba1b597e181dcd16f9d15001cd6cf6", /*size*/12353477);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"521ac2cd48b513f1f2d8e77a7a8eeb6fb1c7f0d2", /*hash*/"40253c05cdd3a9c8a00344ea5fab67f5b877513b", /*size*/12353565);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"8a6dfde667ee3e6f704502a128f024a12178fe29", /*hash*/"ad935daa25de7d2592ceffbe07abb1a29886ba0e", /*size*/2188826);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"a9f108c9227ea794ef3bf511b817b51e1996bb38", /*size*/716);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"62dba9fded4034b05513cb6e49175e60178efb01", /*hash*/"8729df440edc624318eeb11f6611bdf431e04da9", /*size*/271070);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_dummy.db", /*keys*/"9d7f
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_petag.db", /*keys*/"ec68170a7cd9ab4db20dfaa8ba812154be2a14c5", /*hash*/"7bef41d95a43eee0931b57f6c668d7857df97fdd", /*size*/11176);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_ios.db", /*keys*/"3baa59d243755ade53875f472d5c7c6e8119f2ae", /*hash*/"b1f8dce9bd79368acee96c924632fb31e0fae8fe", /*size*/46981);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_s.db", /*keys*/"73e40ee4d31c0ae9261a0753ad4125d81d6e8b22", /*hash*/"478c294192c0c4663e484467d64b628c59648a58", /*size*/91790);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"78ee98404e7a94f122d4f4c6393c81ab4445f7d8", /*hash*/"e27b1e4bf2c0bb037e16de3d9170b64cb4a49eb7", /*size*/17753705);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_th.db", /*keys*/"c2cfcdb0e3b11996719cb4da712806e27a7575ed", /*hash*/"614eaf73dd825dafcc8772fbac3e412973073fcd", /*size*/17757350);

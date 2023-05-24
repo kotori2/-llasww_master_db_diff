@@ -2845,6 +2845,14 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gach
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230517/tex_banner_notice_s_2230517", /*path*/"1ms");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230517/tex_banner_gacha_top_2230517_1", /*path*/"S-W");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230517/tex_banner_gacha_text_2230517_1", /*path*/">H|");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230518/tex_banner_notice_l_2230518", /*path*/"CA3");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230518/tex_banner_notice_s_2230518", /*path*/"0Bj");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230518/tex_banner_gacha_top_2230518_1", /*path*/"\My");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230518/tex_banner_gacha_text_2230518_1", /*path*/"ODT");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230519/tex_banner_notice_l_2230519", /*path*/"4H_");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230519/tex_banner_notice_s_2230519", /*path*/"stc");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230519/tex_banner_gacha_top_2230519_1", /*path*/"7Qq");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2230519/tex_banner_gacha_text_2230519_1", /*path*/"6Z`");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Mining/31041/tex_banner_notice_l_31041", /*path*/"O&r");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Mining/31041/tex_banner_notice_s_31041", /*path*/"4Ur");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Marathon/30047/tex_banner_notice_l_30047", /*path*/"scE");

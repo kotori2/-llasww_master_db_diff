@@ -105,6 +105,8 @@ INSERT INTO `m_dic_str` VALUES (/*id*/99, /*text*/"k.notice_video_406");
 INSERT INTO `m_dic_str` VALUES (/*id*/100, /*text*/"k.notice_video_406");
 INSERT INTO `m_dic_str` VALUES (/*id*/101, /*text*/"k.item_list_513");
 INSERT INTO `m_dic_str` VALUES (/*id*/102, /*text*/"k.item_list_ls_p201");
+INSERT INTO `m_dic_str` VALUES (/*id*/10000, /*text*/"k.sif2_data_linking_ls_p201");
+INSERT INTO `m_dic_str` VALUES (/*id*/10001, /*text*/"k.sif2_data_linking_ls_p202");
 INSERT INTO `m_dic_str` VALUES (/*id*/320000, /*text*/"k.training_ls_p1801");
 INSERT INTO `m_dic_str` VALUES (/*id*/320001, /*text*/"k.live_friend_select_ls_p701");
 INSERT INTO `m_dic_str` VALUES (/*id*/320002, /*text*/"k.live_friend_select_ls_p702");

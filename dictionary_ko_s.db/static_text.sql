@@ -1000,8 +1000,10 @@ INSERT INTO `static_text` VALUES (/*textid*/92546645, /*guid*/"91d5dcc49c1877d48
 INSERT INTO `static_text` VALUES (/*textid*/1175066351, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"필터");
 INSERT INTO `static_text` VALUES (/*textid*/1433352561, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"새로 고침");
 INSERT INTO `static_text` VALUES (/*textid*/15226935, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"게스트의 개성은 1번 발동하면 일정 노트가 지나기 전까지 발동하지 않습니다.");
+INSERT INTO `static_text` VALUES (/*textid*/1606450135, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"필터");
 INSERT INTO `static_text` VALUES (/*textid*/1986180694, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"게스트 없음");
 INSERT INTO `static_text` VALUES (/*textid*/2004246068, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"정렬");
+INSERT INTO `static_text` VALUES (/*textid*/244652600, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"정렬");
 INSERT INTO `static_text` VALUES (/*textid*/644473322, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"프렌드:");
 INSERT INTO `static_text` VALUES (/*textid*/1071004183, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"상급");
 INSERT INTO `static_text` VALUES (/*textid*/1071284091, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_info_02\" height=\"24px\" width=\"24px\" offsetY=\"-5px\"/>공략 정보");

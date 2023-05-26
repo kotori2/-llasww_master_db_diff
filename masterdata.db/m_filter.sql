@@ -67,6 +67,7 @@ INSERT INTO `m_filter` VALUES (/*filter_scene*/2, /*filter_category*/12, /*patte
 INSERT INTO `m_filter` VALUES (/*filter_scene*/2, /*filter_category*/2, /*pattern_id*/2, /*display_order*/3, /*button_type*/1, /*button_style*/2, /*column_constraint*/8, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/2, /*filter_category*/7, /*pattern_id*/1, /*display_order*/4, /*button_type*/3, /*button_style*/6, /*column_constraint*/4, /*select_type*/2);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/2, /*filter_category*/8, /*pattern_id*/1, /*display_order*/5, /*button_type*/3, /*button_style*/6, /*column_constraint*/4, /*select_type*/2);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/2, /*filter_category*/36, /*pattern_id*/1, /*display_order*/6, /*button_type*/3, /*button_style*/6, /*column_constraint*/4, /*select_type*/2);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/13, /*filter_category*/16, /*pattern_id*/1, /*display_order*/1, /*button_type*/1, /*button_style*/1, /*column_constraint*/4, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/13, /*filter_category*/17, /*pattern_id*/1, /*display_order*/2, /*button_type*/1, /*button_style*/2, /*column_constraint*/7, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/13, /*filter_category*/18, /*pattern_id*/1, /*display_order*/3, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
@@ -138,6 +139,12 @@ INSERT INTO `m_filter` VALUES (/*filter_scene*/27, /*filter_category*/30, /*patt
 INSERT INTO `m_filter` VALUES (/*filter_scene*/27, /*filter_category*/31, /*pattern_id*/1, /*display_order*/4, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/27, /*filter_category*/32, /*pattern_id*/1, /*display_order*/5, /*button_type*/2, /*button_style*/12, /*column_constraint*/3, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/27, /*filter_category*/33, /*pattern_id*/1, /*display_order*/6, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/30, /*filter_category*/28, /*pattern_id*/1, /*display_order*/1, /*button_type*/2, /*button_style*/12, /*column_constraint*/3, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/30, /*filter_category*/29, /*pattern_id*/1, /*display_order*/2, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/30, /*filter_category*/30, /*pattern_id*/1, /*display_order*/3, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/30, /*filter_category*/31, /*pattern_id*/1, /*display_order*/4, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/30, /*filter_category*/32, /*pattern_id*/1, /*display_order*/5, /*button_type*/2, /*button_style*/12, /*column_constraint*/3, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/30, /*filter_category*/33, /*pattern_id*/1, /*display_order*/6, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/28, /*filter_category*/28, /*pattern_id*/1, /*display_order*/1, /*button_type*/2, /*button_style*/12, /*column_constraint*/3, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/28, /*filter_category*/29, /*pattern_id*/1, /*display_order*/2, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/28, /*filter_category*/30, /*pattern_id*/1, /*display_order*/3, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
@@ -150,5 +157,13 @@ INSERT INTO `m_filter` VALUES (/*filter_scene*/29, /*filter_category*/30, /*patt
 INSERT INTO `m_filter` VALUES (/*filter_scene*/29, /*filter_category*/31, /*pattern_id*/1, /*display_order*/4, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/29, /*filter_category*/32, /*pattern_id*/1, /*display_order*/5, /*button_type*/2, /*button_style*/12, /*column_constraint*/3, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/29, /*filter_category*/33, /*pattern_id*/1, /*display_order*/6, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/31, /*filter_category*/30, /*pattern_id*/1, /*display_order*/3, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/31, /*filter_category*/31, /*pattern_id*/1, /*display_order*/4, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/31, /*filter_category*/32, /*pattern_id*/1, /*display_order*/5, /*button_type*/2, /*button_style*/12, /*column_constraint*/3, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/31, /*filter_category*/33, /*pattern_id*/1, /*display_order*/6, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/32, /*filter_category*/30, /*pattern_id*/1, /*display_order*/3, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/32, /*filter_category*/31, /*pattern_id*/1, /*display_order*/4, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/32, /*filter_category*/32, /*pattern_id*/1, /*display_order*/5, /*button_type*/2, /*button_style*/12, /*column_constraint*/3, /*select_type*/1);
+INSERT INTO `m_filter` VALUES (/*filter_scene*/32, /*filter_category*/33, /*pattern_id*/1, /*display_order*/6, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/2, /*filter_category*/34, /*pattern_id*/1, /*display_order*/1, /*button_type*/2, /*button_style*/4, /*column_constraint*/4, /*select_type*/1);
 INSERT INTO `m_filter` VALUES (/*filter_scene*/25, /*filter_category*/35, /*pattern_id*/1, /*display_order*/2, /*button_type*/3, /*button_style*/9, /*column_constraint*/2, /*select_type*/2);

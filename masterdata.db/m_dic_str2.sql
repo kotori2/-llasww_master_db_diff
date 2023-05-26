@@ -43,3 +43,4 @@ INSERT INTO `m_dic_str2` VALUES (/*id*/38, /*text*/"k.member_guild_502");
 INSERT INTO `m_dic_str2` VALUES (/*id*/39, /*text*/"k.member_guild_504");
 INSERT INTO `m_dic_str2` VALUES (/*id*/40, /*text*/"k.member_guild_506");
 INSERT INTO `m_dic_str2` VALUES (/*id*/41, /*text*/"k.live_voltage_ranking_campaign_l_202");
+INSERT INTO `m_dic_str2` VALUES (/*id*/10000, /*text*/"k.sif2_data_linking_ls_101");

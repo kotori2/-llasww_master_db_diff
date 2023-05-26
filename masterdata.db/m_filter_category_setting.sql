@@ -38,3 +38,4 @@ INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/32, /*title*/
 INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/33, /*title*/"k.m_filter_category_skill_effect_target_origin_2_cell");
 INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/34, /*title*/"k.m_filter_category_pattern_play_list_cell");
 INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/35, /*title*/"k.m_filter_category_search_option");
+INSERT INTO `m_filter_category_setting` VALUES (/*filter_category*/36, /*title*/"k.m_filter_category_live_category");

@@ -989,8 +989,10 @@ INSERT INTO `static_text` VALUES (/*textid*/92546645, /*guid*/"91d5dcc49c1877d48
 INSERT INTO `static_text` VALUES (/*textid*/1175066351, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"Filter");
 INSERT INTO `static_text` VALUES (/*textid*/1433352561, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"Reload");
 INSERT INTO `static_text` VALUES (/*textid*/15226935, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"When your guest activates their Ability, it will not be able to be activated again until a set amount of Notes have passed.");
+INSERT INTO `static_text` VALUES (/*textid*/1606450135, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"Filter");
 INSERT INTO `static_text` VALUES (/*textid*/1986180694, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"No Guest");
 INSERT INTO `static_text` VALUES (/*textid*/2004246068, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"Re-sort");
+INSERT INTO `static_text` VALUES (/*textid*/244652600, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"Re-sort");
 INSERT INTO `static_text` VALUES (/*textid*/644473322, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"Friend:");
 INSERT INTO `static_text` VALUES (/*textid*/1071004183, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"Advanced");
 INSERT INTO `static_text` VALUES (/*textid*/1071284091, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_info_02\" height=\"24px\" width=\"24px\" offsetY=\"-5px\"/> Tips");

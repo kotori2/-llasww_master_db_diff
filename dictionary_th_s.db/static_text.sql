@@ -1002,8 +1002,10 @@ INSERT INTO `static_text` VALUES (/*textid*/92546645, /*guid*/"91d5dcc49c1877d48
 INSERT INTO `static_text` VALUES (/*textid*/1175066351, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"กรอง");
 INSERT INTO `static_text` VALUES (/*textid*/1433352561, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"รีโหลด");
 INSERT INTO `static_text` VALUES (/*textid*/15226935, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"เมื่อจะใช้เอกลักษณ์ของเกสต์ 1 ครั้ง เอกลักษณ์จะไม่แสดงผลจนกว่าโน้ตที่กำหนดจะปรากฏ");
+INSERT INTO `static_text` VALUES (/*textid*/1606450135, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"กรอง");
 INSERT INTO `static_text` VALUES (/*textid*/1986180694, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"ไม่มีเกสต์");
 INSERT INTO `static_text` VALUES (/*textid*/2004246068, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"เรียงใหม่");
+INSERT INTO `static_text` VALUES (/*textid*/244652600, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"เรียงใหม่");
 INSERT INTO `static_text` VALUES (/*textid*/644473322, /*guid*/"9318148acdbf04807b44d7195226b99c", /*message*/"เพื่อน：");
 INSERT INTO `static_text` VALUES (/*textid*/1071004183, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"ยาก");
 INSERT INTO `static_text` VALUES (/*textid*/1071284091, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_info_02\" height=\"24px\" width=\"24px\" offsetY=\"-5px\"/>ข้อมูลการเล่น");

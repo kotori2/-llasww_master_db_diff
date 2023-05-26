@@ -1215,3 +1215,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001205, /*year*/2023, /*month*/5, /*day*/22, /*title*/"穏やかな昼下がり？", /*published_at*/1684681200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001206, /*year*/2023, /*month*/5, /*day*/23, /*title*/"わかってるもん！", /*published_at*/1684767600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001207, /*year*/2023, /*month*/5, /*day*/24, /*title*/"お弁当作りましょ！", /*published_at*/1684854000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001208, /*year*/2023, /*month*/5, /*day*/25, /*title*/"どこに行く？", /*published_at*/1684940400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001209, /*year*/2023, /*month*/5, /*day*/26, /*title*/"完成！　スクールアイドル戦隊！！", /*published_at*/1685026800);

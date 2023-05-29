@@ -4507,6 +4507,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300032", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300033", /*message*/"以S RANK通過難易度［高級＋］的「Evergreen」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300034", /*message*/"以S RANK通過難易度［高級＋］的「Dokipipo☆Emotion」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300035", /*message*/"以S RANK通過難易度［高級＋］的「Koini Naritai AQUARIUM」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300036", /*message*/"以S RANK通過難易度［高級＋］的「I&apos;m Still...」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300037", /*message*/"以S RANK通過難易度［高級＋］的「Queendom」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300038", /*message*/"以S RANK通過難易度［高級＋］的「Ketsui no Hikari」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"以S RANK通過難易度［挑戰級］的「Yume no Tobira」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"以S RANK通過難易度［挑戰級］的「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"以S RANK通過難易度［挑戰級］的「Koini Naritai AQUARIUM」");

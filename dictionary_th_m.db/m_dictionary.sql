@@ -2932,6 +2932,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800046", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800047", /*message*/"เคลียร์สตอรี่ 50 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800048", /*message*/"เคลียร์สตอรี่ 51 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800049", /*message*/"เคลียร์สตอรี่ 52 บท");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800050", /*message*/"เคลียร์สตอรี่ 53 บท");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 1 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 5 ตอน");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"อ่านเนื้อเรื่องเพิ่มความสนิท 10 ตอน");
@@ -3619,6 +3620,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400703", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400704", /*message*/"เคลียร์ &quot;Omoiyo Hitotsuninare&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400705", /*message*/"เคลียร์ &quot;Omoiyo Hitotsuninare&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400706", /*message*/"เคลียร์ &quot;Omoiyo Hitotsuninare&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400707", /*message*/"เคลียร์ &quot;KAGAYAKI Don&apos;t forget!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400708", /*message*/"เคลียร์ &quot;KAGAYAKI Don&apos;t forget!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400709", /*message*/"เคลียร์ &quot;KAGAYAKI Don&apos;t forget!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400710", /*message*/"เคลียร์ &quot;OUR P13ECES!!!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400711", /*message*/"เคลียร์ &quot;OUR P13ECES!!!&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400712", /*message*/"เคลียร์ &quot;OUR P13ECES!!!&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");
@@ -4716,6 +4723,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053002_2", /*message*/"จ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053003_1", /*message*/"冒険しよ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053003_2", /*message*/"捕まえてくれる？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200062001_1", /*message*/"การนัดพบกับเธอที่แสนใจดี");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200062002_1", /*message*/"ショッピングの途中で");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063001_1", /*message*/"ดูแลมากิจังอย่างใกล้ชิด");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063001_2", /*message*/"ใจไม่อาจซื่อตรง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063002_1", /*message*/"การพบพานที่แสนสำคัญ");
@@ -4756,6 +4764,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_2", /*message*/"ส
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013003_1", /*message*/"閃きの行方！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013003_2", /*message*/"くの一・千歌、見参！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201022001_1", /*message*/"วิธีแก้ช่วงที่สมองไม่แล่น");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201022002_1", /*message*/"ふたりで分け合う風景");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"อยากฟังเสียงของเธอตลอดไปเลย");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"จะเป็นสาวแบบผู้ใหญ่ได้ไหมนะ?");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023002_1", /*message*/"ประชุมคิดท่าโพสประจำตัว");
@@ -4805,6 +4814,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073002_1", /*message*/"ก
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073002_2", /*message*/"ออกเดินทางไปสู่โลกที่ไม่รู้จักซึระ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073003_1", /*message*/"あなたのぬくもり");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073003_2", /*message*/"ご記載ください");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073004_1", /*message*/"ふたりで飛ばす紙飛行機");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073004_2", /*message*/"マルが診てあげる♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201082001_1", /*message*/"眠りの前のひとときを");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201083001_1", /*message*/"เคล็ดลับของปาร์ตี้");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201083001_2", /*message*/"Let&apos;s Dance!");
@@ -4827,6 +4838,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013002_1", /*message*/"ถ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013002_2", /*message*/"ณ ที่แห่งนี้ สักวันหนึ่ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013003_1", /*message*/"レンズ越しの歩夢");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013003_2", /*message*/"視線を合わせて");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013004_1", /*message*/"おやすみ前の幸せ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202013004_2", /*message*/"運命よりも強いもの");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202022001_1", /*message*/"จดหมายที่น่ายินดี");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202022002_1", /*message*/"どうして見ちゃうの！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202022003_1", /*message*/"最高にかわいい決めポーズ");
@@ -6085,6 +6098,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*m
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_50", /*message*/"無限に広がる愛バース！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_51", /*message*/"「お祭り」って羨ましい！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_52", /*message*/"お台場祭りを作っちゃお！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_53", /*message*/"虹を繋いで、奇跡輝け！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"ทิศทางการดวล");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_8", /*message*/"โอบกอดอีกก้าวสู่ฝัน");
@@ -6137,6 +6151,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_50", /*message*/"第50章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_51", /*message*/"第51章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_52", /*message*/"第52章");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_53", /*message*/"第53章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"บทที่ 6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"บทที่ 7");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_8", /*message*/"บทที่ 8");
@@ -8437,6 +8452,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_7", /*message*/"　最後はA・ZU・NAの有明ガーデン見学。商業施設と住環境が一体となった施設の魅力とは……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_8", /*message*/"　施設ごとにどんなお祭りが作りたいかがようやくまとまった。それを施設担当者に説明する会議の日。あなたと栞子、せつ菜、果林、彼方の５人は打ち合わせに出かけて……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_52_9", /*message*/"　お台場のお祭りについて各施設との連携も取れ、ついに本格的に動き出した！　そんなときあなたはおもしろい話を聞いて……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_53_1", /*message*/"　お祭りのための曲作りをしているあなた。するとメンバーからグループ通話がかかってきて……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_53_10", /*message*/"　お台場レインボーカーニバルの締めくくりとなるステージに立つニジガクメンバー。あなたの作った楽曲が歴史となる！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_53_2", /*message*/"　新曲を書き上げてうっかり眠ってしまったあなた。歩夢に起こされ待ち合わせ場所に向かうと……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_53_3", /*message*/"　ついにお台場のお祭りのオープニングセレモニー！　メンバーが挨拶をしていって……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_53_4", /*message*/"　お台場レインボーカーニバルがはじまった！　有明ガーデンではA・ZU・NAランドが開園！！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_53_5", /*message*/"　お腹が空いたら屋台フード！　R3BIRTHが選びぬいた各国料理を召し上がれ！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_53_6", /*message*/"　お台場レインボーカーニバルがSNSで拡散されたりして大注目！？　お祭りに参加しようという人が集まってきて……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_53_7", /*message*/"　ダイバーシティ東京 プラザにやってきたあなた。熱気溢れる会場の真ん中にいたのは……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_53_8", /*message*/"　夕方、QU4RTZが行う灯籠流しに参加しに集まったμ&apos;sとAqours。その船に乗せる言葉とは……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_53_9", /*message*/"　灯籠流しイベントに間に合ったニジガクメンバーも次々と願いを書いていく。静かな海に浮かぶたくさんの灯籠を見て……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_5_1", /*message*/"คุณที่ได้ Aqours มาส่งก็กลับมายังโรงเรียน
 นิจิกะซากิ เมื่อเห็นการเติบโตของสมาชิกที่
 ไม่ได้เจอกันมาพักหนึ่งก็รู้สึกดีใจ
@@ -9184,16 +9209,26 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_51_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_51_7", /*message*/"夕焼けのステージ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_51_8", /*message*/"隣にいるあなたへ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_51_9", /*message*/"新しい街");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_1", /*message*/"　今のお台場？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_10", /*message*/"　聞かせて！！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_2", /*message*/"　話し合いの行方！？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_3", /*message*/"　すごい！　バックアップ！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_4", /*message*/"　未来との融合！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_5", /*message*/"　巡り合える場所");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_6", /*message*/"　個性のかけら");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_7", /*message*/"　憩いの広場");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_8", /*message*/"　強みを活かせ！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_9", /*message*/"　この場所で");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_1", /*message*/"今のお台場？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_10", /*message*/"聞かせて！！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_2", /*message*/"話し合いの行方！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_3", /*message*/"すごい！　バックアップ！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_4", /*message*/"未来との融合！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_5", /*message*/"巡り合える場所");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_6", /*message*/"個性のかけら");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_7", /*message*/"憩いの広場");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_8", /*message*/"強みを活かせ！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_52_9", /*message*/"この場所で");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_53_1", /*message*/"伝え合うこと");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_53_10", /*message*/"KAGAYAKI Don&apos;t forget!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_53_2", /*message*/"お台場の歴史を作ろう！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_53_3", /*message*/"オープニングセレモニー！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_53_4", /*message*/"いつかはいつもの風景に");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_53_5", /*message*/"世界を股に！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_53_6", /*message*/"SNSトレンド上位！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_53_7", /*message*/"フロアを沸かせ！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_53_8", /*message*/"船に乗せる想い");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_53_9", /*message*/"流れ、巡りゆけ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_5_1", /*message*/"ความรู้สึกที่เพิ่มมากขึ้น");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_5_10", /*message*/"ระหว่างการแข่ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_5_2", /*message*/"สัมภาษณ์ใกล้ชิด μ&apos;s - ม.5-");

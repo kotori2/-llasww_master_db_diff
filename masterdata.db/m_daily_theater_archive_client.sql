@@ -1221,3 +1221,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001211, /*year*/2023, /*month*/5, /*day*/28, /*title*/"わいわいわい！", /*published_at*/1685199600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001212, /*year*/2023, /*month*/5, /*day*/29, /*title*/"いつまでも、ずっと", /*published_at*/1685286000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001213, /*year*/2023, /*month*/5, /*day*/30, /*title*/"ハッピーバースデー、愛！", /*published_at*/1685372400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001214, /*year*/2023, /*month*/5, /*day*/31, /*title*/"あなたに教えたい", /*published_at*/1685458800);

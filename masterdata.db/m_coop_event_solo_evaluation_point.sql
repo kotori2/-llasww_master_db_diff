@@ -220,3 +220,8 @@ INSERT INTO `m_coop_event_solo_evaluation_point` VALUES (/*event_id*/32041, /*ev
 INSERT INTO `m_coop_event_solo_evaluation_point` VALUES (/*event_id*/32041, /*evaluation*/30, /*point*/100);
 INSERT INTO `m_coop_event_solo_evaluation_point` VALUES (/*event_id*/32041, /*evaluation*/40, /*point*/100);
 INSERT INTO `m_coop_event_solo_evaluation_point` VALUES (/*event_id*/32041, /*evaluation*/50, /*point*/100);
+INSERT INTO `m_coop_event_solo_evaluation_point` VALUES (/*event_id*/32042, /*evaluation*/10, /*point*/100);
+INSERT INTO `m_coop_event_solo_evaluation_point` VALUES (/*event_id*/32042, /*evaluation*/20, /*point*/100);
+INSERT INTO `m_coop_event_solo_evaluation_point` VALUES (/*event_id*/32042, /*evaluation*/30, /*point*/100);
+INSERT INTO `m_coop_event_solo_evaluation_point` VALUES (/*event_id*/32042, /*evaluation*/40, /*point*/100);
+INSERT INTO `m_coop_event_solo_evaluation_point` VALUES (/*event_id*/32042, /*evaluation*/50, /*point*/100);

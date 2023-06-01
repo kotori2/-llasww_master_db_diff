@@ -2652,6 +2652,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022804", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022901", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022902", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022903", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023001", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023002", /*message*/"[大型合作演唱會課題]完成10次「Sayounara e Sayounara!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023003", /*message*/"[大型合作演唱會課題]完成10次「A song for You! You? You!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023004", /*message*/"[大型合作演唱會課題]完成10次「Aishiteru Banzai!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

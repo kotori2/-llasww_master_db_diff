@@ -2655,6 +2655,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023002", /*message*/"[SBL Goal] Clear &quot;Sayounara e Sayounara!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023003", /*message*/"[SBL Goal] Clear &quot;A song for You! You? You!!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023004", /*message*/"[SBL Goal] Clear &quot;Aishiteru Banzai!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023101", /*message*/"Love Live! Nijigasaki High School Idol Club Next Sky Theater Opening Commemorative Campaign Clear &quot;Bokura wa Ima no Naka de&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023102", /*message*/"Love Live! Nijigasaki High School Idol Club Next Sky Theater Opening Commemorative Campaign Clear &quot;Aozora Jumping Heart&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023103", /*message*/"Love Live! Nijigasaki High School Idol Club Next Sky Theater Opening Commemorative Campaign Clear &quot;Miracle STAY TUNE! (Ver.2.)&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023104", /*message*/"Love Live! Nijigasaki High School Idol Club Next Sky Theater Opening Commemorative Campaign Clear &quot;Eien no Issyun&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023105", /*message*/"Love Live! Nijigasaki High School Idol Club Next Sky Theater Opening Commemorative Campaign Clear &quot;DREAMY COLOR&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023106", /*message*/"Love Live! Nijigasaki High School Idol Club Next Sky Theater Opening Commemorative Campaign Clear &quot;SUNNY DAY SONG&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

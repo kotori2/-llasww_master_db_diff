@@ -2658,6 +2658,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023002", /*message*/"[빅 라이브 과제] Sayounara e Sayounara! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023003", /*message*/"[빅 라이브 과제] A song for You! You? You!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023004", /*message*/"[빅 라이브 과제] Aishiteru Banzai! 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023101", /*message*/"러브라이브! 니지가사키 학원 스쿨 아이돌 동호회 NEXT SKY 극장 공개 기념 캠페인 Bokura wa Ima no Naka de 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023102", /*message*/"러브라이브! 니지가사키 학원 스쿨 아이돌 동호회 NEXT SKY 극장 공개 기념 캠페인 Aozora Jumping Heart 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023103", /*message*/"러브라이브! 니지가사키 학원 스쿨 아이돌 동호회 NEXT SKY 극장 공개 기념 캠페인 Miracle STAY TUNE! (Ver.2.) 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023104", /*message*/"러브라이브! 니지가사키 학원 스쿨 아이돌 동호회 NEXT SKY 극장 공개 기념 캠페인 Eien no Issyun 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023105", /*message*/"러브라이브! 니지가사키 학원 스쿨 아이돌 동호회 NEXT SKY 극장 공개 기념 캠페인 DREAMY COLOR 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023106", /*message*/"러브라이브! 니지가사키 학원 스쿨 아이돌 동호회 NEXT SKY 극장 공개 기념 캠페인 SUNNY DAY SONG 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");

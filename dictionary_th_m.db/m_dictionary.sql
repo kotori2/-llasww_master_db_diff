@@ -2665,6 +2665,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023002", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Sayounara e Sayounara!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023003", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;A song for You! You? You!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023004", /*message*/"[การบ้านบิ๊กไลฟ์] เคลียร์ &quot;Aishiteru Banzai!&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023101", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「僕らは今のなかで」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023102", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「青空Jumping Heart」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023103", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「ミラクル STAY TUNE！(Ver.2.)」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023104", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「永遠の一瞬」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023105", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「DREAMY COLOR」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023106", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「SUNNY DAY SONG」を3回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");

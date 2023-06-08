@@ -2661,6 +2661,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023103", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023104", /*message*/"Love Live! Nijigasaki High School Idol Club Next Sky Theater Opening Commemorative Campaign Clear &quot;Eien no Issyun&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023105", /*message*/"Love Live! Nijigasaki High School Idol Club Next Sky Theater Opening Commemorative Campaign Clear &quot;DREAMY COLOR&quot;: x3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023106", /*message*/"Love Live! Nijigasaki High School Idol Club Next Sky Theater Opening Commemorative Campaign Clear &quot;SUNNY DAY SONG&quot;: x3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023201", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023202", /*message*/"[Dream Live Parade Goals] Complete a Live Stage in Dream Live Parade: x5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023203", /*message*/"[Dream Live Parade Goals] Do a Team Restoration for a Dream Live Parade: x1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");
@@ -2754,6 +2757,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041_000", /*message*/"Dream Live Parade: Voltage Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042", /*message*/"Dream Live Parade: Skill Types on Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042_000", /*message*/"Dream Live Parade: Skill Types on Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33043", /*message*/"Dream Live Parade: Encore Stage");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33043_000", /*message*/"Dream Live Parade: Encore Stage");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"Bring 1 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"Bring 9 or more members to Bond Lv. 2.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"Bring 18 or more members to Bond Lv. 2.");
@@ -3626,6 +3631,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400709", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400710", /*message*/"Clear &quot;OUR P13ECES!!!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400711", /*message*/"Clear &quot;OUR P13ECES!!!&quot;: x50");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400712", /*message*/"Clear &quot;OUR P13ECES!!!&quot;: x100");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400713", /*message*/"Clear &quot;TOKIMEKI Runners (12 People Ver.)&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400714", /*message*/"Clear &quot;TOKIMEKI Runners (12 People Ver.)&quot;: x50");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400715", /*message*/"Clear &quot;TOKIMEKI Runners (12 People Ver.)&quot;: x100");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Achieve 10 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Achieve 50 Perfect Live Shows.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Achieve 100 Perfect Live Shows.");
@@ -4526,6 +4534,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300035", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300036", /*message*/"Clear &quot;I&apos;m Still...&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300037", /*message*/"Clear &quot;Queendom&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300038", /*message*/"Clear &quot;Ketsui no Hikari&quot; on Expert difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300039", /*message*/"Clear &quot;Kitto Seishun ga Kikoeru&quot; on Expert difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300040", /*message*/"Clear &quot;WATER BLUE NEW WORLD&quot; on Expert difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300041", /*message*/"Clear &quot;Colorful Dreams! Colorful Smiles!&quot; on Expert difficulty with Rank S.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300042", /*message*/"Clear &quot;Eien no Issyun&quot; on Expert difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"Clear &quot;Yume no Tobira&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"Clear &quot;A song for You! You? You!!&quot; on Challenge difficulty with Rank S.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"Clear &quot;Koini Naritai AQUARIUM&quot; on Challenge difficulty with Rank S.");

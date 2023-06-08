@@ -2671,6 +2671,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023103", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023104", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「永遠の一瞬」を3回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023105", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「DREAMY COLOR」を3回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023106", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「SUNNY DAY SONG」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023201", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 1 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023202", /*message*/"[การบ้านดรีมไลฟ์พาเรด] เคลียร์ไลฟ์สเตจในดรีมไลฟ์พาเรด 5 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023203", /*message*/"[การบ้านดรีมไลฟ์พาเรด] ฟื้นฟู PP ทุกคนในดรีมไลฟ์พาเรด 1 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"บทที่ 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"บทที่ 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"บทที่ 3");
@@ -2764,6 +2767,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Voltage ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Skill ออนสเตจ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042_000", /*message*/"ดรีมไลฟ์พาเรด ～ประเภท Skill ออนสเตจ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33043", /*message*/"ドリームライブパレード- アンコールステージ -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33043_000", /*message*/"ドリームライブパレード- アンコールステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"มีค่าความสนิท LV.2 มากกว่า 1 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"มีค่าความสนิท LV.2 มากกว่า 9 คน ขึ้นไป");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"มีค่าความสนิท LV.2 มากกว่า 18 คน ขึ้นไป");
@@ -3636,6 +3641,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400709", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400710", /*message*/"เคลียร์ &quot;OUR P13ECES!!!&quot; 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400711", /*message*/"เคลียร์ &quot;OUR P13ECES!!!&quot; 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400712", /*message*/"เคลียร์ &quot;OUR P13ECES!!!&quot; 100 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400713", /*message*/"เคลียร์ &quot;TOKIMEKI Runners (12 People Ver.)&quot; 10 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400714", /*message*/"เคลียร์ &quot;TOKIMEKI Runners (12 People Ver.)&quot; 50 ครั้ง");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400715", /*message*/"เคลียร์ &quot;TOKIMEKI Runners (12 People Ver.)&quot; 100 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"ได้ Perfect Live 10 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"ได้ Perfect Live 50 ครั้ง");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"ได้ Perfect Live 100 ครั้ง");
@@ -4536,6 +4544,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300035", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300036", /*message*/"เคลียร์ &apos;I&apos;m Still...&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300037", /*message*/"เคลียร์ &apos;Queendom&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300038", /*message*/"เคลียร์ &apos;Ketsui no Hikari&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300039", /*message*/"เคลียร์ &apos;Kitto Seishun ga Kikoeru&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300040", /*message*/"เคลียร์ &apos;WATER BLUE NEW WORLD&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300041", /*message*/"เคลียร์ &apos;Colorful Dreams! Colorful Smiles!&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300042", /*message*/"เคลียร์ &apos;Eien no Issyun&apos; ระดับ &apos;ยากมาก&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"เคลียร์ &apos;Yume no Tobira&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"เคลียร์ &apos;A song for You! You? You!!&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"เคลียร์ &apos;Koini Naritai AQUARIUM&apos; ระดับ &apos;ชาเลนจ์&apos; ให้ได้ Rank S");

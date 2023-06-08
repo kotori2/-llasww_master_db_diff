@@ -2664,6 +2664,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023103", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023104", /*message*/"러브라이브! 니지가사키 학원 스쿨 아이돌 동호회 NEXT SKY 극장 공개 기념 캠페인 Eien no Issyun 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023105", /*message*/"러브라이브! 니지가사키 학원 스쿨 아이돌 동호회 NEXT SKY 극장 공개 기념 캠페인 DREAMY COLOR 3회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023106", /*message*/"러브라이브! 니지가사키 학원 스쿨 아이돌 동호회 NEXT SKY 극장 공개 기념 캠페인 SUNNY DAY SONG 3회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023201", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 1회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023202", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 라이브 스테이지 5회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023203", /*message*/"&quot;드림 라이브 퍼레이드 과제&quot; 드림 라이브 퍼레이드에서 PP 전체 회복을 1회 사용");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"제1화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"제2화");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"제3화");
@@ -2757,6 +2760,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041_000", /*message*/"드림 라이브 퍼레이드 ~볼티지 타입 온스테이지~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042", /*message*/"드림 라이브 퍼레이드 ~스킬 타입 온스테이지~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042_000", /*message*/"드림 라이브 퍼레이드 ~스킬 타입 온스테이지~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33043", /*message*/"드림 라이브 퍼레이드 ~앙코르 스테이지~");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33043_000", /*message*/"드림 라이브 퍼레이드 ~앙코르 스테이지~");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"인연Lv 2 1명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"인연Lv 2 9명 이상 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"인연Lv 2 18명 이상 달성");
@@ -3629,6 +3634,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400709", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400710", /*message*/"OUR P13ECES!!! 10회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400711", /*message*/"OUR P13ECES!!! 50회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400712", /*message*/"OUR P13ECES!!! 100회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400713", /*message*/"TOKIMEKI Runners (12 People Ver.) 10회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400714", /*message*/"TOKIMEKI Runners (12 People Ver.) 50회 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400715", /*message*/"TOKIMEKI Runners (12 People Ver.) 100회 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Live 10회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Live 50회 달성");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Live 100회 달성");
@@ -4529,6 +4537,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300035", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300036", /*message*/"「I&apos;m Still...」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300037", /*message*/"「Queendom」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300038", /*message*/"「Ketsui no Hikari」의 ［상급+］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300039", /*message*/"「Kitto Seishun ga Kikoeru」의 ［상급+］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300040", /*message*/"「WATER BLUE NEW WORLD」의 ［상급+］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300041", /*message*/"「Colorful Dreams! Colorful Smiles!」의 ［상급+］ 난이도를 S랭크로 클리어");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300042", /*message*/"「Eien no Issyun」의 ［상급+］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「Yume no Tobira」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"「A song for You! You? You!!」의 ［챌린지］ 난이도를 S랭크로 클리어");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"「Koini Naritai AQUARIUM」의 ［챌린지］ 난이도를 S랭크로 클리어");

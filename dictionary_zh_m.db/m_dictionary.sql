@@ -2662,6 +2662,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023103", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023104", /*message*/"「Love Live! 虹咲學園學園偶像同好會NEXT SKY」劇場上映紀念特別活動 完成3次「Eien no Issyun」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023105", /*message*/"「Love Live! 虹咲學園學園偶像同好會NEXT SKY」劇場上映紀念特別活動 完成3次「DREAMY COLOR」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023106", /*message*/"「Love Live! 虹咲學園學園偶像同好會NEXT SKY」劇場上映紀念特別活動 完成3次「SUNNY DAY SONG」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023201", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023202", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023203", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2755,6 +2758,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041_000", /*message*/"夢幻遊行演唱會～張力型亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042", /*message*/"夢幻遊行演唱會～技能型亮相舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042_000", /*message*/"夢幻遊行演唱會～技能型亮相舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33043", /*message*/"夢幻遊行演唱會～安可舞台～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33043_000", /*message*/"夢幻遊行演唱會～安可舞台～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"至少讓1個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"至少讓9個人的默契Lv.達到2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"至少讓18個人的默契Lv.達到2");
@@ -3627,6 +3632,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400709", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400710", /*message*/"完成10次「OUR P13ECES!!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400711", /*message*/"完成50次「OUR P13ECES!!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400712", /*message*/"完成100次「OUR P13ECES!!!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400713", /*message*/"完成10次「TOKIMEKI Runners (12 People Ver.)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400714", /*message*/"完成50次「TOKIMEKI Runners (12 People Ver.)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400715", /*message*/"完成100次「TOKIMEKI Runners (12 People Ver.)」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"完成10次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"完成50次「Perfect Live」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"完成100次「Perfect Live」");
@@ -4527,6 +4535,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300035", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300036", /*message*/"以S RANK通過難易度［高級＋］的「I&apos;m Still...」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300037", /*message*/"以S RANK通過難易度［高級＋］的「Queendom」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300038", /*message*/"以S RANK通過難易度［高級＋］的「Ketsui no Hikari」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300039", /*message*/"以S RANK通過難易度［高級＋］的「Kitto Seishun ga Kikoeru」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300040", /*message*/"以S RANK通過難易度［高級＋］的「WATER BLUE NEW WORLD」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300041", /*message*/"以S RANK通過難易度［高級＋］的「Colorful Dreams! Colorful Smiles!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300042", /*message*/"以S RANK通過難易度［高級＋］的「Eien no Issyun」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"以S RANK通過難易度［挑戰級］的「Yume no Tobira」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"以S RANK通過難易度［挑戰級］的「A song for You! You? You!!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"以S RANK通過難易度［挑戰級］的「Koini Naritai AQUARIUM」");

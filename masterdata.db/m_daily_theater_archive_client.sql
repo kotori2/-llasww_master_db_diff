@@ -1233,3 +1233,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001223, /*year*/2023, /*month*/6, /*day*/9, /*title*/"ハッピーバースデー、希ちゃん！", /*published_at*/1686236400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001224, /*year*/2023, /*month*/6, /*day*/10, /*title*/"大好きな場所！", /*published_at*/1686322800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001225, /*year*/2023, /*month*/6, /*day*/11, /*title*/"お姉ちゃんからのご褒美は……？", /*published_at*/1686409200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001226, /*year*/2023, /*month*/6, /*day*/12, /*title*/"好き嫌いじゃないよ！", /*published_at*/1686495600);

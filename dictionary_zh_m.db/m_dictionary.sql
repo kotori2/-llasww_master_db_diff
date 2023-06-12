@@ -2665,6 +2665,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023106", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023201", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過1次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023202", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中通過5次演唱會舞台");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023203", /*message*/"[夢幻遊行演唱會課題]在夢幻遊行演唱會中使用1次全員回復PP功能");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023301", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023302", /*message*/"[大型合作演唱會課題]完成10次「smile smile ship Start!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023303", /*message*/"[大型合作演唱會課題]完成10次「Yuki wa Doko ni? Kimi no Mune ni!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023304", /*message*/"[大型合作演唱會課題]完成10次「Step! ZERO to ONE」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023403", /*message*/"[CD發行紀念]完成10次「Hop? Stop? Nonstop!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023404", /*message*/"[CD發行紀念]使用20次發動成員包含小原鞠莉的組合技");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

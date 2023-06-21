@@ -379,3 +379,15 @@ INSERT INTO `m_coop_live_award` VALUES (/*id*/4210301, /*live_id*/42103, /*weigh
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4210302, /*live_id*/42103, /*weight*/1, /*award_type*/6, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4210303, /*live_id*/42103, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
 INSERT INTO `m_coop_live_award` VALUES (/*id*/4210304, /*live_id*/42103, /*weight*/1, /*award_type*/5, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4211101, /*live_id*/42111, /*weight*/0, /*award_type*/2, /*content_group_id*/60000004);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4211102, /*live_id*/42111, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4211103, /*live_id*/42111, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4211104, /*live_id*/42111, /*weight*/1, /*award_type*/5, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4212801, /*live_id*/42128, /*weight*/0, /*award_type*/2, /*content_group_id*/60000004);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4212802, /*live_id*/42128, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4212803, /*live_id*/42128, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4212804, /*live_id*/42128, /*weight*/1, /*award_type*/5, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4213001, /*live_id*/42130, /*weight*/0, /*award_type*/2, /*content_group_id*/60000004);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4213002, /*live_id*/42130, /*weight*/1, /*award_type*/3, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4213003, /*live_id*/42130, /*weight*/1, /*award_type*/4, /*content_group_id*/60000003);
+INSERT INTO `m_coop_live_award` VALUES (/*id*/4213004, /*live_id*/42130, /*weight*/1, /*award_type*/5, /*content_group_id*/60000003);

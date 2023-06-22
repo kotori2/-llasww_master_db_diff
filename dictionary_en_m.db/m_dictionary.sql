@@ -2670,6 +2670,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023304", /*message*/"[SBL Goal] Clear &quot;Step! ZERO to ONE&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023403", /*message*/"[CD Release Celebration] Clear &quot;Hop? Stop? Nonstop!&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023404", /*message*/"[CD Release Celebration] Use an SP Skill including Mari Ohara 20 times.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023501", /*message*/"[SBL Goal] Obtain 1 awards in the Big Live Show event.");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023502", /*message*/"[SBL Goal] Clear &quot;KAGAYAKI Don&apos;t forget!&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023503", /*message*/"[SBL Goal] Clear &quot;TOKIMEKI Runners (12 People Ver.)&quot;: x10");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023504", /*message*/"[SBL Goal] Clear &quot;Twilight&quot;: x10");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"Chapter 1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"Chapter 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"Chapter 3");

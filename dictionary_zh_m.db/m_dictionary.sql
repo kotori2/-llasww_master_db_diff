@@ -2671,6 +2671,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023304", /*message*/"[大型合作演唱會課題]完成10次「Step! ZERO to ONE」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023403", /*message*/"[CD發行紀念]完成10次「Hop? Stop? Nonstop!」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023404", /*message*/"[CD發行紀念]使用20次發動成員包含小原鞠莉的組合技");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023501", /*message*/"[大型合作演唱會課題]在大型合作演唱會中得獎1次");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023502", /*message*/"[大型合作演唱會課題]完成10次「KAGAYAKI Don&apos;t forget!」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023503", /*message*/"[大型合作演唱會課題]完成10次「TOKIMEKI Runners (12 People Ver.)」");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023504", /*message*/"[大型合作演唱會課題]完成10次「Twilight」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

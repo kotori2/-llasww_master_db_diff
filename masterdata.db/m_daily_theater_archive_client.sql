@@ -1244,3 +1244,5 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001234, /*year*/2023, /*month*/6, /*day*/20, /*title*/"照らす光", /*published_at*/1687186800);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001235, /*year*/2023, /*month*/6, /*day*/21, /*title*/"好きなもの？", /*published_at*/1687273200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001236, /*year*/2023, /*month*/6, /*day*/22, /*title*/"永遠の謎", /*published_at*/1687359600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001237, /*year*/2023, /*month*/6, /*day*/23, /*title*/"MOVIE TIME!", /*published_at*/1687446000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001238, /*year*/2023, /*month*/6, /*day*/24, /*title*/"アキバジャック！", /*published_at*/1687532400);

@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"c4e2c9753816cbf705863b3f581b828ab5cb8f07", /*hash*/"bcdc9257736ad4cc6997d87b4d92f41f0e203a71", /*size*/12484040);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"2377055bb5cc54ad43e62bf9636dcc221116ea95", /*hash*/"fb94f3f437ecc9c84d928c1b4a64c1a77c40ff85", /*size*/12484201);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_k.db", /*keys*/"2de166a1fe132da6d357f845185d09eb2fef167e", /*hash*/"80401e852135980568936945af0fa6b856acf460", /*size*/2219224);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"48ccbd237f143755f7307941ab7e7bddd0b590fc", /*size*/716);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_th_m.db", /*keys*/"a158ebb4438c4902babd5694587248a0ff133897", /*hash*/"b835e90ebbb14a80c76fce81babfe46224f8378d", /*size*/273758);

@@ -1247,3 +1247,6 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001237, /*year*/2023, /*month*/6, /*day*/23, /*title*/"MOVIE TIME!", /*published_at*/1687446000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001238, /*year*/2023, /*month*/6, /*day*/24, /*title*/"アキバジャック！", /*published_at*/1687532400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001239, /*year*/2023, /*month*/6, /*day*/25, /*title*/"時間ギリギリまで！", /*published_at*/1687618800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001240, /*year*/2023, /*month*/6, /*day*/26, /*title*/"まだまだ盛り上がりたい！", /*published_at*/1687705200);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001241, /*year*/2023, /*month*/6, /*day*/27, /*title*/"思うまま進め！", /*published_at*/1687791600);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1001242, /*year*/2023, /*month*/6, /*day*/28, /*title*/"声を聞かせて！", /*published_at*/1687878000);

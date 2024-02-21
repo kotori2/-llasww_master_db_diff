@@ -3,21 +3,21 @@ CREATE TABLE m_live_texture(
   asset_path TEXT NOT NULL,
   PRIMARY KEY (asset_type)
 );
-INSERT INTO `m_live_texture` VALUES (/*asset_type*/1, /*asset_path*/"}\"");
+INSERT INTO `m_live_texture` VALUES (/*asset_type*/1, /*asset_path*/"}""");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/2, /*asset_path*/"A/");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/3, /*asset_path*/"xB");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/4, /*asset_path*/"Uh");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/5, /*asset_path*/"GQ");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/6, /*asset_path*/"tx");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/7, /*asset_path*/"?L");
-INSERT INTO `m_live_texture` VALUES (/*asset_type*/8, /*asset_path*/"A\");
+INSERT INTO `m_live_texture` VALUES (/*asset_type*/8, /*asset_path*/"A\",;
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/9, /*asset_path*/"!N");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/10, /*asset_path*/"M4");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/11, /*asset_path*/"yV");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/12, /*asset_path*/-6);
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/13, /*asset_path*/"M&");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/14, /*asset_path*/"1~");
-INSERT INTO `m_live_texture` VALUES (/*asset_type*/15, /*asset_path*/"S\");
+INSERT INTO `m_live_texture` VALUES (/*asset_type*/15, /*asset_path*/"S\",;
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/16, /*asset_path*/"o");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/17, /*asset_path*/"d0");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/18, /*asset_path*/">F");
@@ -40,7 +40,7 @@ INSERT INTO `m_live_texture` VALUES (/*asset_type*/34, /*asset_path*/"\0L");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/35, /*asset_path*/"~=d");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/36, /*asset_path*/"W_");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/37, /*asset_path*/"<#");
-INSERT INTO `m_live_texture` VALUES (/*asset_type*/38, /*asset_path*/"$\"");
+INSERT INTO `m_live_texture` VALUES (/*asset_type*/38, /*asset_path*/"$""");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/39, /*asset_path*/"5,h");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/40, /*asset_path*/"UtS");
 INSERT INTO `m_live_texture` VALUES (/*asset_type*/41, /*asset_path*/"kqW");

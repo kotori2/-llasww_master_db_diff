@@ -21,7 +21,7 @@ INSERT INTO `m_live_solo` VALUES (/*member_master_id*/102, /*effect_name*/"sol_0
 INSERT INTO `m_live_solo` VALUES (/*member_master_id*/103, /*effect_name*/"sol_0103_001", /*timeline_asset_path*/"~a", /*effect_asset_path*/":0", /*sound*/"vo_ci_sol_0103_001");
 INSERT INTO `m_live_solo` VALUES (/*member_master_id*/104, /*effect_name*/"sol_0104_001", /*timeline_asset_path*/"X)", /*effect_asset_path*/"Q^", /*sound*/"vo_ci_sol_0104_001");
 INSERT INTO `m_live_solo` VALUES (/*member_master_id*/105, /*effect_name*/"sol_0105_001", /*timeline_asset_path*/":{", /*effect_asset_path*/"T*", /*sound*/"vo_ci_sol_0105_001");
-INSERT INTO `m_live_solo` VALUES (/*member_master_id*/106, /*effect_name*/"sol_0106_001", /*timeline_asset_path*/")W", /*effect_asset_path*/"\"(", /*sound*/"vo_ci_sol_0106_001");
+INSERT INTO `m_live_solo` VALUES (/*member_master_id*/106, /*effect_name*/"sol_0106_001", /*timeline_asset_path*/")W", /*effect_asset_path*/"""(", /*sound*/"vo_ci_sol_0106_001");
 INSERT INTO `m_live_solo` VALUES (/*member_master_id*/107, /*effect_name*/"sol_0107_001", /*timeline_asset_path*/"H9", /*effect_asset_path*/"~*", /*sound*/"vo_ci_sol_0107_001");
 INSERT INTO `m_live_solo` VALUES (/*member_master_id*/108, /*effect_name*/"sol_0108_001", /*timeline_asset_path*/"aZ", /*effect_asset_path*/"zx", /*sound*/"vo_ci_sol_0108_001");
 INSERT INTO `m_live_solo` VALUES (/*member_master_id*/109, /*effect_name*/"sol_0109_001", /*timeline_asset_path*/"k{", /*effect_asset_path*/"~1", /*sound*/"vo_ci_sol_0109_001");

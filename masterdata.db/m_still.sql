@@ -12,13 +12,13 @@ INSERT INTO `m_still` VALUES (/*still_master_id*/1011001, /*title*/"k.still_titl
 INSERT INTO `m_still` VALUES (/*still_master_id*/1011003, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"VG\", /*adventure_type*/1, /*story_id*/1018);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1020301, /*title*/"k.still_title_3", /*thumbnail_asset_path*/"|Ee", /*adventure_type*/1, /*story_id*/2005);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1021001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"N=*", /*adventure_type*/1, /*story_id*/2018);
-INSERT INTO `m_still` VALUES (/*still_master_id*/1030801, /*title*/"k.still_title_8", /*thumbnail_asset_path*/"J\"I", /*adventure_type*/1, /*story_id*/3015);
+INSERT INTO `m_still` VALUES (/*still_master_id*/1030801, /*title*/"k.still_title_8", /*thumbnail_asset_path*/"J""I", /*adventure_type*/1, /*story_id*/3015);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1040401, /*title*/"k.still_title_4", /*thumbnail_asset_path*/"]rV", /*adventure_type*/1, /*story_id*/4007);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1041001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"Bvt", /*adventure_type*/1, /*story_id*/4021);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1050301, /*title*/"k.still_title_3", /*thumbnail_asset_path*/"+?T", /*adventure_type*/1, /*story_id*/5005);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1050501, /*title*/"k.still_title_5", /*thumbnail_asset_path*/"6(U", /*adventure_type*/1, /*story_id*/5009);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1050701, /*title*/"k.still_title_7", /*thumbnail_asset_path*/"WiQ", /*adventure_type*/1, /*story_id*/5013);
-INSERT INTO `m_still` VALUES (/*still_master_id*/1050901, /*title*/"k.still_title_9", /*thumbnail_asset_path*/"p\"f", /*adventure_type*/1, /*story_id*/5019);
+INSERT INTO `m_still` VALUES (/*still_master_id*/1050901, /*title*/"k.still_title_9", /*thumbnail_asset_path*/"p""f", /*adventure_type*/1, /*story_id*/5019);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1060501, /*title*/"k.still_title_5", /*thumbnail_asset_path*/",+U", /*adventure_type*/1, /*story_id*/6012);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1060801, /*title*/"k.still_title_8", /*thumbnail_asset_path*/"J/M", /*adventure_type*/1, /*story_id*/6020);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1070701, /*title*/"k.still_title_7", /*thumbnail_asset_path*/"(An", /*adventure_type*/1, /*story_id*/7019);
@@ -71,7 +71,7 @@ INSERT INTO `m_still` VALUES (/*still_master_id*/1320901, /*title*/"k.still_titl
 INSERT INTO `m_still` VALUES (/*still_master_id*/1321001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"VQN", /*adventure_type*/1, /*story_id*/32020);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1330401, /*title*/"k.still_title_4", /*thumbnail_asset_path*/"FW2", /*adventure_type*/1, /*story_id*/33007);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1330901, /*title*/"k.still_title_9", /*thumbnail_asset_path*/"5u'", /*adventure_type*/1, /*story_id*/33017);
-INSERT INTO `m_still` VALUES (/*still_master_id*/1340601, /*title*/"k.still_title_6", /*thumbnail_asset_path*/"H\"&", /*adventure_type*/1, /*story_id*/34011);
+INSERT INTO `m_still` VALUES (/*still_master_id*/1340601, /*title*/"k.still_title_6", /*thumbnail_asset_path*/"H""&", /*adventure_type*/1, /*story_id*/34011);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1340801, /*title*/"k.still_title_8", /*thumbnail_asset_path*/"wjL", /*adventure_type*/1, /*story_id*/34015);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1350301, /*title*/"k.still_title_3", /*thumbnail_asset_path*/"(3{", /*adventure_type*/1, /*story_id*/35005);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1350801, /*title*/"k.still_title_8", /*thumbnail_asset_path*/"C-'", /*adventure_type*/1, /*story_id*/35015);
@@ -85,7 +85,7 @@ INSERT INTO `m_still` VALUES (/*still_master_id*/1390601, /*title*/"k.still_titl
 INSERT INTO `m_still` VALUES (/*still_master_id*/1400101, /*title*/"k.still_title_1", /*thumbnail_asset_path*/"OdR", /*adventure_type*/1, /*story_id*/40001);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1400701, /*title*/"k.still_title_7", /*thumbnail_asset_path*/"Bj~", /*adventure_type*/1, /*story_id*/40013);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1410401, /*title*/"k.still_title_4", /*thumbnail_asset_path*/"iq]", /*adventure_type*/1, /*story_id*/41008);
-INSERT INTO `m_still` VALUES (/*still_master_id*/1411001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"z\"9", /*adventure_type*/1, /*story_id*/41020);
+INSERT INTO `m_still` VALUES (/*still_master_id*/1411001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"z""9", /*adventure_type*/1, /*story_id*/41020);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1420901, /*title*/"k.still_title_9", /*thumbnail_asset_path*/"1qG", /*adventure_type*/1, /*story_id*/42017);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1421001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"k-1", /*adventure_type*/1, /*story_id*/42020);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1430701, /*title*/"k.still_title_7", /*thumbnail_asset_path*/"QPw", /*adventure_type*/1, /*story_id*/43013);
@@ -97,7 +97,7 @@ INSERT INTO `m_still` VALUES (/*still_master_id*/1451001, /*title*/"k.still_titl
 INSERT INTO `m_still` VALUES (/*still_master_id*/1460101, /*title*/"k.still_title_1", /*thumbnail_asset_path*/"'px", /*adventure_type*/1, /*story_id*/46001);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1460701, /*title*/"k.still_title_7", /*thumbnail_asset_path*/"S*!", /*adventure_type*/1, /*story_id*/46013);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1470501, /*title*/"k.still_title_5", /*thumbnail_asset_path*/"Kq>", /*adventure_type*/1, /*story_id*/47009);
-INSERT INTO `m_still` VALUES (/*still_master_id*/1470801, /*title*/"k.still_title_8", /*thumbnail_asset_path*/"t\"6", /*adventure_type*/1, /*story_id*/47015);
+INSERT INTO `m_still` VALUES (/*still_master_id*/1470801, /*title*/"k.still_title_8", /*thumbnail_asset_path*/"t""6", /*adventure_type*/1, /*story_id*/47015);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1480601, /*title*/"k.still_title_6", /*thumbnail_asset_path*/"=nh", /*adventure_type*/1, /*story_id*/48011);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1480901, /*title*/"k.still_title_9", /*thumbnail_asset_path*/"&u]", /*adventure_type*/1, /*story_id*/48017);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1490401, /*title*/"k.still_title_4", /*thumbnail_asset_path*/"p,!", /*adventure_type*/1, /*story_id*/49007);
@@ -110,11 +110,11 @@ INSERT INTO `m_still` VALUES (/*still_master_id*/1520501, /*title*/"k.still_titl
 INSERT INTO `m_still` VALUES (/*still_master_id*/1520601, /*title*/"k.still_title_6", /*thumbnail_asset_path*/"},]", /*adventure_type*/1, /*story_id*/52011);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1530901, /*title*/"k.still_title_9", /*thumbnail_asset_path*/"C4~", /*adventure_type*/1, /*story_id*/53017);
 INSERT INTO `m_still` VALUES (/*still_master_id*/1531001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"W6+", /*adventure_type*/1, /*story_id*/53019);
-INSERT INTO `m_still` VALUES (/*still_master_id*/300010401, /*title*/"k.still_title_4", /*thumbnail_asset_path*/"\"Q>", /*adventure_type*/3, /*story_id*/1000104);
+INSERT INTO `m_still` VALUES (/*still_master_id*/300010401, /*title*/"k.still_title_4", /*thumbnail_asset_path*/"""Q>", /*adventure_type*/3, /*story_id*/1000104);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300011001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"~xX", /*adventure_type*/3, /*story_id*/1000110);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300011501, /*title*/"k.still_title_15", /*thumbnail_asset_path*/"Bk3", /*adventure_type*/3, /*story_id*/1000115);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300012001, /*title*/"k.still_title_20", /*thumbnail_asset_path*/"W5^", /*adventure_type*/3, /*story_id*/1000120);
-INSERT INTO `m_still` VALUES (/*still_master_id*/300012401, /*title*/"k.still_title_24", /*thumbnail_asset_path*/"*\"$", /*adventure_type*/3, /*story_id*/1000124);
+INSERT INTO `m_still` VALUES (/*still_master_id*/300012401, /*title*/"k.still_title_24", /*thumbnail_asset_path*/"*""$", /*adventure_type*/3, /*story_id*/1000124);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300013401, /*title*/"k.still_title_34", /*thumbnail_asset_path*/"Yfu", /*adventure_type*/3, /*story_id*/1000134);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300020401, /*title*/"k.still_title_4", /*thumbnail_asset_path*/"xFj", /*adventure_type*/3, /*story_id*/1000204);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300020901, /*title*/"k.still_title_9", /*thumbnail_asset_path*/"$!N", /*adventure_type*/3, /*story_id*/1000209);
@@ -145,7 +145,7 @@ INSERT INTO `m_still` VALUES (/*still_master_id*/300060701, /*title*/"k.still_ti
 INSERT INTO `m_still` VALUES (/*still_master_id*/300061401, /*title*/"k.still_title_14", /*thumbnail_asset_path*/"<}p", /*adventure_type*/3, /*story_id*/1000614);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300062001, /*title*/"k.still_title_20", /*thumbnail_asset_path*/"_~'", /*adventure_type*/3, /*story_id*/1000620);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300062401, /*title*/"k.still_title_24", /*thumbnail_asset_path*/"k}4", /*adventure_type*/3, /*story_id*/1000624);
-INSERT INTO `m_still` VALUES (/*still_master_id*/300063401, /*title*/"k.still_title_34", /*thumbnail_asset_path*/"t\"+", /*adventure_type*/3, /*story_id*/1000634);
+INSERT INTO `m_still` VALUES (/*still_master_id*/300063401, /*title*/"k.still_title_34", /*thumbnail_asset_path*/"t""+", /*adventure_type*/3, /*story_id*/1000634);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300070301, /*title*/"k.still_title_3", /*thumbnail_asset_path*/"XB?", /*adventure_type*/3, /*story_id*/1000703);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300070901, /*title*/"k.still_title_9", /*thumbnail_asset_path*/"`#e", /*adventure_type*/3, /*story_id*/1000709);
 INSERT INTO `m_still` VALUES (/*still_master_id*/300071501, /*title*/"k.still_title_15", /*thumbnail_asset_path*/"HeW", /*adventure_type*/3, /*story_id*/1000715);
@@ -224,7 +224,7 @@ INSERT INTO `m_still` VALUES (/*still_master_id*/302011501, /*title*/"k.still_ti
 INSERT INTO `m_still` VALUES (/*still_master_id*/302011901, /*title*/"k.still_title_19", /*thumbnail_asset_path*/"0U}", /*adventure_type*/3, /*story_id*/1020119);
 INSERT INTO `m_still` VALUES (/*still_master_id*/302012601, /*title*/"k.still_title_26", /*thumbnail_asset_path*/">`E", /*adventure_type*/3, /*story_id*/1020126);
 INSERT INTO `m_still` VALUES (/*still_master_id*/302013501, /*title*/"k.still_title_35", /*thumbnail_asset_path*/"'=n", /*adventure_type*/3, /*story_id*/1020135);
-INSERT INTO `m_still` VALUES (/*still_master_id*/302014101, /*title*/"k.still_title_41", /*thumbnail_asset_path*/"K\"D", /*adventure_type*/3, /*story_id*/1020141);
+INSERT INTO `m_still` VALUES (/*still_master_id*/302014101, /*title*/"k.still_title_41", /*thumbnail_asset_path*/"K""D", /*adventure_type*/3, /*story_id*/1020141);
 INSERT INTO `m_still` VALUES (/*still_master_id*/302020101, /*title*/"k.still_title_1", /*thumbnail_asset_path*/"VI7", /*adventure_type*/3, /*story_id*/1020201);
 INSERT INTO `m_still` VALUES (/*still_master_id*/302021001, /*title*/"k.still_title_10", /*thumbnail_asset_path*/"`Gy", /*adventure_type*/3, /*story_id*/1020210);
 INSERT INTO `m_still` VALUES (/*still_master_id*/302021801, /*title*/"k.still_title_18", /*thumbnail_asset_path*/"!U#", /*adventure_type*/3, /*story_id*/1020218);

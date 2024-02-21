@@ -20,11 +20,11 @@ INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1005, /*page_nu
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1005, /*page_number*/3, /*title*/"k.reference_book_description_5_ep2010", /*image_asset_path*/"09E");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1005, /*page_number*/4, /*title*/"k.reference_book_description_5_ep2010", /*image_asset_path*/"^^#");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1007, /*page_number*/1, /*title*/"k.reference_book_description_7_ep2010", /*image_asset_path*/"a&b");
-INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1007, /*page_number*/2, /*title*/"k.reference_book_description_7_ep2010", /*image_asset_path*/"\"5;");
+INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1007, /*page_number*/2, /*title*/"k.reference_book_description_7_ep2010", /*image_asset_path*/"""5;");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1007, /*page_number*/3, /*title*/"k.reference_book_description_7_ep2010", /*image_asset_path*/"g(S");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1008, /*page_number*/1, /*title*/"k.reference_book_description_8_ep2010", /*image_asset_path*/"2jW");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1008, /*page_number*/2, /*title*/"k.reference_book_description_8_ep2010", /*image_asset_path*/"K)^");
-INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1008, /*page_number*/3, /*title*/"k.reference_book_description_8_ep2010", /*image_asset_path*/"ZA\"");
+INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1008, /*page_number*/3, /*title*/"k.reference_book_description_8_ep2010", /*image_asset_path*/"ZA""");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1008, /*page_number*/4, /*title*/"k.reference_book_description_8_ep2010", /*image_asset_path*/"u;,");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1009, /*page_number*/1, /*title*/"k.reference_book_description_9_ep2010", /*image_asset_path*/"uRi");
 INSERT INTO `m_reference_book_page` VALUES (/*reference_book_id*/1013, /*page_number*/1, /*title*/"k.reference_book_description_13_ep2010", /*image_asset_path*/"zZ_");

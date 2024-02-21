@@ -44,7 +44,7 @@ INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10301003, /*order_no*/0, /
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401003, /*order_no*/0, /*sd_texture*/"wmv");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401003, /*order_no*/1, /*sd_texture*/"h22");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10601003, /*order_no*/0, /*sd_texture*/"6:;");
-INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001004, /*order_no*/0, /*sd_texture*/"l\"1");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001004, /*order_no*/0, /*sd_texture*/"l""1");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10101004, /*order_no*/0, /*sd_texture*/":@0");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10102004, /*order_no*/0, /*sd_texture*/":@0");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10201004, /*order_no*/0, /*sd_texture*/":@0");
@@ -60,7 +60,7 @@ INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10301005, /*order_no*/0, /
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401005, /*order_no*/0, /*sd_texture*/"apr");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401005, /*order_no*/1, /*sd_texture*/"vEi");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10601005, /*order_no*/0, /*sd_texture*/"JOc");
-INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001006, /*order_no*/0, /*sd_texture*/"26\");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001006, /*order_no*/0, /*sd_texture*/"26\",;
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10101006, /*order_no*/0, /*sd_texture*/"l>?");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10102006, /*order_no*/0, /*sd_texture*/"l>?");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10201006, /*order_no*/0, /*sd_texture*/"l>?");
@@ -101,9 +101,9 @@ INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401101, /*order_no*/0, /
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401101, /*order_no*/1, /*sd_texture*/"BzT");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10601101, /*order_no*/0, /*sd_texture*/"S)R");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001102, /*order_no*/0, /*sd_texture*/"C>X");
-INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10101102, /*order_no*/0, /*sd_texture*/"_5\"");
-INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10102102, /*order_no*/0, /*sd_texture*/"_5\"");
-INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10201102, /*order_no*/0, /*sd_texture*/"_5\"");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10101102, /*order_no*/0, /*sd_texture*/"_5""");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10102102, /*order_no*/0, /*sd_texture*/"_5""");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10201102, /*order_no*/0, /*sd_texture*/"_5""");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10301102, /*order_no*/0, /*sd_texture*/"zi/");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401102, /*order_no*/0, /*sd_texture*/"zi/");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401102, /*order_no*/1, /*sd_texture*/"nWE");
@@ -178,7 +178,7 @@ INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10102202, /*order_no*/0, /
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10201202, /*order_no*/0, /*sd_texture*/"'&o");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10301202, /*order_no*/0, /*sd_texture*/"MCA");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401202, /*order_no*/0, /*sd_texture*/"MCA");
-INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401202, /*order_no*/1, /*sd_texture*/"\"NO");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401202, /*order_no*/1, /*sd_texture*/"""NO");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10601202, /*order_no*/0, /*sd_texture*/"^U=");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001203, /*order_no*/0, /*sd_texture*/"J\#");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10101203, /*order_no*/0, /*sd_texture*/"fA~");
@@ -194,7 +194,7 @@ INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10102204, /*order_no*/0, /
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10201204, /*order_no*/0, /*sd_texture*/"K9<");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10301204, /*order_no*/0, /*sd_texture*/"[Vx");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401204, /*order_no*/0, /*sd_texture*/"[Vx");
-INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401204, /*order_no*/1, /*sd_texture*/"J\"8");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401204, /*order_no*/1, /*sd_texture*/"J""8");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10601204, /*order_no*/0, /*sd_texture*/"$ih");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001205, /*order_no*/0, /*sd_texture*/"tTW");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10101205, /*order_no*/0, /*sd_texture*/",UK");
@@ -227,7 +227,7 @@ INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10201208, /*order_no*/0, /
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10301208, /*order_no*/0, /*sd_texture*/"'l6");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401208, /*order_no*/0, /*sd_texture*/"'l6");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401208, /*order_no*/1, /*sd_texture*/"6(D");
-INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10601208, /*order_no*/0, /*sd_texture*/"\"2t");
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10601208, /*order_no*/0, /*sd_texture*/"""2t");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001209, /*order_no*/0, /*sd_texture*/"lf3");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10101209, /*order_no*/0, /*sd_texture*/"4i^");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10102209, /*order_no*/0, /*sd_texture*/"4i^");

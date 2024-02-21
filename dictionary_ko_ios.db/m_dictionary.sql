@@ -81,7 +81,7 @@ Furthermore, users who are under the age of 13 are prohibited from using this ap
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"apple_eea_crash_report", /*message*/"Please help us to improve the app by sending us a crash report.
 
-If you choose \"Send\", information such as your device type and where the crash occurred within the app will be sent when the app is started the next time. For more details on what data may be sent, please refer to our Privacy Policy.
+If you choose ""Send\", information such as your device type and where the crash occurred within the app will be sent when the app is started the next time. For more details on what data may be sent, please refer to our Privacy Policy.
 
 Please note, if you change the Crash Reporting settings, the app must be rebooted.
 ");
@@ -601,7 +601,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"apple_privacy_policy", /*message*/"　
 　　종이로 출력 된 개인 정보는 문서 절단기로 분쇄하며, 전자 문서 형식으로 보존 된 개인 정 보는 기록을 재생할 수없는 기술적 방법을 사용하여 삭제합니다 
 
 　　개인 정보 보호 업무 및 클레임을 처리하는 부서
-　　\"개인 정보 관리 담당 부서 메일 주소 : sg_support@bushiroad.com\"
+　　""개인 정보 관리 담당 부서 메일 주소 : sg_support@bushiroad.com""
 
 　　적용 범위
 　　개인 정보 취급 방침은 서비스를 이용하는 한국 내의 이용자만을 대상으로 적용됩니다. 한국 이외 지역의 서비스를 이용하는 경우에는 각각의 개인 정보 취급 방침이 적용됩니다. 

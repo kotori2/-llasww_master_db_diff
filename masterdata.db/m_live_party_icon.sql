@@ -45,5 +45,5 @@ INSERT INTO `m_live_party_icon` VALUES (/*id*/39, /*asset_path*/"k(");
 INSERT INTO `m_live_party_icon` VALUES (/*id*/40, /*asset_path*/"E;");
 INSERT INTO `m_live_party_icon` VALUES (/*id*/41, /*asset_path*/".N");
 INSERT INTO `m_live_party_icon` VALUES (/*id*/42, /*asset_path*/"ok");
-INSERT INTO `m_live_party_icon` VALUES (/*id*/43, /*asset_path*/"I\"");
+INSERT INTO `m_live_party_icon` VALUES (/*id*/43, /*asset_path*/"I""");
 INSERT INTO `m_live_party_icon` VALUES (/*id*/44, /*asset_path*/"Kd");

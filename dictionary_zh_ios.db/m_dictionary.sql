@@ -81,7 +81,7 @@ Furthermore, users who are under the age of 13 are prohibited from using this ap
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"apple_eea_crash_report", /*message*/"Please help us to improve the app by sending us a crash report.
 
-If you choose \"Send\", information such as your device type and where the crash occurred within the app will be sent when the app is started the next time. For more details on what data may be sent, please refer to our Privacy Policy.
+If you choose ""Send\", information such as your device type and where the crash occurred within the app will be sent when the app is started the next time. For more details on what data may be sent, please refer to our Privacy Policy.
 
 Please note, if you change the Crash Reporting settings, the app must be rebooted.
 ");

@@ -59,5 +59,5 @@ INSERT INTO `shader` VALUES (/*asset_path*/"§9%>", /*pack_name*/"yecrbc", /*hea
 INSERT INTO `shader` VALUES (/*asset_path*/"§fR=", /*pack_name*/"3j5x1b", /*head*/115046, /*size*/7089, /*key1*/-280849909, /*key2*/603744094);
 INSERT INTO `shader` VALUES (/*asset_path*/"§{;", /*pack_name*/"8lu8tm", /*head*/0, /*size*/251791, /*key1*/328650648, /*key2*/381233038);
 INSERT INTO `shader` VALUES (/*asset_path*/"§4`.", /*pack_name*/"u6rpmf", /*head*/997279, /*size*/7659, /*key1*/-1070390281, /*key2*/-529824456);
-INSERT INTO `shader` VALUES (/*asset_path*/"§E\"~", /*pack_name*/"34qjkg", /*head*/102233, /*size*/7572, /*key1*/-558926760, /*key2*/-1933511666);
+INSERT INTO `shader` VALUES (/*asset_path*/"§E""~", /*pack_name*/"34qjkg", /*head*/102233, /*size*/7572, /*key1*/-558926760, /*key2*/-1933511666);
 INSERT INTO `shader` VALUES (/*asset_path*/"§<=", /*pack_name*/"yecrbc", /*head*/550545, /*size*/6627, /*key1*/-440038037, /*key2*/1322600078);

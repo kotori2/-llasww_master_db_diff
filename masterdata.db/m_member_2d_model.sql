@@ -12,7 +12,7 @@ INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/5, /*path*/"G_");
 INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/6, /*path*/"}M");
 INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/7, /*path*/"U(");
 INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/8, /*path*/"Ct");
-INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/9, /*path*/"p\");
+INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/9, /*path*/"p\",;
 INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/101, /*path*/"yE");
 INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/102, /*path*/",`");
 INSERT INTO `m_member_2d_model` VALUES (/*member_master_id*/103, /*path*/"&h");

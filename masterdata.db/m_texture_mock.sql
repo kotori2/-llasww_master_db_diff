@@ -31,7 +31,7 @@ INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0007_0001_0
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0008_0001_01", /*path*/"~Rf");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0009_0001_01", /*path*/"w-S");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0101_0001_01", /*path*/"8`*");
-INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0102_0001_01", /*path*/"/\"}");
+INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0102_0001_01", /*path*/"/""}");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0103_0001_01", /*path*/"2L-");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0104_0001_01", /*path*/"IN$");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0105_0001_01", /*path*/"0VV");
@@ -44,12 +44,12 @@ INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0202_0001_0
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0203_0001_01", /*path*/"5T0");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0204_0001_01", /*path*/"0rd");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0205_0001_01", /*path*/"^.k");
-INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0206_0001_01", /*path*/"jt\"");
+INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0206_0001_01", /*path*/"jt""");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0207_0001_01", /*path*/"{aH");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0208_0001_01", /*path*/"h~K");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Stamp/tex_stamp_ch0209_0001_01", /*path*/",Yh");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Coop/Localization/tex_coop_localization_award_mvp", /*path*/"HTT");
-INSERT INTO `m_texture_mock` VALUES (/*id*/"Coop/Localization/tex_coop_localization_award_01", /*path*/".d\");
+INSERT INTO `m_texture_mock` VALUES (/*id*/"Coop/Localization/tex_coop_localization_award_01", /*path*/".d\",;
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Coop/Localization/tex_coop_localization_award_02", /*path*/"sWt");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Coop/Localization/tex_coop_localization_award_03", /*path*/"zwp");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Coop/Localization/tex_coop_localization_award_04", /*path*/"X%f");
@@ -67,4 +67,4 @@ INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Localization/tex_common_local
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Localization/tex_common_localization_award_05", /*path*/"D:M");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Localization/tex_common_localization_award_06", /*path*/"0lm");
 INSERT INTO `m_texture_mock` VALUES (/*id*/"Coop/Background/tex_coop_dltips_1", /*path*/"rB^");
-INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Localization/tex_common_localization_achievement_reward_01", /*path*/"\"\"9");
+INSERT INTO `m_texture_mock` VALUES (/*id*/"Common/Localization/tex_common_localization_achievement_reward_01", /*path*/"""""9");

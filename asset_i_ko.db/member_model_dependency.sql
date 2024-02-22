@@ -13148,7 +13148,7 @@ INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"&RN", /*dependency*
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"&RN", /*dependency*/"§Vr");
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"&RN", /*dependency*/"§M|");
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"CWL", /*dependency*/"^/)");
-INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"CWL", /*dependency*/"E=\",;
+INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"CWL", /*dependency*/"E=\");
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"CWL", /*dependency*/"$EZ");
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"CWL", /*dependency*/"sgs");
 INSERT INTO `member_model_dependency` VALUES (/*asset_path*/"CWL", /*dependency*/"§n8#");

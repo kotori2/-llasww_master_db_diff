@@ -22,7 +22,7 @@ INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/104, /*idle_
 INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/105, /*idle_emotion_asset_path*/"aL", /*touch_emotion_asset_path*/"$R", /*unlock_emotion_asset_path*/";f");
 INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/106, /*idle_emotion_asset_path*/"5f", /*touch_emotion_asset_path*/"Rr", /*unlock_emotion_asset_path*/"d#");
 INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/107, /*idle_emotion_asset_path*/"x4", /*touch_emotion_asset_path*/"l]", /*unlock_emotion_asset_path*/"{*");
-INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/108, /*idle_emotion_asset_path*/"*O", /*touch_emotion_asset_path*/"u%", /*unlock_emotion_asset_path*/"@\",;
+INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/108, /*idle_emotion_asset_path*/"*O", /*touch_emotion_asset_path*/"u%", /*unlock_emotion_asset_path*/"@\");
 INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/109, /*idle_emotion_asset_path*/"e<", /*touch_emotion_asset_path*/"f8", /*unlock_emotion_asset_path*/"M~");
 INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/201, /*idle_emotion_asset_path*/"DW", /*touch_emotion_asset_path*/"q#", /*unlock_emotion_asset_path*/"$s");
 INSERT INTO `m_training_tree_animation` VALUES (/*member_master_id*/202, /*idle_emotion_asset_path*/"qH", /*touch_emotion_asset_path*/";d", /*unlock_emotion_asset_path*/"\=");

@@ -22,7 +22,7 @@ INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300040401, /*display_or
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300050401, /*display_order*/1, /*still_asset_path*/"!r!");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300060401, /*display_order*/1, /*still_asset_path*/"wgM");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300070301, /*display_order*/1, /*still_asset_path*/"kw-");
-INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300080401, /*display_order*/1, /*still_asset_path*/"w%\",;
+INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300080401, /*display_order*/1, /*still_asset_path*/"w%\");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/300090501, /*display_order*/1, /*still_asset_path*/"Q2C");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/301010101, /*display_order*/1, /*still_asset_path*/"c+h");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/301020501, /*display_order*/1, /*still_asset_path*/"g1]");
@@ -202,7 +202,7 @@ INSERT INTO `m_still_texture` VALUES (/*still_master_id*/302064101, /*display_or
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/302074101, /*display_order*/1, /*still_asset_path*/"<Zv");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/302084101, /*display_order*/1, /*still_asset_path*/"paB");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/302094101, /*display_order*/1, /*still_asset_path*/"B&U");
-INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1010101, /*display_order*/1, /*still_asset_path*/"Mb\",;
+INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1010101, /*display_order*/1, /*still_asset_path*/"Mb\");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1010301, /*display_order*/1, /*still_asset_path*/"}Q'");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1011001, /*display_order*/1, /*still_asset_path*/"/u|");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1011001, /*display_order*/2, /*still_asset_path*/"'>h");

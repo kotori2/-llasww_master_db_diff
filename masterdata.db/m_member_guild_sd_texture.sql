@@ -60,7 +60,7 @@ INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10301005, /*order_no*/0, /
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401005, /*order_no*/0, /*sd_texture*/"apr");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10401005, /*order_no*/1, /*sd_texture*/"vEi");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10601005, /*order_no*/0, /*sd_texture*/"JOc");
-INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001006, /*order_no*/0, /*sd_texture*/"26\",;
+INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10001006, /*order_no*/0, /*sd_texture*/"26\");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10101006, /*order_no*/0, /*sd_texture*/"l>?");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10102006, /*order_no*/0, /*sd_texture*/"l>?");
 INSERT INTO `m_member_guild_sd_texture` VALUES (/*id*/10201006, /*order_no*/0, /*sd_texture*/"l>?");
